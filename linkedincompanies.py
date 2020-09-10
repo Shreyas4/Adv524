@@ -44,7 +44,3 @@ def company_list(n, uname, pas):
             'https://www.linkedin.com/search/results/companies/?origin=SWITCH_SEARCH_VERTICAL&page={}'.format(pg))
         username = driver.find_element_by_class_name("reusable-search__entity-results-list")
         options = username.find_elements_by_tag_name("li")
-
-
-list_of_args = sys.argv
-company_list(int(list_of_args[1]), list_of_args[2], list_of_args[3])

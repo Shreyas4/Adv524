@@ -57,14 +57,3 @@ def location_parser(company_name):
             print(company_name, " NOT FOUND!")
 
     return final_list
-
-
-all_data = {}
-with open('companies') as f:
-    companies = list(map(lambda x: x.strip(), f.readlines()))
-    for company in companies[:10]:
-        career_url, career_locations = location_parser(company)
-        all_data[company] = {"Career_URL": career_url, "Career_Locations": career_locations}
-
-with open('data.json', 'w') as f:
-    json.dump(all_data, f)
