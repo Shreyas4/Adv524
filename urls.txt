@@ -15,7 +15,7 @@ https://www.saturdayacademy.org/ase
 https://www.asmpacific.com/en/events/
 https://www.asus.com/us/site/windows-edu/
 https://atos.net/en/careers/student-and-university-programs
-https://www.autodesk.com/education/home
+https://www.autodesk.com/careers
 https://lensa.com/intern-jobs/islandia/jd/455c62332a69884866dff3fe09f842e5
 https://www.usa.canon.com/internet/portal/us/home/about/careers/students/
 https://www.capgemini.com/careers/career-paths/students/
@@ -34,7 +34,7 @@ https://www.facebook.com/careers/students-and-grads/
 https://fnacaffiliate.com/educationprogram/
 https://www.fujikura.co.jp/eng/esg/social/contribution.html
 https://www.fujitsu.com/us/about/local/corporate/employment/fnc/careers-student-programs.html
-https://www.thalesgroup.com/en/markets/digital-identity-and-security/press-release/major-us-student-loan-servicing-agency-implements-gemalto-authentication-to-comply-with-federal-security-standards
+https://www.securetechalliance.org/milestone-four-million-students-now-use-university-smart-cards-developed-by-gemalto-and-santander-universities-global-division/
 https://www.hcltech.com/careers/training-hiring-programs
 https://www.hpe.com/us/en/about/jobs/students.html
 https://www.hpe.com/us/en/about/jobs/students.html
@@ -71,7 +71,7 @@ https://www.taipeitimes.com/News/biz/archives/2018/10/31/2003703340
 https://www.renesas.com/us/en/about/university-program.html
 https://csr.rohm.com/news/2018/20181227_165.html
 https://trailhead.salesforce.com/students
-https://www.samsung.com/us/shop/discount-program/education/
+https://www.samsung.com/us/careers/
 https://www.sap.com/about/careers/students-graduates.html
 https://global.epson.com/SR/citizenship/education.html
 https://business.sharpusa.com/Vertical-Markets/Education
@@ -93,8 +93,8 @@ https://www.tsys.com/careers.html
 http://www.app5.unisys.com/common/about__unisys/Cloud2020/Cloud2020Y9/SIP-topic.html
 https://www.src.org/program/
 https://www.vmware.com/company/research/students.html
-https://careers.wipro.com/
-https://www.wistron.com/CMS/Page/175
-https://www.workday.com/en-us/company/careers/overview.html
+https://www.wipro.com/en-US/newsroom/press-releases/archives/wipro-launches-skill-enhancement-program-for-undergraduate-stude/
+https://jobs.westerndigital.com/university
+https://www.workday.com/en-us/products/student/overview.html
 https://www.xerox.com/en-us/jobs
 http://univ.zte.com.cn/elearningweb/en/ZTE_Education/PandS/TP/
