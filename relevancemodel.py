@@ -44,7 +44,7 @@ def prepare_text_for_lda(text):
 import random
 text_data = []
 def dictio():
-    with open('dataset2.csv') as f:
+    with open('dataset.csv') as f:
         for line in f:
             tokens = prepare_text_for_lda(line)
             if random.random() > .99:
