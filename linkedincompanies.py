@@ -40,6 +40,7 @@ def company_list(n, uname, pas):
                     new_arr.append(students_link)
                     print(x)
                     new_arr.append(x)
+                    default_loc = ar[1].replace(regex,':').split(':')[1]
                     new_arr.append(ar[1].replace(regex,','))
                     spamwriter.writerow(new_arr)
         pg = pg + 1
