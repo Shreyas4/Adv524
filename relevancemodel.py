@@ -44,7 +44,7 @@ def prepare_text_for_lda(text):
 import random
 text_data = []
 def dictio():
-    with open('dataset.csv') as f:
+    with open('dataset2.csv') as f:
         for line in f:
             tokens = prepare_text_for_lda(line)
             if random.random() > .99:
@@ -68,7 +68,7 @@ def topic_model_train(n,x):
     import gensim
     NUM_TOPICS = n
     ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics = NUM_TOPICS, id2word=dictionary, passes=10)
-    ldamodel.save('model511.gensim')
+    ldamodel.save('model512.gensim')
 
 
     topics = ldamodel.print_topics(num_words=x)
@@ -83,7 +83,7 @@ def topic_model_train(n,x):
     print(ldamodel.get_document_topics(new_doc_bow))
 
 
-    lda10 = gensim.models.ldamodel.LdaModel.load('model510.gensim')
+    lda10 = gensim.models.ldamodel.LdaModel.load('model512.gensim')
     return lda10
 
 def predict(str, lda10):
