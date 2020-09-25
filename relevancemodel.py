@@ -1,5 +1,6 @@
 import spacy
 import nltk
+import numpy as np
 nltk.download('wordnet')
 
 spacy.load('en')
@@ -41,6 +42,16 @@ def prepare_text_for_lda(text):
     tokens = [get_lemma(token) for token in tokens]
     return tokens
 
+
+def create_eta(priors, etadict, ntopics):
+    eta = np.full(shape=(ntopics, len(etadict)), fill_value=1) # create a (ntopics, nterms) matrix and fill with 1
+    for word, topic in priors.items(): # for each word in the list of priors
+        keyindex = [index for index,term in etadict.items() if term==word] # look up the word in the dictionary
+        if (len(keyindex)>0): # if it's in the dictionary
+            eta[topic,keyindex[0]] = 1e7  # put a large number in there
+    eta = np.divide(eta, eta.sum(axis=0)) # normalize so that the probabilities sum to 1 over all topics
+    return eta
+
 import random
 text_data = []
 def dictio():
@@ -66,8 +77,13 @@ def topic_model_train(n,x):
     dictionary.save('dictionary.gensim')
 
     import gensim
-    NUM_TOPICS = n
-    ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics = NUM_TOPICS, id2word=dictionary, passes=10)
+    NUM_TOPICS = 4
+    eta = apriori_original = {
+    'computers':0, 'network':1, 'software':0, 'algorithm':0, 'electronics':1,'consumer':1,
+    'oil':2, 'retail':3  # we'll leave out broccoli from this one!
+    }
+    eta = create_eta(apriori_original, dictionary, 4)
+    ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics = NUM_TOPICS,random_state=42, chunksize=100,id2word=dictionary,eta=eta, passes=150)
     ldamodel.save('model512.gensim')
 
 
