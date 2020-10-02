@@ -1,0 +1,26 @@
+import csv
+from relevancemodel import topic_model_train,predict
+
+model = topic_model_train(5,5)
+csvfile = open('samplecomps3.csv', 'r', newline='')
+filetowrite = open('samplecomps4.csv','w',newline='')
+csvwriter = csv.writer(filetowrite, quotechar='|', quoting=csv.QUOTE_MINIMAL)
+lines = csvfile.readlines()
+firstpass = False
+Overviewstarted = False
+
+for l in lines:
+   print(l)
+   if 'Overview' in l:
+        if firstpass:
+          rel = predict(word,model)
+          new_arr.append(rel)
+          csvwriter.writerow(new_arr)
+        firstpass=True
+        new_arr = []
+        word=''
+        new_arr.append(l)
+        Overviewstarted = True
+   elif Overviewstarted:
+        word+=l
+  

@@ -55,7 +55,7 @@ def create_eta(priors, etadict, ntopics):
 import random
 text_data = []
 def dictio():
-    with open('dataset.csv') as f:
+    with open('datasetnew.csv') as f:
         for line in f:
             tokens = prepare_text_for_lda(line)
             if random.random() > .99:
@@ -74,20 +74,19 @@ def topic_model_train(n,x):
 
     import pickle
     pickle.dump(corpus, open('corpus.pkl', 'wb'))
-    dictionary.save('dictionary.gensim')
+    dictionary.save('dictionary2.gensim')
 
     import gensim
     NUM_TOPICS = 4
     eta = apriori_original = {
-    'computers':0, 'network':1, 'software':0, 'algorithm':0, 'electronics':1,'consumer':1,
-    'oil':2, 'retail':3  # we'll leave out broccoli from this one!
+    'computer':0, 'network':1, 'software':0,'development':0, 'algorithm':0, 'electronics':1,'consumer':3,'Artificial Intelligence':0,'Machine Learning':0, 'Technology':0 ,'gpu':2,'health':3,'retail':3,'food':3,'finance':3,'hardware':2,'circuit':2,'wireless':1 # we'll leave out broccoli from this one!
     }
     eta = create_eta(apriori_original, dictionary, 4)
     ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics = NUM_TOPICS,random_state=42, chunksize=100,id2word=dictionary,eta=eta, passes=150)
     ldamodel.save('model512.gensim')
 
 
-    topics = ldamodel.print_topics(num_words=x)
+    topics = ldamodel.print_topics(num_words=5)
     for topic in topics:
         print(topic)
 
@@ -102,16 +101,21 @@ def topic_model_train(n,x):
     lda10 = gensim.models.ldamodel.LdaModel.load('model512.gensim')
     return lda10
 
-def predict(str, lda10):
-    topics = lda10.print_topics(num_words=7)
-    new_doc = prepare_text_for_lda(str)
+def predict(st, lda10):
+    topics = lda10.print_topics(num_words=5)
+    new_doc = prepare_text_for_lda(st)
     new_doc_bow = dictionary.doc2bow(new_doc) 
     for topic in topics:
         print(topic)
     print(lda10.get_document_topics(new_doc_bow))
     maxi = 0.0
-    for x in lda10.get_document_topics(new_doc_bow):
-        maxi = max(maxi,x[1])
+    cnt = 0
+    for t in lda10.get_document_topics(new_doc_bow):
+        print(topics[cnt])
+        if 'computer' in str(topics[cnt]) or 'software' in str(topics[cnt]):
+            print('hi')
+            maxi += t[1]
+        cnt+=1
     return maxi
   
 
