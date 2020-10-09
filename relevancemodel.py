@@ -6,6 +6,7 @@ nltk.download('wordnet')
 spacy.load('en')
 from spacy.lang.en import English
 parser = English()
+##divides the text into tokens/words to remove spaces and delimiters or commas
 def tokenize(text):
     lda_tokens = []
     tokens = parser(text)
@@ -35,6 +36,7 @@ def get_lemma2(word):
 nltk.download('stopwords')
 en_stop = set(nltk.corpus.stopwords.words('english'))
 
+#tokenizes and removes stop words from the text
 def prepare_text_for_lda(text):
     tokens = tokenize(text)
     tokens = [token for token in tokens if len(token) > 4]
@@ -42,7 +44,8 @@ def prepare_text_for_lda(text):
     tokens = [get_lemma(token) for token in tokens]
     return tokens
 
-
+##this will create an initial topic-to-word distribution for the model to get aligned towards .
+##i.e i can start adding computer related words to a topic for the model to initial start with .
 def create_eta(priors, etadict, ntopics):
     eta = np.full(shape=(ntopics, len(etadict)), fill_value=1) # create a (ntopics, nterms) matrix and fill with 1
     for word, topic in priors.items(): # for each word in the list of priors
@@ -68,6 +71,7 @@ def dictio():
 
 
 dictionary = dictio()
+##training function
 def topic_model_train(n,x):
 
     corpus = [dictionary.doc2bow(text) for text in text_data]
@@ -100,7 +104,7 @@ def topic_model_train(n,x):
 
     lda10 = gensim.models.ldamodel.LdaModel.load('model512.gensim')
     return lda10
-
+##prediction function, hardcoding number of words per topic to 5 currently.
 def predict(st, lda10):
     topics = lda10.print_topics(num_words=5)
     new_doc = prepare_text_for_lda(st)
