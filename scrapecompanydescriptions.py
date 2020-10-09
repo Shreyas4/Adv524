@@ -9,7 +9,9 @@ username = driver.find_element_by_name("session_key")
 username.send_keys('sadhnakesavan@gmail.com')
 password = driver.find_element_by_name("session_password")
 password.send_keys('abcd1234@')
-
+##this script gets the description element for each linkedin page. 
+##There is a load time gap to make sure element is found and no time out happens
+##the temporary samplecomps2.csv is the output file which is used as a map to predict values for each company 
 submit = driver.find_element_by_class_name("btn__primary--large")
 submit.click()
 file1 = open('samplecomps.csv', 'r') 
