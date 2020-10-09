@@ -1,5 +1,6 @@
 import csv
 
+##this adds the computer related keywords in a hardcoded manner in the absence of guided lda to align the topic distributions along computer topics 
 rdfile = open('dataset.csv', 'r', newline='')
 lines = rdfile.readlines()
 csvfile = open('datasetnew.csv', 'w', newline='')
