@@ -1,6 +1,8 @@
 import csv
 from relevancemodel import topic_model_train,predict
 
+##this script adds the prediction values of relevance for each company
+## > 0.7 seems to be a good relevance for software 
 model = topic_model_train(5,5)
 csvfile = open('samplecomps3.csv', 'r', newline='')
 filetowrite = open('samplecomps4.csv','w',newline='')
