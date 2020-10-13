@@ -1,418 +1,417 @@
-|||Overview:Microsoft
-|,0.9579409416764975
-|||Overview:Verizon
-|,0.9474975615739822
-|||Overview:UnitedHealth Group
-|,0.9636365473270416
-|||Overview:CVS Health
-|,0.21489391289651394
-|||Overview:Citi
-|,0.5405229330062866
-|||Overview:Bank of America
-|,0.9437897503376007
-|||Overview:Costco Wholesale
-|,0.5572109669446945
-|||Overview:McKesson
-|,0.8545828610658646
-|||Overview:Cardinal Health
-|,0.9486936964094639
-|||Overview:Microsoft
-|,0.9579409267753363
-|||Overview:Verizon
-|,0.9475002884864807
-|||Overview:UnitedHealth Group
-|,0.9636333584785461
-|||Overview:CVS Health
-|,0.21492715552449226
-|||Overview:Citi
-|,0.5405269265174866
-|||Overview:Bank of America
-|,0.9437881112098694
-|||Overview:Costco Wholesale
-|,0.5572957098484039
-|||Overview:McKesson
-|,0.8545837849378586
-|||Overview:Cardinal Health
-|,0.9486940931528807
-|||Overview:Wells Fargo
-|,0.3463208042085171
-|||Overview:Boeing
-|,0.7939130365848541
-|||Overview:Kroger
-|,0.8326441943645477
-|||Overview:HP
-|,0.26748785376548767
-|||Overview:The Home Depot
-|,0.8326444029808044
-|||Overview:Procter & Gamble
-|,0.8996290862560272
-|||Overview:Foxconn
-|,0.9724695309996605
-|||Overview:Shell
-|,0.8747259974479675
-|||Overview:DuPont
-|,0.9359413087368011
-|||Overview:Pfizer
-|,0.3593674600124359
-|||Overview:PepsiCo
-|,0.8172158151865005
-|||Overview:Facebook
-|,0.8228374421596527
-|||Overview:Johnson & Johnson
-|,0.782374382019043
-|||Overview:bp
-|,0.8745016157627106
-|||Overview:Comcast
-|,0.9594850987195969
-|||Overview:Intel Corporation
-|,0.9347329325973988
-|||Overview:The Walt Disney Company
-|,0.9275933243334293
-|||Overview:Goldman Sachs
-|,0.7023529931902885
-|||Overview:Samsung Electronics
-|,0.9631787091493607
-|||Overview:Total
-|,0.5
-|||Overview:Hewlett Packard Enterprise
-|,0.9134796857833862
-|||Overview:Lockheed Martin
-|,0.9259845726191998
-|||Overview:Morgan Stanley
-|,0.6556976493448019
-|||Overview:UPS
-|,0.9422897100448608
-|||Overview:Oracle
-|,0.9820947051048279
-|||Overview:Caterpillar Inc.
-|,0.6226685419678688
-|||Overview:AIG
-|,0.2514925003051758
-|||Overview:Valero Energy Corporation
-|,0.1668572872877121
-|||Overview:Toyota Motor Corporation
-|,0.5
-|||Overview:United States Postal Service
-|,0.5034782737493515
-|||Overview:Nestlé
-|,0.6780669540166855
-|||Overview:State Farm ®
-|,0.7495914548635483
-|||Overview:MetLife
-|,0.9362892508506775
-|||Overview:AXA
-|,0.6231735274195671
-|||Overview:The Coca-Cola Company
-|,0.49026694148778915
-|||Overview:Nike
-|,0.8673608377575874
-|||Overview:FedEx
-|,0.9475968480110168
-|||Overview:Schlumberger
-|,0.927051518112421
-|||Overview:Siemens
-|,0.7325535826385021
-|||Overview:Marathon Petroleum Corporation
-|,0.6972678899765015
-|||Overview:HCA Healthcare
-|,0.8748241364955902
-|||Overview:HSBC
-|,0.9268571138381958
-|||Overview:Bunge
-|,0.9443285148590803
-|||Overview:Huawei
-|,0.9687056988477707
-|||Overview:Abbott
-|,0.8258401826024055
-|||Overview:Humana
-|,0.7023498006165028
-|||Overview:Honeywell
-|,0.13073944300413132
-|||Overview:3M
-|,0.26765547692775726
-|||Overview:Merck
-|,0.9274835586547852
-|||Overview:Daimler AG
-|,0.936589241027832
-|||Overview:Prudential Financial
-|,0.7906127572059631
-|||Overview:Mondelēz International
-|,0.8743783608078957
-|||Overview:ConocoPhillips
-|,0.621135376393795
-|||Overview:Cigna
-|,0.500023927539587
-|||Overview:Petrobras
-|,0.7495910227298737
-|||Overview:Glencore
-|,0.4930138662457466
-|||Overview:United Technologies
-|,0.17669988423585892
-|||Overview:ADM
-|,0.6362556964159012
-|||Overview:Medtronic
-|,0.951397567987442
-|||Overview:Sysco
-|,0.6211297959089279
-|||Overview:BMW Group
-|,0.4042380154132843
-|||Overview:Macy's
-|,0.6432875990867615
-|||Overview:Northrop Grumman
-|,0.8376942845061421
-|||Overview:Banco Santander
-|,0.6238830387592316
-|||Overview:Capital One
-|,0.26321618258953094
-|||Overview:Best Buy
-|,0.8674866110086441
-|||Overview:Nissan Motor Corporation
-|,0.791820764541626
-|||Overview:Eni
-|,0.6320610791444778
-|||Overview:American Airlines
-|,0.7067090719938278
-|||Overview:Raytheon
-|,0.8634179532527924
-|||Overview:John Deere
-|,0.8715410903096199
-|||Overview:Carrefour
-|,0.9163649678230286
-|||Overview:Liberty Mutual Insurance
-|,0.7023610062897205
-|||Overview:The Kraft Heinz Company
-|,0.7487508654594421
-|||Overview:Allstate
-|,0.5
-|||Overview:Travelers
-|,0.48136427998542786
-|||Overview:Google
-|,0.9577404856681824
-|||Overview:U.S. Bank
-|,0.7492290288209915
-|||Overview:Northwestern Mutual
-|,0.6378906778991222
-|||Overview:Novartis
-|,0.755768671631813
-|||Overview:AbbVie
-|,0.2740992456674576
-|||Overview:Bosch
-|,0.6393113629892468
-|||Overview:Spectrum
-|,0.0871930718421936
-|||Overview:New York Life Insurance Company
-|,0.25497762486338615
-|||Overview:USAA
-|,0.4910041131079197
-|||Overview:Nationwide
-|,0.48637066781520844
-|||Overview:Vodafone
-|,0.9480202347040176
-|||Overview:Dollar General
-|,0.16679368913173676
-|||Overview:General Dynamics
-|,0.9541476964950562
-|||Overview:Deutsche Bank
-|,0.42477152310311794
-|||Overview:Deloitte
-|,0.5655458495020866
-|||Overview:Bayer
-|,0.15624641627073288
-|||Overview:Publix Super Markets
-|,0.8978113830089569
-|||Overview:Enel Group
-|,0.8165425416082144
-|||Overview:BASF
-|,0.9351836740970612
-|||Overview:Micron Technology
-|,0.9360906295478344
-|||Overview:Tyson Foods
-|,0.75820192694664
-|||Overview:Generali
-|,0.8979711942374706
-|||Overview:Dell
-|,0.9130386933684349
-|||Overview:Arrow Electronics
-|,0.7063016928732395
-|||Overview:BNP Paribas
-|,0.23647096753120422
-|||Overview:Groupe Crédit Agricole
-|,0.5995407998561859
-|||Overview:Sony
-|,0.9538244381546974
-|||Overview:Harvard Business Review
-|,0.8997852094471455
-|||Overview:Tencent
-|,0.8788597881793976
-|||Overview:Telefónica
-|,0.5803012549877167
-|||Overview:Groupe Renault
-|,0.5
-|||Overview:TED Conferences
-|,0.9611776620149612
-|||Overview:LG Electronics
-|,0.26772335171699524
-|||Overview:Itaú Unibanco
-|,0.874501496553421
-|||Overview:Orange
-|,0.7387432903051376
-|||Overview:Cognizant
-|,0.47899680584669113
-|||Overview:BHP
-|,0.8747259452939034
-|||Overview:PETRONAS
-|,0.7713484168052673
-|||Overview:McKinsey & Company
-|,0.4304313063621521
-|||Overview:Airbus
-|,0.9373690523207188
-|||Overview:Société Générale
-|,0.47310919873416424
-|||Overview:Tesco
-|,0.7865254282951355
-|||Overview:Dell EMC
-|,0.9256065562367439
-|||Overview:Lenovo
-|,0.968267172574997
-|||Overview:US Army
-|,0.28114863857626915
-|||Overview:ArcelorMittal
-|,0.640228733420372
-|||Overview:Forbes
-|,0.9474988281726837
-|||Overview:Starbucks
-|,0.9267259538173676
-|||Overview:Halliburton
-|,0.8745158016681671
-|||Overview:Continental
-|,0.932851105928421
-|||Overview:J.P. Morgan
-|,0.48061762750148773
-|||Overview:Repsol
-|,0.8329484388232231
-|||Overview:Xerox
-|,0.9134765863418579
-|||Overview:Zurich Insurance Company Ltd
-|,0.57670958340168
-|||Overview:GSK
-|,0.2502117455005646
-|||Overview:National Geographic
-|,0.7515758126974106
-|||Overview:The Wall Street Journal
-|,0.8444066643714905
-|||Overview:Baker Hughes
-|,0.8673877790570259
-|||Overview:JBS
-|,0.8319485485553741
-|||Overview:BBVA
-|,0.7493602633476257
-|||Overview:TIME
-|,0.25021176040172577
-|||Overview:Business Insider
-|,0.7855803668498993
-|||Overview:United Nations
-|,0.48961326479911804
-|||Overview:Entrepreneur Media
-|,0.4948009252548218
-|||Overview:Adobe
-|,0.9495987594127655
-|||Overview:Bloomberg LP
-|,0.9685581624507904
-|||Overview:Sanofi
-|,0.7495909184217453
-|||Overview:Yahoo
-|,0.912443220615387
-|||Overview:United States Air Force
-|,0.48895816691219807
-|||Overview:ABB
-|,0.8141411244869232
-|||Overview:KPMG US
-|,0.8326443731784821
-|||Overview:Banco Bradesco
-|,0.8330876901745796
-|||Overview:CSC
-|,0.749591052532196
-|||Overview:Boston Consulting Group (BCG)
-|,0.31716215796768665
-|||Overview:Hilton
-|,0.7060162611305714
-|||Overview:ManpowerGroup
-|,0.7023555487394333
-|||Overview:GE Healthcare
-|,0.8696742355823517
-|||Overview:Danone
-|,0.4776728004217148
-|||Overview:Mashable
-|,0.903763510286808
-|||Overview:US Navy
-|,0.17824988067150116
-|||Overview:thyssenkrupp
-|,0.6967257708311081
-|||Overview:Ogilvy
-|,0.8676285520195961
-|||Overview:Merrill Lynch
-|,0.5137103348970413
-|||Overview:Saint-Gobain
-|,0.7916390970349312
-|||Overview:GE Power
-|,0.9491217788308859
-|||Overview:Christian Dior Couture
-|,0.7493593990802765
-|||Overview:VMware
-|,0.9787408197298646
-|||Overview:EDF
-|,0.259679913520813
-|||Overview:ENGIE
-|,0.9163539111614227
-|||Overview:Anheuser-Busch InBev
-|,0.8102319538593292
-|||Overview:The Adecco Group
-|,0.4946065880358219
-|||Overview:Cargill
-|,0.9153048545122147
-|||Overview:McDonald's
-|,0.7544303350150585
-|||Overview:Eli Lilly and Company
-|,0.914030522108078
-|||Overview:Kaiser Permanente
-|,0.7377235591411591
-|||Overview:Jacobs
-|,0.8957973718643188
-|||Overview:State Bank of India
-|,0.8270427584648132
-|||Overview:JLL
-|,0.41665093973279
-|||Overview:ADP
-|,0.7544424086809158
-|||Overview:Credit Suisse
-|,0.5968513488769531
-|||Overview:Nokia
-|,0.7423065304756165
-|||Overview:Bristol Myers Squibb
-|,0.9368520230054855
-|||Overview:Bechtel Corporation
-|,0.7593939751386642
-|||Overview:Barclays
-|,0.4399135001003742
-|||Overview:Motorola Mobility (a Lenovo Company)
-|,0.9134755432605743
-|||Overview:Kelly
-|,0.7222990095615387
-|||Overview:AECOM
-|,0.7890055924654007
-|||Overview:Johnson Controls
-|,0.9264779686927795
-|||Overview:Kimberly-Clark
-|,0.9164896979928017
-|||Overview:Bain & Company
-|,0.5604034885764122
-|||Overview:NetApp
-|,0.8979748860001564
-|||Overview:UBS
-|,0.9283046424388885
-|||Overview:Fidelity Investments
-|,0.7929688394069672
-|||Overview:U.S. Department of Veterans Affairs
-|,0.5292018502950668
-|||Overview:The World Bank
-|,0.7238562144339085
+Microsoft,0.9579409416764975
+
+Verizon,0.9474975615739822
+
+UnitedHealth Group,0.9636365473270416
+
+CVS Health,0.21489391289651394
+
+Citi,0.5405229330062866
+
+Bank of America,0.9437897503376007
+
+Costco Wholesale,0.5572109669446945
+
+McKesson,0.8545828610658646
+
+Cardinal Health,0.9486936964094639
+
+Microsoft,0.9579409267753363
+
+Verizon,0.9475002884864807
+
+UnitedHealth Group,0.9636333584785461
+
+CVS Health,0.21492715552449226
+
+Citi,0.5405269265174866
+
+Bank of America,0.9437881112098694
+
+Costco Wholesale,0.5572957098484039
+
+McKesson,0.8545837849378586
+
+Cardinal Health,0.9486940931528807
+
+Wells Fargo,0.3463208042085171
+
+Boeing,0.7939130365848541
+
+Kroger,0.8326441943645477
+
+HP,0.26748785376548767
+
+The Home Depot,0.8326444029808044
+
+Procter & Gamble,0.8996290862560272
+
+Foxconn,0.9724695309996605
+
+Shell,0.8747259974479675
+
+DuPont,0.9359413087368011
+
+Pfizer,0.3593674600124359
+
+PepsiCo,0.8172158151865005
+
+Facebook,0.8228374421596527
+
+Johnson & Johnson,0.782374382019043
+
+bp,0.8745016157627106
+
+Comcast,0.9594850987195969
+
+Intel Corporation,0.9347329325973988
+
+The Walt Disney Company,0.9275933243334293
+
+Goldman Sachs,0.7023529931902885
+
+Samsung Electronics,0.9631787091493607
+
+Total,0.5
+
+Hewlett Packard Enterprise,0.9134796857833862
+
+Lockheed Martin,0.9259845726191998
+
+Morgan Stanley,0.6556976493448019
+
+UPS,0.9422897100448608
+
+Oracle,0.9820947051048279
+
+Caterpillar Inc.,0.6226685419678688
+
+AIG,0.2514925003051758
+
+Valero Energy Corporation,0.1668572872877121
+
+Toyota Motor Corporation,0.5
+
+United States Postal Service,0.5034782737493515
+
+Nestlé,0.6780669540166855
+
+State Farm ®,0.7495914548635483
+
+MetLife,0.9362892508506775
+
+AXA,0.6231735274195671
+
+The Coca-Cola Company,0.49026694148778915
+
+Nike,0.8673608377575874
+
+FedEx,0.9475968480110168
+
+Schlumberger,0.927051518112421
+
+Siemens,0.7325535826385021
+
+Marathon Petroleum Corporation,0.6972678899765015
+
+HCA Healthcare,0.8748241364955902
+
+HSBC,0.9268571138381958
+
+Bunge,0.9443285148590803
+
+Huawei,0.9687056988477707
+
+Abbott,0.8258401826024055
+
+Humana,0.7023498006165028
+
+Honeywell,0.13073944300413132
+
+3M,0.26765547692775726
+
+Merck,0.9274835586547852
+
+Daimler AG,0.936589241027832
+
+Prudential Financial,0.7906127572059631
+
+Mondelēz International,0.8743783608078957
+
+ConocoPhillips,0.621135376393795
+
+Cigna,0.500023927539587
+
+Petrobras,0.7495910227298737
+
+Glencore,0.4930138662457466
+
+United Technologies,0.17669988423585892
+
+ADM,0.6362556964159012
+
+Medtronic,0.951397567987442
+
+Sysco,0.6211297959089279
+
+BMW Group,0.4042380154132843
+
+Macy's,0.6432875990867615
+
+Northrop Grumman,0.8376942845061421
+
+Banco Santander,0.6238830387592316
+
+Capital One,0.26321618258953094
+
+Best Buy,0.8674866110086441
+
+Nissan Motor Corporation,0.791820764541626
+
+Eni,0.6320610791444778
+
+American Airlines,0.7067090719938278
+
+Raytheon,0.8634179532527924
+
+John Deere,0.8715410903096199
+
+Carrefour,0.9163649678230286
+
+Liberty Mutual Insurance,0.7023610062897205
+
+The Kraft Heinz Company,0.7487508654594421
+
+Allstate,0.5
+
+Travelers,0.48136427998542786
+
+Google,0.9577404856681824
+
+U.S. Bank,0.7492290288209915
+
+Northwestern Mutual,0.6378906778991222
+
+Novartis,0.755768671631813
+
+AbbVie,0.2740992456674576
+
+Bosch,0.6393113629892468
+
+Spectrum,0.0871930718421936
+
+New York Life Insurance Company,0.25497762486338615
+
+USAA,0.4910041131079197
+
+Nationwide,0.48637066781520844
+
+Vodafone,0.9480202347040176
+
+Dollar General,0.16679368913173676
+
+General Dynamics,0.9541476964950562
+
+Deutsche Bank,0.42477152310311794
+
+Deloitte,0.5655458495020866
+
+Bayer,0.15624641627073288
+
+Publix Super Markets,0.8978113830089569
+
+Enel Group,0.8165425416082144
+
+BASF,0.9351836740970612
+
+Micron Technology,0.9360906295478344
+
+Tyson Foods,0.75820192694664
+
+Generali,0.8979711942374706
+
+Dell,0.9130386933684349
+
+Arrow Electronics,0.7063016928732395
+
+BNP Paribas,0.23647096753120422
+
+Groupe Crédit Agricole,0.5995407998561859
+
+Sony,0.9538244381546974
+
+Harvard Business Review,0.8997852094471455
+
+Tencent,0.8788597881793976
+
+Telefónica,0.5803012549877167
+
+Groupe Renault,0.5
+
+TED Conferences,0.9611776620149612
+
+LG Electronics,0.26772335171699524
+
+Itaú Unibanco,0.874501496553421
+
+Orange,0.7387432903051376
+
+Cognizant,0.47899680584669113
+
+BHP,0.8747259452939034
+
+PETRONAS,0.7713484168052673
+
+McKinsey & Company,0.4304313063621521
+
+Airbus,0.9373690523207188
+
+Société Générale,0.47310919873416424
+
+Tesco,0.7865254282951355
+
+Dell EMC,0.9256065562367439
+
+Lenovo,0.968267172574997
+
+US Army,0.28114863857626915
+
+ArcelorMittal,0.640228733420372
+
+Forbes,0.9474988281726837
+
+Starbucks,0.9267259538173676
+
+Halliburton,0.8745158016681671
+
+Continental,0.932851105928421
+
+J.P. Morgan,0.48061762750148773
+
+Repsol,0.8329484388232231
+
+Xerox,0.9134765863418579
+
+Zurich Insurance Company Ltd,0.57670958340168
+
+GSK,0.2502117455005646
+
+National Geographic,0.7515758126974106
+
+The Wall Street Journal,0.8444066643714905
+
+Baker Hughes,0.8673877790570259
+
+JBS,0.8319485485553741
+
+BBVA,0.7493602633476257
+
+TIME,0.25021176040172577
+
+Business Insider,0.7855803668498993
+
+United Nations,0.48961326479911804
+
+Entrepreneur Media,0.4948009252548218
+
+Adobe,0.9495987594127655
+
+Bloomberg LP,0.9685581624507904
+
+Sanofi,0.7495909184217453
+
+Yahoo,0.912443220615387
+
+United States Air Force,0.48895816691219807
+
+ABB,0.8141411244869232
+
+KPMG US,0.8326443731784821
+
+Banco Bradesco,0.8330876901745796
+
+CSC,0.749591052532196
+
+Boston Consulting Group (BCG),0.31716215796768665
+
+Hilton,0.7060162611305714
+
+ManpowerGroup,0.7023555487394333
+
+GE Healthcare,0.8696742355823517
+
+Danone,0.4776728004217148
+
+Mashable,0.903763510286808
+
+US Navy,0.17824988067150116
+
+thyssenkrupp,0.6967257708311081
+
+Ogilvy,0.8676285520195961
+
+Merrill Lynch,0.5137103348970413
+
+Saint-Gobain,0.7916390970349312
+
+GE Power,0.9491217788308859
+
+Christian Dior Couture,0.7493593990802765
+
+VMware,0.9787408197298646
+
+EDF,0.259679913520813
+
+ENGIE,0.9163539111614227
+
+Anheuser-Busch InBev,0.8102319538593292
+
+The Adecco Group,0.4946065880358219
+
+Cargill,0.9153048545122147
+
+McDonald's,0.7544303350150585
+
+Eli Lilly and Company,0.914030522108078
+
+Kaiser Permanente,0.7377235591411591
+
+Jacobs,0.8957973718643188
+
+State Bank of India,0.8270427584648132
+
+JLL,0.41665093973279
+
+ADP,0.7544424086809158
+
+Credit Suisse,0.5968513488769531
+
+Nokia,0.7423065304756165
+
+Bristol Myers Squibb,0.9368520230054855
+
+Bechtel Corporation,0.7593939751386642
+
+Barclays,0.4399135001003742
+
+Motorola Mobility (a Lenovo Company),0.9134755432605743
+
+Kelly,0.7222990095615387
+
+AECOM,0.7890055924654007
+
+Johnson Controls,0.9264779686927795
+
+Kimberly-Clark,0.9164896979928017
+
+Bain & Company,0.5604034885764122
+
+NetApp,0.8979748860001564
+
+UBS,0.9283046424388885
+
+Fidelity Investments,0.7929688394069672
+
+U.S. Department of Veterans Affairs,0.5292018502950668
+
+The World Bank,0.7238562144339085
