@@ -1,455 +1,228 @@
 Company Name,Number of H1B in 2020, Median Salary Overall, Post,Median salary for post Number of h1bs filed for that post  
-Microsoft,2756 Records from 2020, Median Salary $138390,SOFTWARE ENGINEER
- Median $137,170 2671, Median $137,170 2671, Median $137,170
-Microsoft,2756 Records from 2020, Median Salary $138390,SOFTWARE ENGINEERING MANAGER
- Median $192,941 54, Median $192,941 54, Median $192,941
-Microsoft,2756 Records from 2020, Median Salary $138390,SOFTWARE ENGINEERING LEAD
- Median $191,600 28, Median $191,600 28, Median $191,600
-Microsoft,2756 Records from 2020, Median Salary $138390,SOFTWARE ARCHITECT
- Median $142,000 2, Median $142,000 2, Median $142,000
-Microsoft,2756 Records from 2020, Median Salary $138390,SOFTWARE FIRMWARE ENGINEER
- Median $108,000 1, Median $108,000 1, Median $108,000
-CVS Health,4 Records from 2020, Median Salary $109500,SOFTWARE ENGINEER
- Median $127,712 1, Median $127,712 1, Median $127,712
-CVS Health,4 Records from 2020, Median Salary $109500,SOFTWARE ENGINEER HADOOP
- Median $125,000 1, Median $125,000 1, Median $125,000
-CVS Health,4 Records from 2020, Median Salary $109500,SOFTWARE DEVELOPMENT ENGINEER
- Median $94,000  1, Median $94,000  1, Median $94,000 
-CVS Health,4 Records from 2020, Median Salary $109500,SOFTWARE DEVELOPMENT ENGINEER IN TEST 1
- Median $86,000  1, Median $86,000  1, Median $86,000 
-Bank of America,9 Records from 2020, Median Salary $96060,SOFTWARE ENGINEER
- Median $91,957  3, Median $91,957  3, Median $91,957 
-Bank of America,9 Records from 2020, Median Salary $96060,SOFTWARE SOLUTIONS ARCHITECT
- Median $151,986 2, Median $151,986 2, Median $151,986
-Bank of America,9 Records from 2020, Median Salary $96060,SOFTWARE ENGINEER III
- Median $121,390 1, Median $121,390 1, Median $121,390
-Bank of America,9 Records from 2020, Median Salary $96060,SOFTWARE ENGINEER II
- Median $96,060  1, Median $96,060  1, Median $96,060 
-Bank of America,9 Records from 2020, Median Salary $96060,SOFTWARE ENGINEER I
- Median $82,035  1, Median $82,035  1, Median $82,035 
-Bank of America,9 Records from 2020, Median Salary $96060,SOFTWARE DEVELOPER
- Median $71,500  1, Median $71,500  1, Median $71,500 
-Costco Wholesale,9 Records from 2020, Median Salary $117000,SOFTWARE DEVELOPER
- Median $130,000 4, Median $130,000 4, Median $130,000
-Costco Wholesale,9 Records from 2020, Median Salary $117000,SOFTWARE DEVELOPER JAVA APPLICATION SERVER ADMINISTRATOR
- Median $117,000 2, Median $117,000 2, Median $117,000
-Costco Wholesale,9 Records from 2020, Median Salary $117000,SOFTWARE DEVELOPER 2
- Median $110,000 2, Median $110,000 2, Median $110,000
-Costco Wholesale,9 Records from 2020, Median Salary $117000,SOFTWARE DEVELOPER 3
- Median $130,000 1, Median $130,000 1, Median $130,000
-McKesson,10 Records from 2020, Median Salary $93565.88,SOFTWARE DEVELOPER
- Median $90,376  5, Median $90,376  5, Median $90,376 
-McKesson,10 Records from 2020, Median Salary $93565.88,SOFTWARE ENGINEER
- Median $101,004 4, Median $101,004 4, Median $101,004
-McKesson,10 Records from 2020, Median Salary $93565.88,SOFTWARE ENGINEER - EDI
- Median $92,825  1, Median $92,825  1, Median $92,825 
-Cardinal Health,3 Records from 2020, Median Salary $85000,SOFTWARE DEVELOPER
- Median $100,000 1, Median $100,000 1, Median $100,000
-Cardinal Health,3 Records from 2020, Median Salary $85000,SOFTWARE QUALITY ASSURANCE ENGINEERS AND TESTERS
- Median $85,000  1, Median $85,000  1, Median $85,000 
-Cardinal Health,3 Records from 2020, Median Salary $85000,SOFTWARE QA TEST ENGINEER
- Median $59,030  1, Median $59,030  1, Median $59,030 
-Wells Fargo,1 Records from 2020, Median Salary $60611,SOFTWARE ENGINEER II
- Median $60,611  1, Median $60,611  1, Median $60,611 
-Boeing,4 Records from 2020, Median Salary $106038.5,SOFTWARE ENGINEER III
- Median $127,442 1, Median $127,442 1, Median $127,442
-Boeing,4 Records from 2020, Median Salary $106038.5,SOFTWARE ENGINEER 4
- Median $123,219 1, Median $123,219 1, Median $123,219
-Boeing,4 Records from 2020, Median Salary $106038.5,SOFTWARE ENGINEER 2
- Median $88,858  1, Median $88,858  1, Median $88,858 
-Boeing,4 Records from 2020, Median Salary $106038.5,SOFTWARE ENGINEER
- Median $88,858  1, Median $88,858  1, Median $88,858 
-HP,30 Records from 2020, Median Salary $99493.5,SOFTWARE DESIGNER
- Median $111,342 9, Median $111,342 9, Median $111,342
-HP,30 Records from 2020, Median Salary $99493.5,SOFTWARE DEVELOPER
- Median $96,600  5, Median $96,600  5, Median $96,600 
-HP,30 Records from 2020, Median Salary $99493.5,SOFTWARE ENGINEER
- Median $96,996  5, Median $96,996  5, Median $96,996 
-HP,30 Records from 2020, Median Salary $99493.5,SOFTWARE ENGINEER FIRMWARE
- Median $127,941 4, Median $127,941 4, Median $127,941
-HP,30 Records from 2020, Median Salary $99493.5,SOFTWARE ENGINEER QUALITY ASSURANCE
- Median $92,082  4, Median $92,082  4, Median $92,082 
-HP,30 Records from 2020, Median Salary $99493.5,SOFTWARE DEVELOPER PEGA
- Median $88,500  2, Median $88,500  2, Median $88,500 
-HP,30 Records from 2020, Median Salary $99493.5,SOFTWARE DEVELOPER SENIOR CLINICAL DATABASE ANALYST
- Median $96,595  1, Median $96,595  1, Median $96,595 
-Home Depot,32 Records from 2020, Median Salary $102595.455,SOFTWARE ENGINEER
- Median $95,000  21, Median $95,000  21, Median $95,000 
-Home Depot,32 Records from 2020, Median Salary $102595.455,SOFTWARE ENGINEER MANAGER
- Median $178,900 3, Median $178,900 3, Median $178,900
-Home Depot,32 Records from 2020, Median Salary $102595.455,SOFTWARE ENGINEER PRINCIPAL
- Median $161,618 3, Median $161,618 3, Median $161,618
-Home Depot,32 Records from 2020, Median Salary $102595.455,SOFTWARE ENGINEER SR. MANAGER
- Median $206,660 2, Median $206,660 2, Median $206,660
-Home Depot,32 Records from 2020, Median Salary $102595.455,SOFTWARE DEVELOPMENT ENGINEER IN TEST
- Median $115,000 1, Median $115,000 1, Median $115,000
-Home Depot,32 Records from 2020, Median Salary $102595.455,SOFTWARE ENGINEER 3
- Median $86,000  1, Median $86,000  1, Median $86,000 
-Home Depot,32 Records from 2020, Median Salary $102595.455,SOFTWARE ENGINEER III
- Median $70,000  1, Median $70,000  1, Median $70,000 
-Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE ENGINEER
- Median $167,000 943, Median $167,000 943, Median $167,000
-Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE ENGINEERING MANAGER
- Median $229,160 42, Median $229,160 42, Median $229,160
-Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE ENGINEER, MACHINE LEARNING
- Median $200,000 11, Median $200,000 11, Median $200,000
-Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE DEVELOPMENT ENGINEER
- Median $167,000 4, Median $167,000 4, Median $167,000
-Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE ENGINEER, INFRASTRUCTURE
- Median $165,000 3, Median $165,000 3, Median $165,000
-Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE ENGINEER, TEST INFRASTRUCTURE
- Median $183,500 2, Median $183,500 2, Median $183,500
-Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE ENGINEERING MANAGER - CORE INFRA SECURITY
- Median $245,000 1, Median $245,000 1, Median $245,000
-Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE TEST ENGINEER
- Median $185,000 1, Median $185,000 1, Median $185,000
-Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE ENGINEER, EMBEDDED SYSTEMS
- Median $170,000 1, Median $170,000 1, Median $170,000
-Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE ENGINEERING
- Median $160,365 1, Median $160,365 1, Median $160,365
-Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE DEVELOPER
- Median $150,000 1, Median $150,000 1, Median $150,000
-Comcast,20 Records from 2020, Median Salary $76190,SOFTWARE ENGINEER
- Median $82,483  6, Median $82,483  6, Median $82,483 
-Comcast,20 Records from 2020, Median Salary $76190,SOFTWARE ENGINEER 3
- Median $71,386  6, Median $71,386  6, Median $71,386 
-Comcast,20 Records from 2020, Median Salary $76190,SOFTWARE DEVELOPER 4
- Median $119,662 1, Median $119,662 1, Median $119,662
-Comcast,20 Records from 2020, Median Salary $76190,SOFTWARE ENGINEER IN TEST
- Median $109,554 1, Median $109,554 1, Median $109,554
-Comcast,20 Records from 2020, Median Salary $76190,SOFTWARE ENGINEER, DIGITAL HOME
- Median $87,485  1, Median $87,485  1, Median $87,485 
-Comcast,20 Records from 2020, Median Salary $76190,SOFTWARE ENGINEER, BLOCKGRAPH
- Median $76,190  1, Median $76,190  1, Median $76,190 
-Comcast,20 Records from 2020, Median Salary $76190,SOFTWARE ENGINEER III - CORE APPLICATION
- Median $71,386  1, Median $71,386  1, Median $71,386 
-Comcast,20 Records from 2020, Median Salary $76190,SOFTWARE ENGINEER 2
- Median $71,386  1, Median $71,386  1, Median $71,386 
-Comcast,20 Records from 2020, Median Salary $76190,SOFTWARE DEVELOPER
- Median $66,082  1, Median $66,082  1, Median $66,082 
-Comcast,20 Records from 2020, Median Salary $76190,SOFTWARE ENGINEER, QUALITY ASSURANCE
- Median $57,970  1, Median $57,970  1, Median $57,970 
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE ENGINEER
- Median $110,000 113, Median $110,000 113, Median $110,000
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE DEVELOPER
- Median $86,000  90, Median $86,000  90, Median $86,000 
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE ENGINEER II
- Median $86,360  9, Median $86,360  9, Median $86,360 
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE ENGINEERING MANAGER
- Median $155,709 7, Median $155,709 7, Median $155,709
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE SYSTEMS ARCHITECT
- Median $90,626  6, Median $90,626  6, Median $90,626 
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE ENGINEER I
- Median $72,500  6, Median $72,500  6, Median $72,500 
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE QUALITY ENGINEER
- Median $70,000  5, Median $70,000  5, Median $70,000 
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE QA ENGINEER
- Median $87,500  2, Median $87,500  2, Median $87,500 
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE APPLICATION DEVELOPER
- Median $84,396  2, Median $84,396  2, Median $84,396 
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE DEVELOPMENT ENGINEER
- Median $172,640 1, Median $172,640 1, Median $172,640
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE ARCHITECT
- Median $161,866 1, Median $161,866 1, Median $161,866
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE PROGRAM MANAGER
- Median $146,660 1, Median $146,660 1, Median $146,660
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE DEVELOPER- DATA ENGINEER
- Median $120,000 1, Median $120,000 1, Median $120,000
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE ENGINEER BI
- Median $109,000 1, Median $109,000 1, Median $109,000
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE DEVELOPER-DATA ANALYST
- Median $97,000  1, Median $97,000  1, Median $97,000 
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE DEVELOPER, APPLICATIONS FULL-STACK
- Median $96,600  1, Median $96,600  1, Median $96,600 
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE QUALITY ASSURANCE ENGINEER
- Median $95,000  1, Median $95,000  1, Median $95,000 
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE ENGINEER-JAVA
- Median $94,307  1, Median $94,307  1, Median $94,307 
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE DEVELOPMENT ENGINEER IN TEST SDET
- Median $85,000  1, Median $85,000  1, Median $85,000 
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE ENGINEERING SENIOR ADVISOR
- Median $83,346  1, Median $83,346  1, Median $83,346 
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE DEVELOPER II
- Median $79,000  1, Median $79,000  1, Median $79,000 
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE TEST ENGINEER
- Median $77,813  1, Median $77,813  1, Median $77,813 
-Intel,254 Records from 2020, Median Salary $94307,SOFTWARE SYSTEM ENGINEER
- Median $68,000  1, Median $68,000  1, Median $68,000 
-Walt Disney,4 Records from 2020, Median Salary $74303.24,SOFTWARE ENGINEER
- Median $87,803  2, Median $87,803  2, Median $87,803 
-Walt Disney,4 Records from 2020, Median Salary $74303.24,SOFTWARE DEVELOPER
- Median $70,000  2, Median $70,000  2, Median $70,000 
-Hewlett Packard Enterprise,53 Records from 2020, Median Salary $132000,SOFTWARE DESIGNER
- Median $150,290 31, Median $150,290 31, Median $150,290
-Hewlett Packard Enterprise,53 Records from 2020, Median Salary $132000,SOFTWARE ENGINEER QUALITY ASSURANCE
- Median $134,500 14, Median $134,500 14, Median $134,500
-Hewlett Packard Enterprise,53 Records from 2020, Median Salary $132000,SOFTWARE DESIGNER II
- Median $110,000 3, Median $110,000 3, Median $110,000
-Hewlett Packard Enterprise,53 Records from 2020, Median Salary $132000,SOFTWARE ENGINEER QUALITY ASSURANCE II
- Median $108,784 2, Median $108,784 2, Median $108,784
-Hewlett Packard Enterprise,53 Records from 2020, Median Salary $132000,SOFTWARE ENGINEERING QUALITY ASSURANCE
- Median $147,534 1, Median $147,534 1, Median $147,534
-Hewlett Packard Enterprise,53 Records from 2020, Median Salary $132000,SOFTWARE DESIGNER V
- Median $131,726 1, Median $131,726 1, Median $131,726
-Hewlett Packard Enterprise,53 Records from 2020, Median Salary $132000,SOFTWARE ENGINEER FIRMWARE
- Median $114,131 1, Median $114,131 1, Median $114,131
-Oracle,109 Records from 2020, Median Salary $122824,SOFTWARE DEVELOPER
- Median $122,408 95, Median $122,408 95, Median $122,408
-Oracle,109 Records from 2020, Median Salary $122824,SOFTWARE DEVELOPMENT SNR MANAGER
- Median $162,679 5, Median $162,679 5, Median $162,679
-Oracle,109 Records from 2020, Median Salary $122824,SOFTWARE DEVELOPMENT MANAGER
- Median $132,413 3, Median $132,413 3, Median $132,413
-Oracle,109 Records from 2020, Median Salary $122824,SOFTWARE DEVELOPMENT CONSULTANT
- Median $106,520 2, Median $106,520 2, Median $106,520
-Oracle,109 Records from 2020, Median Salary $122824,SOFTWARE DEVELOPMENT VP
- Median $239,038 1, Median $239,038 1, Median $239,038
-Oracle,109 Records from 2020, Median Salary $122824,SOFTWARE DEVELOPMENT SENIOR DIRECTOR
- Median $171,558 1, Median $171,558 1, Median $171,558
-Oracle,109 Records from 2020, Median Salary $122824,SOFTWARE DEVELOPER - ARCHITECT
- Median $152,984 1, Median $152,984 1, Median $152,984
-Oracle,109 Records from 2020, Median Salary $122824,SOFTWARE DEVELOPR
- Median $71,820  1, Median $71,820  1, Median $71,820 
-Caterpillar,5 Records from 2020, Median Salary $98000,SOFTWARE ENGINEER II
- Median $104,000 2, Median $104,000 2, Median $104,000
-Caterpillar,5 Records from 2020, Median Salary $98000,SOFTWARE ENGINEER I
- Median $108,000 2, Median $108,000 2, Median $108,000
-Caterpillar,5 Records from 2020, Median Salary $98000,SOFTWARE ENGINEER
- Median $82,000  1, Median $82,000  1, Median $82,000 
-MetLife,2 Records from 2020, Median Salary $85987,SOFTWARE DEVELOPMENT ENGINEER II
- Median $85,987  1, Median $85,987  1, Median $85,987 
-MetLife,2 Records from 2020, Median Salary $85987,SOFTWARE DEVELOP ENGINEER II
- Median $85,987  1, Median $85,987  1, Median $85,987 
-Nike,6 Records from 2020, Median Salary $129995,SOFTWARE ENGINEER III
- Median $133,799 2, Median $133,799 2, Median $133,799
-Nike,6 Records from 2020, Median Salary $129995,SOFTWARE ENGINEER II
- Median $132,498 2, Median $132,498 2, Median $132,498
-Nike,6 Records from 2020, Median Salary $129995,SOFTWARE ENGINEER II - GLOBAL TECHNOLOGY
- Median $115,532 1, Median $115,532 1, Median $115,532
-Nike,6 Records from 2020, Median Salary $129995,SOFTWARE ENGINEER
- Median $110,000 1, Median $110,000 1, Median $110,000
-FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE ENGINEER III
- Median $85,563  10, Median $85,563  10, Median $85,563 
-FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE ENGINEER II
- Median $55,952  10, Median $55,952  10, Median $55,952 
-FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE ENGINEER ADVISOR
- Median $89,149  6, Median $89,149  6, Median $89,149 
-FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE QUALITY ENGINEER II
- Median $64,035  3, Median $64,035  3, Median $64,035 
-FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE DEVELOPER II
- Median $69,306  2, Median $69,306  2, Median $69,306 
-FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE DEVELOPER ADVISOR
- Median $127,721 1, Median $127,721 1, Median $127,721
-FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE DEVELOPER III
- Median $89,149  1, Median $89,149  1, Median $89,149 
-FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE QUALITY ENGINEER ADVISOR
- Median $77,813  1, Median $77,813  1, Median $77,813 
-FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE ENGINEER
- Median $68,680  1, Median $68,680  1, Median $68,680 
-FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE QUALITY ENGINEER III
- Median $61,672  1, Median $61,672  1, Median $61,672 
-FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE DEVELOPER II JAVA
- Median $55,952  1, Median $55,952  1, Median $55,952 
-FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE ENGINEER I
- Median $55,952  1, Median $55,952  1, Median $55,952 
-Schlumberger,11 Records from 2020, Median Salary $98020,SOFTWARE ENGINEER
- Median $94,510  8, Median $94,510  8, Median $94,510 
-Schlumberger,11 Records from 2020, Median Salary $98020,SOFTWARE ARCHITECT
- Median $145,340 1, Median $145,340 1, Median $145,340
-Schlumberger,11 Records from 2020, Median Salary $98020,SOFTWARE GEOPHYSICIST â FWI CODE
- Median $120,349 1, Median $120,349 1, Median $120,349
-Schlumberger,11 Records from 2020, Median Salary $98020,SOFTWARE GEOPHYSICIST
- Median $115,024 1, Median $115,024 1, Median $115,024
-Marathon Petroleum,2 Records from 2020, Median Salary $79250,SOFTWARE DEVELOPER
- Median $79,250  2, Median $79,250  2, Median $79,250 
-Humana,7 Records from 2020, Median Salary $105109.2,SOFTWARE ENGINEER 1
- Median $105,109 3, Median $105,109 3, Median $105,109
-Humana,7 Records from 2020, Median Salary $105109.2,SOFTWARE ENGINEER 2
- Median $110,000 3, Median $110,000 3, Median $110,000
-Humana,7 Records from 2020, Median Salary $105109.2,SOFTWARE ENGINEER I
- Median $100,006 1, Median $100,006 1, Median $100,006
-Honeywell International,10 Records from 2020, Median Salary $95250,SOFTWARE ENGINEER II
- Median $95,250  10, Median $95,250  10, Median $95,250 
-3M,1 Records from 2020, Median Salary $79729.23,SOFTWARE ENGINEER ENGR ADV SOFTWARE DEVT
- Median $79,729  1, Median $79,729  1, Median $79,729 
-Cigna,24 Records from 2020, Median Salary $125000,SOFTWARE ENGINEERING SENIOR ADVISOR
- Median $128,810 12, Median $128,810 12, Median $128,810
-Cigna,24 Records from 2020, Median Salary $125000,SOFTWARE ENGINEERING ADVISOR
- Median $112,011 8, Median $112,011 8, Median $112,011
-Cigna,24 Records from 2020, Median Salary $125000,SOFTWARE ENGINEERING DIRECTOR
- Median $210,201 1, Median $210,201 1, Median $210,201
-Cigna,24 Records from 2020, Median Salary $125000,SOFTWARE ENGINEERING SENIOR MANAGER
- Median $140,000 1, Median $140,000 1, Median $140,000
-Cigna,24 Records from 2020, Median Salary $125000,SOFTWARE ENGINEER SENIOR ADVISOR
- Median $133,000 1, Median $133,000 1, Median $133,000
-Cigna,24 Records from 2020, Median Salary $125000,SOFTWARE DIGITAL LEAD ENGINEER - SENIOR ADVISOR
- Median $125,000 1, Median $125,000 1, Median $125,000
-Macy's,42 Records from 2020, Median Salary $90000,SOFTWARE ENGINEER
- Median $85,509  27, Median $85,509  27, Median $85,509 
-Macy's,42 Records from 2020, Median Salary $90000,SOFTWARE ENGINEER - SOEE
- Median $90,000  14, Median $90,000  14, Median $90,000 
-Macy's,42 Records from 2020, Median Salary $90000,SOFTWARE ENGINEER, ANDROID
- Median $95,000  1, Median $95,000  1, Median $95,000 
-Capital One Financial,33 Records from 2020, Median Salary $94307,SOFTWARE ENGINEER
- Median $96,595  29, Median $96,595  29, Median $96,595 
-Capital One Financial,33 Records from 2020, Median Salary $94307,SOFTWARE DEVELOPER
- Median $94,307  3, Median $94,307  3, Median $94,307 
-Capital One Financial,33 Records from 2020, Median Salary $94307,SOFTWARE ENGINEER IV
- Median $99,154  1, Median $99,154  1, Median $99,154 
-Best Buy,45 Records from 2020, Median Salary $66976,SOFTWARE DEVELOPER
- Median $62,762  34, Median $62,762  34, Median $62,762 
-Best Buy,45 Records from 2020, Median Salary $66976,SOFTWARE ENGINEER
- Median $76,500  11, Median $76,500  11, Median $76,500 
-Deere & Company,46 Records from 2020, Median Salary $92500,SOFTWARE ENGINEER
- Median $93,000  43, Median $93,000  43, Median $93,000 
-Deere & Company,46 Records from 2020, Median Salary $92500,SOFTWARE ENGINEER, ATP
- Median $95,000  2, Median $95,000  2, Median $95,000 
-Deere & Company,46 Records from 2020, Median Salary $92500,SOFTWARE ANALYST
- Median $81,000  1, Median $81,000  1, Median $81,000 
-Allstate,8 Records from 2020, Median Salary $94203,SOFTWARE ENGINEER
- Median $92,009  4, Median $92,009  4, Median $92,009 
-Allstate,8 Records from 2020, Median Salary $94203,SOFTWARE DEVELOPMENT ENGINEER IN TEST
- Median $119,122 2, Median $119,122 2, Median $119,122
-Allstate,8 Records from 2020, Median Salary $94203,SOFTWARE ENGINEER - .NET
- Median $94,203  1, Median $94,203  1, Median $94,203 
-Allstate,8 Records from 2020, Median Salary $94203,SOFTWARE ENGINEER - MOBILE
- Median $89,814  1, Median $89,814  1, Median $89,814 
-AbbVie,1 Records from 2020, Median Salary $77438,SOFTWARE DEVELOPER
- Median $77,438  1, Median $77,438  1, Median $77,438 
-General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE ENGINEER
- Median $98,300  10, Median $98,300  10, Median $98,300 
-General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE DEVELOPER
- Median $92,607  4, Median $92,607  4, Median $92,607 
-General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE DEVELOPER - ANDROID
- Median $98,500  2, Median $98,500  2, Median $98,500 
-General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE ENGINEER - VEHICLE MOTION EMBEDDED CONTROLS
- Median $92,004  2, Median $92,004  2, Median $92,004 
-General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE DEVELOPER ADVISOR
- Median $131,420 1, Median $131,420 1, Median $131,420
-General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE DELIVERY LEAD
- Median $124,300 1, Median $124,300 1, Median $124,300
-General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE DEVELOPER- SYSTEMS ENGINEER
- Median $115,000 1, Median $115,000 1, Median $115,000
-General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE TOOLS DEVELOPMENT ENGINEER
- Median $111,934 1, Median $111,934 1, Median $111,934
-General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE TEST ANALYST
- Median $105,000 1, Median $105,000 1, Median $105,000
-General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE ENGINEER CIE
- Median $94,008  1, Median $94,008  1, Median $94,008 
-General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE DESIGN ENGINEER
- Median $88,486  1, Median $88,486  1, Median $88,486 
-General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE DEVELOPMENT ENGINEER I
- Median $80,000  1, Median $80,000  1, Median $80,000 
-General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE DEVELOPER APPLICATIONS
- Median $77,376  1, Median $77,376  1, Median $77,376 
-Micron Technology,22 Records from 2020, Median Salary $88500,SOFTWARE DEVELOPER
- Median $86,000  16, Median $86,000  16, Median $86,000 
-Micron Technology,22 Records from 2020, Median Salary $88500,SOFTWARE ENGINEER
- Median $91,000  3, Median $91,000  3, Median $91,000 
-Micron Technology,22 Records from 2020, Median Salary $88500,SOFTWARE DEVELOPER SQL BI DEVELOPER
- Median $90,000  1, Median $90,000  1, Median $90,000 
-Micron Technology,22 Records from 2020, Median Salary $88500,SOFTWARE ENGINEER, EMD
- Median $90,000  1, Median $90,000  1, Median $90,000 
-Micron Technology,22 Records from 2020, Median Salary $88500,SOFTWARE DEVELOPER PROGRAMMER ANALYST SPECIALIST
- Median $87,000  1, Median $87,000  1, Median $87,000 
-Dell Technologies,70 Records from 2020, Median Salary $110302,SOFTWARE SENIOR ENGINEER
- Median $106,000 17, Median $106,000 17, Median $106,000
-Dell Technologies,70 Records from 2020, Median Salary $110302,SOFTWARE PRINCIPAL ENGINEER
- Median $126,000 15, Median $126,000 15, Median $126,000
-Dell Technologies,70 Records from 2020, Median Salary $110302,SOFTWARE ENGINEER 2
- Median $106,000 15, Median $106,000 15, Median $106,000
-Dell Technologies,70 Records from 2020, Median Salary $110302,SOFTWARE SENIOR PRINCIPAL ENGINEER
- Median $149,000 11, Median $149,000 11, Median $149,000
-Dell Technologies,70 Records from 2020, Median Salary $110302,SOFTWARE ENGINEER
- Median $102,212 6, Median $102,212 6, Median $102,212
-Dell Technologies,70 Records from 2020, Median Salary $110302,SOFTWARE ENGINEER 1
- Median $82,500  3, Median $82,500  3, Median $82,500 
-Dell Technologies,70 Records from 2020, Median Salary $110302,SOFTWARE SYSTEM SENIOR PRINCIPAL ENGINEER
- Median $136,859 1, Median $136,859 1, Median $136,859
-Dell Technologies,70 Records from 2020, Median Salary $110302,SOFTWARE ENGINEER 2 IT
- Median $90,000  1, Median $90,000  1, Median $90,000 
-Dell Technologies,70 Records from 2020, Median Salary $110302,SOFTWARE ENGINEER 1 -IT
- Median $69,618  1, Median $69,618  1, Median $69,618 
-Continental Resources,18 Records from 2020, Median Salary $87272,SOFTWARE ENGINEER
- Median $89,230  12, Median $89,230  12, Median $89,230 
-Continental Resources,18 Records from 2020, Median Salary $87272,SOFTWARE DEVELOPER
- Median $75,795  5, Median $75,795  5, Median $75,795 
-Continental Resources,18 Records from 2020, Median Salary $87272,SOFTWARE ENGINEER ARCHITECT
- Median $90,500  1, Median $90,500  1, Median $90,500 
-Fidelity National Information,27 Records from 2020, Median Salary $73486,SOFTWARE ENGINEER DEVELOPER
- Median $73,486  26, Median $73,486  26, Median $73,486 
-Fidelity National Information,27 Records from 2020, Median Salary $73486,SOFTWARE DEVELOPER ENGINEER
- Median $73,486  1, Median $73,486  1, Median $73,486 
-State Street,34 Records from 2020, Median Salary $94168,SOFTWARE ENGINEER I
- Median $81,141  10, Median $81,141  10, Median $81,141 
-State Street,34 Records from 2020, Median Salary $94168,SOFTWARE ENGINEER II
- Median $97,480  5, Median $97,480  5, Median $97,480 
-State Street,34 Records from 2020, Median Salary $94168,SOFTWARE ENGINEER
- Median $90,376  5, Median $90,376  5, Median $90,376 
-State Street,34 Records from 2020, Median Salary $94168,SOFTWARE ENGINEER SENIOR
- Median $94,168  3, Median $94,168  3, Median $94,168 
-State Street,34 Records from 2020, Median Salary $94168,SOFTWARE QUALITY ASSURANCE QA ANALYST
- Median $111,238 3, Median $111,238 3, Median $111,238
-State Street,34 Records from 2020, Median Salary $94168,SOFTWARE DEVELOPER
- Median $88,078  2, Median $88,078  2, Median $88,078 
-State Street,34 Records from 2020, Median Salary $94168,SOFTWARE QA CONSULTANT VP
- Median $111,238 1, Median $111,238 1, Median $111,238
-State Street,34 Records from 2020, Median Salary $94168,SOFTWARE DEVELOPER - BIG DATA DEVELOPMENT
- Median $111,010 1, Median $111,010 1, Median $111,010
-State Street,34 Records from 2020, Median Salary $94168,SOFTWARE DEVELOPER â WEB DEVELOPMENT
- Median $108,971 1, Median $108,971 1, Median $108,971
-State Street,34 Records from 2020, Median Salary $94168,SOFTWARE DEVELOPER â ROBOTICS PROCESS AUTOMATION
- Median $108,971 1, Median $108,971 1, Median $108,971
-State Street,34 Records from 2020, Median Salary $94168,SOFTWARE DEVELOPMENT SPECIALIST 4
- Median $77,459  1, Median $77,459  1, Median $77,459 
-State Street,34 Records from 2020, Median Salary $94168,SOFTWARE DEVELOPMENT SPECIALIST 3
- Median $70,387  1, Median $70,387  1, Median $70,387 
-Adobe,113 Records from 2020, Median Salary $123718,SOFTWARE DEVELOPMENT ENGINEER
- Median $127,897 102, Median $127,897 102, Median $127,897
-Adobe,113 Records from 2020, Median Salary $123718,SOFTWARE QUALITY ENGINEER
- Median $108,896 6, Median $108,896 6, Median $108,896
-Adobe,113 Records from 2020, Median Salary $123718,SOFTWARE DEVELOPER
- Median $152,183 2, Median $152,183 2, Median $152,183
-Adobe,113 Records from 2020, Median Salary $123718,SOFTWARE DEVELOPMENT MANAGER
- Median $154,669 1, Median $154,669 1, Median $154,669
-Adobe,113 Records from 2020, Median Salary $123718,SOFTWARE DEVELOPMENT ENGINEER MTS, MOBILE VIDEO PRODUCTS
- Median $108,784 1, Median $108,784 1, Median $108,784
-Adobe,113 Records from 2020, Median Salary $123718,SOFTWARE QUALITY ENGINEER SR. SOFTWARE QUALITY ENGINEER
- Median $92,560  1, Median $92,560  1, Median $92,560 
-Delta Air Lines,27 Records from 2020, Median Salary $100000,SOFTWARE DEVELOPER
- Median $90,000  15, Median $90,000  15, Median $90,000 
-Delta Air Lines,27 Records from 2020, Median Salary $100000,SOFTWARE DEVELOPER, APPLICATIONS
- Median $139,120 7, Median $139,120 7, Median $139,120
-Delta Air Lines,27 Records from 2020, Median Salary $100000,SOFTWARE DEVELOPERS, APPLICATIONS
- Median $136,000 1, Median $136,000 1, Median $136,000
-Delta Air Lines,27 Records from 2020, Median Salary $100000,SOFTWARE ENGINEER SENIOR
- Median $121,077 1, Median $121,077 1, Median $121,077
-Delta Air Lines,27 Records from 2020, Median Salary $100000,SOFTWARE ENGINEER: MACHINE LEARNING
- Median $108,000 1, Median $108,000 1, Median $108,000
-Delta Air Lines,27 Records from 2020, Median Salary $100000,SOFTWARE TEST ENGINEER
- Median $101,379 1, Median $101,379 1, Median $101,379
-Delta Air Lines,27 Records from 2020, Median Salary $100000,SOFTWARE DEVELOPER - SAP
- Median $90,500  1, Median $90,500  1, Median $90,500 
-VMware,4 Records from 2020, Median Salary $135540,SOFTWARE QUALITY ENGINEER
- Median $146,200 1, Median $146,200 1, Median $146,200
-VMware,4 Records from 2020, Median Salary $135540,SOFTWARE ENGINEER
- Median $136,080 1, Median $136,080 1, Median $136,080
-VMware,4 Records from 2020, Median Salary $135540,SOFTWARE ENGINEER â SDDC MANAGEMENT INFRASTRUCTURE
- Median $135,000 1, Median $135,000 1, Median $135,000
-VMware,4 Records from 2020, Median Salary $135540,SOFTWARE ENGINEER - TALENT SYSTEMS
- Median $101,000 1, Median $101,000 1, Median $101,000
-McDonald's,1 Records from 2020, Median Salary $170000,SOFTWARE ASSURANCE ENGINEER
- Median $170,000 1, Median $170,000 1, Median $170,000
-Eli Lilly,30 Records from 2020, Median Salary $92653.5,SOFTWARE DEVELOPER
- Median $88,000  14, Median $88,000  14, Median $88,000 
-Eli Lilly,30 Records from 2020, Median Salary $92653.5,SOFTWARE ENGINEER
- Median $94,307  8, Median $94,307  8, Median $94,307 
-Eli Lilly,30 Records from 2020, Median Salary $92653.5,SOFTWARE DEVELOPMENT ENGINEER
- Median $103,509 3, Median $103,509 3, Median $103,509
-Eli Lilly,30 Records from 2020, Median Salary $92653.5,SOFTWARE DEVELOPER II
- Median $96,595  2, Median $96,595  2, Median $96,595 
-Eli Lilly,30 Records from 2020, Median Salary $92653.5,SOFTWARE ENGINEER - MEMBER OF TECHNICAL STAFF
- Median $110,000 1, Median $110,000 1, Median $110,000
-Eli Lilly,30 Records from 2020, Median Salary $92653.5,SOFTWARE DEVELOPER IN TEST
- Median $102,003 1, Median $102,003 1, Median $102,003
-Eli Lilly,30 Records from 2020, Median Salary $92653.5,SOFTWARE TEST ENGINEER
- Median $81,000  1, Median $81,000  1, Median $81,000 
+Microsoft,2756 Records from 2020, Median Salary $138390,SOFTWARE ENGINEER,'$137,170',2671
+Microsoft,2756 Records from 2020, Median Salary $138390,SOFTWARE ENGINEERING MANAGER,'$192,941',54
+Microsoft,2756 Records from 2020, Median Salary $138390,SOFTWARE ENGINEERING LEAD,'$191,600',28
+Microsoft,2756 Records from 2020, Median Salary $138390,SOFTWARE ARCHITECT,'$142,000',2
+Microsoft,2756 Records from 2020, Median Salary $138390,SOFTWARE FIRMWARE ENGINEER,'$108,000',1
+CVS Health,4 Records from 2020, Median Salary $109500,SOFTWARE ENGINEER,'$127,712',1
+CVS Health,4 Records from 2020, Median Salary $109500,SOFTWARE ENGINEER HADOOP,'$125,000',1
+CVS Health,4 Records from 2020, Median Salary $109500,SOFTWARE DEVELOPMENT ENGINEER,'$94,000',1
+CVS Health,4 Records from 2020, Median Salary $109500,SOFTWARE DEVELOPMENT ENGINEER IN TEST 1,'$86,000',1
+Bank of America,9 Records from 2020, Median Salary $96060,SOFTWARE ENGINEER,'$91,957',3
+Bank of America,9 Records from 2020, Median Salary $96060,SOFTWARE SOLUTIONS ARCHITECT,'$151,986',2
+Bank of America,9 Records from 2020, Median Salary $96060,SOFTWARE ENGINEER III,'$121,390',1
+Bank of America,9 Records from 2020, Median Salary $96060,SOFTWARE ENGINEER II,'$96,060',1
+Bank of America,9 Records from 2020, Median Salary $96060,SOFTWARE ENGINEER I,'$82,035',1
+Bank of America,9 Records from 2020, Median Salary $96060,SOFTWARE DEVELOPER,'$71,500',1
+Costco Wholesale,9 Records from 2020, Median Salary $117000,SOFTWARE DEVELOPER,'$130,000',4
+Costco Wholesale,9 Records from 2020, Median Salary $117000,SOFTWARE DEVELOPER JAVA APPLICATION SERVER ADMINISTRATOR,'$117,000',2
+Costco Wholesale,9 Records from 2020, Median Salary $117000,SOFTWARE DEVELOPER 2,'$110,000',2
+Costco Wholesale,9 Records from 2020, Median Salary $117000,SOFTWARE DEVELOPER 3,'$130,000',1
+McKesson,10 Records from 2020, Median Salary $93565.88,SOFTWARE DEVELOPER,'$90,376',5
+McKesson,10 Records from 2020, Median Salary $93565.88,SOFTWARE ENGINEER,'$101,004',4
+McKesson,10 Records from 2020, Median Salary $93565.88,SOFTWARE ENGINEER - EDI,'$92,825',1
+Cardinal Health,3 Records from 2020, Median Salary $85000,SOFTWARE DEVELOPER,'$100,000',1
+Cardinal Health,3 Records from 2020, Median Salary $85000,SOFTWARE QUALITY ASSURANCE ENGINEERS AND TESTERS,'$85,000',1
+Cardinal Health,3 Records from 2020, Median Salary $85000,SOFTWARE QA TEST ENGINEER,'$59,030',1
+Wells Fargo,1 Records from 2020, Median Salary $60611,SOFTWARE ENGINEER II,'$60,611',1
+Boeing,4 Records from 2020, Median Salary $106038.5,SOFTWARE ENGINEER III,'$127,442',1
+Boeing,4 Records from 2020, Median Salary $106038.5,SOFTWARE ENGINEER 4,'$123,219',1
+Boeing,4 Records from 2020, Median Salary $106038.5,SOFTWARE ENGINEER 2,'$88,858',1
+Boeing,4 Records from 2020, Median Salary $106038.5,SOFTWARE ENGINEER,'$88,858',1
+HP,30 Records from 2020, Median Salary $99493.5,SOFTWARE DESIGNER,'$111,342',9
+HP,30 Records from 2020, Median Salary $99493.5,SOFTWARE DEVELOPER,'$96,600',5
+HP,30 Records from 2020, Median Salary $99493.5,SOFTWARE ENGINEER,'$96,996',5
+HP,30 Records from 2020, Median Salary $99493.5,SOFTWARE ENGINEER FIRMWARE,'$127,941',4
+HP,30 Records from 2020, Median Salary $99493.5,SOFTWARE ENGINEER QUALITY ASSURANCE,'$92,082',4
+HP,30 Records from 2020, Median Salary $99493.5,SOFTWARE DEVELOPER PEGA,'$88,500',2
+HP,30 Records from 2020, Median Salary $99493.5,SOFTWARE DEVELOPER SENIOR CLINICAL DATABASE ANALYST,'$96,595',1
+Home Depot,32 Records from 2020, Median Salary $102595.455,SOFTWARE ENGINEER,'$95,000',21
+Home Depot,32 Records from 2020, Median Salary $102595.455,SOFTWARE ENGINEER MANAGER,'$178,900',3
+Home Depot,32 Records from 2020, Median Salary $102595.455,SOFTWARE ENGINEER PRINCIPAL,'$161,618',3
+Home Depot,32 Records from 2020, Median Salary $102595.455,SOFTWARE ENGINEER SR. MANAGER,'$206,660',2
+Home Depot,32 Records from 2020, Median Salary $102595.455,SOFTWARE DEVELOPMENT ENGINEER IN TEST,'$115,000',1
+Home Depot,32 Records from 2020, Median Salary $102595.455,SOFTWARE ENGINEER 3,'$86,000',1
+Home Depot,32 Records from 2020, Median Salary $102595.455,SOFTWARE ENGINEER III,'$70,000',1
+Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE ENGINEER,'$167,000',943
+Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE ENGINEERING MANAGER,'$229,160',42
+Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE ENGINEER, MACHINE LEARNING,'$200,000',11
+Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE DEVELOPMENT ENGINEER,'$167,000',4
+Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE ENGINEER, INFRASTRUCTURE,'$165,000',3
+Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE ENGINEER, TEST INFRASTRUCTURE,'$183,500',2
+Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE ENGINEERING MANAGER - CORE INFRA SECURITY,'$245,000',1
+Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE TEST ENGINEER,'$185,000',1
+Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE ENGINEER, EMBEDDED SYSTEMS,'$170,000',1
+Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE ENGINEERING,'$160,365',1
+Facebook,1010 Records from 2020, Median Salary $167000,SOFTWARE DEVELOPER,'$150,000',1
+Comcast,20 Records from 2020, Median Salary $76190,SOFTWARE ENGINEER,'$82,483',6
+Comcast,20 Records from 2020, Median Salary $76190,SOFTWARE ENGINEER 3,'$71,386',6
+Comcast,20 Records from 2020, Median Salary $76190,SOFTWARE DEVELOPER 4,'$119,662',1
+Comcast,20 Records from 2020, Median Salary $76190,SOFTWARE ENGINEER IN TEST,'$109,554',1
+Comcast,20 Records from 2020, Median Salary $76190,SOFTWARE ENGINEER, DIGITAL HOME,'$87,485',1
+Comcast,20 Records from 2020, Median Salary $76190,SOFTWARE ENGINEER, BLOCKGRAPH,'$76,190',1
+Comcast,20 Records from 2020, Median Salary $76190,SOFTWARE ENGINEER III - CORE APPLICATION,'$71,386',1
+Comcast,20 Records from 2020, Median Salary $76190,SOFTWARE ENGINEER 2,'$71,386',1
+Comcast,20 Records from 2020, Median Salary $76190,SOFTWARE DEVELOPER,'$66,082',1
+Comcast,20 Records from 2020, Median Salary $76190,SOFTWARE ENGINEER, QUALITY ASSURANCE,'$57,970',1
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE ENGINEER,'$110,000',113
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE DEVELOPER,'$86,000',90
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE ENGINEER II,'$86,360',9
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE ENGINEERING MANAGER,'$155,709',7
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE SYSTEMS ARCHITECT,'$90,626',6
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE ENGINEER I,'$72,500',6
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE QUALITY ENGINEER,'$70,000',5
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE QA ENGINEER,'$87,500',2
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE APPLICATION DEVELOPER,'$84,396',2
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE DEVELOPMENT ENGINEER,'$172,640',1
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE ARCHITECT,'$161,866',1
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE PROGRAM MANAGER,'$146,660',1
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE DEVELOPER- DATA ENGINEER,'$120,000',1
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE ENGINEER BI,'$109,000',1
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE DEVELOPER-DATA ANALYST,'$97,000',1
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE DEVELOPER, APPLICATIONS FULL-STACK,'$96,600',1
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE QUALITY ASSURANCE ENGINEER,'$95,000',1
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE ENGINEER-JAVA,'$94,307',1
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE DEVELOPMENT ENGINEER IN TEST SDET,'$85,000',1
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE ENGINEERING SENIOR ADVISOR,'$83,346',1
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE DEVELOPER II,'$79,000',1
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE TEST ENGINEER,'$77,813',1
+Intel,254 Records from 2020, Median Salary $94307,SOFTWARE SYSTEM ENGINEER,'$68,000',1
+Walt Disney,4 Records from 2020, Median Salary $74303.24,SOFTWARE ENGINEER,'$87,803',2
+Walt Disney,4 Records from 2020, Median Salary $74303.24,SOFTWARE DEVELOPER,'$70,000',2
+Hewlett Packard Enterprise,53 Records from 2020, Median Salary $132000,SOFTWARE DESIGNER,'$150,290',31
+Hewlett Packard Enterprise,53 Records from 2020, Median Salary $132000,SOFTWARE ENGINEER QUALITY ASSURANCE,'$134,500',14
+Hewlett Packard Enterprise,53 Records from 2020, Median Salary $132000,SOFTWARE DESIGNER II,'$110,000',3
+Hewlett Packard Enterprise,53 Records from 2020, Median Salary $132000,SOFTWARE ENGINEER QUALITY ASSURANCE II,'$108,784',2
+Hewlett Packard Enterprise,53 Records from 2020, Median Salary $132000,SOFTWARE ENGINEERING QUALITY ASSURANCE,'$147,534',1
+Hewlett Packard Enterprise,53 Records from 2020, Median Salary $132000,SOFTWARE DESIGNER V,'$131,726',1
+Hewlett Packard Enterprise,53 Records from 2020, Median Salary $132000,SOFTWARE ENGINEER FIRMWARE,'$114,131',1
+Oracle,109 Records from 2020, Median Salary $122824,SOFTWARE DEVELOPER,'$122,408',95
+Oracle,109 Records from 2020, Median Salary $122824,SOFTWARE DEVELOPMENT SNR MANAGER,'$162,679',5
+Oracle,109 Records from 2020, Median Salary $122824,SOFTWARE DEVELOPMENT MANAGER,'$132,413',3
+Oracle,109 Records from 2020, Median Salary $122824,SOFTWARE DEVELOPMENT CONSULTANT,'$106,520',2
+Oracle,109 Records from 2020, Median Salary $122824,SOFTWARE DEVELOPMENT VP,'$239,038',1
+Oracle,109 Records from 2020, Median Salary $122824,SOFTWARE DEVELOPMENT SENIOR DIRECTOR,'$171,558',1
+Oracle,109 Records from 2020, Median Salary $122824,SOFTWARE DEVELOPER - ARCHITECT,'$152,984',1
+Oracle,109 Records from 2020, Median Salary $122824,SOFTWARE DEVELOPR,'$71,820',1
+Caterpillar,5 Records from 2020, Median Salary $98000,SOFTWARE ENGINEER II,'$104,000',2
+Caterpillar,5 Records from 2020, Median Salary $98000,SOFTWARE ENGINEER I,'$108,000',2
+Caterpillar,5 Records from 2020, Median Salary $98000,SOFTWARE ENGINEER,'$82,000',1
+MetLife,2 Records from 2020, Median Salary $85987,SOFTWARE DEVELOPMENT ENGINEER II,'$85,987',1
+MetLife,2 Records from 2020, Median Salary $85987,SOFTWARE DEVELOP ENGINEER II,'$85,987',1
+Nike,6 Records from 2020, Median Salary $129995,SOFTWARE ENGINEER III,'$133,799',2
+Nike,6 Records from 2020, Median Salary $129995,SOFTWARE ENGINEER II,'$132,498',2
+Nike,6 Records from 2020, Median Salary $129995,SOFTWARE ENGINEER II - GLOBAL TECHNOLOGY,'$115,532',1
+Nike,6 Records from 2020, Median Salary $129995,SOFTWARE ENGINEER,'$110,000',1
+FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE ENGINEER III,'$85,563',10
+FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE ENGINEER II,'$55,952',10
+FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE ENGINEER ADVISOR,'$89,149',6
+FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE QUALITY ENGINEER II,'$64,035',3
+FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE DEVELOPER II,'$69,306',2
+FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE DEVELOPER ADVISOR,'$127,721',1
+FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE DEVELOPER III,'$89,149',1
+FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE QUALITY ENGINEER ADVISOR,'$77,813',1
+FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE ENGINEER,'$68,680',1
+FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE QUALITY ENGINEER III,'$61,672',1
+FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE DEVELOPER II JAVA,'$55,952',1
+FedEx,38 Records from 2020, Median Salary $76045,SOFTWARE ENGINEER I,'$55,952',1
+Schlumberger,11 Records from 2020, Median Salary $98020,SOFTWARE ENGINEER,'$94,510',8
+Schlumberger,11 Records from 2020, Median Salary $98020,SOFTWARE ARCHITECT,'$145,340',1
+Schlumberger,11 Records from 2020, Median Salary $98020,SOFTWARE GEOPHYSICIST â FWI CODE,'$120,349',1
+Schlumberger,11 Records from 2020, Median Salary $98020,SOFTWARE GEOPHYSICIST,'$115,024',1
+Marathon Petroleum,2 Records from 2020, Median Salary $79250,SOFTWARE DEVELOPER,'$79,250',2
+Humana,7 Records from 2020, Median Salary $105109.2,SOFTWARE ENGINEER 1,'$105,109',3
+Humana,7 Records from 2020, Median Salary $105109.2,SOFTWARE ENGINEER 2,'$110,000',3
+Humana,7 Records from 2020, Median Salary $105109.2,SOFTWARE ENGINEER I,'$100,006',1
+Honeywell International,10 Records from 2020, Median Salary $95250,SOFTWARE ENGINEER II,'$95,250',10
+3M,1 Records from 2020, Median Salary $79729.23,SOFTWARE ENGINEER ENGR ADV SOFTWARE DEVT,'$79,729',1
+Cigna,24 Records from 2020, Median Salary $125000,SOFTWARE ENGINEERING SENIOR ADVISOR,'$128,810',12
+Cigna,24 Records from 2020, Median Salary $125000,SOFTWARE ENGINEERING ADVISOR,'$112,011',8
+Cigna,24 Records from 2020, Median Salary $125000,SOFTWARE ENGINEERING DIRECTOR,'$210,201',1
+Cigna,24 Records from 2020, Median Salary $125000,SOFTWARE ENGINEERING SENIOR MANAGER,'$140,000',1
+Cigna,24 Records from 2020, Median Salary $125000,SOFTWARE ENGINEER SENIOR ADVISOR,'$133,000',1
+Cigna,24 Records from 2020, Median Salary $125000,SOFTWARE DIGITAL LEAD ENGINEER - SENIOR ADVISOR,'$125,000',1
+Macy's,42 Records from 2020, Median Salary $90000,SOFTWARE ENGINEER,'$85,509',27
+Macy's,42 Records from 2020, Median Salary $90000,SOFTWARE ENGINEER - SOEE,'$90,000',14
+Macy's,42 Records from 2020, Median Salary $90000,SOFTWARE ENGINEER, ANDROID,'$95,000',1
+Capital One Financial,33 Records from 2020, Median Salary $94307,SOFTWARE ENGINEER,'$96,595',29
+Capital One Financial,33 Records from 2020, Median Salary $94307,SOFTWARE DEVELOPER,'$94,307',3
+Capital One Financial,33 Records from 2020, Median Salary $94307,SOFTWARE ENGINEER IV,'$99,154',1
+Best Buy,45 Records from 2020, Median Salary $66976,SOFTWARE DEVELOPER,'$62,762',34
+Best Buy,45 Records from 2020, Median Salary $66976,SOFTWARE ENGINEER,'$76,500',11
+Deere & Company,46 Records from 2020, Median Salary $92500,SOFTWARE ENGINEER,'$93,000',43
+Deere & Company,46 Records from 2020, Median Salary $92500,SOFTWARE ENGINEER, ATP,'$95,000',2
+Deere & Company,46 Records from 2020, Median Salary $92500,SOFTWARE ANALYST,'$81,000',1
+Allstate,8 Records from 2020, Median Salary $94203,SOFTWARE ENGINEER,'$92,009',4
+Allstate,8 Records from 2020, Median Salary $94203,SOFTWARE DEVELOPMENT ENGINEER IN TEST,'$119,122',2
+Allstate,8 Records from 2020, Median Salary $94203,SOFTWARE ENGINEER - .NET,'$94,203',1
+Allstate,8 Records from 2020, Median Salary $94203,SOFTWARE ENGINEER - MOBILE,'$89,814',1
+AbbVie,1 Records from 2020, Median Salary $77438,SOFTWARE DEVELOPER,'$77,438',1
+General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE ENGINEER,'$98,300',10
+General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE DEVELOPER,'$92,607',4
+General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE DEVELOPER - ANDROID,'$98,500',2
+General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE ENGINEER - VEHICLE MOTION EMBEDDED CONTROLS,'$92,004',2
+General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE DEVELOPER ADVISOR,'$131,420',1
+General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE DELIVERY LEAD,'$124,300',1
+General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE DEVELOPER- SYSTEMS ENGINEER,'$115,000',1
+General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE TOOLS DEVELOPMENT ENGINEER,'$111,934',1
+General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE TEST ANALYST,'$105,000',1
+General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE ENGINEER CIE,'$94,008',1
+General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE DESIGN ENGINEER,'$88,486',1
+General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE DEVELOPMENT ENGINEER I,'$80,000',1
+General Dynamics,27 Records from 2020, Median Salary $98004,SOFTWARE DEVELOPER APPLICATIONS,'$77,376',1
+Micron Technology,22 Records from 2020, Median Salary $88500,SOFTWARE DEVELOPER,'$86,000',16
+Micron Technology,22 Records from 2020, Median Salary $88500,SOFTWARE ENGINEER,'$91,000',3
+Micron Technology,22 Records from 2020, Median Salary $88500,SOFTWARE DEVELOPER SQL BI DEVELOPER,'$90,000',1
+Micron Technology,22 Records from 2020, Median Salary $88500,SOFTWARE ENGINEER, EMD,'$90,000',1
+Micron Technology,22 Records from 2020, Median Salary $88500,SOFTWARE DEVELOPER PROGRAMMER ANALYST SPECIALIST,'$87,000',1
+Dell Technologies,70 Records from 2020, Median Salary $110302,SOFTWARE SENIOR ENGINEER,'$106,000',17
+Dell Technologies,70 Records from 2020, Median Salary $110302,SOFTWARE PRINCIPAL ENGINEER,'$126,000',15
+Dell Technologies,70 Records from 2020, Median Salary $110302,SOFTWARE ENGINEER 2,'$106,000',15
+Dell Technologies,70 Records from 2020, Median Salary $110302,SOFTWARE SENIOR PRINCIPAL ENGINEER,'$149,000',11
+Dell Technologies,70 Records from 2020, Median Salary $110302,SOFTWARE ENGINEER,'$102,212',6
+Dell Technologies,70 Records from 2020, Median Salary $110302,SOFTWARE ENGINEER 1,'$82,500',3
+Dell Technologies,70 Records from 2020, Median Salary $110302,SOFTWARE SYSTEM SENIOR PRINCIPAL ENGINEER,'$136,859',1
+Dell Technologies,70 Records from 2020, Median Salary $110302,SOFTWARE ENGINEER 2 IT,'$90,000',1
+Dell Technologies,70 Records from 2020, Median Salary $110302,SOFTWARE ENGINEER 1 -IT,'$69,618',1
+Continental Resources,18 Records from 2020, Median Salary $87272,SOFTWARE ENGINEER,'$89,230',12
+Continental Resources,18 Records from 2020, Median Salary $87272,SOFTWARE DEVELOPER,'$75,795',5
+Continental Resources,18 Records from 2020, Median Salary $87272,SOFTWARE ENGINEER ARCHITECT,'$90,500',1
+Fidelity National Information,27 Records from 2020, Median Salary $73486,SOFTWARE ENGINEER DEVELOPER,'$73,486',26
+Fidelity National Information,27 Records from 2020, Median Salary $73486,SOFTWARE DEVELOPER ENGINEER,'$73,486',1
+State Street,34 Records from 2020, Median Salary $94168,SOFTWARE ENGINEER I,'$81,141',10
+State Street,34 Records from 2020, Median Salary $94168,SOFTWARE ENGINEER II,'$97,480',5
+State Street,34 Records from 2020, Median Salary $94168,SOFTWARE ENGINEER,'$90,376',5
+State Street,34 Records from 2020, Median Salary $94168,SOFTWARE ENGINEER SENIOR,'$94,168',3
+State Street,34 Records from 2020, Median Salary $94168,SOFTWARE QUALITY ASSURANCE QA ANALYST,'$111,238',3
+State Street,34 Records from 2020, Median Salary $94168,SOFTWARE DEVELOPER,'$88,078',2
+State Street,34 Records from 2020, Median Salary $94168,SOFTWARE QA CONSULTANT VP,'$111,238',1
+State Street,34 Records from 2020, Median Salary $94168,SOFTWARE DEVELOPER - BIG DATA DEVELOPMENT,'$111,010',1
+State Street,34 Records from 2020, Median Salary $94168,SOFTWARE DEVELOPER â WEB DEVELOPMENT,'$108,971',1
+State Street,34 Records from 2020, Median Salary $94168,SOFTWARE DEVELOPER â ROBOTICS PROCESS AUTOMATION,'$108,971',1
+State Street,34 Records from 2020, Median Salary $94168,SOFTWARE DEVELOPMENT SPECIALIST 4,'$77,459',1
+State Street,34 Records from 2020, Median Salary $94168,SOFTWARE DEVELOPMENT SPECIALIST 3,'$70,387',1
+Adobe,113 Records from 2020, Median Salary $123718,SOFTWARE DEVELOPMENT ENGINEER,'$127,897',102
+Adobe,113 Records from 2020, Median Salary $123718,SOFTWARE QUALITY ENGINEER,'$108,896',6
+Adobe,113 Records from 2020, Median Salary $123718,SOFTWARE DEVELOPER,'$152,183',2
+Adobe,113 Records from 2020, Median Salary $123718,SOFTWARE DEVELOPMENT MANAGER,'$154,669',1
+Adobe,113 Records from 2020, Median Salary $123718,SOFTWARE DEVELOPMENT ENGINEER MTS, MOBILE VIDEO PRODUCTS,'$108,784',1
+Adobe,113 Records from 2020, Median Salary $123718,SOFTWARE QUALITY ENGINEER SR. SOFTWARE QUALITY ENGINEER,'$92,560',1
+Delta Air Lines,27 Records from 2020, Median Salary $100000,SOFTWARE DEVELOPER,'$90,000',15
+Delta Air Lines,27 Records from 2020, Median Salary $100000,SOFTWARE DEVELOPER, APPLICATIONS,'$139,120',7
+Delta Air Lines,27 Records from 2020, Median Salary $100000,SOFTWARE DEVELOPERS, APPLICATIONS,'$136,000',1
+Delta Air Lines,27 Records from 2020, Median Salary $100000,SOFTWARE ENGINEER SENIOR,'$121,077',1
+Delta Air Lines,27 Records from 2020, Median Salary $100000,SOFTWARE ENGINEER: MACHINE LEARNING,'$108,000',1
+Delta Air Lines,27 Records from 2020, Median Salary $100000,SOFTWARE TEST ENGINEER,'$101,379',1
+Delta Air Lines,27 Records from 2020, Median Salary $100000,SOFTWARE DEVELOPER - SAP,'$90,500',1
+VMware,4 Records from 2020, Median Salary $135540,SOFTWARE QUALITY ENGINEER,'$146,200',1
+VMware,4 Records from 2020, Median Salary $135540,SOFTWARE ENGINEER,'$136,080',1
+VMware,4 Records from 2020, Median Salary $135540,SOFTWARE ENGINEER â SDDC MANAGEMENT INFRASTRUCTURE,'$135,000',1
+VMware,4 Records from 2020, Median Salary $135540,SOFTWARE ENGINEER - TALENT SYSTEMS,'$101,000',1
+McDonald's,1 Records from 2020, Median Salary $170000,SOFTWARE ASSURANCE ENGINEER,'$170,000',1
+Eli Lilly,30 Records from 2020, Median Salary $92653.5,SOFTWARE DEVELOPER,'$88,000',14
+Eli Lilly,30 Records from 2020, Median Salary $92653.5,SOFTWARE ENGINEER,'$94,307',8
+Eli Lilly,30 Records from 2020, Median Salary $92653.5,SOFTWARE DEVELOPMENT ENGINEER,'$103,509',3
+Eli Lilly,30 Records from 2020, Median Salary $92653.5,SOFTWARE DEVELOPER II,'$96,595',2
+Eli Lilly,30 Records from 2020, Median Salary $92653.5,SOFTWARE ENGINEER - MEMBER OF TECHNICAL STAFF,'$110,000',1
+Eli Lilly,30 Records from 2020, Median Salary $92653.5,SOFTWARE DEVELOPER IN TEST,'$102,003',1
+Eli Lilly,30 Records from 2020, Median Salary $92653.5,SOFTWARE TEST ENGINEER,'$81,000',1
