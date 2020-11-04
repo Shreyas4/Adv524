@@ -61,7 +61,7 @@ Alien Technology,Private,Electronics manufacturing,-1,,235,-1,Alien Technology,h
 "Allegiance Software, Inc",Private,,-1,,-1,-1,Allegiance (company),"https://www.glassdoor.com/Overview/Working-at-Allegiance-Career-Institute-EI_IE3050701.11,38.htm",,
 Allegro Development Corp.,Private,Computer software,-1,,400,-1,Allegro Development Corporation,https://www.allegrodev.com/campus-recruiting/,,
 Alphaeon Corporation,Private,Technology,-1,,-1,2013,Alphaeon Corporation,https://goalphaeon.com/careers,,
-"Altair Engineering, Inc.",Public,"Computer-aided engineering,Software,Product Design,Product Design and Development,Service (economics),Services,Data Analytics,Internet of things,Grid Computing",458900000,,3,-1,Altair Engineering,https://www.altair.com/careers/,,
+"Altair Engineering, Inc.",Public,"Computer-aided engineering,Software,Product Design,Product Design and Development,Service,Services,Data Analytics,Internet of things,Grid Computing",458900000,,3,-1,Altair Engineering,https://www.altair.com/careers/,,
 Altametrics,Private,Enterprise Software,90000000,,400,-1,Altametrics,https://www.internships.com/posting/bug_38787457443,,
 "Alteryx, Inc.",Public,"Software,Computer software",418000000,,0,-1,Alteryx,https://www.alteryx.com/careers,,
 Altium Ltd.,Public,"Electronic design automation,Printed circuit board,FPGA,Embedded Systems,Electronics Design",171800000,,-1,-1,Altium,https://www.altium.com/careers,,
@@ -119,7 +119,7 @@ ArrayFire,Private,High Performance Computing,-1,,-1,-1,ArrayFire,http://arrayfir
 "Art Technology Group, Inc.",Subsidiary,,-1,,442,-1,Art Technology Group,https://www.indeed.com/cmp/Art-Technology-Group,,
 "Asana, Inc.",Public,"Project management,task management,productivity software,Collaborative software,team collaboration",-1,,900,-1,Asana (software),https://asana.com/jobs/university-recruiting,,
 "Ascent Solar Technologies,",Public,"Photovoltaics,Solar energy",7000000,,150,2005,Ascent Solar,https://www.ascentsolar.com/careers.html,,
-Aspect Inc.,Private,"Call center,technology<br>,Customer experience",443000000,,2,1973,Aspect Software,https://www.aspect.com/company/careers,,
+Aspect Inc.,Private,"Call center,technology,Customer experience",443000000,,2,1973,Aspect Software,https://www.aspect.com/company/careers,,
 "Aspen Technology, Inc.",Public company,"Software,Process Manufacturing",-1,,-1,-1,Aspen Technology,https://www.aspentech.com/en/careers,,
 Astrotech Corporation,,"Science,Technology",-1,,71,-1,Astrotech Corporation,https://www.astrotech.com/careers,,
 Asure Software,Public,Software as a service,-1,,420,-1,Asure Software,https://jobs.jobvite.com/asuresoftware,,
@@ -141,7 +141,7 @@ AutomatedQA Corp.,Private,Computer software,-1,,-1,-1,AutomatedQA,https://www.mc
 Automatic Duck,Private,"Software industry,Software",-1,,4,-1,Automatic Duck,https://duckduckgo.com/hiring,,
 Automation Anywhere,Private company,"Software industry,Computer software,cloud computing,robotic process automation,artificial intelligence",-1,"San Jose, California",2,2003,Automation Anywhere,https://www.automationanywhere.com/company/careers,,
 Automattic Inc.,Private,Internet,-1,,1,-1,Automattic,https://automattic.com/work-with-us/,,
-"Autonomous Solutions, Inc.",Private,"Vehicle Automation (,mining,farming,automotive,agricultural,military,facilities robotics,security",-1,,-1,-1,Autonomous Solutions,https://asirobots.com/jobs/,,
+"Autonomous Solutions, Inc.",Private,"Vehicle Automation,mining,farming,automotive,agricultural,military,facilities robotics,security",-1,,-1,-1,Autonomous Solutions,https://asirobots.com/jobs/,,
 Avaya Inc.,Public,Technology,2890000000,,7,-1,Avaya,https://careers.avaya.com/,,
 AvePoint,Privately held company,Computer software,-1,,1,-1,AvePoint,https://www.avepoint.com/about/careers,,
 "Aventri, Inc.",Private,"Cloud-software, Event management",-1,,-1,1998,Aventri,https://www.aventri.com/careers,,
@@ -173,9 +173,9 @@ BenchPrep,,Education,-1,,-1,-1,BenchPrep,https://benchprep.com/,,
 "Bentley Systems, Inc.",Public,Computer Software,700000000,,3800,-1,Bentley Systems,https://www.bentley.com/en/about-us/careers,,
 "Best Way Technologies, Inc.",Private,Software,-1,,-1,-1,Best Way Technologies,https://www.it-ology.org/it-resources/how-to-start-an-it-career/,,
 BetterCloud,Private,"Internet, Technology",-1,,-1,-1,BetterCloud,https://www.bettercloud.com/careers/,,
-BettrLife Corporation,Private,"Health Care,Wellness (medicine),Wellness",-1,,-1,-1,BettrLife,https://www.bettrlife.com/,,
+BettrLife Corporation,Private,"Health Care,Wellness,Wellness",-1,,-1,-1,BettrLife,https://www.bettrlife.com/,,
 Big Tech,,Information technology,-1,,-1,-1,Big Tech,https://learn.joinhandshake.com/students/tech-companies-hiring-students-now/,,
-HCL BigFix,,"Enterprise IT, IT management, security configuration management<br> PC lifecycle management, networked computing device management, IT compliance reporting",-1,,250,-1,BigFix Inc,https://www.ibm.com/us-en/employment/entrylevel/,,
+HCL BigFix,,"Enterprise IT, IT management, security configuration management",-1,,250,-1,BigFix Inc,https://www.ibm.com/us-en/employment/entrylevel/,,
 BigMachines,Subsidiary,,32100000,,-1,-1,BigMachines,https://www.oracle.com/corporate/acquisitions/bigmachines/,,
 Billions in Change,Limited Liability Corporation (LLC),,-1,,-1,-1,Billions in Change,https://billionsinchange.com/contact/,,
 BioPharm Systems,Private,"IT service management,IT services,Information technology consulting,IT consulting",-1,"San Mateo, California",50,-1,BioPharm (US company),https://www.pfizer.com/careers/en/early-careers,,
@@ -200,13 +200,13 @@ Body Labs,Subsidiary,Artificial intelligence,-1,,-1,-1,Body Labs,https://www.ind
 Boller and Chivens,,"Astronomical telescopes, cameras and other precision instruments",-1,,-1,-1,Boller and Chivens,https://studentemployment.umich.edu/,,
 The Bomb Factory,Music Venue,,-1,,-1,-1,Bomb Factory,https://www.thebombfactory.com/connect/employment,,
 "Bon'App, Inc.",Private,"Software, Information Retrieval Services, Consumer Goods Analytics",-1,"Cambridge, MA",-1,-1,Bon'App,https://www.bamco.com/careers/,,
-"Booker Software, Inc.",Private company,Service Management Platform<br />Software-as-a-Service,-1,,270,-1,Booker Software,https://www.booker.com/careers/listing/qa,,
+"Booker Software, Inc.",Private company,Service Management Platform,-1,,270,-1,Booker Software,https://www.booker.com/careers/listing/qa,,
 Boris FX,Private,Video effects software,-1,,-1,-1,Boris FX,https://borisfx.com/company/careers/,,
 Borland Software Corporation,Subsidiary,Computer software,172000000,,1,-1,Borland,https://www.mckinsey.com/careers/students,,
 "Bourns, Inc.",Privately held company,Electronics,-1,,7,1947,"Bourns, Inc.",https://www.bourns.com/support/careers,,
 BrainKeeper,,,-1,,-1,-1,BrainKeeper,https://www.mckinsey.com/careers/students,,
 Brainshark,Private,,-1,,-1,-1,Brainshark,https://www.brainshark.com/company/careers,,
-Brandfolder,Private,"B2B Software, SaaS, Digital Asset Management (DAM), Marketing Asset Management (MAM)",-1,,50,-1,Brandfolder,https://jobs.brandfolder.com/,,
+Brandfolder,Private,"B2B Software, SaaS, Digital Asset Management , Marketing Asset Management",-1,,50,-1,Brandfolder,https://jobs.brandfolder.com/,,
 "Brandlive, Inc.",Private,Software,-1,,-1,-1,Brandlive,https://www.indeed.com/cmp/Brandlive,,
 Breakthrough Software,,Software,-1,,-1,1984,Breakthrough Software,https://www.breakthroughcollaborative.org/,,
 "Bright Machines, Inc.",Privately held company,Software,-1,,500,-1,Bright Machines,https://www.brightmachines.com/join-the-team/,,
@@ -233,13 +233,13 @@ CD-adapco,Privately Held,"Computer-aided engineering,Computer software,software"
 CECO Environmental Corp.,Public,Pollution,-1,,-1,-1,CECO Environmental,https://www.cecoenviro.com/careers,,
 CERTPOINT Systems Inc.,Private,eLearning software and services,-1,,-1,-1,CERTPOINT Systems,http://www.certificationpoint.org/,,
 CHS Electronics,,software,-1,"Miami, Florida",-1,1994,CHS Electronics,https://www.chsinc.com/careers,,
-CTERA,Private,"Cloud storage,Cloud storage gateway,s<br/>,Data protection,Online backup service,Data synchronization",-1,,-1,-1,CTERA Networks,https://www.ctera.com/company/careers/,,
+CTERA,Private,"Cloud storage,Cloud storage gateway,s,Data protection,Online backup service,Data synchronization",-1,,-1,-1,CTERA Networks,https://www.ctera.com/company/careers/,,
 CTL,private,Technology,-1,,-1,-1,CTL (company),https://ctl.net/pages/jobs,,
 CYBRA Corporation,Public,Computer Software Solutions,-1,,-1,-1,CYBRA,https://cybra.com/careers/,,
 "Cadence Design Systems, Inc.",Public,Computer Software,2336000000,,8,-1,Cadence Design Systems,https://www.cadence.com/en_US/home/company/careers.html,,
 "Cakewalk, Inc.",Private,Software,-1,,-1,-1,Cakewalk (company),https://www.cakewalk.com/Careers,,
 Caligari Corporation,,"software,animation",-1,,-1,1985,Caligari Corporation,https://www.mckinsey.com/careers/students,,
-Caliper Corporation,Private,"Cartography,Mapping Software,Geographic information system,Geographic Information Systems (GIS)",-1,,-1,-1,Caliper Corporation,https://www.caliper.com/jobs.htm,,
+Caliper Corporation,Private,"Cartography,Mapping Software,Geographic information system,Geographic Information Systems",-1,,-1,-1,Caliper Corporation,https://www.caliper.com/jobs.htm,,
 CallMiner,Private,Software,-1,,-1,2002,CallMiner,https://careers.callminer.com/,,
 "Callware Technologies, Inc.",Private,"Telecommunications,Software",-1,,-1,-1,Callware,https://www.callware.com/388/about-us/career-opportunities/,,
 Calm (company),Private,,-1,,0,2012,Calm (company),https://boards.greenhouse.io/calm,,
@@ -257,7 +257,7 @@ Casebook PBC,Public-benefit corporation,"Cloud computing,Software,New York City,
 Caspio,Private,Enterprise Software,-1,,150,-1,Caspio,https://www.caspio.com/careers/,,
 Catalant,private,Computer Software,-1,,-1,-1,Catalant,https://www.catalent.com/careers/students-grads/,,
 "Catalyst Repository Systems, Inc.",Subsidiary,"legal,computer software,e-discovery",-1,,170,-1,Catalyst Repository Systems Inc.,https://www.zippia.com/catalyst-repository-systems-careers-1407027/,,
-Causata,Private,"customer experience management software<br />,Marketing automation",-1,,-1,2009,Causata,https://www.mckinsey.com/careers/students,,
+Causata,Private,"customer experience management software,Marketing automation",-1,,-1,2009,Causata,https://www.mckinsey.com/careers/students,,
 "Cellport Systems, Inc.",Private Corporation,,-1,,-1,1992,Cellport Systems,https://studentjobs.wisc.edu/,,
 Center for Advanced Public Safety,Research Unit,,-1,,-1,-1,Center for Advanced Public Safety,"https://www.glassdoor.com/Overview/Working-at-Center-for-Advanced-Public-Safety-EI_IE724973.11,44.htm",,
 CenterSpace Software LLC.,Private,,-1,,-1,-1,CenterSpace Software,https://www.lockheedmartinjobs.com/college-students,,
@@ -269,7 +269,7 @@ Cerner Corporation,Public,"Health Care,Information Technology",5700000000,,27,-1
 ChannelAdvisor,Public,e-commerce,130000000,,642,2001,ChannelAdvisor,https://www.channeladvisor.com/careers/,,
 Check Point Software Technologies Ltd.,Public,"Security software,Computer hardware",1995000000,,5,-1,Check Point,https://careers.checkpoint.com/index.php?m=careers&a=jobs&country_code=BE,,
 "Chef Software, Inc.",Private,Computer software,-1,,-1,-1,Chef (company),https://www.culinaryschools.org/career-info/,,
-Cherry GmbH,Corporation,"Electronic switch,es<br />,Computer hardware",250000000,,380,-1,Cherry (keyboards),https://cherryamericas.com/about-cherry/jobs.html,,
+Cherry GmbH,Corporation,"Electronic switch,es,Computer hardware",250000000,,380,-1,Cherry (keyboards),https://cherryamericas.com/about-cherry/jobs.html,,
 Cherwell Software,Private,Enterprise software,-1,,-1,-1,Cherwell Software,https://www.cherwell.com/about/careers/,,
 Chrome River,,"Software as a service,Software-as-a-service",-1,,350,-1,Chrome River Technologies,https://www.chromeriver.com/careers,,
 Cigital,Public,software security,-1,,400,-1,Cigital,https://www.synopsys.com/company/synopsys-careers.html,,
@@ -291,7 +291,7 @@ Upland Software,Public,Content Management,-1,,-1,-1,Clickability,https://www.usa
 Clinkle,Privately held company,Mobile payments,-1,,-1,-1,Clinkle,https://angel.co/company/clinkle,,
 ClockworkMod Recovery,,,-1,,-1,-1,ClockworkMod,https://www.mckinsey.com/careers/students,,
 CloudApp Screen Recorder,,Cloud Computing,-1,,-1,-1,CloudApp,https://www.getcloudapp.com/careers,,
-"CloudBees, Inc.",Private,"Continuous delivery software based on,Jenkins (software),Jenkins CI",-1,,-1,-1,CloudBees,https://www.indeed.com/cmp/Cloudbees,,
+"CloudBees, Inc.",Private,"Continuous delivery software based on,Jenkins,Jenkins CI",-1,,-1,-1,CloudBees,https://www.indeed.com/cmp/Cloudbees,,
 "CloudEndure, Inc.",,"Software,Computer Software,Information Technology,Cloud Computing",-1,,-1,-1,CloudEndure,https://www.cloudendure.com/,,
 CloudHealth by VMware,Subsidiary,Software,-1,,280,-1,CloudHealth Technologies,https://www.cloudhealthtech.com/careers,,
 "CloudSight, Inc.",Private,"Internet,Computer Software,Computer Vision",-1,,-1,2012,CloudSight,https://angel.co/company/cloudsightai/jobs,,
@@ -309,7 +309,7 @@ Code42,Private,Software,-1,,-1,-1,Code42,https://www.code42.com/careers/,,
 CodeWeavers,Private,Computer software,-1,,30,-1,CodeWeavers,https://www.codeweavers.com/about/jobs,,
 Cofio Software Incorporated,,Computer software,-1,,-1,-1,Cofio Software,https://www.mckinsey.com/careers/students,,
 "Cogent Systems, Inc.",Subsidiary,Security,-1,,365,-1,Cogent Systems,https://www.cogentco.com/en/about-cogent/careers,,
-Coherent Solutions,Private,"Software development<br>,Software testing,Software maintenance,IT consulting,Web development",-1,,800,-1,Coherent Solutions,https://www.coherent-solutions.com/about-us/career-opportunities/,,
+Coherent Solutions,Private,"Software development,Software testing,Software maintenance,IT consulting,Web development",-1,,800,-1,Coherent Solutions,https://www.coherent-solutions.com/about-us/career-opportunities/,,
 CollabNet VersionOne,Private,Software Company,-1,,-1,1999,CollabNet,https://www.collab.net/company/careers,,
 CollaborateMD,Private,Software,-1,,-1,1999,CollaborateMD,https://www.collaboratemd.com/about-us/careers/,,
 "Collaborative Drug Discovery, Inc.",Private,"Life sciences,informatics",-1,,-1,-1,Collaborative Drug Discovery,https://www.collaborativedrug.com/about/careers/,,
@@ -380,7 +380,7 @@ Datacap Inc. - An IBM Company,Private,Computer software,-1,,55,-1,Datacap,https:
 Datalight,Private,Computer software,-1,,29,1983,Datalight,https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/,,
 Datalogic S.p.A.,Holding (,Electronics,-1,,0,-1,Datalogics,https://www.datalogic.com/eng/company/careers-ca-26.html,,
 "Datatel, Inc.",Private,Higher Education Technology Solutions,-1,,533,-1,Datatel,https://careers.ellucian.com/,,
-Daxcon,Private,"Aerospace,defense industry,Defense,Automotive,Agriculture,Product (business),Consumer Products,Construction,Mining",-1,,350,-1,Daxcon,"https://www.glassdoor.com/Overview/Working-at-Daxcon-EI_IE140278.11,17.htm",,
+Daxcon,Private,"Aerospace,defense industry,Defense,Automotive,Agriculture,Product,Consumer Products,Construction,Mining",-1,,350,-1,Daxcon,"https://www.glassdoor.com/Overview/Working-at-Daxcon-EI_IE140278.11,17.htm",,
 "DaySmart Software, Inc.",Private Company,Computer Software,-1,,61,-1,DaySmart Software,http://careers.daysmart.com/,,
 "Daz Productions, Inc",Software and Content Developer,,-1,,-1,-1,Daz 3D,https://www.internships.com/posting/bug_38852945996,,
 DeLorme,,"software,technology",-1,,-1,-1,DeLorme,https://careers-us.garmin.com/,,
@@ -411,7 +411,7 @@ Devicescape,Private,"Mobile phone,Mobile,Software",-1,,-1,-1,Devicescape,http://
 The DiSTI Corporation,Privately owned company,Modeling and simulation,-1,,-1,-1,DiSTI,https://www.austinisd.org/tad/careers,,
 Dialogic,Private,Telecommunication,-1,,-1,-1,Dialogic Corp,https://www.mckinsey.com/careers/students,,
 Didiom LLC,Private,"Mobile media,Internet,software",-1,,-1,-1,Didiom,https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/,,
-"Dieselpoint, Inc.",Private company,"Information Technology <br/>,Information access",-1,,-1,-1,"Dieselpoint, Inc.",http://dieselpoint.com/careers/index.html,,
+"Dieselpoint, Inc.",Private company,"Information Technology,Information access",-1,,-1,-1,"Dieselpoint, Inc.",http://dieselpoint.com/careers/index.html,,
 Digital Assembly,Private,Computer software,-1,,-1,-1,Digital Assembly,https://generalassemb.ly/careers,,
 Digital Fuel,Privately held,Software & Programming,-1,,-1,-1,Digital Fuel,https://www.mckinsey.com/careers/students,,
 Digital Guardian,,Data security,-1,,375,2003,Digital Guardian,https://digitalguardian.com/about/careers,,
@@ -449,7 +449,7 @@ EON Reality,,"Virtual Reality,Augmented Reality",-1,,-1,-1,EON Reality,https://e
 EPAM Systems,Public,Software engineering,2290000000,,36,-1,EPAM Systems,https://www.epam.com/careers,,
 eReflect,,Software,-1,,-1,2006,EReflect,,,
 EVRYTHNG,Private,,-1,,-1,-1,EVRYTHNG,https://www.topuniversities.com/student-info/careers-advice/everything-students-need-know-about-virtual-internships,,
-eVoice,Subsidiary,"Service (economics),Business Services",-1,,-1,-1,EVoice,https://www.indeed.com/q-Automated-Voice-jobs.html,,
+eVoice,Subsidiary,"Service,Business Services",-1,,-1,-1,EVoice,https://www.indeed.com/q-Automated-Voice-jobs.html,,
 Eagle Investment Systems,Subsidiary of BNY Mellon (NYSE: BK),Financial Services Technology,-1,,1000,-1,Eagle Investment Systems,https://jobs.bnymellon.com/jobs?keywords=Eagle%20Investment%20Systems&page=1,,
 "Eastgate Systems, Inc.",corporation,"Macintosh software industry  Windows software industry,Electronic publishing",-1,,-1,-1,Eastgate Systems,https://www.mckinsey.com/careers/students,,
 Easy Software Products,,software,-1,"Washington, D.C.",-1,1993,Easy Software Products,https://www.ibm.com/us-en/employment/entrylevel/,,
@@ -488,7 +488,7 @@ Epicor,Private,Computer software,900000000,,4,-1,Epicor,https://jobs.epicor.com/
 "Epiphany, Inc.",Public,Computer software,71500000,,-1,-1,"Epiphany, Inc.",http://www.epiphanyinc.net/company/careers,,
 Equitrac Corporation,Subsidiary,document output management and cost recovery,-1,,-1,-1,Equitrac,https://www.nuance.com/about-us/careers.html,,
 "Ericom Software, Inc.",Private,"Software,Information Technology",-1,,-1,-1,Ericom Software,https://www.ericom.com/careers.asp,,
-Esri,Private,"Software,Geographic information system,Geographic Information Systems (GIS)",-1,,3,1969,Esri,https://www.esri.com/en-us/about/careers/student-jobs,,
+Esri,Private,"Software,Geographic information system,Geographic Information Systems",-1,,3,1969,Esri,https://www.esri.com/en-us/about/careers/student-jobs,,
 "Evergage, Inc.",,"Software as a Service,Web optimization,Website Optimization",-1,,-1,-1,Evergage,https://www.salesforce.com/company/careers/,,
 Excite,Portal,,-1,,-1,-1,Excite,https://www.ucclermont.edu/careers,,
 Exela Technologies,Public,"Software,information technology",-1,,22,-1,Exela Technologies,https://www.exelatech.com/careers,,
@@ -539,7 +539,7 @@ GraphOn Corporation,Public,Software,-1,,-1,-1,GO-Global,http://www.goinglobal.co
 "GSE Systems, Inc.",Public,"Process control,Process Controls,Operator Training Simulator,Educational software,Educational Software",-1,,450,-1,GSE Systems,https://www.gses.com/contact-us/gse-careers/,,
 Infor Nexus,Private,"Supply-chain management,Trade Automation Software,Global trade automation,Enterprise software",-1,,-1,-1,GT Nexus,https://www.infor.com/about/careers,,
 GTECH Corp.,Subsidiary,"Lottery,Lotteries,Online gambling",-1,,-1,-1,GTECH Corporation,https://career.gatech.edu/,,
-OpenText GXS,Subsidiary,B2B e-Commerce <br/> Data integration <br/> Cloud Services Brokerage,480000000,,3,-1,GXS Inc.,https://careers.opentext.com/,,
+OpenText GXS,Subsidiary,B2B e-Commerce,480000000,,3,-1,GXS Inc.,https://careers.opentext.com/,,
 Gadget Flow Inc,C Corp,"Online Retail,Internet Marketing",-1,"Uniondale, New York United States U.S.",-1,2012,Gadget Flow,https://thegadgetflow.com/apply/,,
 "ecoATM, LLC",Private,eCommerce,-1,,-1,-1,Gazelle (Internet company),https://www.abbott.com/careers/students.html,,
 "Geeknet, Inc.",Subsidiary,"Online media,Retail",-1,,-1,-1,Geeknet,https://www.mckinsey.com/careers/students,,
@@ -553,7 +553,7 @@ Gigmax,,"data backup,Data Backup,Data Synchronization,File hosting service",-1,,
 "Gigya, Inc.",Subsidiary,"Identity management,Customer identity management",-1,,280,-1,Gigya,https://www.sap.com/about/careers.html,,
 Glitch,Private,Software,-1,,32,-1,Glitch (company),https://glitch.com/about,,
 Globalscape,Public,"Managed File Transfer,Information Security,Network Management,SSH File Transfer Protocol,Secure File Transfer",-1,,-1,-1,Globalscape,https://www.globalscape.com/careers,,
-GlobeXplorer,,"Websites,Aerial Photography,Geographic information system,Geographic Information Systems (GIS)",-1,,-1,-1,GlobeXplorer,https://www.mckinsey.com/careers/students,,
+GlobeXplorer,,"Websites,Aerial Photography,Geographic information system,Geographic Information Systems",-1,,-1,-1,GlobeXplorer,https://www.mckinsey.com/careers/students,,
 "Glooko, Inc",Private,Software,-1,,-1,-1,Glooko,https://www.glooko.com/careers/,,
 "Gluster, Inc.",Privately funded,"Software,computer storage",-1,,60,-1,Gluster,https://www.mckinsey.com/careers/students,,
 GoGuardian,,Education Technology,-1,,-1,-1,GoGuardian,https://www.goguardian.com/careers/,,
@@ -585,7 +585,7 @@ Gupta Technologies,,software,-1,"Roseville, California Roseville Placer County, 
 Gusto,,,-1,,-1,2011,Gusto (company),https://gusto.com/about/careers,,
 "hCentive, Inc.",Private,Software development,-1,,500,-1,HCentive,https://www.zippia.com/hcentive-careers-1398267/,,
 Micro Focus Enterprise Security,,"Security software,Enterprise Software",-1,,-1,-1,HP Enterprise Security Products,https://www.hpe.com/us/en/about/jobs/students.html,,
-HP Inc.,Public,"Computer hardware,printer (computing),printers",58330000000,,56,2015,HP Inc.,https://jobs.hp.com/en-us/Students-Graduates?prefilters=(%20ShortTextField2%20%3D%20%22Internship%22%20OR%20%20ShortTextField2%20%3D%20%22Graduate%22%20OR%20%20ShortTextField2%20%3D%20%22Apprenticeship%22%20%20)%20,,
+HP Inc.,Public,"Computer hardware,printer,printers",58330000000,,56,2015,HP Inc.,https://jobs.hp.com/en-us/Students-Graduates?prefilters=(%20ShortTextField2%20%3D%20%22Internship%22%20OR%20%20ShortTextField2%20%3D%20%22Graduate%22%20OR%20%20ShortTextField2%20%3D%20%22Apprenticeship%22%20%20)%20,,
 "Halcyon Monitoring Solutions, Inc.",Private,"Enterprise Software,IT Services",-1,,-1,-1,Halcyon Monitoring Solutions,https://www.helpsystems.com/product-lines/halcyon,,
 Handmark,Private,Mobile Applications,-1,,100,-1,Handmark,https://www.lockheedmartinjobs.com/college-students,,
 Harman Connected Services,Subsidiary,"Telecommunication,Telecom,Outsourcing",-1,,30,2001,Harman Connected Services,https://jobs.harman.com/,,
@@ -596,12 +596,12 @@ HelloSociety,,Marketing Communications,-1,,-1,-1,HelloSociety,https://hellosocie
 HelloWallet,Private,"Software,Personal finance",-1,,60,-1,HelloWallet,https://www.bnymellon.com/us/en/careers/students.html,,
 Help Scout,Private,"Software,SaaS",-1,,100,2011,Help Scout,https://www.helpscout.com/company/careers/,,
 "HelpSystems, LLC",Private,,-1,,955,-1,HelpSystems,https://www.helpsystems.com/about/careers,,
-Hewlett Packard Enterprise Company,Public,"Financial technology,Computer hardware,Computer software,Cloud computing,Internet of Things (IoT),Artificial intelligence,Computer networking",28900000000,,61,2015,Hewlett Packard Enterprise,https://www.hpe.com/us/en/about/jobs/students.html,HPE,8.82
+Hewlett Packard Enterprise Company,Public,"Financial technology,Computer hardware,Computer software,Cloud computing,Internet of Things,Artificial intelligence,Computer networking",28900000000,,61,2015,Hewlett Packard Enterprise,https://www.hpe.com/us/en/about/jobs/students.html,HPE,8.82
 Hexnode,,"Enterprise mobility management,software",-1,,-1,-1,Hexnode,https://www.hexnode.com/mobile-device-management/,,
 High Fidelity,Private,,-1,,-1,-1,High Fidelity (company),https://jobs.fidelity.com/page/show/students,,
 HyperACCESS,,,-1,,-1,-1,Hilgraeve,https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/,,
 Hillcrest Labs,,technology,-1,"Rockville, Maryland",-1,2001,Hillcrest Labs,https://hillcrestlabs.com/,,
-Hitachi Data Systems,A wholly owned subsidiary of ,"Computer data storage,systems<br />Data storage,software,Computer systems,Computer hardware,Computer software,IT consulting,IT services",-1,,6,-1,Hitachi Data Systems,https://www.hitachivantara.com/en-us/company/careers.html,,
+Hitachi Data Systems,A wholly owned subsidiary of ,"Computer data storage,systems,software,Computer systems,Computer hardware,Computer software,IT consulting,IT services",-1,,6,-1,Hitachi Data Systems,https://www.hitachivantara.com/en-us/company/careers.html,,
 "HoloBuilder, Inc.",Construction,Construction Technology,-1,,-1,-1,Holobuilder,https://angel.co/company/holobuilder/jobs,,
 "Holosofx, Inc.",Privately held company ('''Acquired by ,,-1,,45,-1,Holosofx,,,
 "Honestech, Inc",,Software,-1,,-1,-1,Honestech,https://www.mckinsey.com/careers/students,,
@@ -644,7 +644,7 @@ InMarket,Private,AdTech,-1,,100,-1,InMarket,https://inmarket.com/careers/,,
 inXitu,Private,X-ray instrumentation,-1,,-1,2007,InXitu,,,
 Inbenta,AI Chatbots,"Natural language processing,artificial intelligence,Internet,information technology",-1,,-1,-1,Inbenta,https://www.inbenta.com/en/about-us/careers/,,
 Incomit,,telecommunications software,-1,Sweden,-1,2000,Incomit,https://thewomensfoundation.org/2010/low-income-students-and-career-choice/,,
-Lockheed Martin Corporation,Public,"Technology,Advanced Technologies,Information Security,Aerospace manufacturer,Aerospace,Defense (military),Defense",59810000000,,110,-1,Industrial Defender,https://www.industrialdefender.com/careers/,,
+Lockheed Martin Corporation,Public,"Technology,Advanced Technologies,Information Security,Aerospace manufacturer,Aerospace,Defense,Defense",59810000000,,110,-1,Industrial Defender,https://www.industrialdefender.com/careers/,,
 Inedo,LLC,"Information Technology,Computer software",-1,,-1,-1,Inedo,https://inedo.com/company/career-culture,,
 InetSoft Technology Corporation,Privately Owned,Business intelligence tools,-1,,-1,1996,InetSoft,https://www.inetsoft.com/company/careers/,,
 "InfiniDB, Inc.",,"Enterprise software,Database management,Data warehousing",-1,,-1,-1,InfiniDB,,,
@@ -662,10 +662,10 @@ Inphi Corporation,Public,Semiconductors,365000000,,685,2000,Inphi Corporation,ht
 Insight Technology,,Arms industry,-1,,-1,-1,Insight Technology,https://www.insight.com/en_US/careers.html,,
 Insilico Medicine,Private,Biotechnology,-1,,-1,-1,Insilicos,,,
 Instabase,Private,Software,-1,,-1,-1,Instabase,https://about.instabase.com/careers/,,
-"Instructure, Inc.",Subsidiary,Educational Technology <br/>Learning Management Systems<br/>MOOC,209500000,,1,-1,Instructure,https://www.instructure.com/about/careers,,
-Intego,Privately held company,"Computer software <br />,Security software",-1,,-1,-1,Intego,https://www.intego.com/company/careers,,
+"Instructure, Inc.",Subsidiary,Educational Technology,209500000,,1,-1,Instructure,https://www.instructure.com/about/careers,,
+Intego,Privately held company,"Computer software,Security software",-1,,-1,-1,Intego,https://www.intego.com/company/careers,,
 "Integrated Computer Solutions, Inc.",Private,Computer software,-1,,-1,-1,Integrated Computer Solutions,https://icsinc.com/careers/,,
-"Integration Point, Inc.",Private,"Global Trade Management<br>,Supply Chain Management",-1,,-1,-1,Integration Point (company),https://www.thomsonreuters.com/en/careers.html,,
+"Integration Point, Inc.",Private,"Global Trade Management,Supply Chain Management",-1,,-1,-1,Integration Point (company),https://www.thomsonreuters.com/en/careers.html,,
 Intel Corporation,Public,"Semiconductor industry,Semiconductors",71900000000,,110,1968,Intel,https://jobs.intel.com/,IDN,8.5
 Intelisys,,technology,-1,"Petaluma, California",-1,1994,Intelisys,https://intelisys.com/about/careers/,,
 IntelliCorp,,Software,-1,,-1,1980,IntelliCorp (software),https://jobs.intel.com/,,
@@ -751,7 +751,7 @@ Lavastorm,Private,"Analytics,Business Intelligence,Web development",-1,,-1,-1,La
 Learn.com Inc.,Private,Computer Software,-1,,-1,-1,Learn.com,https://www.learning.com/about/careers/,,
 Letgo,Online classifieds,"Marketplace,Application software",-1,,-1,-1,Letgo,https://we.letgo.com/careers,,
 Lever,,,-1,"San Francisco, CA",-1,2012,Lever (company),https://www.lever.co/careers/,,
-"Levi, Ray & Shoup, Inc.",Privately held,"Computer software<br />IT consulting<br />Website design and hosting<br />IT education, training and certification<br />Computer hardware<br />IT services<br />Large boat services",-1,,630,-1,"Levi, Ray & Shoup",https://jobs.lrs.com/,,
+"Levi, Ray & Shoup, Inc.",Privately held,Computer software,-1,,630,-1,"Levi, Ray & Shoup",https://jobs.lrs.com/,,
 "LightSurf Technologies, Inc.","1998-2005: Private<br/>
 2005-2009: Subsidiary of ",Wireless,-1,,-1,-1,LightSurf,https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/,,
 Lightspeed Systems,,,-1,,-1,-1,Lightspeed Systems,https://www.lightspeedsystems.com/company/careers/,,
@@ -761,7 +761,7 @@ Linkabit,,technology,-1,California,-1,1986,Linkabit,http://www2.l3t.com/linkabit
 "Lionbridge Technologies, Inc.",Privately held company,"Language localization,Software testing,E-learning",-1,,6000,-1,Lionbridge,https://www.lionbridge.com/join-our-team/,,
 LiquidPlanner,,,-1,,-1,-1,LiquidPlanner,https://www.liquidplanner.com/blog/category/careers/,,
 Ramallah,Municipality type A (City),,-1,,-1,-1,LitÃ©ra,https://careerservices.upenn.edu/,,
-"LivePerson, Inc.",,Internet <br/>Computer software,291600000,,1,-1,LivePerson,https://www.liveperson.com/company/careers/,,
+"LivePerson, Inc.",,Internet,291600000,,1,-1,LivePerson,https://www.liveperson.com/company/careers/,,
 "LiveRamp Holdings, Inc.",Public,"Data connectivity,,Data onboarding,Identity resolution",-1,,-1,-1,LiveRamp,https://liveramp.com/careers/new-grads-and-internships/,,
 LiveText Inc.,Incorporation,Computer software,-1,,-1,-1,LiveText,https://www.livetext.com/,,
 Livefyre,Hosted ,,-1,,-1,-1,Livefyre,https://www.adobe.com/careers.html,,
@@ -788,9 +788,9 @@ Luxology,,software,-1,,-1,-1,Luxology,,,
 mLab,,"Software, Cloud Databases",-1,,-1,-1,MLab,https://mlab.com/,,
 "MRI Software, LLC",Private,"Software,Cloud computing,Professional Services",-1,,2,-1,MRI Software,https://www.mrisoftware.com/about/careers/,,
 MadCap Software,Private,Computer software,-1,,-1,-1,MadCap Software,https://www.madcapsoftware.com/company/careers/,,
-Magaya Corporation,,"Software,for the,Logistics, Logistics Industry",-1,"Miami, Florida",-1,2001,Magaya Corporation,https://www.magaya.com/careers/,,
+Magaya Corporation,,"Software,for the,Logistics,Logistics Industry",-1,"Miami, Florida",-1,2001,Magaya Corporation,https://www.magaya.com/careers/,,
 Magento,,,-1,,-1,-1,Magento,https://www.adobe.com/careers.html,,
-Magic Bytes LLC,Privately held company,"Software development,industry<br/>,Video game industry",-1,,-1,2017,Magic Bytes,https://byteback.org/careers/,,
+Magic Bytes LLC,Privately held company,"Software development,industry,Video game industry",-1,,-1,2017,Magic Bytes,https://byteback.org/careers/,,
 "Magic Leap, Inc.",,,-1,,-1,-1,Magic Leap,https://www.magicleap.com/careers,,
 "Magic Solutions, Inc.",Private,Computer software,-1,,-1,-1,Magic Solutions,https://www.magicleap.com/careers,,
 "Magoosh, Inc.",Educational Technology,"Education,Internet",-1,,-1,-1,Magoosh,https://magoosh.com/careers/,,
@@ -819,7 +819,7 @@ McAfee Corp.,Public,Computer software,2600000000,,6,-1,McAfee,,,
 MediNotes Corporation,Private,"Electronic medical records,computer software,publishing",-1,,-1,-1,MediNotes,,,
 "MediaDefender, Inc.",,Copyright enforcement,-1,,-1,-1,MediaDefender,,,
 "Mediapolis, Inc.",,Web engineering,-1,,-1,-1,Mediapolis (company),,,
-"Medidata Solutions, Inc.",Private,"Clinical development,technology <br />,Computer software,Software as a service",636000000,,1,-1,Medidata Solutions,,,
+"Medidata Solutions, Inc.",Private,"Clinical development,technology,Computer software,Software as a service",636000000,,1,-1,Medidata Solutions,,,
 "Medical Information Technology, Inc.",Private company,Health informatics,493800000,,-1,-1,Meditech,,,
 Meebo,,,-1,,-1,2005,Meebo,,,
 Meridian Knowledge Solutions,Private,Software,-1,,200,-1,Meridian Knowledge Solutions,,,
@@ -861,7 +861,7 @@ MonDevices,,Technology,-1,,-1,2014,MonDevices,,,
 "Monetate, Inc.",Private,"Software Industry,Software,Web optimization,Website Optimization",-1,,220,-1,Monetate,,,
 MongoDB Inc.,Public,Software,-1,"New York City, New York United States",2000,2007,MongoDB Inc.,,,
 MontaVista Software.,,"Internet,Software",-1,,250,-1,MontaVista,,,
-Moog Incorporated,Public,"Aerospace engineering,Aerospace,Defense (military),Defense,Automation,Industrial Automation,Motion control,Motion Control",-1,,10,-1,Moog Inc.,,,
+Moog Incorporated,Public,"Aerospace engineering,Aerospace,Defense,Defense,Automation,Industrial Automation,Motion control,Motion Control",-1,,10,-1,Moog Inc.,,,
 Moonit LLC,,Internet,-1,,-1,-1,Moonit,,,
 Moovweb,,"Platform as a Service, Serverless Computing, Cloud Computing",-1,,-1,2009,Moovweb,,,
 MorphThing,,"Morphing,Application",-1,,-1,-1,MorphThing,,,
@@ -975,7 +975,7 @@ PSSC Labs,Private,"Computer hardware,IT hardware,IT service management,IT servic
 PTC Inc.,Public,"Computer-aided design,Computer-aided manufacturing,Computer-aided engineering,Product lifecycle management,Software,Internet of Things",1164000000,,6,-1,PTC (software company),,,
 PacketVideo Corporation,Privately Held,,-1,,-1,-1,PacketVideo,,,
 "PagerDuty, Inc.",Public,"Information technology,Incident management,Information technology operations",84000000,"San Francisco, California",524,-1,PagerDuty,,,
-Palamida,Privately held,"Open Source License Management<br />,Application lifecycle management",-1,,-1,-1,Palamida,,,
+Palamida,Privately held,"Open Source License Management,Application lifecycle management",-1,,-1,-1,Palamida,,,
 Palantir Technologies Inc.,Public,Software,739000000,,0,-1,Palantir Technologies,,,
 PandaDoc,Private,"Software as a service,SaaS",-1,,-1,2013,PandaDoc,,,
 Panic Inc.,Private,"Software,Video game industry,Video games,Consumer electronics",-1,,-1,-1,Panic Inc.,,,
@@ -990,12 +990,12 @@ Parasoft,Private,"Computer software,Software testing",-1,,-1,1987,Parasoft,,,
 "'''Passport Software, Inc.'''",,Computer software,-1,,-1,-1,Passport Software,,,
 PathGuide Technologies,Private,Warehouse Management System,-1,,-1,-1,PathGuide Technologies,,,
 PathWave Design (formerly EEsof),,Electronic Design Automation Software,-1,,-1,-1,PathWave Design,,,
-"Patton Design, Inc.",,industrial<br>engineering<br>technology,-1,"Irvine, California",-1,1983,Patton Design,,,
+"Patton Design, Inc.",,industrial,-1,"Irvine, California",-1,1983,Patton Design,,,
 Paxata,Private,Enterprise analytics software,-1,,-1,-1,Paxata,,,
 Peeple,,Home security,-1,,-1,-1,Peeple (company),,,
-PeerStream,Public,Computer software<br>Computer applications,-1,,-1,-1,PeerStream,,,
+PeerStream,Public,Computer software,-1,,-1,-1,PeerStream,,,
 Pegasystems Inc.,Public,Software,891600000,,5000,-1,Pegasystems,,,
-PeopleDoc,Private,Human Resources Information Technology <br /> and Services,-1,,240,2007,PeopleDoc,,,
+PeopleDoc,Private,Human Resources Information Technology,-1,,240,2007,PeopleDoc,,,
 Perceptive Software,,"Enterprise Content Management,Document Management",-1,,900,-1,Perceptive Software,,,
 "Perforce Software, Inc.",Private,"Version control,software,,application lifecycle management,repository management, developer collaboration tools and,Agile software development,Agile planning,software",-1,,250,-1,Perforce,,,
 Performance Technologies Inc,Subsidiary,"Telecommunications network,Networking,and Communication Devices",-1,,115,-1,Performance Technologies,,,
@@ -1050,7 +1050,7 @@ ProofPilot,SaaS Company,"Research,Software as a service,Social Media,Healthcare"
 "Proofpoint Systems, Inc.",Private,Cloud computing,-1,,-1,-1,"Proofpoint Systems, Inc.",,,
 "Proofpoint, Inc.",Public,Security software,888200000,,3,-1,"Proofpoint, Inc.",,,
 Proxicom,Private,"Automotive, Financial Services, Retail & Consumer Goods, Healthcare, Technology & Media, Government, Energy & Utilities, and Industrial Materials & Goods",-1,,-1,-1,Proxicom,,,
-Publicis Sapient,Public,Consumer Products <br> Energy & Commodities <br> Financial Services <br> Health <br> Public Sector <br> Retail <br> Telecommunications <br> Media & Technology <br> Transportation & Mobility <br> Travel & Hospitality,1305000000,,20,-1,Publicis Sapient,,,
+Publicis Sapient,Public,Consumer Products,1305000000,,20,-1,Publicis Sapient,,,
 PumpLinx,,,-1,,-1,-1,Pumplinx,,,
 Punchbowl.com,Private,"Online invitations, software",-1,,-1,-1,Punchbowl.com,,,
 Pypestream,,Enterprise Artificial Intelligence,-1,,-1,2015,Pypestream,,,
@@ -1104,7 +1104,7 @@ Recondo Technology,Private,Software Technology,-1,,135,-1,Recondo Technology,,,
 Recourse Technologies,Subsidiary of ,Computer,-1,,-1,-1,Recourse Technologies,,,
 Red Bend Software,Private,"Software,Communication systems,Information Technology",-1,,-1,-1,Red Bend Software,,,
 "Red Cedar Technology, Inc.",Private,"Multidisciplinary design optimization,Design Optimization,Computer-aided engineering,Software",-1,,-1,-1,Red Cedar Technology,,,
-Red Touch Media,,"Content Management,Delivery (commerce),Distribution",-1,,60,-1,Red Touch Media,,,
+Red Touch Media,,"Content Management,Delivery,Distribution",-1,,60,-1,Red Touch Media,,,
 Red Wing Software,,,-1,,-1,1979,Red Wing Software,,,
 "Redcort Software, Inc.",Private,Software,-1,,-1,-1,Redcort Software,,,
 "Rediker Software, Inc.",Private,,-1,,-1,-1,Rediker Software,,,
@@ -1186,7 +1186,7 @@ Sendmail,,,-1,,-1,-1,"Sendmail, Inc.",,,
 "ServiceNow, Inc.",Public,Enterprise software,-1,"Santa Clara, California",11,-1,ServiceNow,https://www.servicenow.com/careers.html,NOW,513.58
 ShipWorks,,E-commerce,-1,,-1,-1,ShipWorks,,,
 ShopKeep,Private,Point of sale,-1,,200,-1,ShopKeep,,,
-Shopkick,,"Media (communication),Media",-1,,-1,-1,Shopkick,,,
+Shopkick,,"Media,Media",-1,,-1,-1,Shopkick,,,
 Siebel CRM Systems,,"Software,Programming language,programming",-1,,5,1993,Siebel Systems,,,
 Siemens PLM Software,Strategic business unit,"Computer-aided design,Computer-aided manufacturing,Computer-aided engineering,Product lifecycle management,Software",-1,,7600,-1,Siemens PLM Software,,,
 SignalDemand,Privately held,"Price optimization,Margin optimization,for large manufacturers",-1,,-1,-1,SignalDemand,,,
@@ -1216,7 +1216,7 @@ Snappy Gifts,Private company,"Internet,Enterprise software,Application software,
 "SocialChorus, Inc.",Private,Software,-1,,150,2008,"SocialChorus, Inc.",,,
 "SocialFlow, Inc.",,Internet,-1,,-1,-1,SocialFlow,,,
 Socialtext,Private,,-1,,-1,-1,Socialtext,,,
-"SofTech, Inc.",accquired,"Computer-aided design,Computer-aided manufacturing,Product life cycle management (marketing),Software",-1,,-1,-1,SofTech,,,
+"SofTech, Inc.",accquired,"Computer-aided design,Computer-aided manufacturing,Product life cycle management,Software",-1,,-1,-1,SofTech,,,
 "Software Shelf International, Inc.","Computer software development, sales and support.","Software industry,Software",-1,,15,-1,Software Shelf International,,,
 SolarWinds Inc.,Public,Software,938500000,,2,-1,SolarWinds,,,
 Solid Documents Limited,Private,Software,-1,,-1,-1,Solid Documents,,,
@@ -1287,17 +1287,17 @@ TOA Technologies,Private,Software,41000000,,550,-1,TOA Technologies,,,
 TZ Limited,Public,"Engineering,Design,Investment",15860000,,-1,-1,TZ Limited,,,
 "Tableau Software, Inc.",Subsidiary,Software,1200000000,,4,-1,Tableau Software,,,
 Tacit Software,Private,computer software,-1,,30,-1,Tacit Software,,,
-Tactician Corporation,Private,"Computer Software,Geographic information system,Geographic Information Systems (GIS)",-1,"Andover, Massachusetts",-1,1988,Tactician (company),,,
+Tactician Corporation,Private,"Computer Software,Geographic information system,Geographic Information Systems",-1,"Andover, Massachusetts",-1,1988,Tactician (company),,,
 Talarian,,,-1,,-1,-1,Talarian,,,
 Taleo Corporation,Subsidiary,Software,-1,,-1,-1,Taleo,,,
 Rakuten OverDrive,Subsidiary,"eBooks, Library Services, School Services, Software and App Development, Digital Content Management, Publishing",-1,,-1,-1,"Talk:OverDrive, Inc.",,,
 "Talkdesk, Inc.",,Software as a service,-1,,929,2011,Talkdesk,,,
-Talygen Inc.,Software developer,"Information Technology <br>,Internet",-1,,50,-1,Talygen Business Intelligence,,,
+Talygen Inc.,Software developer,"Information Technology,Internet",-1,,50,-1,Talygen Business Intelligence,,,
 "Tarantella, Inc.",Private,Computer software,-1,,-1,2001,"Tarantella, Inc.",,,
 Tavant,Private Limited Company,Computer software,-1,,2500,-1,Tavant Technologies,,,
 Tealium,,Marketing technology,-1,,-1,-1,Tealium,,,
 TeamQuest Corporation,Private,Information technology management,-1,,-1,-1,TeamQuest Corporation,,,
-Tech Data Corporation,Private,"Distribution (business),Technology,Electronics,Computer hardware,Computer software,Information technology consulting,IT consulting,Retail",36775000000,,14,-1,Tech Data,https://www.techdata.com/careers.html,TECD,0.0
+Tech Data Corporation,Private,"Distribution,Technology,Electronics,Computer hardware,Computer software,Information technology consulting,IT consulting,Retail",36775000000,,14,-1,Tech Data,https://www.techdata.com/careers.html,TECD,0.0
 TechChange,,,-1,,-1,-1,TechChange,,,
 TechSmith Corporation,Private,Computer software,-1,,-1,-1,TechSmith,,,
 Technical Systems Consultants (TSC),,Computer software,-1,,-1,-1,Technical Systems Consultants,,,
@@ -1343,17 +1343,17 @@ TopTenWholesale,,Business-to-Business Trade Platform,-1,,-1,-1,TopTenWholesale,,
 TownNews.com,,Online publishing,-1,,-1,1989,TownNews,,,
 TrackingPoint,Private,Applied technology,-1,,-1,-1,TrackingPoint,,,
 Traction Software,Private,Software & Programming,-1,,-1,-1,Traction Software,,,
-TransLattice,,"Relational Database Management System (,RDBMS",-1,,20,-1,TransLattice,,,
+TransLattice,,"Relational Database Management System,RDBMS",-1,,20,-1,TransLattice,,,
 Transzap.,Private,Internet Software & Services,-1,,-1,-1,Transzap,,,
 TriTech Software Systems,Corporation,Software,-1,,550,-1,TriTech Software Systems,,,
 Tricentis,,"Software,information technology",-1,,-1,-1,Tricentis,,,
-Trilogy,Private,"Service (economics),Business Services",-1,,-1,-1,Trilogy (company),,,
+Trilogy,Private,"Service,Business Services",-1,,-1,-1,Trilogy (company),,,
 Tripadvisor Inc.,,"Travel,services",1560000000,,4,-1,Tripadvisor,,,
 Tripp Lite,Private,Computer hardware,-1,,450,-1,Tripp Lite,,,
 "Tripwire, Inc.",Subsidiary,,86200000,,0,-1,Tripwire (company),,,
 Trumpia,Private,"Small business,Enterprise Software,Mobile Marketing",-1,,-1,-1,Trumpia,,,
 Truviso Corporation,,"Software industry,Software",-1,,-1,2006,Truviso,,,
-TubeMogul Inc.,Subsidiary,Marketing and Advertising<br/>Advertising Software,180700000,,577,-1,TubeMogul,,,
+TubeMogul Inc.,Subsidiary,Marketing and Advertising,180700000,,577,-1,TubeMogul,,,
 Tufin,Public,Network Security,-1,"Boston, MA",400,-1,Tufin,,,
 Tumblr,,"Microblogging,social networking service",-1,,411,-1,Tumblr,,,
 Turbo,Private,Computer Software,-1,,25,-1,Turbo (software),,,
@@ -1383,13 +1383,13 @@ Up4Sale,Subsidiary,Online auction,-1,,-1,-1,Up4Sale,,,
 Usatine Media LLC,,Medical Mobile Apps,-1,,-1,-1,Usatine Media,,,
 UserLand Software,Private,"Internet, software",-1,,10,-1,UserLand Software,,,
 UserVoice,Private,"Software,Help Desk,Customer Support",-1,,-1,-1,UserVoice,,,
-Atalla,Privately owned,"Computer software,Enterprise software,Encryption,Cryptography,Hardware security module,s <br>,Internet security",-1,,-1,1973,Utimaco Atalla,,,
+Atalla,Privately owned,"Computer software,Enterprise software,Encryption,Cryptography,Hardware security module,s,Internet security",-1,,-1,1973,Utimaco Atalla,,,
 "VCE Company, LLC",Division,cloud platforms,-1,,-1,-1,VCE (company),,,
 VIA3 Corporation,Private Corporation,"Telecommunication,s software and services",-1,,-1,-1,VIA3,,,
 VMware Inc.,Public,"Software industry,Computer software",8970000000,"Palo Alto, California, United States",31,1998,VMware,https://careers.vmware.com/,VMW,133.74
 "VSee Lab, Inc",,,-1,,-1,-1,VSee,,,
 VTLS Inc.,Private,Software,-1,,-1,1985,VTLS,,,
-"Valence Technology, Inc",Private,"Electric bus,es<br/>,Energy storage,uninterruptible power supply,Marine propulsion,Marine",45880000,,433,-1,Valence Technology,,,
+"Valence Technology, Inc",Private,"Electric bus,es,Energy storage,uninterruptible power supply,Marine propulsion,Marine",45880000,,433,-1,Valence Technology,,,
 Veeam Software Group GmbH,Privately held company,Software industry,-1,,4,-1,Veeam,,,
 Veeva Systems Inc.,Public,Software,-1,,-1,-1,Veeva Systems,https://www.veeva.com/meet-veeva/careers/,VEEV,284.4
 Velaro,,,-1,,-1,-1,"Velaro, Inc.",,,
@@ -1419,7 +1419,7 @@ Videology,Private,Advertising and Software,-1,New York City,300,-1,Videology,,,
 "View, Inc.",Private,Smart glass,-1,,-1,-1,"View, Inc.",,,
 Viralheat,,,-1,,-1,-1,Viralheat,,,
 Virgin Hyperloop,Private,High-speed rail,-1,,500,-1,Virgin Hyperloop,,,
-Virsa Systems,Private,"Compliance (regulation),Compliance,software",-1,,-1,-1,Virsa Systems,,,
+Virsa Systems,Private,"Compliance,Compliance,software",-1,,-1,-1,Virsa Systems,,,
 Virsto,Private,Software,-1,,-1,-1,Virsto,,,
 "Virtu Financial, Inc.",Public,Financial services,1878700000,,0,-1,Virtu Financial,,,
 Virtual Iron,,,-1,,-1,-1,Virtual Iron,,,
@@ -1467,7 +1467,7 @@ Pragser Wildsee,,,-1,,-1,-1,Wildseed,,,
 CA Wily Technology,,,-1,,-1,-1,Wily Technology,,,
 Wind River Systems Inc.,Private,,359700000,,1,-1,Wind River Systems,,,
 Windward Studios,,software development,-1,,-1,-1,Windward Studios,,,
-Witlingo Inc.,Privately held company,"Voice SaaS Products and Solutions {{buzzword inline,date,May 2019}}",-1,,-1,-1,Witlingo,,,
+Witlingo Inc.,Privately held company,"Voice SaaS Products and Solutions,date,May 2019}}",-1,,-1,-1,Witlingo,,,
 "Wolfram Research, Inc.",Private,"Computer software,Publishing,Research and Development",-1,,700,-1,Wolfram Research,,,
 "Workday, Inc.",Public,"Cloud computing,Software",3630000000,,0,-1,"Workday, Inc.",,,
 Workfront,Project management software,SaaS,-1,,671,2001,Workfront,,,
@@ -1529,7 +1529,7 @@ Incyte Corporation,Public,pharmaceutical company,1500000000,,1,-1,Incyte,http://
 Carrier Global Corporation,Public,"Heating,Ventilating,Air Conditioning,HVAC",-1,,53,-1,Carrier Global,https://www.carrier.com/carrier/en/worldwide/careers/,CARR,36.78
 Rite Aid Corporation,Public,Retail,21640000000,,53,-1,Rite Aid,https://careers.riteaid.com/,RAD,9.88
 American Airlines Group Inc.,Public,Aviation,45768000000,CentrePort,133,2013,American Airlines Group,https://jobs.aa.com/,AAL,11.01
-American Express Company,Public,"Bank,ing<br /> {{nowrap,Financial services",43556000000,,64,-1,American Express,https://careers.americanexpress.com/students/US,AXP,96.4
+American Express Company,Public,"Bank,ing,Financial services",43556000000,,64,-1,American Express,https://careers.americanexpress.com/students/US,AXP,96.4
 "Lowe's Companies, Inc.",Public,Retail,72148000000,,300,-1,Lowe's,https://corporate.lowes.com/careers/students-grads,LOW,168.22
 National Capital Region,Region,,-1,,-1,-1,NCR,https://www.ncr.com/careers,BCV,25.82
 "Advance Auto Parts, Inc.",Public,Auto Parts Retail,-1,,70,-1,Advance Auto Parts,https://www.advanceautoparts.jobs/,AAP,155.53
@@ -1542,7 +1542,7 @@ AmerisourceBergen Corporation,Public,Pharmaceutical,179580000000,,22,-1,Amerisou
 "New York Community Bancorp, Inc.",Public company,Commercial bank,-1,"Westbury, New York United States USA",3,-1,New York Community Bancorp,https://www.mynycb.com/Careers/Pages/Careers.aspx,NYCB,7.89
 Core-Mark Holding Company,Public,,-1,,8,-1,Core-Mark Holding,https://careers.core-mark.com/,CORE,29.4
 UnitedHealth Group Incorporated,Public company,Managed health care,242155000000,,320,-1,UnitedHealth Group,https://careers.unitedhealthgroup.com/early-careers,UNH,354.56
-"Mohawk Industries, Inc",Public,"Conglomerate (company),Conglomerate",10000000000,,42,-1,Mohawk Industries,https://careers.mohawkind.com/,MHK,118.09
+"Mohawk Industries, Inc",Public,"Conglomerate,Conglomerate",10000000000,,42,-1,Mohawk Industries,https://careers.mohawkind.com/,MHK,118.09
 Northern Trust Corporation,Public company,Financial services,5960000000,,18,-1,Northern Trust,https://www.northerntrust.com/united-states/about-us/careers,NTRS,78.89
 Abbott Laboratories,Public,"Healthcare industry,Health care,Medical devices,Pharmaceutical industry,Pharmaceutical",31904000000,,107,-1,Abbott Laboratories,https://www.abbott.com/careers/students.html,ABT,111.53
 Masco Corporation,Public,,-1,,26,-1,Masco,https://www.masconomet.org/Page/244,MAS,57.32
@@ -1556,7 +1556,7 @@ The Southern Company,Public,"Energy industry,Energy,Telecommunication,Telecom",2
 SBA Communications Corporation,Public,Real Estate Investment Trust,-1,,-1,-1,SBA Communications,https://www.sbasite.com/English/careers/connect-with-us/default.aspx,SBAC,302.02
 Realty Income,Public company,Real estate investment trust,1491000000,"San Diego, California",194,-1,Realty Income,https://www.realtyincome.com/careers/default.aspx,O,58.5
 Otis Worldwide Corporation,Public,Vertical transport systems,13113000000,,69,-1,Otis Worldwide,https://www.otis.com/en/us/careers/,OTIS,62.3
-Dell Technologies Inc.,Public,"Computer hardware<br />computer software<br />,cloud computing",92150000000,"One Dell Way, Round Rock, Texas",165,-1,Dell Technologies,https://jobs.dell.com/,DELL,62.23
+Dell Technologies Inc.,Public,"Computer hardware,cloud computing",92150000000,"One Dell Way, Round Rock, Texas",165,-1,Dell Technologies,https://jobs.dell.com/,DELL,62.23
 '''AECOM''',Public company,Professional services,18000000000,,87,-1,AECOM Technology,https://aecom.com/careers/who-we-hire-2/graduate-path/,ACM,44.8
 Centene Corporation,Public,Healthcare,74639000000,,56,-1,Centene,https://jobs.centene.com/us/en/students,CNC,63.99
 Equity Residential,Public company,Apartments,2701000000,"Riverside Plaza (Chicago) Riverside Plaza Chicago, Illinois",2,-1,Equity Residential,https://www.equityapartments.com/,EQR,50.76
@@ -1624,7 +1624,7 @@ US Bancorp,Public,"Banking,Financial services",-1,"US Bancorp Center Minneapolis
 "American National Insurance Company, Inc",Public,"Insurance,Financial Services",-1,,4,-1,American National Insurance,https://jobs.americannational.com/,ANAT,70.77
 Lennar Corporation,Public,Home construction,12646000000,"Miami, Florida",0,-1,Lennar,https://www.lennar.com/about/careers/college-recruitment,LEN,79.48
 KeyCorp,Public company,Financial services,6400000000,Cleveland,17,1825,KeyCorp,https://www.key.com/about/careers.jsp,KEY,12.54
-HEICO Corporation,Public company,Aerospace<br/>Defense<br/>Electronics,-1,,6,-1,Heico,https://careers.heicocompanies.com/en-US/page/internship,HEI,113.22
+HEICO Corporation,Public company,Aerospace,-1,,6,-1,Heico,https://careers.heicocompanies.com/en-US/page/internship,HEI,113.22
 "Air Products and Chemicals, Inc",Public,"Industrial gas,chemicals",8918000000,,0,-1,Air Products & Chemicals,http://www.airproducts.com/Careers/career-paths/internship-and-coop.aspx,APD,289.29
 "L Brands, Inc.",Public,Retailing,12914000000,,59,-1,L Brands,https://careers.lb.com/college-programs/,APEX,6.89
 Amphenol Corporation,Public,electronics,7011000000,,74,-1,Amphenol,https://www.amphenol.com/about/careers,APH,115.92
@@ -1647,7 +1647,7 @@ ICV Stryker,Armored personnel carrier,,-1,,-1,-1,Stryker,https://careers.stryker
 "AutoZone, Inc.",Public company,"Retailing,Retail",10890000000,,87,-1,AutoZone,https://careers.autozone.com/,AZO,1154.02
 "International Flavors & Fragrances, Inc. (IFF)",Public,"Specialty chemicals,Research and development",-1,,13,1889,International Flavors & Fragrances,https://careers.iff.com/,IFF,105.02
 Atmos Energy Corporation,Public,Energy,3886000000,,4,-1,Atmos Energy,https://www.atmosenergy.com/safety/current-job-openings,ATO,95.59
-"Altice USA, Inc.",Public,"Telecommunication,s<br />,Mass media",-1,,-1,2016,Altice USA,https://www.alticeusacareers.com/,ATUS,28.66
+"Altice USA, Inc.",Public,"Telecommunication,s,Mass media",-1,,-1,2016,Altice USA,https://www.alticeusacareers.com/,ATUS,28.66
 "Activision Blizzard, Inc.",Public,"Video game industry,Video games",6489000000,,9,2008,Activision Blizzard,https://careers.activision.com/students,ATVI,79.37
 Twilio Inc.,,Communications,1130000000,,4,-1,Twilio,https://www.twilio.com/company/jobs,TWLO,306.19
 Huntington Bancshares Incorporated,Public,Bank,4350000000,,15,-1,Huntington Bank,https://www.huntington.com/careers/internships,HBAN,10.08
@@ -1675,7 +1675,7 @@ Murphy Oil Corporation,Public company,Petroleum industry,2817000000,"Houston, Te
 "Best Buy Co., Inc.",Public,Retail,42880000000,,125,1966,Best Buy,https://www.bestbuy-jobs.com/,BBY,119.86
 Qualcomm Incorporated,Public,"Telecommunications equipment,Semiconductor",24270000000,,37,-1,Qualcomm,https://www.qualcomm.com/company/careers,QCOM,128.97
 BioMarin Pharmaceutical Inc.,Public,Biotechnology,1310000000,,0,-1,BioMarin Pharmaceutical,https://careers.biomarin.com/,BMRN,76.37
-Wells Fargo & Company,Public,"Bank,Financial services,Insurance",85063000000,San Francisco California United States U.S. New York City New York New York (state) NY,0,-1,Wells Fargo,https://www.wellsfargojobs.com/university-programs,BDCS,13.85
+Wells Fargo & Company,Public,"Bank,Financial services,Insurance",85063000000,San Francisco California United States U.S. New York City New York New York (state) NY,0,-1,Wells Fargo,https://www.wellsfargojobs.com/university-programs,BDCS,13.82
 "Becton, Dickinson and Company",Public,"Medical equipment,Consulting",17290000000,,70,-1,Becton Dickinson,https://www.bd.com/en-us/company/careers/university-relations-and-recruitment/undergraduate-programs,BDX,236.79
 Tractor Supply Company,Public,Retail,8352000000,,32,-1,Tractor Supply,https://www.tractorsupply.jobs/,BECN,33.97
 Franklin Resources Inc.,Public company,Financial services,5700000000,,0,-1,Franklin Resources,https://www.franklintempletoncareers.com/,BEN,19.24
@@ -1683,7 +1683,7 @@ Roku,Digital media player,,-1,,-1,-1,Roku,https://www.roku.com/jobs,ROKU,215.68
 "United Parcel Service, Inc.",Public,Courier,71861000000,"Sandy Springs, Georgia Sandy Springs Georgia (U.S. state) Georgia",481,1907,United Parcel Service,https://www.jobs-ups.com/,UPS,162.58
 "Berry Global, Inc",Public,,-1,,48,-1,Berry Global Group,https://www.berryglobal.com/careers/internship,BERY,47.84
 Brown–Forman Corporation,Public,Alcoholic drink,3080000000,,4,-1,Brown-Forman,https://brown-forman.jobs/jobs/,BF.A,0.0
-The Bank of New York Mellon Corporation,Public,"Bank,ing ,Financial services",20820000000,,0,2007,Bank of New York Mellon,https://www.bnymellon.com/us/en/careers/index.jsp,BK,34.7
+The Bank of New York Mellon Corporation,Public,"Bank,ing,Financial services",20820000000,,0,2007,Bank of New York Mellon,https://www.bnymellon.com/us/en/careers/index.jsp,BK,34.7
 BOK Financial Corporation,Public company,Banking,-1,,4,-1,BOK Financial,https://jobs.bokf.com/,BOKF,57.6
 The Kroger Company,Public,Retail,121160000000,,453,-1,Kroger,https://jobs.kroger.com/key/for-student-jobs.html,KR,32.09
 "Lumen Technologies, Inc.",Public,Telecommunication,23443000000,,0,-1,CenturyLink,https://jobs.centurylink.com/content/college-careers/?q=&sortColumn=referencedate&sortDirection=asc,CTL,0.0
@@ -1691,7 +1691,7 @@ First Republic Bank,Public,"Banking,Financial services,Investment,Investment ser
 "Copart, Inc.",Public,Automotive,1450000000,,5,-1,Copart,https://www.copart.com/content/us/en/careers,CPRT,121.34
 US Foods,Public,Food industry,24147000000,,25,-1,US Foods,https://www.usfoods.com/careers.html,USFD,22.66
 "Brighthouse Financial, Inc.",Public,Insurance,-1,,-1,-1,Brighthouse Financial,https://www.brighthousefinancial.com/about-us/careers/,BHF,31.32
-Berkshire Hathaway Inc.,Public,"Conglomerate (company),Conglomerate",254620000000,,0,1839,Berkshire Hathaway,https://bhhc.com/careers.aspx,BRK.A,0.0
+Berkshire Hathaway Inc.,Public,"Conglomerate,Conglomerate",254620000000,,0,1839,Berkshire Hathaway,https://bhhc.com/careers.aspx,BRK.A,0.0
 MGM Resorts International,Public,,12899000000,,74,1986,MGM Resorts,https://careers.mgmresorts.com/global/en/students,MGM,21.44
 Nasdaq,Stock exchange,,-1,,-1,-1,NASDAQ,https://www.nasdaq.com/about/careers,BIB,74.96
 Pfizer Inc.,Public,Pharmaceutical,51750000000,,0,1849,Pfizer,https://www.pfizer.com/careers/en/early-careers,PFE,37.33
@@ -1711,7 +1711,7 @@ The Hertz Corporation,Subsidiary,"Car rental,Lease,leasing",9779000000,,38,-1,He
 Brown & Brown,,,-1,,-1,-1,Brown & Brown,https://www.brown.edu/about/administration/human-resources/student-employment,BRO,45.89
 Exelon Corporation,Public,"Energy industry,Energy",35900000000,,33,-1,Exelon,https://jobs.exeloncorp.com/,EXC,42.22
 "ONEOK, Inc.",Public,Natural gas utility,12600000000,,2,-1,Oneok,https://www.oneok.com/careers/hiring-process/internships,OKE,28.6
-Danaher Corporation,Public,"Conglomerate (company),Conglomerate",17910000000,,0,-1,Danaher,https://jobs.danaher.com/global/en/,DHR,240.52
+Danaher Corporation,Public,"Conglomerate,Conglomerate",17910000000,,0,-1,Danaher,https://jobs.danaher.com/global/en/,DHR,240.52
 "Burlington Stores, Inc.",Public,Retail,6110000000,,40,-1,Burlington Stores,https://burlingtonstores.jobs/students-graduates/,BURL,198.47
 Entergy Corp.,Public,Energy industry,11400000000,,13,-1,Entergy,https://jobs.entergy.com/,EAB,0.0
 BorgWarner Inc.,Public,Automotive industry,8305000000,,29,-1,BorgWarner,https://www.borgwarner.com/careers,BWA,35.84
@@ -1721,7 +1721,7 @@ Citigroup Inc.,Public,"Financial services,Banking",74286000000,"Greenwich Street
 Nvidia Corporation,Public,"Semiconductors,Artificial intelligence,Video games,Consumer electronics,Computer hardware",11716000000,,18,-1,NVIDIA,https://www.nvidia.com/en-us/about-nvidia/careers/,NVDA,551.77
 "Avis Budget Group, Inc.",Public,"Car rental,Rental,Vehicle leasing,leasing services",9172000000,,30,-1,Avis Budget Group,https://www.avisbudgetgroup.jobs/,CAR,28.37
 "Community Health Systems, Inc.",Public,Health care,18438000000,,0,-1,Community Health Systems,https://www.chs.net/careers/,CYH,7.46
-General Electric Company,Public,"Conglomerate (company),Conglomerate",95214000000,,205,1892,General Electric,https://www.ge.com/ca/campuscareers,GE,7.85
+General Electric Company,Public,"Conglomerate,Conglomerate",95214000000,,205,1892,General Electric,https://www.ge.com/ca/campuscareers,GE,7.85
 General Motors Company,Public,"Automotive industry,Automotive",137237000000,,164,-1,General Motors,https://search-careers.gm.com/student-grad,GM,35.24
 Cincinnati Financial Corporation,Public,Insurance,4900000000,,4,-1,Cincinnati Financial,https://www.cinfin.com/careers/student-opportunities,CINF,72.29
 "The PNC Financial Services Group, Inc.",Public,"Banking,Financial services",16329000000,,52,-1,PNC Financial Services,https://careers.pnc.com/global/en/students,PNC,112.86
@@ -1740,11 +1740,11 @@ FedEx Corporation,Public,"Express mail,Courier",69693000000,,400,-1,FedEx,https:
 "Cullen/Frost Bankers, Inc.",Public company,Bank,-1,,4,1868,Cullen/Frost Bankers,https://www.frostbank.com/careers,CFR,68.61
 "Church & Dwight Co., Inc.",Public,"Dental, Medical",3400000000,,4,-1,Church & Dwight,https://careers.churchdwight.com/students/,CHD,89.77
 Chesapeake Energy Corporation,Public,Petroleum industry,8595000000,"Oklahoma City, Oklahoma",2,-1,Chesapeake Energy,http://www.chk.com/careers/university-relations,CHK,0.0
-Cummins Inc.,Public,"Heavy equipment (construction),Heavy equipment,Automotive industry,Automotive",23770000000,,0,-1,Cummins,https://careers.cummins.com/us-canada/student-jobs,CMI,222.8
-"Charter Communications, Inc.",Public,"Telecommunication,s<br>,Mass media",43634000000,,98,-1,Charter Communications,https://jobs.spectrum.com/,CHTR,634.47
+Cummins Inc.,Public,"Heavy equipment,Heavy equipment,Automotive industry,Automotive",23770000000,,0,-1,Cummins,https://careers.cummins.com/us-canada/student-jobs,CMI,222.8
+"Charter Communications, Inc.",Public,"Telecommunication,s,Mass media",43634000000,,98,-1,Charter Communications,https://jobs.spectrum.com/,CHTR,634.47
 "Chewy, Inc.",Public,E-commerce,4850000000,,12,-1,Chewy,https://www.chewy.com/jobs,CHWY,67.04
 Kansas City Southern,,,-1,,-1,-1,Kansas City Southern,https://kcsouthernenglish.silkroad.com/,KSU,179.62
-CIT Group Inc.,Public company,"Bank,ing<br>,Financial services",2290000000,,3,-1,CIT Group,https://www.cit.com/about/careers/,CIT,30.79
+CIT Group Inc.,Public company,"Bank,ing,Financial services",2290000000,,3,-1,CIT Group,https://www.cit.com/about/careers/,CIT,30.79
 Colgate-Palmolive Company,Public,"Fast-moving consumer goods,Consumer goods",15500000000,,34,-1,Colgate-Palmolive,https://jobs.colgate.com/,CL,83.86
 "IDEXX Laboratories, Inc.",Public,"Healthcare,Diagnostic Substances",-1,,7,-1,IDEXX Laboratories,https://careers.idexx.com/us/en,IDXX,469.36
 "Ross Stores, Inc.",Public,Retail,11940000000,,88,-1,Ross Stores,https://jobs.rossstores.com/creative/campus,ROST,92.2
@@ -1755,14 +1755,14 @@ Moody's Investors Service,Subsidiary,Bond credit ratings,-1,,11,-1,Moody's,https
 CMS Energy,Public,Energy,-1,,8,-1,CMS Energy,https://www.consumersenergy.com/company/careers/campus-hiring,CMS,64.56
 CNO Financial Group Inc.,Public,Financial services,3800000000,,3,-1,CNO Financial Group,https://jobs.jobvite.com/cnoinc/job/orhsdfw7,CNO,18.53
 "CenterPoint Energy, Inc.",Public,Utilities,9614000000,,7,1882,CenterPoint Energy,https://www.centerpointenergy.com/en-us/corp/pages/career-center-college.aspx,CNP,21.56
-Ecolab Inc.,Public,"Chemicals,Service (business),Service,Water Management,Food Safety,Infection Prevention",14900000000,,50,-1,Ecolab,https://jobs.ecolab.com/,ECL,191.89
+Ecolab Inc.,Public,"Chemicals,Service,Service,Water Management,Food Safety,Infection Prevention",14900000000,,50,-1,Ecolab,https://jobs.ecolab.com/,ECL,191.89
 "The Cooper Companies, Inc.",Public,"Medical device,Medical Devices",-1,,12,-1,Cooper Companies,https://www.coopercos.com/careers/,COO,331.42
 ConocoPhillips,Public,Petroleum industry,36670000000,,10,-1,ConocoPhillips,https://careers.conocophillips.com/university-recruitment,COP,30.38
 Costco Wholesale Corporation,Public,Retail,152700000000,,0,-1,Costco Wholesale,https://www.costco.com/jobs.html,COST,376.17
 Coty Inc.,Public,Beauty,9400000000,,20,1904,Coty,https://www.coty.com/join-us,COTY,3.02
 Macy's,Subsidiary,Retail,24970000000,,-1,1858,Macy's,https://macyscollege.com/,M,6.26
 Campbell Soup Company,Public,Food processing,7719000000,,18,-1,Campbell Soup,https://careers.campbellsoupcompany.com/us/en,CPB,47.69
-"Cheniere Energy, Inc.",Public,"Energy,Natural Gas",-1,,-1,-1,Cheniere Energy,https://www.cheniere.com/careers,LNG,48.15
+"Cheniere Energy, Inc.",Public,"Energy,Natural Gas",-1,,-1,-1,Cheniere Energy,https://www.cheniere.com/careers,LNG,48.22
 Tiffany & Co.,Public,Retail,4440000000,,14,-1,Tiffany & Co.,https://www.tiffanycareers.com/,TIF,130.97
 Dish Network Corporation,Public,"Satellite television,wireless",12807000000,,16,1996,DISH Network,https://careers.dish.com/students/,DISH,26.51
 Dollar General Corporation,Public,Discount retailer,27800000000,,143,1955,Dollar General,https://careers.dollargeneral.com/,DG,216.23
@@ -1815,7 +1815,7 @@ Facebook,Social networking service,,-1,,-1,-1,Facebook,https://www.facebook.com/
 Frontier Communications Corporation,Public,"Telecommunications industry,Telecommunications",8106999999,,18,-1,Frontier Communications,https://frontier-careers.com/,FCCO,14.68
 Freeport-McMoRan Inc.,Public,"Metal,s and,Mining",14400000000,"Freeport-McMoRan Center Phoenix, Arizona Phoenix",12,-1,Freeport-McMoRan,https://www.fcx.com/careers/,FCX,18.0
 "Fidelity National Information Services, Inc.",Public,Financial Sector,12200000000,,55,-1,Fidelity National Information,https://jobs.fidelity.com/,FIS,132.8
-Unum Group,Public,"Employee benefits (disability, life and critical illness insurance)",11598000000,,9,-1,Unum,https://www.unum.com/careers/opportunities,UMRX,0.0
+Unum Group,Public,Employee benefits,11598000000,,9,-1,Unum,https://www.unum.com/careers/opportunities,UMRX,0.0
 FirstEnergy Corp.,Public,Electric Utility,14562000000,,15,-1,FirstEnergy,https://www.firstenergycorp.com/careers.html,FE,29.06
 Hormel Foods Corporation,Public,Food processing,9497000000,,20,-1,Hormel Foods,https://www.hormelfoods.com/careers/,HRL,50.15
 Fifth Third Bancorp,Public company,"Banking,Financial services",-1,,19,-1,Fifth Third Bank,https://www.53.com/content/fifth-third/en/careers.html,FITBO,26.8
@@ -1826,7 +1826,7 @@ TCF Financial Corporation,Public company,Banking,2100000000,,0,-1,TCF Financial,
 Fidelity National Financial (FNF),Public,Financial Sector,1612000000,,23,-1,Fidelity National Financial,https://jobs.fidelity.com/,FNF,34.25
 "Performance Food Group, Inc.",Public,,-1,,-1,-1,Performance Food Group,https://www.pfgc.com/Careers.aspx,PFGC,37.16
 "The Goldman Sachs Group, Inc.",Public,Financial services,36546000000,,0,-1,Goldman Sachs Group,https://www.goldmansachs.com/careers/,GS,197.87
-General Dynamics Corporation,Public,"Aerospace engineering,Aerospace,Defense (military),Defense,Shipbuilding",36190000000,,107,-1,General Dynamics,https://gdmissionsystems.com/careers/students-and-recent-graduates,GD,139.09
+General Dynamics Corporation,Public,"Aerospace engineering,Aerospace,Defense,Defense,Shipbuilding",36190000000,,107,-1,General Dynamics,https://gdmissionsystems.com/careers/students-and-recent-graduates,GD,139.09
 Sears Holdings Corporation,"
 *",Retail,13200000000,,89,2005,Sears Holdings,https://jobs.sears.com/,XPER,12.56
 "General Mills, Inc.",Public,Food processing,15620000000,,38,-1,General Mills,https://careers.generalmills.com/student-intern-careers/,GIS,60.47
@@ -1859,7 +1859,7 @@ Illinois Tool Works Inc.,Public company,Manufacturing,-1,,45,-1,Illinois Tool Wo
 Jabil Inc.,Public,Electronics Manufacturing Services,19100000000,,200,-1,Jabil Circuit,https://www.jabil.com/about-us/careers.html,JBL,34.45
 JetBlue Airways,,,7658000000,,22,1998,JetBlue Airways,https://careers.jetblue.com/,JBLU,11.92
 Johnson & Johnson,Public,"Pharmaceutical industry,Pharmaceutical,Medical devices,Consumer products,Consumer healthcare",100000000000,,0,1886,Johnson & Johnson,https://www.careers.jnj.com/students,JNJ,139.4
-Jefferies Financial Group Inc.,Public,"Conglomerate (company),Conglomerate",11436000000,,12,-1,Jefferies Financial,https://jefferies.com/Careers/Investment-Banking-Internships/2cr/1257,JEF,20.5
+Jefferies Financial Group Inc.,Public,"Conglomerate,Conglomerate",11436000000,,12,-1,Jefferies Financial,https://jefferies.com/Careers/Investment-Banking-Internships/2cr/1257,JEF,20.5
 "Raymond James Financial, Inc.",Public,"Investment,Investment services",7990000000,,18,-1,Raymond James Financial,https://www.raymondjames.com/careers,RJF,77.09
 Jones Lang LaSalle Incorporated,Public,Real estate,17900000000,,93,-1,Jones Lang LaSalle,https://www.us.jll.com/en/careers/early-careers,JLL,114.03
 Navient Corporation,Public,Financial services,5180000000,,6,-1,Navient,https://jobs.navient.com/,JSM,22.85
@@ -1869,10 +1869,10 @@ The Kraft Heinz Company,Public,Food processing,24970000000,,38,2015,Kraft Heinz 
 Kimberly-Clark Corporation,Public,Personal care,18400000000,,40,-1,Kimberly-Clark,https://www.careersatkc.com/en/na/our-careers/students-and-recent-grads,KMB,135.12
 Kohl's Corporation,Public,Retail,20229000000,,85,-1,Kohl's,https://careers.kohls.com/internships,KSS,20.77
 "Liberty Global plcLiberty Global, Inc.Liberty Global B.V.",Public limited company,"Telecommunication,Mass media",11540000000,London England Amsterdam Netherlands Denver Colorado,20,-1,Liberty Broadband,http://libertybroadband.com/,LBRDA,148.01
-"L3Harris Technologies, Inc.",Public,"Aerospace,defense (military),defense",17000000000,"Melbourne, Florida",50,-1,L3Harris Technologies,https://www.l3harris.com/careers,LHX,183.3
+"L3Harris Technologies, Inc.",Public,"Aerospace,defense,defense",17000000000,"Melbourne, Florida",50,-1,L3Harris Technologies,https://www.l3harris.com/careers,LHX,183.3
 LKQ Corporation,Public,Auto parts,-1,,51,-1,LKQ,https://www.lkqcorp.com/careers/,LKQ,33.36
 "Mid-America Apartment Communities, Inc.",Public company,Real estate investment trust,1641000000,"Memphis, Tennessee",2,-1,Mid-america Apartment Communities,https://www.maac.com/careers/,MAA,122.72
-Lockheed Martin Corporation,Public,"Technology,Advanced Technologies,Information Security,Aerospace manufacturer,Aerospace,Defense (military),Defense",59810000000,,110,-1,Lockheed Martin,https://www.lockheedmartinjobs.com/college-students,LMT,372.16
+Lockheed Martin Corporation,Public,"Technology,Advanced Technologies,Information Security,Aerospace manufacturer,Aerospace,Defense,Defense",59810000000,,110,-1,Lockheed Martin,https://www.lockheedmartinjobs.com/college-students,LMT,372.16
 Alliant Energy Corporation,Public,utilities,3665000000,,3,-1,Alliant Energy,https://www.alliantenergy.com/Careers/CareersAtAlliantEnergy,LNT,55.34
 Las Vegas Sands Corporation,Public,"Hospitality,Tourism",13700000000,,51,-1,Las Vegas Sands,https://careers.sands.com/,LVS,49.91
 "Lamb Weston Holdings, Inc.",Public,Food processing,423700000,,0,-1,Lamb Weston Holdings,https://www.lambweston.com/careers.html,LW,67.21
@@ -1883,9 +1883,9 @@ McKesson Corporation,Public,Healthcare,214319000000,,80,-1,McKesson,https://www.
 Maureen McCormick,,,-1,,-1,-1,McCormick,https://www.mccormickcorporation.com/en/careers,MKC,188.98
 MarketAxess Holdings Inc.,Public,Financial Services,-1,,527,2000,Marketaxess Holdings,https://www.marketaxess.com/careers,MKTX,579.92
 Martin Marietta Inc.,Public,Construction Materials,4200000000,,8,-1,Martin Marietta Materials,https://jobs.jobvite.com/martinmarietta,MLM,253.76
-"Marsh & McLennan Companies, Inc.",Public,"Insurance broker,s}} <br> {{nowrap,Professional services",14020000000,,76,-1,Marsh & McLennan,https://careers.mmc.com/,MMC,109.0
+"Marsh & McLennan Companies, Inc.",Public,"Insurance broker,s}},Professional services",14020000000,,76,-1,Marsh & McLennan,https://careers.mmc.com/,MMC,109.0
 Federal Home Loan Mortgage Corporation (Freddie Mac),Government-sponsored enterprise,Financial services,15385000000,,6,-1,Freddie Mac,https://careers.freddiemac.com/,MMIN,27.21
-3M Company,Public,"Conglomerate (company),Conglomerate",32765000000,,96,-1,3M,https://www.3m.com/3M/en_US/careers-us/,MMM,160.16
+3M Company,Public,"Conglomerate,Conglomerate",32765000000,,96,-1,3M,https://www.3m.com/3M/en_US/careers-us/,MMM,160.16
 "Altria Group, Inc.",Public,"Tobacco industry,Tobacco",25364000000,,8,-1,Altria Group,https://www.altria.com/en/people-and-careers/student-internships,MO,38.08
 Molina Healthcare Inc.,,Healthcare,19883000000,,0,1980,Molina Healthcare,https://careers.molinahealthcare.com/,MOH,216.94
 Marathon Oil Corporation,Public,Petroleum industry,5063000000,Marathon Oil Tower Houston Texas,2,-1,Marathon Oil,https://www.marathonoil.com/careers/,MRO,4.27
