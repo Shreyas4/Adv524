@@ -1,4 +1,3 @@
-name,industry,type,founded,num_employees,revenue,operating_income,net_income,stock price,student_careers_url,pagerank
 "[24]7.ai, Inc.","Software,Health",Private,-1,15000,-1,-1,-1,-1.0,https://www.247.ai/company/careers,5.68
 280 North,"Software,Network,Health",Private,2008,-1,-1,-1,-1,-1.0,https://angel.co/company/280-north,-1.0
 2d3 Sensing,"Software,Health",Private,1999,-1,-1,-1,-1,-1.0,https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/,-1.0
@@ -6,7 +5,7 @@ name,industry,type,founded,num_employees,revenue,operating_income,net_income,sto
 3D Systems Corporation,"Software,Health",Public,-1,2666,646840000,65319999,66190000,6.54,https://www.3dsystems.com/careers,5.85
 3ality Technica,"Software,Video,Health",Private,-1,-1,-1,-1,-1,-1.0,http://3alitytechnica.com/,-1.0
 4D Inc,Other,Private,1984,-1,-1,-1,-1,-1.0,https://us.4d.com/careers,5.73
-4INFO Inc.,"Software,Consulting,Big Data,Health",Private,2004,45,-1,-1,-1,-1.0,https://www.4info.com/About/Careers.aspx,5.28
+4INFO Inc.,"Software,Consulting,Big Data and Analytics,Health",Private,2004,45,-1,-1,-1,-1.0,https://www.4info.com/About/Careers.aspx,5.28
 "A10 Networks, Inc.","Software,Network",Public,-1,800,-1,-1,-1,7.51,https://www.a10networks.com/company/careers/,-1.0
 ACI Worldwide Inc.,"Software,Health",Public,-1,0,1050000000,165800000,87500000,32.74,https://careers.aciworldwide.com/,-1.0
 ADARA networks,"Software,Health",Private,1998,-1,-1,-1,-1,-1.0,https://adara.com/careers/,4.57
@@ -21,20 +20,20 @@ Abbott Informatics,"Software,Consulting,Health",Private,-1,-1,-1,-1,-1,-1.0,http
 Accent R,"Software,Health",Private,1980,-1,-1,-1,-1,-1.0,https://www.speechpathologygraduateprograms.org/do-you-speak-with-an-accent-you-can-still-be-an-outstanding-slp/,-1.0
 "Accordent Technologies, Inc","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.accenture.com/us-en/careers,-1.0
 AccuSystems,Manufacturing and Chemicals,Private,-1,-1,-1,-1,-1,-1.0,https://www.accusystem.com/careers/,-1.0
-AccuWeather Inc.,,Private,-1,500,-1,-1,-1,-1.0,https://boards.greenhouse.io/accuweather,-1.0
+AccuWeather Inc.,Other,Private,-1,500,-1,-1,-1,-1.0,https://boards.greenhouse.io/accuweather,-1.0
 Accusoft Corporation,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.accusoft.com/resources/blog/annual-internship-programs-provide-benefits-to-students-and-employees/,-1.0
 Acorns,Banking,Private,-1,-1,-1,-1,-1,-1.0,https://www.acorns.com/careers/,-1.0
 Acrocat Software,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.adobe.com/careers.html,-1.0
-Actian,"Software,Database,Big Data,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.actian.com/company/careers/student-opportunities/,-1.0
+Actian,"Software,Database,Big Data and Analytics,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.actian.com/company/careers/student-opportunities/,-1.0
 Actifio,"Software,Consulting,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.actifio.com/company/careers/,-1.0
 Activant Solutions Inc.,Retail and Wholesale,Private,-1,1700,-1,-1,-1,-1.0,https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/,-1.0
 "Active Network, LLC","Software,Health",Private,-1,1000,-1,-1,-1,-1.0,https://www.activenetwork.com/careers,-1.0
-Actuate Corporation,"Software,Health",Private,-1,570,134600000,23400000,16700000,-1.0,https://www.indeed.com/cmp/Actuate-Corporation,-1.0
+Actuate Corporation,"Software,Big Data and Analytics,Health",Private,-1,570,134600000,23400000,16700000,-1.0,https://www.indeed.com/cmp/Actuate-Corporation,-1.0
 Acumatica,"Software,Health",Private,2008,300,-1,-1,-1,-1.0,https://www.acumatica.com/careers/,5.69
 Acxiom,Database,Private,-1,2100,-1,-1,-1,-1.0,https://www.acxiom.com/about-us/careers/,-1.0
 AdMob,Distributed Systems,Private,2006,-1,-1,-1,-1,-1.0,nan,-1.0
 "Adallom, Inc.",Other,Private,-1,-1,-1,-1,-1,-1.0,https://careers.microsoft.com/students/us/en,-1.0
-Workday Adaptive Planning,"Software,Health",Private,-1,0,-1,-1,-1,-1.0,http://www.stanfordwomeninbusiness.com/opportunities-blog/2018/2/11/adaptive-insights-internship-opportunities,-1.0
+Workday Adaptive Planning,"Software,Big Data and Analytics,Health",Private,-1,0,-1,-1,-1,-1.0,http://www.stanfordwomeninbusiness.com/opportunities-blog/2018/2/11/adaptive-insights-internship-opportunities,-1.0
 Addamax,"Software,Health",Private,1986,-1,-1,-1,-1,-1.0,https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/,-1.0
 "Addepar, Inc.","Software,Banking,Health",Private,-1,200,-1,-1,-1,-1.0,https://www.addepar.com/careers,-1.0
 Adeptia,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://adeptia.com/careers,-1.0
@@ -45,7 +44,7 @@ Advanced Digital Information Corporation,"Software,Database,Health",Private,-1,1
 Aelita Software Corporation,"Software,Health",Private,1998,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,5.68
 Aestiva Software,"Software,Health",Private,1996,-1,-1,-1,-1,-1.0,http://www.aestiva.com/,-1.0
 Afiniti,"Software,Health",Private,2005,1000,-1,-1,-1,-1.0,https://careers.afiniti.com/,5.13
-"Agiloft, Inc.",,Private,1990,-1,-1,-1,-1,-1.0,https://www.agiloft.com/jobs.htm,-1.0
+"Agiloft, Inc.",Other,Private,1990,-1,-1,-1,-1,-1.0,https://www.agiloft.com/jobs.htm,-1.0
 Agilysys Inc.,"Software,Consulting,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.agilysys.com/en/company/careers,5.0
 Aha!,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.historians.org/jobs-and-professional-development/career-resources/careers-for-students-of-history,-1.0
 AiLive Inc.,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.silive.com/jobs/,-1.0
@@ -54,7 +53,7 @@ Airbiquity,Manufacturing and Chemicals,Private,1997,-1,-1,-1,-1,-1.0,https://www
 Airclic,"Software,Network,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.lockheedmartinjobs.com/college-students,-1.0
 Urban Airship,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.airship.com/company/careers/,-1.0
 "Formagrid, Inc.",Network,Private,-1,-1,-1,-1,-1,-1.0,https://airtable.com/careers,-1.0
-AlchemyAPI,"Software,Big Data",Private,-1,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,-1.0
+AlchemyAPI,"Software,Big Data and Analytics",Private,-1,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,-1.0
 Rocket Aldon,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.aldonmanagement.com/page/16742~984952/Careers,-1.0
 Alfresco Software Inc.,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.alfresco.com/company/careers,5.72
 Alien Technology,Manufacturing and Chemicals,Private,-1,235,-1,-1,-1,-1.0,https://www.alientechnology.com/company/careers-2/,-1.0
@@ -63,11 +62,11 @@ Alien Technology,Manufacturing and Chemicals,Private,-1,235,-1,-1,-1,-1.0,https:
 Allegro Development Corp.,"Software,Health",Private,-1,400,-1,-1,-1,-1.0,https://www.allegrodev.com/campus-recruiting/,-1.0
 "AllscriptsHealthcare Solutions, Inc.","Software,Consulting,Health",Public,-1,7500,1811000000,59800000,25700000,11.13,https://www.allscripts.com/about-us/careers/,5.51
 Alphaeon Corporation,"Software,Health",Private,2013,-1,-1,-1,-1,-1.0,https://goalphaeon.com/careers,-1.0
-"Altair Engineering, Inc.","Software,Network,Big Data,Health",Public,-1,3300,458900000,-1,-1,47.58,https://www.altair.com/careers/,-1.0
+"Altair Engineering, Inc.","Software,Network,Big Data and Analytics,Health",Public,-1,3300,458900000,-1,-1,47.58,https://www.altair.com/careers/,-1.0
 Altametrics,"Software,Health",Private,-1,400,90000000,-1,-1,-1.0,https://www.internships.com/posting/bug_38787457443,-1.0
 "Alteryx, Inc.","Software,Health",Public,-1,0,418000000,38000000,27100000,110.34,https://www.alteryx.com/careers,-1.0
 Altium Ltd.,"Consulting,Manufacturing and Chemicals",Public,-1,-1,171800000,-1,-1,1.19,https://www.altium.com/careers,-1.0
-"Altoros Systems, Inc.","Software,Consulting,Big Data,Health",Private,-1,250,-1,-1,-1,-1.0,https://www.altoros.com/careers,-1.0
+"Altoros Systems, Inc.","Software,Consulting,Big Data and Analytics,Health",Private,-1,250,-1,-1,-1,-1.0,https://www.altoros.com/careers,-1.0
 AltspaceVR,"Consulting,Artificial Intelligence",Private,2013,-1,-1,-1,-1,-1.0,https://angel.co/altspacevr-formerly-qualia3d/jobs,5.75
 "Amazon.com, Inc.","Software,Consulting,Distributed Systems,Retail and Wholesale,Artificial Intelligence,Health,Manufacturing and Chemicals",Public,1994,0,280522000000,14541000000,11588000000,3322.0,https://www.amazon.jobs/en/business_categories/student-programs,5.81
 "Amazon Lab126, Inc.","Software,Research,Health,Manufacturing and Chemicals",Private,-1,3000,-1,-1,-1,-1.0,https://amazon.jobs/en/teams/lab126/,-1.0
@@ -88,24 +87,24 @@ Antenna Software,"Software,Health",Private,1998,-1,-1,-1,-1,-1.0,"https://www.gl
 AnyDoc Software,"Software,Health",Private,1989,-1,-1,-1,-1,-1.0,https://www.hyland.com/en/careers,-1.0
 Anystream,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,-1.0
 Apex Learning,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,http://www.apexlearning.com/about-us,-1.0
-"AppDynamics, Inc.",,Private,-1,-1,143800000,-1,-1,-1.0,https://www.appdynamics.com/company/careers,5.84
+"AppDynamics, Inc.",Other,Private,-1,-1,143800000,-1,-1,-1.0,https://www.appdynamics.com/company/careers,5.84
 "AppExtremes, Inc. dba Conga","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,-1.0
 "AppFolio, Inc.","Software,Health",Public,-1,1100,143900000,-1,-1,110.34,https://www.appfolioinc.com/careers,-1.0
 AppNeta,"Software,Distributed Systems,Network",Private,-1,-1,-1,-1,-1,-1.0,https://www.appneta.com/about/careers/,-1.0
 AppSense,Other,Private,1999,-1,-1,-1,-1,-1.0,https://www.ivanti.com/company/careers,-1.0
 AppSheet,"Software,Consulting,Health",Private,2014,35,-1,-1,-1,-1.0,https://solutions.appsheet.com/careers,-1.0
 Titanium SDK,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.appcelerator.com/company/jobs/,5.58
-"Apperian, Inc.",,Private,-1,50,-1,-1,-1,-1.0,https://careers.northeastern.edu/article/computer-information-science/,-1.0
+"Apperian, Inc.",Other,Private,-1,50,-1,-1,-1,-1.0,https://careers.northeastern.edu/article/computer-information-science/,-1.0
 "Applause, Inc.","Software,Consulting,Health",Private,-1,301,-1,-1,-1,-1.0,https://www.applause.com/jobs,-1.0
 Apple Inc.,"Software,Consulting,Distributed Systems,Artificial Intelligence,Banking,Health,Manufacturing and Chemicals",Public,1976,137000,274515000000,66288000000,57411000000,119.03,https://www.apple.com/jobs/us/students.html,8.01
 Application Networks,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.collegecentral.com/,-1.0
-Applico,,Private,2009,75,-1,-1,-1,-1.0,https://angel.co/company/applico-1/jobs/967150-digital-content-marketer,-1.0
+Applico,Other,Private,2009,75,-1,-1,-1,-1.0,https://angel.co/company/applico-1/jobs/967150-digital-content-marketer,-1.0
 "Applied Minds, LLC","Software,Consulting,Health,Manufacturing and Chemicals",Private,-1,-1,-1,-1,-1,-1.0,https://appliedminds.com/,-1.0
 Applied Predictive Technologies,"Software,Health",Private,-1,600,-1,-1,-1,-1.0,https://www.indeed.com/cmp/Applied-Predictive-Technologies,-1.0
 "Applied Science International, LLC.","Software,Health",Private,-1,100,-1,-1,-1,-1.0,https://www.internationalstudent.com/study-applied-sciences/,-1.0
 "Apptio, Inc.","Software,Consulting,Health",Private,-1,800,160000000,-1,-1,-1.0,https://www.apptio.com/company/careers/,-1.0
 Aptean Corporation,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.aptean.com/our-company/careers/,-1.0
-Apteligent,,Private,-1,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,-1.0
+Apteligent,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,-1.0
 Apttus,"Software,Health",Private,2006,-1,-1,-1,-1,-1.0,https://apttus.com/company/careers/,5.48
 "Aquaveo, LLC","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.aquaveo.com/careers,-1.0
 Aras Corporation,"Software,Health",Private,-1,550,-1,-1,-1,-1.0,https://www.aras.com/en/company/careers,-1.0
@@ -114,7 +113,7 @@ Micro Focus ArcSight,"Software,Health",Private,2000,-1,-1,-1,-1,-1.0,https://job
 ArcSoft,"Software,Distributed Systems,Health",Private,-1,800,-1,-1,-1,-1.0,http://www.arcsoft.com/corporate/career.html,-1.0
 Archer-Daniels-Midland Company,"Consulting,Retail and Wholesale",Public,-1,38100,64656000000,1372000000,1279000000,47.91,https://www.archcareerpartners.com/,5.69
 "Archipelago Learning, Inc.","Software,Health",Public,-1,-1,-1,-1,-1,57.34,https://en.wikipedia.org/wiki/Archipelago_Learning,-1.0
-Architel Holdings LLC,,Private,-1,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,-1.0
+Architel Holdings LLC,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,-1.0
 "Ardence, a Citrix Company","Software,Health",Private,-1,104,-1,-1,-1,-1.0,https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/,-1.0
 Aricent/Altran Americas,Research,Private,-1,10000,-1,-1,-1,-1.0,https://northamerica.altran.com/careers/overview,-1.0
 Arkeia Software,"Software,Health",Private,-1,50,-1,-1,-1,-1.0,https://www.linkedin.com/company/arkeia-software,-1.0
@@ -173,10 +172,10 @@ Base CRM,"Software,Health",Private,-1,150,-1,-1,-1,-1.0,https://www.salesforce.c
 Base One International Corporation,"Software,Health",Private,1993,-1,-1,-1,-1,-1.0,https://career.berkeley.edu/IntnlStudents/IS-strategies,-1.0
 "Basho Technologies, Inc.","Software,Distributed Systems,Database,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,-1.0
 Basis Technology Corp.,"Software,Consulting,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.basistech.com/about/careers/,-1.0
-BatchMaster Software,,Private,-1,300,-1,-1,-1,-1.0,https://www.batchmaster.com/careers/,-1.0
+BatchMaster Software,Other,Private,-1,300,-1,-1,-1,-1.0,https://www.batchmaster.com/careers/,-1.0
 Baynote,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,-1.0
-Beeline,,Private,1999,450,-1,-1,-1,-1.0,https://www.beeline.com/careers/,-1.0
-BenchPrep,,Private,-1,-1,-1,-1,-1,-1.0,https://benchprep.com/,-1.0
+Beeline,Other,Private,1999,450,-1,-1,-1,-1.0,https://www.beeline.com/careers/,-1.0
+BenchPrep,Other,Private,-1,-1,-1,-1,-1,-1.0,https://benchprep.com/,-1.0
 "Bentley Systems, Inc.","Software,Health",Public,-1,3800,700000000,-1,-1,57.34,https://www.bentley.com/en/about-us/careers,-1.0
 "Best Way Technologies, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.it-ology.org/it-resources/how-to-start-an-it-career/,-1.0
 BetterCloud,"Software,Network,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.bettercloud.com/careers/,-1.0
@@ -206,10 +205,10 @@ BlueSpace Federal,"Software,Health",Private,2006,-1,-1,-1,-1,-1.0,http://www.blu
 Blumberg Capital,Consulting,Private,-1,-1,-1,-1,-1,-1.0,https://blumbergcapital.com/,-1.0
 Body Labs,"Artificial Intelligence,Manufacturing and Chemicals",Private,-1,-1,-1,-1,-1,-1.0,https://www.indeed.com/q-The-Body-Lab-jobs.html,-1.0
 "Boingo Wireless, Inc.","Software,Network,Health",Public,-1,-1,250800000,-1,-1,9.85,https://www.boingo.com/corporate/careers/,-1.0
-Boller and Chivens,,Private,-1,-1,-1,-1,-1,-1.0,https://studentemployment.umich.edu/,-1.0
+Boller and Chivens,Other,Private,-1,-1,-1,-1,-1,-1.0,https://studentemployment.umich.edu/,-1.0
 The Bomb Factory,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.thebombfactory.com/connect/employment,4.73
-"Bon'App, Inc.","Software,Retail and Wholesale,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.bamco.com/careers/,-1.0
-"Booker Software, Inc.",,Private,-1,270,-1,-1,-1,-1.0,https://www.booker.com/careers/listing/qa,-1.0
+"Bon'App, Inc.","Software,Big Data and Analytics,Retail and Wholesale,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.bamco.com/careers/,-1.0
+"Booker Software, Inc.",Other,Private,-1,270,-1,-1,-1,-1.0,https://www.booker.com/careers/listing/qa,-1.0
 Boris FX,"Software,Video,Health",Private,-1,-1,-1,-1,-1,-1.0,https://borisfx.com/company/careers/,-1.0
 Borland Software Corporation,"Software,Health",Private,-1,1100,172000000,-1,-1,-1.0,https://www.mckinsey.com/careers/students,-1.0
 "Bourns, Inc.",Manufacturing and Chemicals,Private,1947,7000,-1,-1,-1,-1.0,https://www.bourns.com/support/careers,5.4
@@ -229,7 +228,7 @@ Broadleaf Commerce,Retail and Wholesale,Private,2008,-1,-1,-1,-1,-1.0,https://ww
 Bromium,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.bromium.com/careers/,-1.0
 Oracle Bronto,"Distributed Systems,Retail and Wholesale",Private,-1,400,-1,-1,-1,-1.0,https://bronto.com/,-1.0
 Bsquare,"Software,Health",Public,1994,250,-1,-1,-1,1.22,https://careers.squareup.com/us/en/university,5.2
-Buildium,,Private,-1,-1,-1,-1,-1,-1.0,https://www.buildium.com/careers/,-1.0
+Buildium,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.buildium.com/careers/,-1.0
 "Bullhorn, Inc.","Consulting,Real Estate",Private,-1,-1,-1,-1,-1,-1.0,https://www.bullhorn.com/careers/,-1.0
 Bunchball,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.bunchball.com/resources,-1.0
 ByWater Solutions LLC,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,http://bywatersolutions.com/about-us,-1.0
@@ -238,7 +237,7 @@ CAIS Software,"Software,Network",Private,-1,-1,-1,-1,-1,-1.0,https://angel.co/co
 CARad.com,Network,Private,-1,-1,-1,-1,-1,-1.0,https://www.mastercard.us/en-us/vision/who-we-are/careers.html,-1.0
 CBTF Technology,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://osfa.illinois.edu/types-of-aid/employment/virtual-job-board/,-1.0
 CD-adapco,"Software,Health",Private,-1,900,-1,-1,-1,-1.0,http://mdx2.plm.automation.siemens.com/careers,-1.0
-CECO Environmental Corp.,,Public,-1,-1,-1,-1,-1,6.25,https://www.cecoenviro.com/careers,-1.0
+CECO Environmental Corp.,Other,Public,-1,-1,-1,-1,-1,6.25,https://www.cecoenviro.com/careers,-1.0
 CERTPOINT Systems Inc.,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,http://www.certificationpoint.org/,-1.0
 CHS Electronics,"Software,Health",Private,1994,-1,-1,-1,-1,-1.0,https://www.chsinc.com/careers,-1.0
 CTERA,"Software,Distributed Systems,Database,Network,Security",Private,-1,-1,-1,-1,-1,-1.0,https://www.ctera.com/company/careers/,-1.0
@@ -254,7 +253,7 @@ Callidus Software Inc.,"Software,Health",Private,-1,1,253091000,-1,-1,-1.0,https
 Calm (company),Other,Private,2012,0,-1,-1,-1,-1.0,https://boards.greenhouse.io/calm,-1.0
 Cambium Learning Group,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.cambiumlearning.com/careers/,-1.0
 Cambridge Semantics,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.cambridgesemantics.com/about-us/careers/,-1.0
-Campus Consortium,,Private,-1,50,-1,-1,-1,-1.0,https://www.campusconsortium.org/,-1.0
+Campus Consortium,Other,Private,-1,50,-1,-1,-1,-1.0,https://www.campusconsortium.org/,-1.0
 Campus Management Corp.,"Software,Consulting,Health",Private,1988,750,-1,-1,-1,-1.0,https://www.campusmanagement.com/about-us/careers-at-Campus-Management/,-1.0
 Canopy,"Software,Health",Private,2010,-1,-1,-1,-1,-1.0,https://angel.co/company/canopy-nyc/jobs?src=rec,-1.0
 CapLinked,Other,Private,2010,-1,-1,-1,-1,-1.0,https://angel.co/company/caplinked/jobs,-1.0
@@ -298,7 +297,7 @@ ClassRanked.com,"Software,Consulting",Private,-1,-1,-1,-1,-1,-1.0,https://www.wr
 ClearTrial,"Software,Health",Private,-1,50,-1,-1,-1,-1.0,https://www.oracle.com/corporate/acquisitions/cleartrial/,-1.0
 Cleo,"Software,Health",Private,-1,300,-1,-1,-1,-1.0,https://hicleo.com/careers/,-1.0
 "ClickSoftware, A Salesforce Company","Software,Health",Private,-1,700,126200000,-1,-1,-1.0,https://www.salesforce.com/company/careers/,-1.0
-Clinkle,,Private,-1,-1,-1,-1,-1,-1.0,https://angel.co/company/clinkle,-1.0
+Clinkle,Other,Private,-1,-1,-1,-1,-1,-1.0,https://angel.co/company/clinkle,-1.0
 ClockworkMod Recovery,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,8.78
 CloudApp Screen Recorder,"Software,Distributed Systems",Private,-1,-1,-1,-1,-1,-1.0,https://www.getcloudapp.com/careers,6.29
 "CloudBees, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.indeed.com/cmp/Cloudbees,5.8
@@ -309,7 +308,7 @@ CloudHealth by VMware,"Software,Health",Private,-1,280,-1,-1,-1,-1.0,https://www
 Cloudinary,"Software,Health",Private,-1,200,-1,-1,-1,-1.0,https://cloudinary.com/jobs,-1.0
 Cloudwords,"Software,Health",Private,2010,-1,-1,-1,-1,-1.0,https://www.cloudwords.com/blog/cloudwords-university-enroll-now,5.09
 Clover Health,Health,Private,-1,-1,-1,-1,-1,-1.0,https://www.cloverhealth.com/en/about-us/current-openings,-1.0
-"Clover Network, Inc.",,Private,2012,200,-1,-1,-1,-1.0,https://careers.clover.com/,-1.0
+"Clover Network, Inc.",Other,Private,2012,200,-1,-1,-1,-1.0,https://careers.clover.com/,-1.0
 "Clubhouse Software, Inc.","Software,Health",Private,-1,50,-1,-1,-1,-1.0,https://clubhouse.io/careers/,-1.0
 "Cockroach Labs, Inc.","Software,Health",Private,2015,-1,-1,-1,-1,-1.0,https://www.cockroachlabs.com/careers/,5.58
 Coda,Other,Private,-1,-1,-1,-1,-1,-1.0,https://angel.co/company/coda-io-1/jobs,5.87
@@ -322,8 +321,8 @@ Cofio Software Incorporated,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https:
 Coherent Solutions,"Software,Consulting,Network,Health",Private,-1,800,-1,-1,-1,-1.0,https://www.coherent-solutions.com/about-us/career-opportunities/,-1.0
 CollabNet VersionOne,"Software,Health",Private,1999,-1,-1,-1,-1,-1.0,https://www.collab.net/company/careers,-1.0
 CollaborateMD,"Software,Health",Private,1999,-1,-1,-1,-1,-1.0,https://www.collaboratemd.com/about-us/careers/,-1.0
-"Collaborative Drug Discovery, Inc.",,Private,-1,-1,-1,-1,-1,-1.0,https://www.collaborativedrug.com/about/careers/,-1.0
-Cologix,,Private,2010,-1,-1,-1,-1,-1.0,https://www.cologix.com/company/careers/,5.32
+"Collaborative Drug Discovery, Inc.",Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.collaborativedrug.com/about/careers/,-1.0
+Cologix,Other,Private,2010,-1,-1,-1,-1,-1.0,https://www.cologix.com/company/careers/,5.32
 Commence Corporation,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.credit-suisse.com/careers/en/career-opportunities/students-and-graduates.html,-1.0
 CommerceHub,Retail and Wholesale,Private,-1,-1,-1,-1,-1,-1.0,https://www.commercehub.com/careers/,-1.0
 "Commvault Systems, Inc.","Software,Consulting,Health",Public,1996,2300,711000000,-1,-1,43.51,https://careers.commvault.com/,-1.0
@@ -338,7 +337,7 @@ Concursive,"Software,Health",Private,2000,-1,-1,-1,-1,-1.0,https://www.productho
 Conductor,Consulting,Private,-1,-1,-1,-1,-1,-1.0,https://www.conductor.com/careers/,5.69
 Condusiv Technologies,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.indeed.com/cmp/Condusiv-Technologies,-1.0
 Connectbeam,"Software,Distributed Systems,Health",Private,-1,-1,-1,-1,-1,-1.0,https://careers.linkedin.com/students,-1.0
-Conservis Corporation,,Private,-1,-1,-1,-1,-1,-1.0,https://conservis.ag/farm-management-software-company/careers/,-1.0
+Conservis Corporation,Other,Private,-1,-1,-1,-1,-1,-1.0,https://conservis.ag/farm-management-software-company/careers/,-1.0
 Console Connect,"Software,Network,Health",Private,-1,-1,-1,-1,-1,-1.0,https://careers.usc.edu/connectsc/,-1.0
 Consona Corporation,"Software,Health",Private,-1,700,-1,-1,-1,-1.0,https://vsolvit.lensa.com/consona/jobs/c/2e6fb22fa615f78360ca54c0c4a8fb1e3a02140a,-1.0
 Contact Telecom,"Consulting,Network",Private,-1,-1,-1,-1,-1,-1.0,https://www.telekom.com/en/careers,-1.0
@@ -352,14 +351,14 @@ Cooliris,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.usajobs.gov/Help/working-
 Corona Labs,Other,Private,-1,-1,-1,-1,-1,-1.0,https://coronalabs.com/jobs/,-1.0
 Coskata,Manufacturing and Chemicals,Private,-1,-1,-1,-1,-1,-1.0,"https://www.glassdoor.com/Overview/Working-at-Coskata-Inc-EI_IE147308.11,22.htm",-1.0
 Coupa Software Inc.,"Software,Network,Health",Private,-1,2000,-1,-1,-1,-1.0,https://www.coupa.com/careers/,-1.0
-"Coursera, Inc.",,Private,-1,1792,-1,-1,-1,-1.0,https://about.coursera.org/careers/,-1.0
+"Coursera, Inc.",Other,Private,-1,1792,-1,-1,-1,-1.0,https://about.coursera.org/careers/,-1.0
 CoverMyMeds,Health,Private,-1,-1,-1,-1,-1,-1.0,https://experience.covermymeds.com/,-1.0
 "Coverity, Inc. - A Synopsys Company","Software,Consulting,Health,Security",Public,-1,250,-1,-1,-1,57.34,https://www.synopsys.com/company/synopsys-careers.html,-1.0
 Covisint,"Software,Consulting,Health",Private,-1,180,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,-1.0
 Achilles Guard Inc.,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.cisa.gov/careers,-1.0
 "CrowdOptic, Inc.","Software,Distributed Systems,Health,Manufacturing and Chemicals",Private,-1,-1,-1,-1,-1,-1.0,https://www.careeronestop.org/,-1.0
 Cullinet,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,-1.0
-Cupcake Digital Inc.,,Private,-1,50,-1,-1,-1,-1.0,https://jobs.careerbeacon.com/employer-profile/company-3080703123,-1.0
+Cupcake Digital Inc.,Other,Private,-1,50,-1,-1,-1,-1.0,https://jobs.careerbeacon.com/employer-profile/company-3080703123,-1.0
 Cvent,"Software,Artificial Intelligence,Health",Private,-1,3600,-1,-1,-1,-1.0,https://www.cvent.com/en/careers,-1.0
 "CyberArk Software, Inc.","Software,Health",Public,1999,1380,343000000,90000000,-1,57.34,https://careers.cyberark.com/,5.43
 Yara Shahidi,Other,Private,-1,-1,-1,-1,-1,-1.0,http://www.cybersoft.net/pages/careers/careers.html,4.04
@@ -378,10 +377,10 @@ Dakota Software Corporation,"Software,Health,Manufacturing and Chemicals",Privat
 Daniel Cane,Other,Private,-1,-1,-1,-1,-1,-1.0,https://alejandrocremades.com/daniel-cane/,-1.0
 "Daon, Inc.","Software,Health,Real Estate",Private,-1,-1,-1,-1,-1,-1.0,https://www.daon.com/company/careers,-1.0
 Data Applied,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/,-1.0
-Data Domain Corporation,,Private,-1,-1,-1,-1,-1,-1.0,https://jobs.cigna.com/us/en/job/20017208/Data-Analyst-Provider-Data-Domain,-1.0
+Data Domain Corporation,Other,Private,-1,-1,-1,-1,-1,-1.0,https://jobs.cigna.com/us/en/job/20017208/Data-Analyst-Provider-Data-Domain,-1.0
 DataArt Solutions Inc,Other,Private,-1,3000,-1,-1,-1,-1.0,https://www.dataart.com/about-dataart/careers,-1.0
 DataGravity Inc.,"Software,Consulting,Health,Security",Private,2012,-1,-1,-1,-1,-1.0,https://careers.linkedin.com/students,-1.0
-"DataSage, Inc.",,Private,1997,120,-1,-1,-1,-1.0,https://www.dice.com/jobs/q-Entry+Level+Datastage+Developer-jobs,-1.0
+"DataSage, Inc.",Other,Private,1997,120,-1,-1,-1,-1.0,https://www.dice.com/jobs/q-Entry+Level+Datastage+Developer-jobs,-1.0
 DataTreasury,Other,Private,-1,2,-1,-1,-1,-1.0,https://careers.jpmorgan.com/us/en/students,4.22
 "DataViz, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.bestcolleges.com/careers/technology/data-visualization/,5.7
 "Databricks, Inc.","Software,Health",Private,-1,1442,-1,-1,-1,-1.0,https://databricks.com/company/careers,-1.0
@@ -394,7 +393,7 @@ Daxcon,"Research,Manufacturing and Chemicals",Private,-1,350,-1,-1,-1,-1.0,"http
 "DaySmart Software, Inc.","Software,Health",Private,-1,61,-1,-1,-1,-1.0,http://careers.daysmart.com/,-1.0
 "Daz Productions, Inc",Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.internships.com/posting/bug_38852945996,-1.0
 DeLorme,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://careers-us.garmin.com/,-1.0
-"Deacom, Inc.",,Private,-1,165,-1,-1,-1,-1.0,https://deacom.com/careers,-1.0
+"Deacom, Inc.",Other,Private,-1,165,-1,-1,-1,-1.0,https://deacom.com/careers,-1.0
 Dealpath,"Software,Health,Real Estate",Private,2014,-1,-1,-1,-1,-1.0,https://www.dealpath.com/careers/,5.27
 EMS Software,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.emssoftware.com/,-1.0
 "Decagon Devices, Inc.","Research,Manufacturing and Chemicals",Private,1983,-1,-1,-1,-1,-1.0,https://careers.ti.com/,-1.0
@@ -413,12 +412,12 @@ Dell EMC,"Software,Database",Private,-1,-1,-1,-1,-1,-1.0,https://jobs.dell.com/s
 DemandTec by Acoustic,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.purdue.edu/studentemployment/,-1.0
 Demandware,"Software,Distributed Systems,Retail and Wholesale,Health",Private,-1,1000,254000000,-1,-1,-1.0,https://www.salesforce.com/company/careers/,-1.0
 Democrasoft,Banking,Public,-1,-1,-1,-1,-1,-1.0,http://www.democrasoft.com/,-1.0
-Deneb Robotics,,Private,-1,-1,-1,-1,-1,-1.0,https://www.getsmarter.com/blog/career-advice/career-path-artificial-intelligence-and-robotics/,-1.0
+Deneb Robotics,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.getsmarter.com/blog/career-advice/career-path-artificial-intelligence-and-robotics/,-1.0
 Deque Systems,"Software,Consulting,Network",Private,-1,-1,-1,-1,-1,-1.0,https://www.deque.com/company/careers/,-1.0
 "Design Science, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://dscience.com/contact/careers/,-1.0
 DEVAR Entertainment LLC,"Consulting,Artificial Intelligence",Private,2011,200,-1,-1,-1,-1.0,https://www.linkedin.com/company/devar-official,5.54
 Devicescape,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,http://www.devicescape.com/open-positions/,-1.0
-The DiSTI Corporation,,Private,-1,-1,-1,-1,-1,-1.0,https://www.austinisd.org/tad/careers,-1.0
+The DiSTI Corporation,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.austinisd.org/tad/careers,-1.0
 Dialogic,Network,Private,-1,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,5.44
 Didiom LLC,"Software,Distributed Systems,Network,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/,-1.0
 "Dieselpoint, Inc.","Software,Consulting,Health",Private,-1,-1,-1,-1,-1,-1.0,http://dieselpoint.com/careers/index.html,-1.0
@@ -431,17 +430,17 @@ Digital Research Inc. (DRI),"Software,Health",Private,1974,0,45000000,-1,-1,-1.0
 Digital River,Retail and Wholesale,Private,-1,1239,370500000,-1,-1,-1.0,https://www.digitalriver.com/careers/,-1.0
 "DigitalThink, Inc. (acquired by Convergys)","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "Dimdim, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,-1.0
-Dimensional Insight,,Private,-1,-1,-1,-1,-1,-1.0,https://www.dimins.com/business-intelligence-jobs/,-1.0
+Dimensional Insight,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.dimins.com/business-intelligence-jobs/,-1.0
 Direct Sports Network,Video,Private,-1,-1,-1,-1,-1,-1.0,https://jobs.disneycareers.com/espn,-1.0
 Disney Games and Interactive Experiences,Video,Private,1995,2000,982000000,-1,308000000,-1.0,https://jobs.disneycareers.com/,-1.0
-Dispersion Technology Inc,,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
+Dispersion Technology Inc,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "Diversified Technology, Inc.","Software,Consulting,Network",Private,-1,-1,-1,-1,-1,-1.0,http://www.divtecs.com/employment-opportunities/,-1.0
 DocMagic Inc.,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.docmagic.com/careers,-1.0
 "Docker, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.docker.com/careers,6.21
 "DocuSign, Inc.",Other,Public,-1,3909,974000000,-1,-1,236.77,https://www.docusign.com/company/careers,6.51
 Docudesk Corporation,"Software,Research,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "Domo, Inc.","Software,Health",Public,-1,824,-1,-1,-1,110.34,https://www.domo.com/company/careers,-1.0
-Dorado Software,,Private,1998,-1,-1,-1,-1,-1.0,http://doradosoftware.com/About/Careers.htm,-1.0
+Dorado Software,Other,Private,1998,-1,-1,-1,-1,-1.0,http://doradosoftware.com/About/Careers.htm,-1.0
 Doximity Inc.,Network,Private,-1,-1,-1,-1,-1,-1.0,https://workat.doximity.com/positions/,6.13
 Crown Electrokinetics Corp.,Manufacturing and Chemicals,Public,-1,-1,-1,-1,-1,14.05,https://www.crownek.com/,-1.0
 Dreambox Learning,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.dreambox.com/careers,-1.0
@@ -452,7 +451,7 @@ Dropbox,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.dropbox.com/jobs,-1.0
 dtSearch Corp.,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.dtsearch.com/CS_recruit.html,-1.0
 Dynamic Yield,"Software,Network,Health",Private,2011,-1,-1,-1,-1,-1.0,https://www.dynamicyield.com/careers/,5.71
 DynamicOps,"Software,Distributed Systems",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
-"Dynatrace, Inc.","Software,Consulting,Health,Manufacturing and Chemicals",Public,2005,2200,-1,-1,-1,38.68,https://www.dynatrace.com/company/careers/,-1.0
+"Dynatrace, Inc.","Software,Consulting,Big Data and Analytics,Health,Manufacturing and Chemicals",Public,2005,2200,-1,-1,-1,38.68,https://www.dynatrace.com/company/careers/,-1.0
 "E2open LLC,","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.e2open.com/careers/,-1.0
 EFI Technology Inc.,"Research,Manufacturing and Chemicals",Private,-1,-1,-1,-1,-1,-1.0,https://www.efi.com/about-efi/careers/job-search/,-1.0
 "eFileCabinet, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.efilecabinet.com/careers/,-1.0
@@ -460,7 +459,7 @@ EON Reality,"Consulting,Artificial Intelligence",Private,-1,-1,-1,-1,-1,-1.0,htt
 EPAM Systems,"Software,Health",Public,-1,36700,2290000000,-1,-1,346.63,https://www.epam.com/careers,-1.0
 eReflect,"Software,Health",Private,2006,-1,-1,-1,-1,-1.0,https://careers.travelers.com/students-grads/,-1.0
 EVRYTHNG,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.topuniversities.com/student-info/careers-advice/everything-students-need-know-about-virtual-internships,-1.0
-eVoice,,Private,-1,-1,-1,-1,-1,-1.0,https://www.indeed.com/q-Automated-Voice-jobs.html,-1.0
+eVoice,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.indeed.com/q-Automated-Voice-jobs.html,-1.0
 Eagle Investment Systems,"Software,Banking,Health",Private,-1,1000,-1,-1,-1,-1.0,https://jobs.bnymellon.com/jobs?keywords=Eagle%20Investment%20Systems&page=1,-1.0
 "Eastgate Systems, Inc.","Software,Health,Manufacturing and Chemicals",Private,-1,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,-1.0
 Easy Software Products,"Software,Health",Private,1993,-1,-1,-1,-1,-1.0,https://www.ibm.com/us-en/employment/entrylevel/,-1.0
@@ -468,12 +467,12 @@ Eclipsys Corporation,"Software,Consulting,Health",Public,-1,2800,519179999,11980
 "Economic Development Research Group, Inc.",Other,Private,1997,-1,-1,-1,-1,-1.0,https://www.nber.org/career-resources,-1.0
 "Egenera, Inc.","Software,Distributed Systems,Health,Manufacturing and Chemicals",Private,2000,110,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,4.89
 Eggplant,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.eggplantsoftware.com/join-us,5.04
-"Elanex, Inc.",,Private,2002,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,-1.0
+"Elanex, Inc.",Other,Private,2002,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,-1.0
 "Electric Cloud, Inc.","Software,Health",Private,-1,0,-1,-1,-1,-1.0,http://electric-cloud.com/company/careers/?p=job%2FoNpV2fwT,-1.0
 "Embarcadero Technologies, Inc.","Software,Database,Network,Health",Private,-1,500,-1,-1,-1,-1.0,https://www.zippia.com/embarcadero-technologies-careers-62240/,-1.0
 Empirix Inc.,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.empirix.com/company/careers/jobs/,-1.0
 "Emplify, Inc.","Software,Health",Private,2011,51,-1,-1,-1,-1.0,https://amplify.com/careers/,5.62
-Encompass Technologies,,Private,-1,-1,-1,-1,-1,-1.0,https://www.encompass8.com/careers,-1.0
+Encompass Technologies,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.encompass8.com/careers,-1.0
 "Encore Software, LLC","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://encore.org/,-1.0
 Energy Points,Manufacturing and Chemicals,Private,-1,-1,-1,-1,-1,-1.0,https://careers.centerpointenergy.com/,-1.0
 Enertia Software,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.enertia-software.com/careers,4.09
@@ -497,7 +496,7 @@ Enthought,"Software,Health",Private,2001,-1,-1,-1,-1,-1.0,https://www.enthought.
 Epic Systems Corporation,"Software,Consulting,Health",Private,-1,10000,2900000000,-1,-1,-1.0,https://careers.epic.com/,-1.0
 Epicor,"Software,Health",Private,-1,4100,900000000,-1,-1,-1.0,https://jobs.epicor.com/,-1.0
 "Epiphany, Inc.","Software,Health",Public,-1,-1,71500000,-1,-1,110.34,http://www.epiphanyinc.net/company/careers,-1.0
-Equitrac Corporation,,Private,-1,-1,-1,-1,-1,-1.0,https://www.nuance.com/about-us/careers.html,-1.0
+Equitrac Corporation,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.nuance.com/about-us/careers.html,-1.0
 "Ericom Software, Inc.","Software,Consulting,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.ericom.com/careers.asp,-1.0
 Esri,"Software,Health",Private,1969,3800,-1,-1,-1,-1.0,https://www.esri.com/en-us/about/careers/student-jobs,-1.0
 "Evergage, Inc.","Software,Consulting,Network,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.salesforce.com/company/careers/,-1.0
@@ -505,7 +504,7 @@ Excite,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.ucclermont.edu/careers,-1.0
 Exela Technologies,"Software,Consulting,Health",Public,-1,22000,-1,-1,-1,0.41,https://www.exelatech.com/careers,-1.0
 Expensify,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://we.are.expensify.com/,6.19
 "Express Metrix, LLC","Software,Consulting,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.express.com/g/careers,-1.0
-OpenText Exstream,,Private,1998,-1,-1,-1,-1,-1.0,https://www.e-xstream.com/about-us/about-e-xstream/careers,-1.0
+OpenText Exstream,Other,Private,1998,-1,-1,-1,-1,-1.0,https://www.e-xstream.com/about-us/about-e-xstream/careers,-1.0
 Eze Castle Integration,Consulting,Private,-1,700,-1,-1,-1,-1.0,https://www.eci.com/about-us/careers/,5.23
 "F5, Inc.","Software,Health",Public,-1,5325,2161407000,590899000,453689000,110.34,https://www.f5.com/company/careers,-1.0
 Fair Isaac Corporation,Software,Public,-1,3358,932170000,177200000,-1,444.6,https://www.fico.com/en/careers,6.04
@@ -514,7 +513,7 @@ Fair Isaac Corporation,Software,Public,-1,3358,932170000,177200000,-1,444.6,http
 "FacilitySource, Inc.",Consulting,Private,-1,595,-1,-1,-1,-1.0,https://facilitysource.com/employment-opportunities/,4.37
 Falafel Software Inc.,"Software,Health",Private,-1,19,-1,-1,-1,-1.0,nan,-1.0
 FalconStor Software,"Software,Health",Public,-1,-1,-1,-1,-1,16.09,https://www.falconstor.com/careers/,-1.0
-FastSpring,,Private,-1,-1,-1,-1,-1,-1.0,https://fastspring.com/company/careers/,-1.0
+FastSpring,Other,Private,-1,-1,-1,-1,-1,-1.0,https://fastspring.com/company/careers/,-1.0
 "Fastly, Inc.",Network,Private,-1,700,-1,-1,-1,-1.0,https://www.fastly.com/about/careers,-1.0
 FatKat,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.fatkatspizzeria.com/careers,-1.0
 FellowshipOne,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.fellowshipone.com/careers/,-1.0
@@ -536,14 +535,14 @@ Flexera,Other,Private,1988,-1,-1,-1,-1,-1.0,https://www.flexera.com/about-us/car
 FloQast,"Software,Health",Private,2013,151,-1,-1,-1,-1.0,https://floqast.com/company/careers/,5.31
 flok,Software,Private,-1,-1,-1,-1,-1,-1.0,https://careers.flock.com/,-1.0
 "Flow Science, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://flowscience.com/careers/,-1.0
-Folio Corporation,,Private,-1,-1,-1,-1,-1,-1.0,https://www.appfolioinc.com/careers,-1.0
+Folio Corporation,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.appfolioinc.com/careers,-1.0
 "Food Service Solutions, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.usfoods.com/careers.html,-1.0
 "Forterra Systems, Inc.","Software,Health",Private,1998,-1,-1,-1,-1,-1.0,https://careers.epic.com/,-1.0
 Fortify,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.indeed.com/q-Fortify-Software-Security-jobs.html,-1.0
 "Fortinet, Inc.","Software,Consulting,Network,Security",Public,-1,6015,2160000000,109804000,31399000,119.51,https://www.fortinet.com/corporate/careers,-1.0
 FortÃ© Internet Software,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "FreeWave Technologies, Inc.","Network,Manufacturing and Chemicals",Private,-1,0,-1,-1,-1,-1.0,https://www.freewave.com/about/careers/,-1.0
-Freefly Systems,,Private,-1,70,-1,-1,-1,-1.0,https://freeflysystems.com/careers,-1.0
+Freefly Systems,Other,Private,-1,70,-1,-1,-1,-1.0,https://freeflysystems.com/careers,-1.0
 Fungible Inc.,"Software,Health",Private,2015,200,-1,-1,-1,-1.0,https://www.fungible.com/careers/,5.5
 "G2 Crowd, Inc.","Software,Network,Research,Health",Private,-1,360,-1,-1,-1,-1.0,https://culture.g2.com/careers,-1.0
 GE Automation & Controls,Manufacturing and Chemicals,Private,-1,-1,-1,-1,-1,-1.0,https://jobs.gecareers.com/global/en,-1.0
@@ -577,7 +576,7 @@ GotoBus,"Software,Health,Travel and Transport",Private,-1,25,-1,-1,-1,-1.0,https
 "GovBizConnect, Inc.","Software,Health",Private,2015,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,3.7
 Goverlan Reach Remote Support Software,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.goverlan.com/jobs,4.7
 "GrabCAD, Inc.",Software,Public,-1,81,-1,-1,-1,110.34,https://resources.grabcad.com/jobs/,-1.0
-Graham Magnetics,,Private,-1,-1,-1,-1,-1,-1.0,http://grahammagnetics.com/,-1.0
+Graham Magnetics,Other,Private,-1,-1,-1,-1,-1,-1.0,http://grahammagnetics.com/,-1.0
 "GrammaTech, Inc.","Software,Consulting,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.grammatech.com/careers,-1.0
 GraphPad Prism,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.graphpad.com/how-to-buy/student/,-1.0
 Graphiq,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.learnhowtobecome.org/graphic-designer/,-1.0
@@ -599,10 +598,10 @@ Gusto,Other,Private,2011,-1,-1,-1,-1,-1.0,https://gusto.com/about/careers,5.9
 Micro Focus Enterprise Security,"Software,Consulting,Health,Security",Private,-1,-1,-1,-1,-1,-1.0,https://www.hpe.com/us/en/about/jobs/students.html,6.15
 HP Inc.,"Software,Health,Manufacturing and Chemicals",Public,2015,56000,58330000000,3800000000,3150000000,19.13,https://jobs.hp.com/en-us/Students-Graduates?prefilters=(%20ShortTextField2%20%3D%20%22Internship%22%20OR%20%20ShortTextField2%20%3D%20%22Graduate%22%20OR%20%20ShortTextField2%20%3D%20%22Apprenticeship%22%20%20)%20,6.71
 "Halcyon Monitoring Solutions, Inc.","Software,Consulting,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.helpsystems.com/product-lines/halcyon,-1.0
-Handmark,,Private,-1,100,-1,-1,-1,-1.0,https://www.lockheedmartinjobs.com/college-students,-1.0
+Handmark,Other,Private,-1,100,-1,-1,-1,-1.0,https://www.lockheedmartinjobs.com/college-students,-1.0
 Harman Connected Services,Network,Private,2001,30000,-1,-1,-1,-1.0,https://jobs.harman.com/,5.91
 "HashiCorp, Inc.",Other,Private,2012,1000,-1,-1,-1,-1.0,https://www.hashicorp.com/jobs,-1.0
-Helion Energy Inc.,,Private,-1,-1,-1,-1,-1,-1.0,https://www.helionenergy.com/careers/,5.44
+Helion Energy Inc.,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.helionenergy.com/careers/,5.44
 "Helix Software Company, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://helixre.com/careers/,-1.0
 HelloSociety,Network,Private,-1,-1,-1,-1,-1,-1.0,https://hellosociety.com/,-1.0
 HelloWallet,"Software,Banking,Health",Private,-1,60,-1,-1,-1,-1.0,https://www.bnymellon.com/us/en/careers/students.html,-1.0
@@ -648,19 +647,19 @@ IdeaScale,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://ideascale.com/id
 "Idera, Inc.","Software,Health",Private,2000,-1,-1,-1,-1,-1.0,https://www.ideracorp.com/careers,-1.0
 Ignify,"Software,Health",Private,1999,-1,-1,-1,-1,-1.0,https://www.purdue.edu/studentemployment/,-1.0
 Ilesfay Technology Group,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://gust.com/companies/ilesfay,-1.0
-ImageSource Inc.,,Private,-1,-1,-1,-1,-1,-1.0,https://imagesourceinc.com/career/,-1.0
+ImageSource Inc.,Other,Private,-1,-1,-1,-1,-1,-1.0,https://imagesourceinc.com/career/,-1.0
 Impelsys,Manufacturing and Chemicals,Private,2001,-1,-1,-1,-1,-1.0,https://www.impelsys.com/careers/,-1.0
 Imperva Inc.,"Consulting,Security",Private,-1,1000,-1,-1,-1,-1.0,https://www.imperva.com/company/careers/,-1.0
-"Impinj, Inc.",,Public,-1,208,-1,-1,-1,29.11,https://www.impinj.com/careers,-1.0
+"Impinj, Inc.",Other,Public,-1,208,-1,-1,-1,29.11,https://www.impinj.com/careers,-1.0
 Imply,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://imply.io/careers,-1.0
 inFORM Decisions,"Software,Health",Private,1994,-1,-1,-1,-1,-1.0,https://www.k-state.edu/counseling/topics/career/career.html,-1.0
 InMarket,Software,Private,-1,100,-1,-1,-1,-1.0,https://inmarket.com/careers/,-1.0
-inXitu,,Private,2007,-1,-1,-1,-1,-1.0,nan,-1.0
+inXitu,Other,Private,2007,-1,-1,-1,-1,-1.0,nan,-1.0
 Inbenta,"Software,Consulting,Network,Artificial Intelligence,Health,Manufacturing and Chemicals",Private,-1,-1,-1,-1,-1,-1.0,https://www.inbenta.com/en/about-us/careers/,-1.0
 Incomit,"Software,Network,Health",Private,2000,-1,-1,-1,-1,-1.0,https://thewomensfoundation.org/2010/low-income-students-and-career-choice/,-1.0
 Lockheed Martin Corporation,"Software,Consulting,Research,Health,Manufacturing and Chemicals,Security",Public,-1,110000,59810000000,8369999999,6230000000,364.7,https://www.industrialdefender.com/careers/,-1.0
 Inedo,"Software,Consulting,Health",Private,-1,-1,-1,-1,-1,-1.0,https://inedo.com/company/career-culture,-1.0
-InetSoft Technology Corporation,,Private,1996,-1,-1,-1,-1,-1.0,https://www.inetsoft.com/company/careers/,4.95
+InetSoft Technology Corporation,Other,Private,1996,-1,-1,-1,-1,-1.0,https://www.inetsoft.com/company/careers/,4.95
 "InfiniDB, Inc.","Software,Database,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Infinidat,Database,Private,-1,-1,-1,-1,-1,-1.0,https://hiring.infinidat.com/,5.28
 InfoSec Institute,Other,Private,1998,-1,-1,-1,-1,-1.0,https://www.infosecinstitute.com/career-profiles/,-1.0
@@ -675,13 +674,13 @@ Inkling,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.inkling.com/ca
 Inovalon,"Software,Health",Public,-1,2500,-1,-1,-1,20.08,https://www.inovalon.com/careers/,-1.0
 Inphi Corporation,Manufacturing and Chemicals,Public,2000,685,365000000,-1,-1,147.96,https://www.inphi.com/careers/,4.94
 Insight Enterprises,Other,Public,-1,11000,6700000000,-1,-1,64.9,https://www.insight.com/en_US/careers.html,-1.0
-Insight Technology,,Private,-1,-1,-1,-1,-1,-1.0,https://www.insight.com/en_US/careers.html,-1.0
+Insight Technology,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.insight.com/en_US/careers.html,-1.0
 Insilico Medicine,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Instabase,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://about.instabase.com/careers/,-1.0
 "Instructure, Inc.","Software,Health",Private,-1,1291,209500000,-1,-1,-1.0,https://www.instructure.com/about/careers,-1.0
 Intego,"Software,Consulting,Health,Security",Private,-1,-1,-1,-1,-1,-1.0,https://www.intego.com/company/careers,-1.0
 "Integrated Computer Solutions, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://icsinc.com/careers/,-1.0
-"Integration Point, Inc.",,Private,-1,-1,-1,-1,-1,-1.0,https://www.thomsonreuters.com/en/careers.html,5.4
+"Integration Point, Inc.",Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.thomsonreuters.com/en/careers.html,5.4
 Intel Corporation,Manufacturing and Chemicals,Public,1968,110800,71900000000,22000000000,-1,45.68,https://jobs.intel.com/,6.83
 Intelisys,"Software,Health",Private,1994,-1,-1,-1,-1,-1.0,https://intelisys.com/about/careers/,-1.0
 IntelliCorp,"Software,Health",Private,1980,-1,-1,-1,-1,-1.0,https://jobs.intel.com/,-1.0
@@ -745,7 +744,7 @@ Kinoma,"Software,Health",Private,-1,15,-1,-1,-1,-1.0,https://www.marvell.com/com
 Kiswe,"Distributed Systems,Video",Private,-1,-1,-1,-1,-1,-1.0,https://www.kiswe.com/pages/careers,-1.0
 "Knewton, Inc.","Software,Health",Private,-1,150,-1,-1,-1,-1.0,https://www.knewton.com/,-1.0
 Knight Security Systems,"Consulting,Security",Private,-1,-1,-1,-1,-1,-1.0,https://knightsecurity.com/company/careers,-1.0
-"Kno, Inc.",,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
+"Kno, Inc.",Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Knoa Software,"Software,Consulting,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.knoa.com/careers/,-1.0
 Knowland,"Software,Network,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.knowland.com/careers/,4.82
 Kofax Inc.,"Software,Health",Private,-1,1381,100000000,-1,-1,-1.0,https://www.kofax.com/About/our-company/careers,-1.0
@@ -758,14 +757,14 @@ Kx Systems,"Software,Health",Private,1993,-1,-1,-1,-1,-1.0,https://kx.com/about/
 LECO Corporation,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.leco.com/about-us/employment,-1.0
 LSS Data Systems,"Health,Manufacturing and Chemicals",Private,-1,200,-1,-1,-1,-1.0,https://www.adsc.com/careers,-1.0
 LabWare,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.accenture.com/us-en/careers/jobdetails?id=00830723_en,-1.0
-Lagan Technologies,,Private,-1,300,-1,-1,-1,-1.0,https://www.langan.com/careers,-1.0
+Lagan Technologies,Other,Private,-1,300,-1,-1,-1,-1.0,https://www.langan.com/careers,-1.0
 Language Computer Corporation,"Software,Research,Health",Private,-1,12,-1,-1,-1,-1.0,http://www.languagecomputer.com/careers.html,-1.0
 Latigent LLC,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "Lattice Engines, Inc.",Network,Private,-1,-1,-1,-1,-1,-1.0,https://www.lattice-engines.com/about-us/careers,-1.0
-Lavastorm,"Software,Network",Private,-1,-1,-1,-1,-1,-1.0,https://www.tableau.com/about/blog/Lavastorm-Analytics,-1.0
+Lavastorm,"Software,Network,Big Data and Analytics",Private,-1,-1,-1,-1,-1,-1.0,https://www.tableau.com/about/blog/Lavastorm-Analytics,-1.0
 "Leadspace, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.leadspace.com/careers/,-1.0
 Learn.com Inc.,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.learning.com/about/careers/,-1.0
-Learning Tree International,,Private,1974,-1,-1,-1,-1,-1.0,https://www.learningtree.com/careers/,5.48
+Learning Tree International,Other,Private,1974,-1,-1,-1,-1,-1.0,https://www.learningtree.com/careers/,5.48
 Letgo,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://we.letgo.com/careers,-1.0
 Lever,Other,Private,2012,-1,-1,-1,-1,-1.0,https://www.lever.co/careers/,-1.0
 "Levi, Ray & Shoup, Inc.","Software,Health",Private,-1,630,-1,-1,-1,-1.0,https://jobs.lrs.com/,-1.0
@@ -788,7 +787,7 @@ Locus Technologies,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.loc
 LogDNA,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://logdna.com/culture-and-career/,-1.0
 "LogMeIn, Inc.","Software,Health",Private,2003,0,1262000000,-1,-1,-1.0,https://www.logmeininc.com/careers,-1.0
 Loggly,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.loggly.com/about/careers/,-1.0
-"Logi Analytics, Inc",,Private,-1,-1,-1,-1,-1,-1.0,https://www.logianalytics.com/company/careers/,-1.0
+"Logi Analytics, Inc",Big Data and Analytics,Private,-1,-1,-1,-1,-1,-1.0,https://www.logianalytics.com/company/careers/,-1.0
 Looker,"Software,Health",Private,-1,500,-1,-1,-1,-1.0,https://looker.com/blog/interns-of-looker,-1.0
 Looksery,"Software,Health",Private,-1,45,-1,-1,-1,-1.0,https://joinhandshake.com/,-1.0
 Lotus Software,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.lotuscars.com/en-US/jobs-and-careers-at-lotus,-1.0
@@ -814,7 +813,7 @@ MailRoute Inc.,"Software,Health",Private,2003,-1,-1,-1,-1,-1.0,https://www.wayup
 Malwarebytes Inc.,"Software,Consulting,Health,Security",Private,2008,800,-1,-1,-1,-1.0,https://jobs.malwarebytes.com/,-1.0
 Manomio,"Software,Video,Health",Private,2008,-1,-1,-1,-1,-1.0,nan,-1.0
 "MapR Technologies, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://mapr.agency/careers/,5.81
-Maponics,,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
+Maponics,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Marathon Technologies,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.marathonpetroleum.com/Jobs/,-1.0
 Marin Software,"Distributed Systems,Network",Public,-1,500,58600000,-1,-1,2.59,https://www.marinsoftware.com/about-us/careers/current-openings,-1.0
 "Mariner Software, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/,-1.0
@@ -834,7 +833,7 @@ McAfee Corp.,"Software,Health",Public,-1,6768,2600000000,-1,-1,22.98,https://car
 "Medallia, Inc.",Real Estate,Public,-1,1500,-1,-1,-1,29.67,https://www.medallia.com/careers/,-1.0
 "MedAssets, Inc","Software,Health",Public,-1,3400,-1,-1,-1,110.34,https://www.nthrive.com/careers/,-1.0
 MediNotes Corporation,"Software,Distributed Systems,Health,Manufacturing and Chemicals",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
-"MediaDefender, Inc.",,Private,-1,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,-1.0
+"MediaDefender, Inc.",Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.mckinsey.com/careers/students,-1.0
 "Mediapolis, Inc.","Software,Network",Private,-1,-1,-1,-1,-1,-1.0,http://www.meposchools.org/programs/mediapolis-community-school-counseling-offices/high-school-counseling/financial-aid-and-scholarship-information/list-of-scholarships-currently-available-in-the-counseling-office/,-1.0
 "Medidata Solutions, Inc.","Software,Health",Private,-1,1998,636000000,-1,-1,-1.0,https://www.medidata.com/en/careers/,5.22
 "Medical Information Technology, Inc.",Health,Private,-1,-1,493800000,-1,-1,-1.0,https://ehr.meditech.com/careers/college-to-career,-1.0
@@ -881,7 +880,7 @@ MontaVista Software.,"Software,Network,Health",Private,-1,250,-1,-1,-1,-1.0,nan,
 Moog Incorporated,"Research,Manufacturing and Chemicals",Public,-1,10976,-1,-1,-1,37.22,nan,-1.0
 Moonit LLC,Network,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Moovweb,"Software,Distributed Systems",Private,2009,-1,-1,-1,-1,-1.0,nan,5.49
-MorphThing,,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
+MorphThing,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "Motus, LLC",Other,Private,-1,204,78120000,-1,-1,-1.0,nan,-1.0
 "Moxie Software, Inc.","Software,Distributed Systems,Health",Private,-1,220,-1,-1,-1,-1.0,nan,-1.0
 Mozilla Corporation,"Software,Health",Private,2005,0,450900000,-1,-1,-1.0,nan,8.0
@@ -892,7 +891,7 @@ N.F. Smith & Associates,Manufacturing and Chemicals,Private,-1,475,-1,-1,-1,-1.0
 nCino,"Software,Banking,Health",Public,-1,934,-1,-1,-1,-1.0,nan,-1.0
 nettime solutions,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "NGP VAN, Inc.","Software,Consulting,Distributed Systems,Database,Network,Health",Private,-1,0,-1,-1,-1,-1.0,nan,-1.0
-Namely,,Private,2012,500,-1,-1,-1,-1.0,nan,5.79
+Namely,Other,Private,2012,500,-1,-1,-1,-1.0,nan,5.79
 "Namo Media, Inc.",Distributed Systems,Private,-1,-1,-1,-1,-1,-1.0,nan,5.19
 "Nanex, LLC","Software,Health",Private,2000,8,-1,-1,-1,-1.0,nan,5.66
 Narrative Science,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
@@ -916,16 +915,16 @@ Netcracker Technology,"Software,Consulting,Health",Private,-1,-1,-1,-1,-1,-1.0,n
 "Netskope, Inc.",Other,Private,-1,990,-1,-1,-1,-1.0,nan,-1.0
 Netsmart Technologies,"Software,Consulting,Health",Private,-1,2100,355000000,-1,-1,-1.0,nan,-1.0
 Network Automation,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
-Networked Insights,Big Data,Private,-1,150,-1,-1,-1,-1.0,nan,-1.0
+Networked Insights,Big Data and Analytics,Private,-1,150,-1,-1,-1,-1.0,nan,-1.0
 Netwrix,"Software,Consulting,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 NeuroDimension,Other,Private,1991,-1,-1,-1,-1,-1.0,nan,3.83
 New Atlanta Communications,"Software,Health",Private,1998,-1,-1,-1,-1,-1.0,nan,5.08
-"New Relic, Inc.",,Public,-1,-1,599500000,-1,-1,65.14,nan,6.54
+"New Relic, Inc.",Other,Public,-1,-1,599500000,-1,-1,65.14,nan,6.54
 New World Systems,"Software,Health",Private,-1,400,-1,-1,-1,-1.0,nan,-1.0
 "NewBlue, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "NewTek, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 NewsBlur,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
-Nexidia,"Software,Consulting,Video,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
+Nexidia,"Software,Consulting,Big Data and Analytics,Video,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 NextGen Healthcare,"Consulting,Health",Public,1976,2900,-1,-1,-1,14.79,nan,5.55
 "NextPage, Inc.","Software,Consulting,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,4.85
 Nimia,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
@@ -945,7 +944,7 @@ Numara Software,"Software,Health",Private,-1,200,-1,-1,-1,-1.0,nan,-1.0
 Numecent,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Numerix LLC,"Software,Banking,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 NuoDB,"Software,Database,Health",Private,-1,85,-1,-1,-1,-1.0,nan,-1.0
-OFS,,Private,2001,-1,-1,-1,-1,-1.0,nan,5.4
+OFS,Other,Private,2001,-1,-1,-1,-1,-1.0,nan,5.4
 OPEX Corporation,Manufacturing and Chemicals,Private,-1,1000,-1,-1,-1,-1.0,nan,-1.0
 "OSIsoft, LLC","Software,Health",Private,-1,1300,-1,-1,-1,-1.0,nan,-1.0
 Object Design,"Software,Health",Private,1988,-1,-1,-1,-1,-1.0,nan,-1.0
@@ -970,7 +969,7 @@ Open Environment Corporation (OEC),"Software,Consulting,Health",Private,-1,-1,-1
 "Open Garden, Inc.","Software,Consulting,Network,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Open Kernel Labs,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "Open iT, Inc.","Software,Health",Private,-1,132,-1,-1,-1,-1.0,nan,-1.0
-Opendatasoft,Big Data,Private,2011,50,-1,-1,-1,-1.0,nan,5.19
+Opendatasoft,Big Data and Analytics,Private,2011,50,-1,-1,-1,-1.0,nan,5.19
 OpenEye Scientific Software,"Software,Research,Health",Private,-1,100,-1,-1,-1,-1.0,nan,-1.0
 OpenGov,Other,Private,-1,250,-1,-1,-1,-1.0,nan,-1.0
 "Opengear, Inc.","Software,Network,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
@@ -993,14 +992,14 @@ PSSC Labs,"Software,Consulting,Health,Manufacturing and Chemicals",Private,-1,-1
 PTC Inc.,"Software,Network,Health,Manufacturing and Chemicals",Public,-1,6055,1164000000,40900000,6240000,93.94,nan,-1.0
 PacketVideo Corporation,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "PagerDuty, Inc.","Software,Consulting,Health",Public,-1,524,84000000,-1,-1,30.3,nan,6.02
-Palamida,,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
+Palamida,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Palantir Technologies Inc.,"Software,Health",Public,-1,0,739000000,-1,-1,0.41,nan,-1.0
 PandaDoc,"Software,Health",Private,2013,-1,-1,-1,-1,-1.0,nan,-1.0
 Panic Inc.,"Software,Video,Health,Manufacturing and Chemicals",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "Pano Logic, Inc.","Software,Health",Private,2006,50,-1,-1,-1,-1.0,nan,-1.0
 Panopto Inc.,"Software,Health",Private,2007,-1,-1,-1,-1,-1.0,nan,-1.0
 Pantheon,"Software,Health",Private,-1,100,-1,-1,-1,-1.0,nan,-1.0
-"ParAccel, Inc.","Software,Database,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
+"ParAccel, Inc.","Software,Database,Big Data and Analytics,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Paracomp,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Parallels,Artificial Intelligence,Private,-1,800,100000000,-1,-1,-1.0,nan,-1.0
 ParaMind Brainstorming Software,"Software,Health",Private,1980,-1,-1,-1,-1,-1.0,nan,-1.0
@@ -1008,13 +1007,13 @@ Parasoft,"Software,Health",Private,1987,-1,-1,-1,-1,-1.0,nan,-1.0
 "'''Passport Software, Inc.'''","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 PathGuide Technologies,Health,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 PathWave Design (formerly EEsof),"Software,Health,Manufacturing and Chemicals",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
-"Patton Design, Inc.",,Private,1983,-1,-1,-1,-1,-1.0,nan,3.71
-Paxata,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
+"Patton Design, Inc.",Other,Private,1983,-1,-1,-1,-1,-1.0,nan,3.71
+Paxata,"Software,Big Data and Analytics,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Peeple,"Consulting,Real Estate,Security",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 PeerStream,"Software,Health",Public,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Pegasystems Inc.,"Software,Health",Public,-1,5000,891600000,-1,10600000,123.69,nan,-1.0
 PeopleDoc,"Software,Consulting,Health",Private,2007,240,-1,-1,-1,-1.0,nan,-1.0
-Perceptive Software,,Private,-1,900,-1,-1,-1,-1.0,nan,-1.0
+Perceptive Software,Other,Private,-1,900,-1,-1,-1,-1.0,nan,-1.0
 "Perforce Software, Inc.","Software,Consulting,Health,Manufacturing and Chemicals",Private,-1,250,-1,-1,-1,-1.0,nan,-1.0
 Performance Technologies Inc,Network,Private,-1,115,-1,-1,-1,-1.0,nan,-1.0
 "PerkinElmer, Inc.",Software,Public,-1,13000,2300000000,-1,-1,138.41,nan,-1.0
@@ -1029,7 +1028,7 @@ Phoenix Technologies Ltd.,"Software,Health",Private,-1,300,-1,-1,-1,-1.0,nan,-1.
 Phoseon Technology,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Photodex Corporation,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Phreesia Inc.,"Software,Consulting,Health",Public,-1,-1,-1,-1,-1,40.72,nan,-1.0
-Piazza (web service),,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
+Piazza (web service),Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Picmonic,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Ping Identity,"Software,Consulting,Health",Public,-1,968,140100000,-1,-1,23.34,nan,-1.0
 "Pingboard, Inc.","Software,Health,Manufacturing and Chemicals",Private,-1,11,-1,-1,-1,-1.0,nan,-1.0
@@ -1038,10 +1037,10 @@ Pioneer Corporation,Manufacturing and Chemicals,Public,1938,16763,386682000000,4
 Pipedrive,"Software,Health",Private,-1,600,-1,-1,-1,-1.0,nan,-1.0
 "Pivotal Software, Inc.","Software,Health",Private,-1,2971,-1,-1,-1,-1.0,nan,6.04
 Pixorial,"Software,Distributed Systems,Health",Private,2007,-1,-1,-1,-1,-1.0,nan,-1.0
-"PlanGrid, Inc.",,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
+"PlanGrid, Inc.",Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Planview,"Software,Health",Private,-1,900,-1,-1,-1,-1.0,nan,5.34
-Plateau Systems,,Private,-1,350,-1,-1,-1,-1.0,nan,-1.0
-Platfora,Big Data,Private,-1,125,-1,-1,-1,-1.0,nan,-1.0
+Plateau Systems,Other,Private,-1,350,-1,-1,-1,-1.0,nan,-1.0
+Platfora,Big Data and Analytics,Private,-1,125,-1,-1,-1,-1.0,nan,-1.0
 Plex,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "Plex Systems, Inc.","Software,Health",Private,1995,-1,-1,-1,-1,-1.0,nan,5.27
 Pluralsight,"Software,Health",Public,-1,1700,-1,-1,-1,19.0,nan,-1.0
@@ -1052,12 +1051,12 @@ Portal A,Distributed Systems,Private,-1,53,-1,-1,-1,-1.0,nan,-1.0
 "PreSonus Audio Electronics, Inc.","Software,Video,Health",Private,1995,-1,-1,-1,-1,-1.0,nan,6.06
 Precise Software Solutions,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Precision Manuals Development Group,"Software,Health",Private,-1,8,-1,-1,-1,-1.0,nan,-1.0
-PrecisionHawk,,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
-Predixion Software,"Software,Health",Private,2009,-1,-1,-1,-1,-1.0,nan,-1.0
+PrecisionHawk,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
+Predixion Software,"Software,Big Data and Analytics,Health",Private,2009,-1,-1,-1,-1,-1.0,nan,-1.0
 PrepMe LLC,Network,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "Prime Computer, Inc.",Other,Public,-1,-1,-1,-1,-1,57.34,nan,-1.0
 Pristine.io,Video,Private,-1,20,-1,-1,-1,-1.0,nan,-1.0
-PrivateCore,,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
+PrivateCore,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Procore Technologies,"Software,Health",Private,2003,1600,289200000,-1,-1,-1.0,nan,5.81
 ProductCenter,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,3.19
 "ProfitKey International, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
@@ -1068,7 +1067,7 @@ ProofPilot,"Software,Distributed Systems,Research,Health",Private,-1,-1,-1,-1,-1
 "Proofpoint Systems, Inc.","Software,Distributed Systems",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "Proofpoint, Inc.","Software,Consulting,Health,Security",Public,-1,3368,888200000,-1,-1,99.24,nan,-1.0
 Proxicom,"Software,Consulting,Distributed Systems,Retail and Wholesale,Banking,Health,Manufacturing and Chemicals",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
-Publicis Sapient,,Public,-1,20000,1305000000,125220000,-1,-1.0,nan,-1.0
+Publicis Sapient,Other,Public,-1,20000,1305000000,125220000,-1,-1.0,nan,-1.0
 PumpLinx,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,4.08
 Punchbowl.com,"Software,Consulting,Network,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Pypestream,"Artificial Intelligence,Manufacturing and Chemicals",Private,2015,-1,-1,-1,-1,-1.0,nan,-1.0
@@ -1080,7 +1079,7 @@ QIAGEN Silicon Valley,"Software,Health",Private,2003,-1,-1,-1,-1,-1.0,nan,5.72
 "Qarbon.com, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Qlik,"Software,Health",Private,-1,2500,750000000,-1,-1,-1.0,nan,-1.0
 Quake Global,"Software,Network,Health",Private,-1,-1,26200000,-1,-1,-1.0,nan,-1.0
-Qualtrics International Inc.,,Private,-1,3000,-1,-1,-1,-1.0,nan,-1.0
+Qualtrics International Inc.,Other,Private,-1,3000,-1,-1,-1,-1.0,nan,-1.0
 "Qualys, Inc.","Consulting,Network,Security",Public,-1,0,321600000,-1,69300000,94.13,nan,5.89
 "Quantapoint, Inc.","Software,Health",Private,-1,70,-1,-1,-1,-1.0,nan,-1.0
 Quantum3D,Software,Private,-1,90,-1,-1,-1,-1.0,nan,-1.0
@@ -1123,7 +1122,7 @@ Recourse Technologies,Software,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Red Bend Software,"Software,Consulting,Network,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "Red Cedar Technology, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "Red Hat, Inc.","Software,Health",Private,1993,13400,3400000000,512000000,434000000,-1.0,nan,6.52
-Red Touch Media,,Private,-1,60,-1,-1,-1,-1.0,nan,-1.0
+Red Touch Media,Other,Private,-1,60,-1,-1,-1,-1.0,nan,-1.0
 Red Wing Software,Other,Private,1979,-1,-1,-1,-1,-1.0,nan,-1.0
 "Redcort Software, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "Rediker Software, Inc.",Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
@@ -1176,7 +1175,7 @@ SWsoft,"Software,Health",Private,-1,900,-1,-1,-1,-1.0,nan,-1.0
 Salesforce Marketing Cloud,Manufacturing and Chemicals,Private,-1,1800,292300000,-1,-1,-1.0,nan,-1.0
 SalesforceIQ,Real Estate,Private,-1,128,-1,-1,-1,-1.0,nan,-1.0
 "SALVAGEDATA Recovery, Inc.",Consulting,Private,2003,-1,-1,-1,-1,-1.0,nan,5.19
-Sanctuary,,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
+Sanctuary,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Sansar,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,5.31
 Sarnoff Corporation,"Software,Consulting,Health,Manufacturing and Chemicals",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Sauce Labs,"Software,Health",Private,2008,-1,-1,-1,-1,-1.0,nan,-1.0
@@ -1206,7 +1205,7 @@ Sendmail,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,6.26
 Serena Software Inc.,"Software,Consulting,Health",Private,-1,400,219000000,-1,-1,-1.0,nan,-1.0
 "ServiceNow, Inc.","Software,Health",Public,-1,11000,-1,-1,-1,531.08,https://www.servicenow.com/careers.html,5.64
 ShipWorks,Retail and Wholesale,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
-ShopKeep,,Private,-1,200,-1,-1,-1,-1.0,nan,-1.0
+ShopKeep,Other,Private,-1,200,-1,-1,-1,-1.0,nan,-1.0
 Shopkick,Distributed Systems,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Siebel CRM Systems,"Software,Health",Private,1993,5036,-1,-1,-1,-1.0,nan,-1.0
 Siemens PLM Software,"Software,Health,Manufacturing and Chemicals",Private,-1,7600,-1,-1,-1,-1.0,nan,6.51
@@ -1277,7 +1276,7 @@ Starfish Software,"Software,Network,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "Stat-Ease, Inc.","Software,Health",Private,-1,14,-1,-1,-1,-1.0,nan,-1.0
 StatSoft,"Software,Health",Private,1984,-1,-1,-1,-1,-1.0,nan,-1.0
 Statsols,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
-"Steel Connect, Inc.",,Public,-1,1358,819000000,-1,66000000,0.53,nan,-1.0
+"Steel Connect, Inc.",Other,Public,-1,1358,819000000,-1,66000000,0.53,nan,-1.0
 Stephen Gilfus,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 StepStone Group,"Consulting,Banking",Private,-1,300,-1,-1,-1,-1.0,nan,-1.0
 Stirling Energy Systems,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
@@ -1285,7 +1284,7 @@ StockTouch,Banking,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Stockpoint,Other,Private,1995,-1,-1,-1,-1,-1.0,nan,-1.0
 Strata,Distributed Systems,Public,-1,240,-1,-1,-1,1.29,nan,-1.0
 StrikeIron,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,5.43
-StrongLoop,,Private,-1,-1,-1,-1,-1,-1.0,nan,5.47
+StrongLoop,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,5.47
 SugarCRM,"Software,Health",Private,-1,450,96000000,-1,-1,-1.0,nan,-1.0
 SugarSync,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,6.04
 "SumTotal Systems, Inc.","Software,Health",Public,-1,-1,-1,-1,-1,57.34,nan,-1.0
@@ -1298,7 +1297,7 @@ Swiftype,"Software,Consulting,Research,Health",Private,-1,40,-1,-1,-1,-1.0,nan,-
 "Symphonic Source, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Symyx Technologies,Manufacturing and Chemicals,Private,-1,400,-1,-1,-1,-1.0,nan,-1.0
 Synacor Inc.,"Software,Health",Public,1998,449,127400000,9200000,10700000,1.26,nan,5.6
-Precisely,,Private,-1,2000,-1,-1,-1,-1.0,nan,-1.0
+Precisely,Other,Private,-1,2000,-1,-1,-1,-1.0,nan,-1.0
 Synergy Sports Technology,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Winternals Software LP,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "TAL Technologies, Inc.","Software,Consulting,Health",Private,1985,-1,-1,-1,-1,-1.0,nan,-1.0
@@ -1324,7 +1323,7 @@ TechChange,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 TechSmith Corporation,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Technical Systems Consultants (TSC),"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Tek-Tools Software,"Software,Consulting,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
-Telenav,,Public,-1,583,-1,-1,-1,4.73,nan,-1.0
+Telenav,Other,Public,-1,583,-1,-1,-1,4.73,nan,-1.0
 "TeleType Co, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 TeleVideo Corporation,"Software,Health,Manufacturing and Chemicals",Private,1975,-1,-1,-1,-1,-1.0,nan,-1.0
 Telerik,"Software,Health",Private,2002,-1,-1,-1,-1,-1.0,nan,-1.0
@@ -1349,7 +1348,7 @@ The NOCO Company,Manufacturing and Chemicals,Private,-1,500,53670000,-1,-1,-1.0,
 The Omni Group,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 TheBrain Technologies,"Software,Health",Private,1998,-1,-1,-1,-1,-1.0,nan,5.58
 Atego,Other,Private,1996,-1,-1,-1,-1,-1.0,nan,-1.0
-"ThoughtSpot, Inc.",,Private,2012,580,-1,-1,-1,-1.0,nan,5.72
+"ThoughtSpot, Inc.",Big Data and Analytics,Private,2012,580,-1,-1,-1,-1.0,nan,5.72
 "ThoughtWorks, Inc.","Software,Health",Private,-1,7000,-1,-1,-1,-1.0,nan,-1.0
 Thryv,"Software,Health",Public,-1,2400,-1,-1,-1,-1.0,nan,-1.0
 Thunderstone Software LLC,"Software,Consulting,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
@@ -1357,12 +1356,12 @@ TicketsNow,Network,Private,1999,-1,-1,-1,-1,-1.0,nan,-1.0
 Timesys Corporation,"Software,Health",Private,-1,50,-1,-1,-1,-1.0,nan,-1.0
 TippingPoint,"Network,Health,Manufacturing and Chemicals",Private,-1,700,-1,-1,-1,-1.0,nan,-1.0
 Tivoli Software,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,8.11
-"Toast, Inc.",,Private,2012,2000,-1,-1,-1,-1.0,nan,5.71
+"Toast, Inc.",Other,Private,2012,2000,-1,-1,-1,-1.0,nan,5.71
 "TokenEx, LLC","Consulting,Security",Private,2010,30,-1,-1,-1,-1.0,nan,5.02
 Tom Sawyer Software,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Tomofun,Manufacturing and Chemicals,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Toonimo,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
-TopTenWholesale,,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
+TopTenWholesale,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 TownNews.com,Network,Private,1989,-1,-1,-1,-1,-1.0,nan,5.13
 TrackingPoint,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Traction Software,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
@@ -1370,7 +1369,7 @@ TransLattice,Database,Private,-1,20,-1,-1,-1,-1.0,nan,-1.0
 Transzap.,"Software,Network,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 TriTech Software Systems,"Software,Health",Private,-1,550,-1,-1,-1,-1.0,nan,-1.0
 Tricentis,"Software,Consulting,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
-Trilogy,,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
+Trilogy,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Tripadvisor Inc.,Travel and Transport,Private,-1,4194,1560000000,-1,126000000,-1.0,nan,7.46
 Tripp Lite,"Software,Health,Manufacturing and Chemicals",Private,-1,450,-1,-1,-1,-1.0,nan,-1.0
 "Tripwire, Inc.",Other,Private,-1,0,86200000,-1,4000000,-1.0,nan,-1.0
@@ -1398,7 +1397,7 @@ UniKey Technologies,"Software,Consulting,Health,Real Estate,Security",Private,-1
 "United First Financial, LLC",Banking,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Unitrends Corporation,"Software,Consulting,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Univa Grid Engine Software,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,5.58
-"Universal Audio, Inc.",,Private,1999,-1,-1,-1,-1,-1.0,nan,-1.0
+"Universal Audio, Inc.",Other,Private,1999,-1,-1,-1,-1,-1.0,nan,-1.0
 Universal Display Corporation,"Software,Health,Manufacturing and Chemicals",Public,-1,-1,-1,-1,-1,212.12,nan,4.79
 Universal Robots,Manufacturing and Chemicals,Private,-1,680,248000000,-1,-1,-1.0,nan,-1.0
 Untappd Inc.,Other,Private,-1,125,-1,-1,-1,-1.0,nan,-1.0
@@ -1422,12 +1421,12 @@ Velaro,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,5.01
 Venmo,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,6.45
 "Veracode, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "Veramark Technologies, Inc.","Software,Health",Public,-1,0,13165000,561000,611000,57.34,nan,-1.0
-"Verdant Power, Inc.",,Private,-1,20,-1,-1,-1,-1.0,nan,-1.0
+"Verdant Power, Inc.",Other,Private,-1,20,-1,-1,-1,-1.0,nan,-1.0
 Verdigris Technologies,Manufacturing and Chemicals,Private,2011,-1,-1,-1,-1,-1.0,nan,-1.0
 VeriShip,"Software,Health",Private,2007,125,-1,-1,-1,-1.0,nan,5.07
 "Veriato, Inc.","Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
-Verint Systems Inc.,"Software,Consulting,Video,Health",Public,-1,3900,1135000000,-1,-1,53.56,nan,-1.0
-Veritas Technologies LLC,,Private,-1,7000,-1,-1,-1,-1.0,nan,-1.0
+Verint Systems Inc.,"Software,Consulting,Big Data and Analytics,Video,Health",Public,-1,3900,1135000000,-1,-1,53.56,nan,-1.0
+Veritas Technologies LLC,Other,Private,-1,7000,-1,-1,-1,-1.0,nan,-1.0
 Verivo Software Inc.,"Software,Consulting,Health",Private,-1,100,-1,-1,-1,-1.0,nan,-1.0
 Verix,"Software,Health",Private,2007,-1,-1,-1,-1,-1.0,nan,4.44
 Vermont Information Processing,"Software,Health",Private,-1,200,-1,-1,-1,-1.0,nan,-1.0
@@ -1441,7 +1440,7 @@ Vicarious,"Artificial Intelligence,Manufacturing and Chemicals",Private,2010,-1,
 Videology,"Software,Distributed Systems,Health",Private,-1,300,-1,-1,-1,-1.0,nan,5.71
 "View, Inc.",Manufacturing and Chemicals,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Viralheat,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,5.58
-Virgin Hyperloop,,Private,-1,500,-1,-1,-1,-1.0,nan,-1.0
+Virgin Hyperloop,Other,Private,-1,500,-1,-1,-1,-1.0,nan,-1.0
 Virsa Systems,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Virsto,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "Virtu Financial, Inc.",Banking,Public,-1,0,1878700000,-1,620200000,21.94,nan,-1.0
@@ -1450,7 +1449,7 @@ VirtualLogix Inc.,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Virtuozzo,"Software,Health",Private,-1,150,-1,-1,-1,-1.0,nan,-1.0
 Virtusa Corporation,"Software,Consulting,Health",Public,-1,20001,1020000000,-1,34400000,49.88,nan,-1.0
 Virtutech Inc.,"Software,Health",Private,-1,0,-1,-1,-1,-1.0,nan,-1.0
-'''Visotek Inc''',,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
+'''Visotek Inc''',Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Vistagy,Software,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "Visualant, Inc.",Other,Public,-1,-1,-1,-1,-1,110.34,nan,-1.0
 Vitech Corporation,"Software,Health",Private,1992,20,-1,-1,-1,-1.0,nan,-1.0
@@ -1462,7 +1461,7 @@ Voxeet,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Voxer,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "Vuze, Inc.",Video,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Vyond,Other,Private,2007,-1,-1,-1,-1,-1.0,nan,-1.0
-"WANdisco, plc.","Software,Distributed Systems,Big Data,Health",Public,-1,180,-1,-1,-1,233.99,nan,-1.0
+"WANdisco, plc.","Software,Distributed Systems,Big Data and Analytics,Health",Public,-1,180,-1,-1,-1,233.99,nan,-1.0
 WSO2,Health,Private,2005,600,-1,-1,-1,-1.0,nan,-1.0
 Walker Digital LLC,Research,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Wanderu,"Software,Health,Travel and Transport",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
@@ -1474,7 +1473,7 @@ Web.com,Other,Private,1999,3500,1210000000,-1,-1,-1.0,nan,5.64
 WebAssist.com Corporation,"Software,Health",Private,-1,20,-1,-1,-1,-1.0,nan,-1.0
 Webline Communications,"Software,Network",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Webroot Inc.,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
-Webtrends,"Software,Consulting,Network",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
+Webtrends,"Software,Consulting,Network,Big Data and Analytics",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "Anthem, Inc.",Health,Public,-1,70600,104210000000,5990000000,4810000000,319.6,nan,-1.0
 Wellspring,"Software,Network,Health",Private,2003,-1,-1,-1,-1,-1.0,nan,-1.0
 WhatsApp,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,7.08
@@ -1485,17 +1484,17 @@ Whitewater Group,Software,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 WibiData,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 WidePoint Corporation,"Software,Consulting,Network,Health",Public,-1,287,83700000,-1,-1,0.65,nan,-1.0
 Widen,Other,Private,1948,-1,-1,-1,-1,-1.0,nan,5.59
-Wikispaces,,Private,-1,10,-1,-1,-1,-1.0,nan,5.71
+Wikispaces,Other,Private,-1,10,-1,-1,-1,-1.0,nan,5.71
 "Wildfire Communications, Inc",Network,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Pragser Wildsee,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
-"Willdan Group, Inc.",,Public,-1,0,272250000,12770000,10030000,30.73,nan,-1.0
+"Willdan Group, Inc.",Other,Public,-1,0,272250000,12770000,10030000,30.73,nan,-1.0
 CA Wily Technology,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,6.24
 Wind River Systems Inc.,Other,Private,-1,1800,359700000,-1,-1,-1.0,nan,-1.0
 Windward Studios,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
-Witlingo Inc.,,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
+Witlingo Inc.,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "Wolfram Research, Inc.","Software,Research,Health",Private,-1,700,-1,-1,-1,-1.0,nan,-1.0
 "Workday, Inc.","Software,Distributed Systems,Health",Public,-1,0,3630000000,146100000,127960000,110.34,nan,-1.0
-Workfront,,Private,2001,671,-1,-1,-1,-1.0,nan,-1.0
+Workfront,Other,Private,2001,671,-1,-1,-1,-1.0,nan,-1.0
 WorkingPoint,"Software,Network,Health",Private,-1,10,-1,-1,-1,-1.0,nan,-1.0
 Workiva Inc.,"Software,Distributed Systems,Health",Public,-1,1421,298000000,-1,-1,68.77,nan,-1.0
 workspace.com,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
@@ -1522,12 +1521,12 @@ Yuku,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 ZL Technologies,"Software,Health,Manufacturing and Chemicals",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 zSpace,"Consulting,Artificial Intelligence",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Zadara Storage,Database,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
-Zaloni,"Software,Big Data,Health",Private,2007,200,-1,-1,-1,-1.0,nan,-1.0
+Zaloni,"Software,Big Data and Analytics,Health",Private,2007,200,-1,-1,-1,-1.0,nan,-1.0
 Zango,Health,Private,-1,100,-1,-1,-1,-1.0,nan,-1.0
-Zello Inc,,Private,-1,41,-1,-1,-1,-1.0,nan,-1.0
+Zello Inc,Other,Private,-1,41,-1,-1,-1,-1.0,nan,-1.0
 Zend Technologies Ltd.,"Software,Health",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 Zendesk,Other,Public,-1,3570,816000000,-1,-1,123.49,nan,6.71
-"YourPeople, Inc.",,Private,-1,-1,43500000,-1,-1,-1.0,nan,-1.0
+"YourPeople, Inc.",Other,Private,-1,-1,43500000,-1,-1,-1.0,nan,-1.0
 MacKeeper,Other,Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
 "ZeroC, Inc.","Software,Health",Private,2002,-1,-1,-1,-1,-1.0,nan,5.24
 ZeroFOX,"Consulting,Security",Private,-1,-1,-1,-1,-1,-1.0,nan,-1.0
@@ -1562,13 +1561,13 @@ National Capital Region,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.ncr.com/ca
 Apple,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.apple.com/jobs/us/students.html,-1.0
 KLA,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.kla-tencor.com/careers,-1.0
 Delta Air Lines,Other,Private,1925,91000,47007100000,6618000000,4767000000,-1.0,https://propel.delta.com/content/propel/en_US/collegepath.html,6.53
-Ares Management Corporation,,Public,1997,1200,1765000000,302600000,148800000,44.52,https://www.aresmgmt.com/about-ares-management-corporation/who-we-are/careers-at-ares,-1.0
+Ares Management Corporation,Other,Public,1997,1200,1765000000,302600000,148800000,44.52,https://www.aresmgmt.com/about-ares-management-corporation/who-we-are/careers-at-ares,-1.0
 Public Service Enterprise Group Incorporated,Consulting,Public,-1,12945,9968000000,2299000000,1243000000,58.79,https://jobs.pseg.com/,5.66
 S&P Global Inc.,Banking,Public,-1,17000,6036000000,2610000000,1496000000,355.99,https://careers.spglobal.com/,-1.0
 NiSource Inc.,Consulting,Public,1912,0,5211000000,-1,-1,23.65,https://www.nisource.com/careers,5.37
 AbbVie Inc.,Health,Public,-1,30000,33266000000,6383000000,5687000000,93.69,https://www.abbvie.com/careers.html,-1.0
 AmerisourceBergen Corporation,Health,Public,-1,22000,179580000000,1110000000,855000000,105.42,https://www.amerisourcebergen.com/careers-home,-1.0
-"New York Community Bancorp, Inc.",,Public,-1,3096,-1,-1,-1,8.06,https://www.mynycb.com/Careers/Pages/Careers.aspx,-1.0
+"New York Community Bancorp, Inc.",Other,Public,-1,3096,-1,-1,-1,8.06,https://www.mynycb.com/Careers/Pages/Careers.aspx,-1.0
 Core-Mark Holding Company,Other,Public,-1,8413,-1,-1,-1,31.29,https://careers.core-mark.com/,-1.0
 UnitedHealth Group Incorporated,Health,Public,-1,320000,242155000000,17981000000,14239000000,354.4,https://careers.unitedhealthgroup.com/early-careers,5.86
 "Mohawk Industries, Inc",Real Estate,Public,-1,42100,10000000000,-1,1400000000,122.17,https://careers.mohawkind.com/,5.15
@@ -1587,7 +1586,7 @@ SBA Communications Corporation,"Software,Banking,Real Estate",Public,-1,-1,-1,-1
 Realty Income,"Software,Banking,Real Estate",Public,-1,194,1491000000,-1,436000000,58.0,https://www.realtyincome.com/careers/default.aspx,-1.0
 Otis Worldwide Corporation,Travel and Transport,Public,-1,69000,13113000000,1948000000,-1,62.63,https://www.otis.com/en/us/careers/,5.69
 Dell Technologies Inc.,"Software,Distributed Systems,Health,Manufacturing and Chemicals",Public,-1,165000,92150000000,2622000000,5529000000,64.51,https://jobs.dell.com/,5.96
-'''AECOM''',,Public,-1,87000,18000000000,652000000,339000000,46.36,https://aecom.com/careers/who-we-hire-2/graduate-path/,-1.0
+'''AECOM''',Other,Public,-1,87000,18000000000,652000000,339000000,46.36,https://aecom.com/careers/who-we-hire-2/graduate-path/,-1.0
 Lam Research Corporation,Manufacturing and Chemicals,Public,-1,10700,9650000000,2450000000,2190000000,399.71,https://www.lamresearch.com/careers/university-programs/,-1.0
 Centene Corporation,Health,Public,-1,56600,74639000000,1781000000,1321000000,67.88,https://jobs.centene.com/us/en/students,-1.0
 Laboratory Corporation    of America Holdings,Health,Public,-1,61000,11333400000,1325700000,436900000,214.42,https://jobs.labcorp.com/,-1.0
@@ -1609,13 +1608,13 @@ Alnylam Pharmaceuticals Inc.,Health,Public,-1,1323,219750000,-1,-1,137.86,https:
 News Corporation,Distributed Systems,Public,-1,28000,10070000000,1089000000,229000000,37.89,https://newscorp.com/careers/,5.99
 Invesco Ltd.,Banking,Public,-1,8900,6117400000,808200000,564700000,14.43,https://careers.invesco.com/,-1.0
 "Cisco Systems, Inc.","Software,Network,Health,Manufacturing and Chemicals",Public,1984,75900,51901000000,14210000000,-1,37.23,https://www.cisco.com/c/en/us/about/careers/working-at-cisco/students-and-new-graduate-programs.html,7.15
-"Republic Services, Inc.",,Public,-1,35000,9400000000,1500000000,613000000,95.51,https://republicservices.jobs/,5.55
+"Republic Services, Inc.",Other,Public,-1,35000,9400000000,1500000000,613000000,95.51,https://republicservices.jobs/,5.55
 Capital One Financial Corporation,Banking,Public,-1,48800,28076000000,-1,5710000000,78.7,https://www.capitalonecareers.com/,-1.0
 Ameren Corporation,Consulting,Public,-1,8615,6080000000,1380000000,659000000,82.47,https://www.ameren.com/company/careers/internships-and-co-ops,-1.0
 F.N.B. Corporation,"Software,Banking",Public,1864,4300,-1,-1,-1,7.72,https://www.fnb-online.com/about-us/careers,-1.0
-Nucor Corporation,,Public,-1,26800,22588000000,1882000000,1271000000,48.8,http://nucor.com/career-paths/,-1.0
-Norwegian Cruise Line Holdings Ltd.,,Public,-1,33200,-1,-1,-1,17.25,https://www.ncl.com/about/careers/overview,-1.0
-Lincoln National Corporation,,Public,-1,9047,16399999999,-1,-1,35.9,https://jobs.lincolnfinancial.com/content/students-and-recent-grads/?audience_page_id=1422918942386,-1.0
+Nucor Corporation,Other,Public,-1,26800,22588000000,1882000000,1271000000,48.8,http://nucor.com/career-paths/,-1.0
+Norwegian Cruise Line Holdings Ltd.,Other,Public,-1,33200,-1,-1,-1,17.25,https://www.ncl.com/about/careers/overview,-1.0
+Lincoln National Corporation,Other,Public,-1,9047,16399999999,-1,-1,35.9,https://jobs.lincolnfinancial.com/content/students-and-recent-grads/?audience_page_id=1422918942386,-1.0
 "American Financial Group, Inc.",Banking,Public,-1,7600,4750000000,-1,343000000,78.03,https://www.greatamericaninsurancegroup.com/careers,-1.0
 Truist Financial Corporation,Banking,Public,-1,37000,11651100000,-1,3100000000,44.93,https://careers.truist.com/,5.58
 IDEX Corporation,Manufacturing and Chemicals,Public,-1,0,2484100000,-1,-1,177.77,https://www.idexcorp.com/careers/collegiate-opportunities/,5.07
@@ -1643,14 +1642,14 @@ Honeywell International Inc.,Real Estate,Public,1906,113000,36711000000,68510000
 "Mondelez International, Inc.",Retail and Wholesale,Public,-1,80000,25870000000,3843000000,3870000000,55.64,https://careers.mondelezinternational.com/early-careers,5.82
 "Micron Technology, Inc.",Manufacturing and Chemicals,Public,-1,0,21440000000,3070000000,2690000000,54.58,https://jobs.micron.com/?locale=en_US,-1.0
 "Merck & Co., Inc.",Health,Public,-1,0,46840000000,11460000000,9840000000,80.46,https://jobs.merck.com/us/en/student-opportunities,-1.0
-"Assurant, Inc.",,Public,-1,14250,10087000000,717000000,364000000,127.36,https://jobs.assurant.com/,-1.0
+"Assurant, Inc.",Other,Public,-1,14250,10087000000,717000000,364000000,127.36,https://jobs.assurant.com/,-1.0
 "Akamai Technologies, Inc.","Software,Distributed Systems,Network",Public,-1,7650,2894000000,549000000,478000000,102.71,https://www.akamai.com/us/en/about/careers/,6.47
 Duke Realty Corporation,"Software,Real Estate",Public,1972,-1,-1,-1,-1,40.59,https://www.dukerealty.com/who-we-are/careers/,4.9
-Air Lease Corporation,,Public,-1,87,1500000000,-1,756000000,30.77,https://airleasecorp.com/,-1.0
-"Align Technology, Inc.",,Public,-1,11660,1966000000,466560000,400240000,491.91,https://jobs.aligntech.com/careers,-1.0
+Air Lease Corporation,Other,Public,-1,87,1500000000,-1,756000000,30.77,https://airleasecorp.com/,-1.0
+"Align Technology, Inc.",Other,Public,-1,11660,1966000000,466560000,400240000,491.91,https://jobs.aligntech.com/careers,-1.0
 "Quanta Services, Inc.",Other,Public,-1,40000,9466000000,-1,-1,64.49,https://www.quantaservices.com/careers/,-1.0
 "Alaska Air Group, Inc.",Travel and Transport,Public,-1,23376,8263999999,643000000,437000000,39.18,https://careers.alaskaair.com/,6.21
-The Allstate Corporation,,Public,-1,45780,44675000000,6089000000,4847000000,90.41,https://www.allstate.jobs/students/,6.3
+The Allstate Corporation,Other,Public,-1,45780,44675000000,6089000000,4847000000,90.41,https://www.allstate.jobs/students/,6.3
 Ally Financial Inc.,Banking,Public,-1,8700,6394000000,-1,1721000000,28.3,https://www.ally.com/about/careers/students.html,-1.0
 "salesforce.com, inc.","Software,Distributed Systems,Health",Public,-1,49000,17100000000,297000000,126000000,260.22,https://www.salesforce.com/company/careers/university-recruiting/,7.49
 Verizon Communications Inc.,"Distributed Systems,Network",Public,1983,135300,131860000000,30380000000,19790000000,58.15,https://www.verizon.com/about/careers/college-students,6.63
@@ -1676,13 +1675,13 @@ HEICO Corporation,Research,Public,-1,6000,-1,-1,327900000,114.04,https://careers
 Amphenol Corporation,Manufacturing and Chemicals,Public,-1,74000,7011000000,1428000000,660700000,119.46,https://www.amphenol.com/about/careers,5.09
 "AvalonBay Communities, Inc.","Software,Banking,Real Estate",Public,-1,3122,2324000000,-1,785000000,148.24,https://jobs.avalonbay.com/,-1.0
 Union Pacific,Other,Private,-1,-1,-1,-1,-1,-1.0,https://up.jobs/students/,5.71
-Global Payments Inc.,,Public,-1,24000,3980000000,558870000,494070000,174.24,https://www.globalpaymentsinc.com/en-us/about-us/careers,-1.0
+Global Payments Inc.,Other,Public,-1,24000,3980000000,558870000,494070000,174.24,https://www.globalpaymentsinc.com/en-us/about-us/careers,-1.0
 "EOG Resources, Inc.",Manufacturing and Chemicals,Public,-1,2900,17379000000,-1,2734000000,35.6,http://careers.eogresources.com/adhocjobsearch.asp,5.48
 Comcast Corporation,"Distributed Systems,Network,Retail and Wholesale,Video",Public,1963,190000,108942000000,21125000000,13057000000,44.35,https://jobs.comcast.com/university-relations,-1.0
 "Alexandria Real Estate Equities, Inc.","Software,Banking,Real Estate",Public,1994,439,1531000000,-1,350000000,158.39,https://www.are.com/careers.html,-1.0
 Invitation Homes Inc.,"Software,Banking,Real Estate",Public,-1,1140,1764000000,-1,147000000,28.97,https://careers.invitationhomes.com/,-1.0
 Westinghouse Air Brake,Other,Public,-1,18000,-1,-1,-1,62.4,"https://www.ziprecruiter.com/c/Westinghouse-Air-Brake-Technologies/Job/Summer-2021-Operations-Internship/-in-Erie,PA?jid=df3876cae46b049a",-1.0
-Aramark Corporation,,Public,-1,215000,-1,-1,-1,30.24,https://www.aramark.com/careers,-1.0
+Aramark Corporation,Other,Public,-1,215000,-1,-1,-1,30.24,https://www.aramark.com/careers,-1.0
 Biogen Inc.,"Software,Health",Public,1978,7300,12274000000,5344000000,2539000000,328.9,https://www.biogen.com/en_us/careers.html,5.91
 "Arrow Electronics, Inc.",Manufacturing and Chemicals,Public,-1,19300,28700000000,1100000000,-1,84.02,https://careers.arrow.com/,-1.0
 "Leidos Holdings, Inc.","Consulting,Research,Health,Security",Public,1969,32000,18569000000,4295000000,1246000000,91.4,https://careers.leidos.com/pages/intern-and-new-graduate-jobs,-1.0
@@ -1698,8 +1697,8 @@ Atmos Energy Corporation,Manufacturing and Chemicals,Public,-1,4628,3886000000,5
 "Altice USA, Inc.","Distributed Systems,Network",Public,2016,-1,-1,-1,-1,110.34,https://www.alticeusacareers.com/,5.78
 "Activision Blizzard, Inc.",Video,Public,2008,9200,6489000000,1607000000,1503000000,80.14,https://careers.activision.com/students,5.59
 Twilio Inc.,Network,Private,-1,4500,1130000000,-1,-1,-1.0,https://www.twilio.com/company/jobs,-1.0
-Huntington Bancshares Incorporated,,Public,-1,15693,4350000000,-1,1186000000,10.57,https://www.huntington.com/careers/internships,-1.0
-Deere & Company,,Public,-1,74412,37357000000,4053000000,2159000000,246.02,https://www.deere.com/en/our-company/john-deere-careers/jobs-for-students/,-1.0
+Huntington Bancshares Incorporated,Other,Public,-1,15693,4350000000,-1,1186000000,10.57,https://www.huntington.com/careers/internships,-1.0
+Deere & Company,Other,Public,-1,74412,37357000000,4053000000,2159000000,246.02,https://www.deere.com/en/our-company/john-deere-careers/jobs-for-students/,-1.0
 DaVita Inc.,Health,Public,1979,65000,11388000000,-1,810000000,98.15,https://careers.davita.com/studentinternshipprogrampct,-1.0
 "Corteva, Inc.",Manufacturing and Chemicals,Public,2019,21000,-1,-1,-1,33.94,https://careers.corteva.com/en-us/,5.71
 Edison International,Consulting,Public,-1,12521,12600000000,-1,849000000,59.38,https://www.edisoncareers.com/,-1.0
@@ -1732,9 +1731,9 @@ Wells Fargo & Company,Banking,Public,-1,0,85063000000,24198000000,19549000000,22
 Tractor Supply Company,Retail and Wholesale,Public,-1,32000,8352000000,743200000,562400000,138.98,https://www.tractorsupply.jobs/,-1.0
 Franklin Resources Inc.,Banking,Public,-1,0,5700000000,1500000000,1100000000,20.13,https://www.franklintempletoncareers.com/,-1.0
 Roku,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.roku.com/jobs,6.29
-"United Parcel Service, Inc.",,Public,1907,481000,71861000000,7024000000,4791000000,163.56,https://www.jobs-ups.com/,6.99
+"United Parcel Service, Inc.",Other,Public,1907,481000,71861000000,7024000000,4791000000,163.56,https://www.jobs-ups.com/,6.99
 "Berry Global, Inc",Other,Public,-1,48000,-1,581000000,-1,50.04,https://www.berryglobal.com/careers/internship,-1.0
-Brown–Forman Corporation,,Public,-1,4570,3080000000,1530000000,1060000000,-1.0,https://brown-forman.jobs/jobs/,5.66
+Brown–Forman Corporation,Other,Public,-1,4570,3080000000,1530000000,1060000000,-1.0,https://brown-forman.jobs/jobs/,5.66
 The Bank of New York Mellon Corporation,Banking,Public,2007,0,20820000000,5580000000,4250000000,35.6,https://www.bnymellon.com/us/en/careers/index.jsp,-1.0
 BOK Financial Corporation,Banking,Public,-1,4930,-1,-1,-1,61.31,https://jobs.bokf.com/,-1.0
 The Kroger Company,Retail and Wholesale,Public,-1,453000,121160000000,2670000000,3110000000,32.72,https://jobs.kroger.com/key/for-student-jobs.html,-1.0
@@ -1742,14 +1741,14 @@ The Kroger Company,Retail and Wholesale,Public,-1,453000,121160000000,2670000000
 First Republic Bank,"Software,Banking",Public,-1,-1,-1,-1,-1,127.72,https://www.firstrepublic.com/about-us/careers,-1.0
 "Copart, Inc.",Manufacturing and Chemicals,Public,-1,5323,1450000000,461000000,394000000,123.95,https://www.copart.com/content/us/en/careers,5.63
 US Foods,Retail and Wholesale,Public,-1,25000,24147000000,574000000,444000000,23.28,https://www.usfoods.com/careers.html,-1.0
-"Brighthouse Financial, Inc.",,Public,-1,-1,-1,-1,-1,33.21,https://www.brighthousefinancial.com/about-us/careers/,4.81
+"Brighthouse Financial, Inc.",Other,Public,-1,-1,-1,-1,-1,33.21,https://www.brighthousefinancial.com/about-us/careers/,4.81
 Berkshire Hathaway Inc.,Real Estate,Public,1839,0,254620000000,103750000000,81420000000,-1.0,https://bhhc.com/careers.aspx,-1.0
 MGM Resorts International,Other,Public,1986,74500,12899000000,-1,-1,21.84,https://careers.mgmresorts.com/global/en/students,5.88
 Nasdaq,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.nasdaq.com/about/careers,-1.0
 Pfizer Inc.,Health,Public,1849,0,51750000000,16300000000,16270000000,36.39,https://www.pfizer.com/careers/en/early-careers,6.29
 "BJ's Wholesale Club Holdings, Inc.","Retail and Wholesale,Health",Public,-1,25500,12000000000,-1,-1,42.78,https://careers.bjs.com/,-1.0
 Baker Hughes Company,Health,Public,-1,60000,22877000000,1949000000,195000000,15.73,https://careers.bakerhughes.com/global/en,5.56
-International Paper Company,,Public,-1,56000,21743000000,1844000000,2144000000,46.89,http://www.internationalpaper.com/careers/students-universities,-1.0
+International Paper Company,Other,Public,-1,56000,21743000000,1844000000,2144000000,46.89,http://www.internationalpaper.com/careers/students-universities,-1.0
 "Steel Dynamics, Inc.",Manufacturing and Chemicals,Public,-1,8385,10464000000,-1,677000000,32.25,http://www.steeldynamics.com/Company/Careers-Internships/Internships.aspx,-1.0
 Comerica Incorporated,Banking,Public,-1,8051,3817000000,-1,1198000000,46.47,https://careers.comerica.com/,-1.0
 "Principal Financial Group, Inc.",Banking,Public,-1,17600,-1,-1,-1,43.01,https://www.principal.com/about-us/careers,5.64
@@ -1761,7 +1760,7 @@ The Hertz Corporation,Health,Private,-1,38000,9779000000,759000000,58000000,-1.0
 "Simon Property Group, Inc.","Software,Real Estate",Public,1993,4150,5440000000,2720000000,2130000000,63.47,https://careers.simon.com/,6.08
 "Broadridge Financial Solutions, Inc.","Software,Banking,Health",Public,-1,10000,4099999999,-1,327000000,144.68,https://careers.smartrecruiters.com/broadridge,5.72
 "Tyson Foods, Inc.",Retail and Wholesale,Public,-1,141000,42405000000,2827000000,2035000000,110.34,https://www.tysonfoods.com/careers,-1.0
-"Brown & Brown, Inc.",,Public,-1,0,2392000000,462460000,398500000,45.5,https://www.brown.edu/about/administration/human-resources/student-employment,-1.0
+"Brown & Brown, Inc.",Other,Public,-1,0,2392000000,462460000,398500000,45.5,https://www.brown.edu/about/administration/human-resources/student-employment,-1.0
 Exelon Corporation,Manufacturing and Chemicals,Public,-1,33,35900000000,4260000000,3770000000,43.07,https://jobs.exeloncorp.com/,-1.0
 "ONEOK, Inc.","Consulting,Manufacturing and Chemicals",Public,-1,2684,12600000000,-1,305450000,28.54,https://www.oneok.com/careers/hiring-process/internships,-1.0
 Danaher Corporation,Real Estate,Public,-1,0,17910000000,3270000000,2490000000,240.34,https://jobs.danaher.com/global/en/,5.33
@@ -1776,7 +1775,7 @@ Nvidia Corporation,"Software,Artificial Intelligence,Video,Health,Manufacturing 
 "Community Health Systems, Inc.",Health,Public,-1,0,18438000000,860000000,1710000000,8.75,https://www.chs.net/careers/,-1.0
 General Electric Company,Real Estate,Public,1892,205000,95214000000,1271000000,5439000000,7.99,https://www.ge.com/ca/campuscareers,6.48
 General Motors Company,Manufacturing and Chemicals,Public,-1,164000,137237000000,5481000000,6732000000,37.14,https://search-careers.gm.com/student-grad,-1.0
-Cincinnati Financial Corporation,,Public,-1,4925,4900000000,440000000,525000000,74.55,https://www.cinfin.com/careers/student-opportunities,-1.0
+Cincinnati Financial Corporation,Other,Public,-1,4925,4900000000,440000000,525000000,74.55,https://www.cinfin.com/careers/student-opportunities,-1.0
 "The PNC Financial Services Group, Inc.",Banking,Public,-1,52906,16329000000,-1,5338000000,117.17,https://careers.pnc.com/global/en/students,6.24
 "CBRE Group, Inc.","Software,Real Estate",Public,-1,100000,21340000000,1088000000,1063000000,110.34,https://www.cbre.us/about/careers/students-graduates,5.93
 Sysco Corporation,Retail and Wholesale,Public,1969,69000,55371000000,2053000000,1143000000,60.83,https://careers.sysco.com/,5.66
@@ -1784,21 +1783,21 @@ Coca-Cola,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.coca-colacompany.com/car
 Crown Castle International Corp.,Network,Public,1994,4500,4355600000,1044000000,444600000,162.92,https://www.crowncastle.com/careers/,5.45
 Cabot Oil & Gas Corporation,Manufacturing and Chemicals,Public,-1,274,2066100000,956000000,681000000,16.45,https://www.cabotog.com/about-cabot/careers/,-1.0
 "Fiserv, Inc.",Other,Public,-1,44000,10187000000,1609000000,914000000,102.16,https://www.careers.fiserv.com/search-jobs,5.96
-CDW Corporation,,Public,-1,9019,16240500000,987300000,-1,138.18,https://www.cdwjobs.com/,6.04
+CDW Corporation,Other,Public,-1,9019,16240500000,987300000,-1,138.18,https://www.cdwjobs.com/,6.04
 "DexCom, Inc.",Other,Public,-1,0,1032000000,-1,-1,355.11,https://careers.dexcom.com/careers,5.92
 Celanese Corporation,Manufacturing and Chemicals,Public,-1,7714,6297000000,-1,-1,119.67,https://www.celanese.com/careers.aspx,-1.0
 Southwest Airlines,Other,Private,1967,57931,21965000000,3206000000,2465000000,-1.0,https://careers.southwestair.com/,6.48
 The Western Union Company,Banking,Public,-1,12000,5600000000,1100000000,851900000,20.88,https://corporate.westernunion.com/careers/index.html,-1.0
 Monster Beverage Corporation,Other,Public,-1,1991,3369000000,1199000000,821000000,83.68,https://www.monsterenergy.com/careers,-1.0
-United States Steel Corporation,,Public,-1,29800,12250000000,608000000,387000000,9.67,https://www.ussteel.com/posts/student-employment,-1.0
-FedEx Corporation,,Public,-1,400000,69693000000,4466000000,540000000,279.07,https://careers.fedex.com/fedex/,-1.0
+United States Steel Corporation,Other,Public,-1,29800,12250000000,608000000,387000000,9.67,https://www.ussteel.com/posts/student-employment,-1.0
+FedEx Corporation,Other,Public,-1,400000,69693000000,4466000000,540000000,279.07,https://careers.fedex.com/fedex/,-1.0
 "Citizens Financial Group, Inc.",Banking,Public,-1,18100,6128000000,-1,1721000000,28.91,https://jobs.citizensbank.com/,-1.0
-"Cullen/Frost Bankers, Inc.",,Public,1868,4270,-1,-1,356000000,72.09,https://www.frostbank.com/careers,5.61
+"Cullen/Frost Bankers, Inc.",Other,Public,1868,4270,-1,-1,356000000,72.09,https://www.frostbank.com/careers,5.61
 "Church & Dwight Co., Inc.",Distributed Systems,Public,-1,4700,3400000000,-1,-1,90.03,https://careers.churchdwight.com/students/,-1.0
 Chesapeake Energy Corporation,Manufacturing and Chemicals,Public,-1,2300,8595000000,-1,-1,-1.0,http://www.chk.com/careers/university-relations,5.75
 Cummins Inc.,Manufacturing and Chemicals,Public,-1,0,23770000000,2750000000,2190000000,229.57,https://careers.cummins.com/us-canada/student-jobs,-1.0
 "Charter Communications, Inc.","Distributed Systems,Network",Public,-1,98000,43634000000,5221000000,1230000000,647.36,https://jobs.spectrum.com/,5.81
-Cintas Corporation,,Public,1929,45000,4905000000,781750000,693520000,339.07,https://careers.cintas.com/go/Campus-Recruiting/391294/,5.42
+Cintas Corporation,Other,Public,1929,45000,4905000000,781750000,693520000,339.07,https://careers.cintas.com/go/Campus-Recruiting/391294/,5.42
 "Chewy, Inc.",Retail and Wholesale,Public,-1,12000,4850000000,-1,252370000,110.34,https://www.chewy.com/jobs,6.17
 Kansas City Southern,Other,Private,-1,-1,-1,-1,-1,-1.0,https://kcsouthernenglish.silkroad.com/,5.54
 CIT Group Inc.,Banking,Public,-1,3609,2290000000,-1,529000000,32.05,https://www.cit.com/about/careers/,-1.0
@@ -1808,7 +1807,7 @@ Colgate-Palmolive Company,Retail and Wholesale,Public,-1,34500,15500000000,35890
 "Continental Resources, Inc.",Manufacturing and Chemicals,Public,-1,1260,4631000000,-1,775000000,13.3,https://clr.com/careers/,-1.0
 Newmont Corporation,Manufacturing and Chemicals,Public,1921,16600,9740000000,-1,-1,67.85,https://jobs.newmont.com/content/StudentPrograms/?locale=en_US,5.58
 Moody's Investors Service,Consulting,Private,-1,11896,-1,-1,-1,-1.0,https://www.moody.edu/student-services/student-employment/,-1.0
-"Chipotle Mexican Grill, Inc.",,Public,-1,64570,5586000000,443958000,350158000,1310.32,https://jobs.chipotle.com/,-1.0
+"Chipotle Mexican Grill, Inc.",Other,Public,-1,64570,5586000000,443958000,350158000,1310.32,https://jobs.chipotle.com/,-1.0
 CMS Energy,Manufacturing and Chemicals,Public,-1,8253,-1,-1,-1,64.44,https://www.consumersenergy.com/company/careers/campus-hiring,-1.0
 CNO Financial Group Inc.,Banking,Public,-1,3300,3800000000,367700000,270700000,19.34,https://jobs.jobvite.com/cnoinc/job/orhsdfw7,4.96
 "CenterPoint Energy, Inc.",Consulting,Public,1882,7977,9614000000,1072000000,1792000000,22.67,https://www.centerpointenergy.com/en-us/corp/pages/career-center-college.aspx,5.65
@@ -1841,7 +1840,7 @@ Western Digital Corporation,"Software,Database",Public,1970,61800,16570000000,87
 "Domino's Pizza, Inc.","Software,Retail and Wholesale",Public,1961,0,3618000000,629400000,400700000,396.22,https://jobs.dominos.com/,-1.0
 "Darden Restaurants, Inc.",Software,Public,-1,185,7999000000,638000000,475500000,101.52,https://www.darden.com/careers,-1.0
 DTE Energy Co.,"Consulting,Manufacturing and Chemicals",Public,-1,10700,12669000000,-1,1690000000,25.72,https://careers.dteenergy.com/content/Students-and-Graduates/?locale=en_US,-1.0
-PVH Corp.,,Public,-1,19600,9700000000,-1,536000000,62.44,https://careers.pvh.com/,-1.0
+PVH Corp.,Other,Public,-1,19600,9700000000,-1,536000000,62.44,https://careers.pvh.com/,-1.0
 Electronic Arts Inc.,Video,Public,1982,9300,5150000000,1430000000,1040000000,128.33,https://www.ea.com/careers,6.65
 Fortive Corporation,Real Estate,Public,2016,26000,7300000000,-1,738900000,67.95,https://careers.fortive.com/,5.19
 "Moderna, Inc.","Software,Health",Public,2010,820,-1,-1,-1,71.48,https://www.modernatx.com/careers-moderna,5.77
@@ -1883,7 +1882,7 @@ Unum Group,Consulting,Public,-1,9400,11598000000,-1,934100000,18.88,https://www.
 FirstEnergy Corp.,"Consulting,Manufacturing and Chemicals",Public,-1,15617,14562000000,-1,-1,29.39,https://www.firstenergycorp.com/careers.html,5.78
 Hormel Foods Corporation,Retail and Wholesale,Public,-1,20000,9497000000,1200000000,-1,49.56,https://www.hormelfoods.com/careers/,-1.0
 Fifth Third Bancorp,Banking,Public,-1,19869,-1,-1,2512000000,24.0,https://www.53.com/content/fifth-third/en/careers.html,-1.0
-"Foot Locker, Inc.",,Public,1988,32175,7940000000,571000000,284000000,37.98,https://careers.footlocker.com/,5.95
+"Foot Locker, Inc.",Other,Public,1988,32175,7940000000,571000000,284000000,37.98,https://careers.footlocker.com/,5.95
 "FleetCor Technologies, Inc.",Banking,Public,-1,7600,2433000000,1090000000,811500000,240.0,https://careers.fleetcor.com/,-1.0
 "Prosperity Bancshares, Inc.",Banking,Public,-1,3901,-1,-1,332000000,57.05,https://www.zippia.com/prosperity-bancshares-careers-9420/,-1.0
 FMC Corporation,Manufacturing and Chemicals,Public,-1,6500,4727800000,1304500000,511500000,109.14,http://www.fmc.com/careers/,-1.0
@@ -1899,13 +1898,13 @@ Starwood Capital Group,"Consulting,Banking",Private,-1,-1,-1,-1,-1,-1.0,https://
 "Genworth Financial, Inc.",Banking,Public,-1,3500,8430000000,-1,-1,4.25,https://www.genworth.com/about-us/building-careers.html,-1.0
 Genuine Parts Company,Other,Public,-1,48001,-1,-1,-1,96.22,https://jobs.genpt.com/students-graduates/,-1.0
 The Goodyear Tire & Rubber Company,Manufacturing and Chemicals,Public,1898,64000,15377000000,1221000000,346000000,9.28,https://campus.goodyear.com/,5.84
-"W.W. Grainger, Inc.",,Public,-1,25300,11491000000,1260000000,849000000,378.84,https://jobs.grainger.com/,6.0
+"W.W. Grainger, Inc.",Other,Public,-1,25300,11491000000,1260000000,849000000,378.84,https://jobs.grainger.com/,6.0
 Hyatt Hotels and Resorts Corporation,"Consulting,Health",Public,-1,100000,4450000000,322000000,332000000,5.78,https://careers.hyatt.com/,-1.0
 Halliburton Company,Manufacturing and Chemicals,Public,-1,0,23995000000,2467000000,1656000000,12.57,https://jobs.halliburton.com/content/students-and-recent-graduates/,-1.0
 "Hasbro, Inc.",Video,Public,-1,5800,4580000000,331000000,220400000,84.1,https://jobs.hasbro.com/,-1.0
 "Twitter, Inc.",Network,Private,-1,0,3460000000,453000000,1470000000,-1.0,https://careers.twitter.com/en.html,-1.0
 HollyFrontier Corporation,Manufacturing and Chemicals,Public,-1,3522,14251000000,-1,805000000,18.67,https://www.hollyfrontier.com/Careers/Career-Profile/,5.32
-"The Hartford Financial Services Group, Inc.",,Public,-1,0,16969999999,1040000000,3130000000,39.94,https://www.thehartford.com/careers,-1.0
+"The Hartford Financial Services Group, Inc.",Other,Public,-1,0,16969999999,1040000000,3130000000,39.94,https://www.thehartford.com/careers,-1.0
 "Henry Schein, Inc.",Health,Public,-1,19000,9980000000,-1,695000000,61.57,https://www.henryschein.com/us-en/corporate/career/default.aspx,5.41
 "Host Hotels & Resorts, Inc.","Software,Banking,Real Estate",Public,1993,175,5469000000,-1,932000000,10.93,https://www.hosthotels.com/careers/careers,-1.0
 The Hershey Company,Retail and Wholesale,Public,1894,16140,8000000000,1275000000,1500000000,144.6,https://www.thehersheycompany.com/en_us/careers.html,5.93
@@ -1934,7 +1933,7 @@ Jefferies Financial Group Inc.,Real Estate,Public,-1,12700,11436000000,-1,167400
 Jones Lang LaSalle Incorporated,"Software,Real Estate",Public,-1,93000,17900000000,-1,534000000,119.84,https://www.us.jll.com/en/careers/early-careers,-1.0
 Navient Corporation,Banking,Public,-1,6700,5180000000,-1,-1,22.94,https://jobs.navient.com/,-1.0
 "Nordstrom, Inc.",Retail and Wholesale,Public,-1,74000,15861000000,837000000,564000000,12.67,https://careers.nordstrom.com/,6.06
-Keurig Dr Pepper Inc.,,Public,1981,25500,-1,-1,-1,28.8,https://careers.keurigdrpepper.com/page/university,5.44
+Keurig Dr Pepper Inc.,Other,Public,1981,25500,-1,-1,-1,28.8,https://careers.keurigdrpepper.com/page/university,5.44
 "Keysight Technologies, Inc.",Other,Public,-1,14000,4300000000,711000000,621000000,111.13,https://jobs.keysight.com/,5.86
 The Kraft Heinz Company,Retail and Wholesale,Public,2015,38757,24970000000,3070000000,1940000000,31.7,http://www.kraftheinzcompany.com/careers.html,5.54
 Kimberly-Clark Corporation,Health,Public,-1,40000,18400000000,3299000000,2278000000,134.32,https://www.careersatkc.com/en/na/our-careers/students-and-recent-grads,-1.0
@@ -1957,14 +1956,14 @@ McKesson Corporation,Health,Public,-1,80000,214319000000,255000000,34000000,170.
 Maureen McCormick,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.mccormickcorporation.com/en/careers,-1.0
 MarketAxess Holdings Inc.,Banking,Public,2000,527,-1,-1,-1,581.17,https://www.marketaxess.com/careers,4.91
 Martin Marietta Inc.,Manufacturing and Chemicals,Public,-1,8714,4200000000,325000000,84000000,57.34,https://jobs.jobvite.com/martinmarietta,-1.0
-"Marsh & McLennan Companies, Inc.",,Public,-1,76000,14020000000,2860000000,1510000000,108.4,https://careers.mmc.com/,-1.0
+"Marsh & McLennan Companies, Inc.",Other,Public,-1,76000,14020000000,2860000000,1510000000,108.4,https://careers.mmc.com/,-1.0
 Federal Home Loan Mortgage Corporation (Freddie Mac),Banking,Private,-1,6642,15385000000,-1,9235000000,-1.0,https://careers.freddiemac.com/,-1.0
 3M Company,Real Estate,Public,-1,96163,32765000000,7207000000,5349000000,163.2,https://www.3m.com/3M/en_US/careers-us/,-1.0
 "Altria Group, Inc.",Manufacturing and Chemicals,Public,-1,8300,25364000000,9115000000,6963000000,37.31,https://www.altria.com/en/people-and-careers/student-internships,-1.0
 Molina Healthcare Inc.,Health,Private,1980,0,19883000000,555000000,512000000,-1.0,https://careers.molinahealthcare.com/,5.62
 Marathon Oil Corporation,Manufacturing and Chemicals,Public,-1,2300,5063000000,3030000000,2204000000,4.29,https://www.marathonoil.com/careers/,-1.0
 "Match Group, Inc.",Network,Public,-1,1700,2051000000,-1,534000000,134.97,https://jobs.lever.co/matchgroup?department=Tinder,-1.0
-Mettler-Toledo International Inc.,,Public,-1,14200,2936000000,-1,580000,1103.74,https://www.mt.com/us/en/home/site_content/hr/careers.html,-1.0
+Mettler-Toledo International Inc.,Other,Public,-1,14200,2936000000,-1,580000,1103.74,https://www.mt.com/us/en/home/site_content/hr/careers.html,-1.0
 Murphy USA,Other,Public,2013,-1,-1,-1,-1,128.05,https://jobs.murphyusa.com/,-1.0
 "Annaly Capital Management, Inc.","Software,Banking,Real Estate",Public,-1,-1,-1,-1,2299000000,7.39,https://www.annaly.com/careers,-1.0
 "Maxim Integrated Products, Inc.",Manufacturing and Chemicals,Public,-1,7131,2311000000,747100000,827500000,77.89,https://www.maximintegrated.com/en/aboutus/careers.html,6.08
@@ -2000,7 +1999,7 @@ Philip Morris International Inc.,Manufacturing and Chemicals,Public,-1,77400,798
 "Ulta Beauty, Inc.",Other,Public,-1,24200,4855000000,-1,409800000,214.26,https://careers.ulta.com/careers/,6.38
 "Qurate Retail, Inc.",Distributed Systems,Public,-1,28255,10219000000,1010999999,473000000,8.11,https://careers.qurateretailgroup.com/hsn/,5.13
 Royal Caribbean Group,"Consulting,Health",Public,-1,77000,9490000000,1890000000,1810000000,35.34,https://jobs.rclcareers.com/,-1.0
-"Reinsurance Group of America, Incorporated (RGA)",,Public,-1,2640,14300000000,-1,870000000,106.31,https://rgare.com/careers/interns-and-graduates,-1.0
+"Reinsurance Group of America, Incorporated (RGA)",Other,Public,-1,2640,14300000000,-1,870000000,106.31,https://rgare.com/careers/interns-and-graduates,-1.0
 Weyerhaeuser Company,"Software,Banking,Real Estate",Public,-1,0,7200000000,1130000000,582000000,28.8,https://www.weyerhaeuser.com/careers/,-1.0
 Zebra Technologies Corporation,"Software,Health,Manufacturing and Chemicals",Public,-1,7400,4218000000,610000000,-1,340.12,https://www.zebra.com/us/en/about-zebra/careers.html,6.12
 Ralph Lauren,Other,Private,-1,-1,-1,-1,-1,-1.0,https://www.careers.ralphlauren.com/,-1.0
@@ -2017,10 +2016,10 @@ Seagen Inc.,"Software,Health",Public,1997,1605,654700000,-1,-1,15.76,https://www
 The Sherwin-Williams Company,Manufacturing and Chemicals,Public,-1,61111,17900000000,-1,1540000000,729.82,https://careers.sherwin-williams.com/students-graduates,-1.0
 Schlumberger Limited,Manufacturing and Chemicals,Public,-1,85000,32814999999,4187000000,2138000000,5.87,https://careers.slb.com/,5.93
 "Synopsys, Inc.","Software,Consulting,Network,Health",Public,-1,13000,3360000000,-1,532000000,240.56,https://www.synopsys.com/company/synopsys-careers/Internships.html,6.2
-Synovus Financial Corporation,,Public,-1,4651,1429000000,-1,428480000,29.39,https://careers.synovus.com/,-1.0
+Synovus Financial Corporation,Other,Public,-1,4651,1429000000,-1,428480000,29.39,https://careers.synovus.com/,-1.0
 "Spirit AeroSystems, Inc.",Other,Public,-1,18200,6800000000,-1,-1,57.34,https://www.spiritaero.com/careers/internships,-1.0
 Sempra Energy,"Consulting,Manufacturing and Chemicals",Public,-1,0,11687000000,-1,1126000000,127.01,https://www.sempra.com/careers,-1.0
-"Constellation Brands, Inc.",,Public,-1,8700,7330000000,2400000000,1540000000,183.48,https://www.cbrands.com/careers,5.6
+"Constellation Brands, Inc.",Other,Public,-1,8700,7330000000,2400000000,1540000000,183.48,https://www.cbrands.com/careers,5.6
 "Stanley Black & Decker, Inc.","Health,Manufacturing and Chemicals",Public,-1,60767,12740000000,-1,1200000000,177.83,https://www.stanleyblackanddecker.com/careers/early-career,-1.0
 "Skyworks Solutions, Inc.",Manufacturing and Chemicals,Public,-1,10017,3400000000,891800000,814800000,149.12,https://careers.skyworksinc.com/,-1.0
 Synchrony Financial,Banking,Public,-1,16500,14800000000,-1,2790000000,27.48,https://www.synchronycareers.com/,5.59
@@ -2034,7 +2033,7 @@ TransUnion,"Software,Consulting,Health",Public,-1,8000,2656000000,607800000,3469
 UGI,Other,Private,-1,-1,-1,-1,-1,-1.0,https://careers.ugicorp.com/UGIEnergyServices,-1.0
 Vulcan Materials Company,Manufacturing and Chemicals,Public,-1,8373,4929000000,-1,-1,137.47,https://www.vulcanmaterials.com/careers,-1.0
 ViacomCBS Inc.,Distributed Systems,Public,2019,23990,27812000000,4272999999,3270000000,31.29,https://viacomcbs.careers/,-1.0
-Verisk Analytics,Big Data,Public,-1,9300,2100000000,-1,507600000,194.41,https://www.verisk.com/careers/,-1.0
+Verisk Analytics,Big Data and Analytics,Public,-1,9300,2100000000,-1,507600000,194.41,https://www.verisk.com/careers/,-1.0
 TXU Energy,"Consulting,Retail and Wholesale,Manufacturing and Chemicals",Public,2002,1000,-1,-1,-1,60.86,https://www.vistracorp.com/careers/,-1.0
 Wayfair Inc.,Retail and Wholesale,Public,-1,16900,9127000000,929940000,984580000,297.22,https://www.wayfair.com/careers/students,-1.0
 Loanpal,Banking,Private,-1,525,-1,-1,-1,-1.0,https://www.westernalliancebancorporation.com/about-western-alliance-bancorporation/careers,-1.0
