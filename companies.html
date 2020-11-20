@@ -96,6 +96,118 @@
         <button type="submit" class="btn btn-default" onclick="filterMin()">Filter</button>
       </span>
     </ul>
+    
+    <div id="p_36" class="a-section a-spacing-small">
+      <span class="a-size-base a-color-base a-text-bold" dir="auto">Industry</span>
+    </div>
+   <ul id="industrylist" aria-labelledby="p_36-title" class="a-unordered-list a-nostyle a-vertical a-spacing-medium">
+   
+      <span>
+     
+          <label for="slcColumns">  <input type="checkbox" onclick="filterindustry(1,'industrylist');"/>Software</label> 
+        </span>
+     <span>
+
+          <label for="slcColumns">  <input type="checkbox" onclick="filterindustry(1,'industrylist');"/>Manufacturing and Chemicals</label> 
+        </span>
+     <span>
+ 
+          <label for="slcColumns"> <input type="checkbox" onclick="filterindustry(1,'industrylist');"/>Consulting</label> 
+        </span>
+     <span>
+ 
+          <label for="Industry"><input type="checkbox" onclick="filterindustry(1,'industrylist');"/> Database</label> 
+       
+        </span>
+       <span>
+     
+          <label for="slcColumns">  <input type="checkbox" onclick="filterindustry(1,'industrylist');"/>Travel and Transport</label> 
+        </span>
+     <span>
+
+          <label for="slcColumns">  <input type="checkbox" onclick="filterindustry(1,'industrylist');"/>Artificial Intelligence</label> 
+        </span>
+     <span>
+ 
+          <label for="slcColumns"> <input type="checkbox" onclick="filterindustry(1,'industrylist');"/>Distributed Systems</label> 
+        </span>
+     <span>
+ 
+          <label for="Industry"><input type="checkbox" onclick="filterindustry(1,'industrylist');"/> Network</label> 
+       
+        </span>
+     <span>
+ 
+          <label for="Industry"><input type="checkbox" onclick="filterindustry(1,'industrylist');"/> Retail And Wholesale</label> 
+       
+        </span>
+      <span>
+ 
+          <label for="Industry"><input type="checkbox" onclick="filterindustry(1,'industrylist');"/> Big Data and Analytics</label> 
+       
+        </span>
+     <span>
+ 
+          <label for="Industry"><input type="checkbox" onclick="filterindustry(1,'industrylist');"/> Video</label> 
+       
+        </span>
+     <span>
+ 
+          <label for="Industry"><input type="checkbox" onclick="filterindustry(1,'industrylist');"/> Banking</label> 
+       
+        </span>
+     <span>
+ 
+          <label for="Industry"><input type="checkbox" onclick="filterindustry(1,'industrylist');"/> Health</label> 
+       
+        </span>
+     <span>
+ 
+        <label for="Industry"><input type="checkbox" onclick="filterindustry(1,'industrylist');"/> Machine Learning</label> 
+       
+        </span>
+     <span>
+ 
+        <label for="Industry"><input type="checkbox" onclick="filterindustry(1,'industrylist');"/> Real Estate </label> 
+       
+        </span>
+     <span>
+ 
+          <label for="Industry"><input type="checkbox" onclick="filterindustry(1,'industrylist');"/> Other</label> 
+       
+        </span>
+  
+  </ul>
+
+  
+ <div id="p_36" class="a-section a-spacing-small">
+      <span class="a-size-base a-color-base a-text-bold" dir="auto">Type</span>
+    </div>
+   <ul id="TypeCol" aria-labelledby="p_36-title" class="a-unordered-list a-nostyle a-vertical a-spacing-medium">
+   
+      <span>
+     
+          <label for="slcColumns">  <input type="checkbox" onclick="filterindustry(2,'TypeCol');"/>Public</label> 
+        <label for="slcColumns">  <input type="checkbox" onclick="filterindustry(2,'TypeCol');"/>Private</label> 
+        </span>
+    </ul>
+    
+ <div id="p_36" class="a-section a-spacing-small">
+      <span class="a-size-base a-color-base a-text-bold" dir="auto">Founded</span>
+    </div>
+   <ul id="foundedcol" aria-labelledby="p_36-title" class="a-unordered-list a-nostyle a-vertical a-spacing-medium">
+   
+      <span>
+     
+          <label for="slcColumns">Min Year:</label>
+        <input type="text" id="myInputMinYear" placeholder="Type..">
+        <label for="slcColumns">Max Year:</label>
+        <input type="text" id="myInputMaxYear" placeholder="Type">
+        <button type="submit" class="btn btn-default" onclick="filterindustry(3,'foundedcol')">Filter</button>
+        </span>
+    </ul>  
+    
+    
 
     <div id="p_36-title" class="a-section a-spacing-small">
       <span class="a-size-base a-color-base a-text-bold" dir="auto">Revenue</span>
@@ -222,7 +334,7 @@
         <input type="text" id="myInput9" placeholder="Type..">
         <label for="slcColumns">Max Net Income:</label>
         <input type="text" id="myInput10" placeholder="Type">
-        <button type="submit" class="btn btn-default" onclick="MinMax()">Filter</button>
+        <button type="submit" class="btn btn-default" onclick="MinMax(6,'myInput9','myInput10')">Filter</button>
       </span>
     </ul>
   </div>
