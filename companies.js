@@ -129,25 +129,22 @@ function myfilters(ele, bele) {
   //evt.preventDefault();
 }
 
-function filterMinMax() {
-  var minValue = document.getElementById("myInput1");
-  var maxValue = document.getElementById("myInput2");
-
-  var query =
-    ">=" +
-    (minValue.value.length > 0 ? minValue.value : -1) +
-    " && <=" +
-    (maxValue.value.length > 0 ? maxValue.value : 100000);
-  alert(query);
-
-  // Set the column's filter value
-  //tf.init();
-  tf.setFilterValue("8", query);
-
-  tf.filter();
-
-  //evt.preventDefault();
+function MinMax(colIndex, minElementString, maxElementString) {	
+  var minValue = document.getElementById(minElementString);	
+  var maxValue = document.getElementById(maxElementString);	
+  var query =	
+    ">=" +	
+    (minValue.value.length > 0 ? minValue.value : -1) +	
+    " && <=" +	
+    (maxValue.value.length > 0 ? maxValue.value : 100000);	
+  alert(query);	
+  // Set the column's filter value	
+  //tf.init();	
+  tf.setFilterValue(colIndex, query);	
+  tf.filter();	
+  //evt.preventDefault();	
 }
+
 function filterMin() {
   var minValue = document.getElementById("myInput3");
   var maxValue = document.getElementById("myInput4");
@@ -227,6 +224,31 @@ function MinMax() {
 
   //evt.preventDefault();
 }
+
+function filterindustry(colindex, elestring) {	
+  alert(elestring);	
+  var listOfElements = document.getElementById(elestring);	
+  alert(elestring);	
+  var spanList = listOfElements.children;	
+  var i = 0;	
+  var values = [];	
+  var query = "";	
+  if (colindex === 1 || colindex === 2) {	
+    for (i = 0; i < spanList.length; i++) {	
+      if (spanList[i].children[0].children[0].checked == true)	
+        values.push(spanList[i].children[0].textContent);	
+    }	
+    for (i = 0; i < values.length; i++) {	
+      if (i == 0) query = values[i];	
+      else query = query + " || " + values[i];	
+    }	
+    alert(query);	
+    tf.setFilterValue(colindex, query);	
+    tf.filter();	
+  } else if (colindex == 3) {	
+    MinMax(colindex, "myInputMinYear", "myInputMaxYear");	
+  }	
+}
 function myfunction() {
   var input, filter, table, tr, td, i, txtValue;
 
@@ -288,12 +310,12 @@ var filtersConfig = {
   mark_active_columns: true,
   highlight_keywords: true,
   no_results_message: true,
-  exact_match: true,
-  ignore_diacritics: true,
-  watermark: [
-    "City",
-    "City",
-    "Distance",
+  columns_exact_match: [true, false, true, true, true, true, true, true,true,true,true],	
+  ignore_diacritics: true,	
+  watermark: [	
+    "plain Query",	
+    "plain Query",	
+    "plain Query",
     "Time",
     "Emplyoees",
     "Revenue",
@@ -305,9 +327,6 @@ var filtersConfig = {
   ],
 
   col_0: "none",
-  col_1: "select",
-  col_2: "checklist",
-  col_3: "select",
   col_9: "none",
   col_10: "select",
   col_types: [
