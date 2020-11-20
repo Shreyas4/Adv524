@@ -1,0 +1,86 @@
+h1 {
+  padding: 60px;
+  text-align: center;
+  background: #000000;
+  color: white;
+  font-size: 60px;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-family: "Overlock";
+}
+th,
+td {
+  text-align: left;
+  padding: 16px;
+}
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+td.highlight {
+  color: black;
+  font-weight: bold;
+  background-color: #ff0000;
+}
+td.new {
+  color: black;
+  background-color: rgba(255, 0, 0, 0.1);
+}
+td.blah {
+  color: black;
+  background-color: rgba(0, 255, 0, 0.1);
+}
+td.nice {
+  color: black;
+  background-color: rgba(0, 0, 255, 0.1);
+}
+td.noob {
+  font-weight: bold;
+  color: black;
+  background-color: #00ffff;
+}
+#colsBtn {
+  display: flex;
+  justify-content: right;
+}
+span {
+  text-align: left;
+}
+label {
+  display: block;
+}
+.sidebar {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #5cdb95;
+  overflow-x: hidden;
+  transition: 0.5s;
+  display: block;
+}
+
+.sidebar div {
+  padding: 10px 10px 10px 30px;
+  font-size: 24px;
+  display: block;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.sidebar .closebtn {
+  position: absolute;
+  top: 0;
+  right: 40px;
+  font-size: 36px;
+}
+
+.openbtn {
+  font-size: 24px;
+  cursor: pointer;
+  background-color: #5cdb95;
+}
