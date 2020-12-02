@@ -1,0 +1,3 @@
+[submodule "Chatbot"]
+	path = Chatbot
+	url = https://sburesume2.scm.azurewebsites.net:443/sburesume2.git
