@@ -1,3 +1,4 @@
+name,industry,type,founded,num_employees,revenue,profit,student_careers_url,website,page_rank
 "[24]7.ai, Inc.",Software,Private,-1,15000,-1.0,-1.0,https://www.247.ai/company/careers,https://www.247.ai/,5.68
 33Across,Other,nan,2008,-1,-1.0,-1.0,https://www.33across.com/careers/,https://www.33across.com/,5.68
 3D Systems Corporation,Software,Public,-1,2666,646840000.0,65319999.0,https://www.3dsystems.com/careers,https://www.3dsystems.com/,5.85
