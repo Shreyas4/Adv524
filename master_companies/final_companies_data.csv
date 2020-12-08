@@ -1,6 +1,6 @@
 name,industry,type,founded,num_employees,revenue,operating_income,net_income,students_careers_url,pg_rank,website,hq_location
 "Google, LLC","Software,Distributed Systems,Social media,Networking,Artificial Intelligence,Electronics",Public,2008,114096,-1.0,-1,-1,https://careers.google.com/students/,10.0,google.com,Googleplex 1600 Amphitheatre Parkway
-Instagram,Other,Public,-1,-1,-1.0,-1,-1,https://www.instagram.com/about/jobs/,10.0,instagram.com,
+Instagram,Other,Public,-1,-1,-1.0,-1,-1,https://www.instagram.com/about/jobs/,10.0,instagram.com,"Menlo Park, CA"
 Microsoft Corporation,"Software,Consulting,Distributed Systems,Networking,Multimedia,Electronics",Public,1975,0,143000000000.0,53000000000,44300000000,https://careers.microsoft.com/us/en/,8.52,microsoft.com,"Microsoft Redmond campus One Microsoft Way Redmond, Washington"
 International Business Machines Corporation,"Software,Distributed Systems,Artificial Intelligence,Electronics",Public,1911,352600,77140000000.0,13210000000,9430000000,https://www.ibm.com/us-en/employment/entrylevel/,8.11,ibm.com,
 Apple Inc.,"Software,Consulting,Distributed Systems,Artificial Intelligence,Electronics",Public,1976,137000,274515000000.0,66288000000,57411000000,https://www.apple.com/jobs/us/students.html,8.01,apple.com,Apple Park 1 Apple Park Way Cupertino California
@@ -9,15 +9,15 @@ Adobe Inc.,Software,Public,1982,22635,11170000000.0,3270000000,2950000000,https:
 "Zoom Video Communications, Inc.",Other,Public,-1,2532,622000000.0,-1,21000000,https://zoom.us/about,7.52,zoom.us,
 "salesforce.com, inc.","Software,Distributed Systems",Public,-1,49000,17100000000.0,297000000,126000000,https://www.salesforce.com/company/careers/university-recruiting/,7.49,salesforce.com,
 Tripadvisor Inc.,Travel,Private,-1,4194,1560000000.0,-1,126000000,https://careers.tripadvisor.com/,7.46,tripadvisor.com,
-"Slack Technologies, Inc.","Networking,Multimedia",Public,-1,1664,401000000.0,-1,141000000,https://slack.com/careers,7.31,slack.com,
+"Slack Technologies, Inc.","Networking,Multimedia",Public,-1,1664,401000000.0,-1,141000000,https://slack.com/careers,7.31,slack.com,"San Francisco, CA"
 Overcast Media Inc.,Other,Private,-1,-1,-1.0,-1,-1,https://overcast.fm/,7.3,overcast.fm,
 Automattic Inc.,Networking,Private,-1,1273,-1.0,-1,-1,https://automattic.com/work-with-us/,7.29,automattic.com,
-Oracle Corporation,"Software,Distributed Systems,Electronics",Public,-1,135000,39070000000.0,13890000000,-1,https://www.oracle.com/corporate/careers/,7.28,oracle.com,
+Oracle Corporation,"Software,Distributed Systems,Electronics",Public,-1,135000,39070000000.0,13890000000,-1,https://www.oracle.com/corporate/careers/,7.28,oracle.com,"Redwood City, CA"
 NewsBlur,Software,Private,-1,-1,-1.0,-1,-1,https://newsblur.com/,7.27,newsblur.com,
 "HubSpot, Inc.",Software,Public,-1,3387,674900000.0,40100000,63830000,https://www.hubspot.com/careers/students,7.25,hubspot.com,
 Pluralsight,Software,Public,-1,1700,-1.0,-1,-1,https://www.pluralsight.com/careers,7.22,pluralsight.com,
-"Netflix, Inc.","Software,Multimedia",Public,-1,8600,20156000000.0,2604000000,1866000000,https://jobs.netflix.com/,7.14,netflix.com,
-WhatsApp,Other,Public,-1,-1,-1.0,-1,-1,https://www.facebook.com/careers/areas-of-work/whatsapp/,7.08,whatsapp.com,
+"Netflix, Inc.","Software,Multimedia",Public,-1,8600,20156000000.0,2604000000,1866000000,https://jobs.netflix.com/,7.14,netflix.com,"Los Gatos, CA"
+WhatsApp,Other,Public,-1,-1,-1.0,-1,-1,https://www.facebook.com/careers/areas-of-work/whatsapp/,7.08,whatsapp.com,"Menlo Park, CA"
 SuccessFactors Inc.,Software,Private,-1,1447,-1.0,-1,-1,https://www.sap.com/about/careers.html,6.87,sap.com,
 Intel Corporation,Electronics,Public,1968,110800,71900000000.0,22000000000,-1,https://jobs.intel.com/,6.83,intel.com,
 "Dell Software, Inc.",Other,Public,-1,-1,-1.0,-1,-1,https://jobs.dell.com/students,6.81,dell.com,
@@ -423,7 +423,7 @@ NuoDB,"Software,Database",Private,-1,85,-1.0,-1,-1,https://nuodb.com/about/caree
 Varonis Systems,Software,Public,2005,1000,217400000.0,-1,-1,https://info.varonis.com/careers?p=jobs&error=301&nl=1,5.46,varonis.com,
 JanusVR,Other,Private,-1,-1,-1.0,-1,-1,https://www.mckinsey.com/careers/students,5.46,janusvr.com,
 Nodejitsu,Other,Private,-1,-1,-1.0,-1,-1,https://lensa.com/nodejitsu/jobs/c/90a66401744bf3756b646ba30abf2518cf6e8659,5.46,nodejitsu.com,
-Oracle Bronto,Social media,Public,-1,400,-1.0,-1,-1,https://bronto.com/,5.45,bronto.com,
+Oracle Bronto,Social media,Public,-1,400,-1.0,-1,-1,https://bronto.com/,5.45,bronto.com,"Redwood City, CA"
 "Fixstars Solutions, Inc.",Software,Private,2008,-1,-1.0,-1,-1,https://angel.co/company/fixstars-solutions/jobs,5.45,fixstars.com,
 rewardStyle,"Software,Networking",Private,-1,250,-1.0,-1,-1,https://about.rewardstyle.com/careers,5.45,rewardstyle.com,Dallas Texas
 Bromium,Software,Private,-1,-1,-1.0,-1,-1,https://www.bromium.com/careers/,5.45,bromium.com,
