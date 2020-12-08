@@ -1,6 +1,6 @@
 name,industry,type,founded,num_employees,revenue,operating_income,net_income,students_careers_url,pg_rank,website,hq_location
-"Google, LLC","Software,Distributed Systems,Social media,Networking,Artificial Intelligence,Electronics",Private,2008,114096,-1.0,-1,-1,https://careers.google.com/students/,10.0,google.com,Googleplex 1600 Amphitheatre Parkway
-Instagram,Other,Private,-1,-1,-1.0,-1,-1,https://www.instagram.com/about/jobs/,10.0,instagram.com,
+"Google, LLC","Software,Distributed Systems,Social media,Networking,Artificial Intelligence,Electronics",Public,2008,114096,-1.0,-1,-1,https://careers.google.com/students/,10.0,google.com,Googleplex 1600 Amphitheatre Parkway
+Instagram,Other,Public,-1,-1,-1.0,-1,-1,https://www.instagram.com/about/jobs/,10.0,instagram.com,
 Microsoft Corporation,"Software,Consulting,Distributed Systems,Networking,Multimedia,Electronics",Public,1975,0,143000000000.0,53000000000,44300000000,https://careers.microsoft.com/us/en/,8.52,microsoft.com,"Microsoft Redmond campus One Microsoft Way Redmond, Washington"
 International Business Machines Corporation,"Software,Distributed Systems,Artificial Intelligence,Electronics",Public,1911,352600,77140000000.0,13210000000,9430000000,https://www.ibm.com/us-en/employment/entrylevel/,8.11,ibm.com,
 Apple Inc.,"Software,Consulting,Distributed Systems,Artificial Intelligence,Electronics",Public,1976,137000,274515000000.0,66288000000,57411000000,https://www.apple.com/jobs/us/students.html,8.01,apple.com,Apple Park 1 Apple Park Way Cupertino California
@@ -16,13 +16,13 @@ Oracle Corporation,"Software,Distributed Systems,Electronics",Public,-1,135000,3
 NewsBlur,Software,Private,-1,-1,-1.0,-1,-1,https://newsblur.com/,7.27,newsblur.com,
 "HubSpot, Inc.",Software,Public,-1,3387,674900000.0,40100000,63830000,https://www.hubspot.com/careers/students,7.25,hubspot.com,
 Pluralsight,Software,Public,-1,1700,-1.0,-1,-1,https://www.pluralsight.com/careers,7.22,pluralsight.com,
-"Netflix, Inc.","Software,Multimedia",Private,-1,8600,20156000000.0,2604000000,1866000000,https://jobs.netflix.com/,7.14,netflix.com,
-WhatsApp,Other,Private,-1,-1,-1.0,-1,-1,https://www.facebook.com/careers/areas-of-work/whatsapp/,7.08,whatsapp.com,
+"Netflix, Inc.","Software,Multimedia",Public,-1,8600,20156000000.0,2604000000,1866000000,https://jobs.netflix.com/,7.14,netflix.com,
+WhatsApp,Other,Public,-1,-1,-1.0,-1,-1,https://www.facebook.com/careers/areas-of-work/whatsapp/,7.08,whatsapp.com,
 SuccessFactors Inc.,Software,Private,-1,1447,-1.0,-1,-1,https://www.sap.com/about/careers.html,6.87,sap.com,
 Intel Corporation,Electronics,Public,1968,110800,71900000000.0,22000000000,-1,https://jobs.intel.com/,6.83,intel.com,
-"Dell Software, Inc.",Other,Private,-1,-1,-1.0,-1,-1,https://jobs.dell.com/students,6.81,dell.com,
+"Dell Software, Inc.",Other,Public,-1,-1,-1.0,-1,-1,https://jobs.dell.com/students,6.81,dell.com,
 "JotForm, Inc.",Software,Private,2006,250,-1.0,-1,-1,https://www.jotform.com/form-templates/gnhs-work-study,6.77,jotform.com,"San Francisco, California"
-Oculus,Other,Private,-1,-1,-1.0,-1,-1,https://www.oculus.com/careers/,6.76,oculus.com,
+Oculus,Other,Public,-1,-1,-1.0,-1,-1,https://www.oculus.com/careers/,6.76,oculus.com,
 VMware Inc.,Software,Public,1998,31000,8970000000.0,2050000000,2420000000,https://careers.vmware.com/,6.75,vmware.com,"Palo Alto, California, United States"
 McAfee Corp.,Software,Public,-1,6768,2600000000.0,-1,-1,https://careers.mcafee.com/,6.74,mcafee.com,
 HP Inc.,"Software,Electronics",Public,2015,56000,58330000000.0,3800000000,3150000000,https://jobs.hp.com/en-us/Students-Graduates,6.71,hp.com,
@@ -31,7 +31,7 @@ Zendesk,Other,Public,-1,3570,816000000.0,-1,-1,https://jobs.zendesk.com/us/en,6.
 "Autodesk, Inc.",Software,Public,-1,10300,3270000000.0,343000000,214500000,https://www.autodesk.com/careers,6.6,autodesk.com,
 Cvent,"Software,Artificial Intelligence",Private,-1,3600,-1.0,-1,-1,https://www.cvent.com/en/careers,6.59,cvent.com,
 Check Point Software Technologies Ltd.,"Software,Consulting,Electronics,Security",Public,-1,5200,1995000000.0,882000000,826000000,https://careers.checkpoint.com/index.php?m=careers&a=jobs&country_code=BE,6.59,checkpoint.com,
-Cisco Webex,"Software,Networking,Multimedia",Private,-1,10000,380000000.0,-1,-1,https://www.cisco.com/c/en/us/about/careers/working-at-cisco/students-and-new-graduate-programs.html,6.58,webex.com,
+Cisco Webex,"Software,Networking,Multimedia",Public,-1,10000,380000000.0,-1,-1,https://www.cisco.com/c/en/us/about/careers/working-at-cisco/students-and-new-graduate-programs.html,6.58,webex.com,
 SendGrid,Software,Private,-1,-1,111900000.0,-1,-1,https://sendgrid.com/careers/interns-new-grads/,6.55,sendgrid.com,
 "Dynatrace, Inc.","Software,Consulting,Data Analytics",Public,2005,2200,-1.0,-1,-1,https://www.dynatrace.com/company/careers/,6.54,dynatrace.com,
 "New Relic, Inc.",Other,Public,-1,-1,599500000.0,-1,-1,https://newrelic.com/about/careers,6.54,newrelic.com,
@@ -41,8 +41,8 @@ Cloudinary,Software,Private,-1,200,-1.0,-1,-1,https://cloudinary.com/jobs,6.51,c
 Siemens PLM Software,Software,Private,-1,7600,-1.0,-1,-1,https://jobs.siemens.com/disw/jobs,6.51,siemens.com,
 "DocuSign, Inc.",Other,Public,-1,3909,974000000.0,-1,-1,https://www.docusign.com/company/careers,6.51,docusign.com,
 SAS Institute Inc.,Software,Private,-1,13939,3100000000.0,-1,-1,https://www.sas.com/en_us/careers.html,6.5,sas.com,
-Sony Corporation of America,Multimedia,Private,1960,114400,-1.0,-1,-1,https://www.sonyjobs.com/internships.html,6.49,sony.com,Madison Avenue
-GE Automation & Controls,Automobiles,Private,-1,-1,-1.0,-1,-1,https://jobs.gecareers.com/global/en,6.48,ge.com,
+Sony Corporation of America,Multimedia,Public,1960,114400,-1.0,-1,-1,https://www.sonyjobs.com/internships.html,6.49,sony.com,Madison Avenue
+GE Automation & Controls,Automobiles,Public,-1,-1,-1.0,-1,-1,https://jobs.gecareers.com/global/en,6.48,ge.com,
 Janrain,Other,Private,-1,120,14300000.0,-1,-1,https://www.akamai.com/us/en/about/careers/,6.47,akamai.com,
 JW Player,Other,Private,2005,-1,-1.0,-1,-1,https://www.jwplayer.com/careers/,6.47,jwplayer.com,
 Splunk Inc.,Other,Public,-1,0,2360000000.0,287140000,336000000,https://www.splunk.com/en_us/careers/university-recruiting.html,6.47,splunk.com,
@@ -132,7 +132,7 @@ CodeWeavers,Software,Private,-1,30,-1.0,-1,-1,https://www.codeweavers.com/about/
 Glitch,Software,Private,-1,32,-1.0,-1,-1,https://glitch.com/about,6.01,glitch.com,
 "Zuora, Inc.",Software,Public,2007,1249,276100000.0,-1,38000000,https://www.zuora.com/about/careers/,6.01,zuora.com,
 "LEAD Technologies, inc.",Software,Private,-1,-1,-1.0,-1,-1,https://www.leadtools.com/corporate/careers,6.01,leadtools.com,
-Dell EMC,"Software,Database",Private,-1,-1,-1.0,-1,-1,https://jobs.dell.com/students,6.01,dellemc.com,
+Dell EMC,"Software,Database",Public,-1,-1,-1.0,-1,-1,https://jobs.dell.com/students,6.01,dellemc.com,
 Palantir Technologies Inc.,Software,Public,-1,0,739000000.0,-1,-1,https://www.palantir.com/students/,6.0,palantir.com,
 Kaltura,"Networking,Multimedia",Private,-1,450,-1.0,-1,-1,https://corp.kaltura.com/company/careers/,6.0,kaltura.com,
 Genesys,Other,Private,-1,5935,2000000000.0,-1,-1,https://www.genesys.com/company/careers,6.0,genesys.com,
@@ -211,7 +211,7 @@ Universal Robots,Automobiles,Private,-1,680,248000000.0,-1,-1,https://www.univer
 Sonic Solutions,Software,Public,-1,700,110220000.0,-1,-1,http://www.sonicsolutionsusa.com/contact.html,5.8,sonicsolutionsusa.com,
 Roxio,Software,Private,-1,500,-1.0,-1,-1,https://www.roxio.com/en/pages/coupons/,5.8,roxio.com,
 Sony Creative Software Inc.,Software,Private,-1,-1,-1.0,-1,-1,https://www.sonyjobs.com/internships.html,5.8,sonycreativesoftware.com,
-Salesforce Marketing Cloud,Automobiles,Private,-1,1800,292300000.0,-1,-1,https://www.salesforce.com/company/careers/,5.8,marketingcloud.com,
+Salesforce Marketing Cloud,Automobiles,Public,-1,1800,292300000.0,-1,-1,https://www.salesforce.com/company/careers/,5.8,marketingcloud.com,
 Wind River Systems Inc.,Other,Private,-1,1800,359700000.0,-1,-1,https://windriver.com/careers/,5.8,windriver.com,
 "NGP VAN, Inc.","Software,Consulting,Database,Networking",Private,-1,0,-1.0,-1,-1,https://www.ngpvan.com/careers,5.79,ngpvan.com,
 Pegasystems Inc.,Software,Public,-1,5000,891600000.0,-1,10600000,https://www.pega.com/about/careers,5.79,pega.com,
@@ -390,7 +390,7 @@ Veeva Systems Inc.,Software,Public,-1,-1,-1.0,-1,-1,https://www.veeva.com/meet-v
 CloudHealth by VMware,Software,Private,-1,280,-1.0,-1,-1,https://www.cloudhealthtech.com/careers,5.49,cloudhealthtech.com,
 Moovweb,Distributed Systems,Private,2009,-1,-1.0,-1,-1,https://www.moovweb.com/jobs,5.49,moovweb.com,
 "Anthem, Inc.",Pharmaceuticals,Public,-1,70600,104210000000.0,5990000000,4810000000,https://anthemcareers.ttcportals.com/,5.49,antheminc.com,
-SalesforceIQ,Other,Private,-1,128,-1.0,-1,-1,https://www.salesforce.com/company/careers/,5.49,salesforceiq.com,
+SalesforceIQ,Other,Public,-1,128,-1.0,-1,-1,https://www.salesforce.com/company/careers/,5.49,salesforceiq.com,
 "Optoro, Inc.","Software,Travel",Private,-1,-1,-1.0,-1,-1,https://www.optoro.com/careers/,5.49,optoro.com,
 "Twocanoes Software, LLC",Software,Private,-1,5,-1.0,-1,-1,https://twocanoes.com/jobs/,5.49,twocanoes.com,
 FinancialForce,Software,Private,-1,750,-1.0,-1,-1,https://www.financialforce.com/about/careers/,5.49,financialforce.com,
