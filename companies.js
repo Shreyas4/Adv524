@@ -279,6 +279,12 @@ $(document).ready(function () {
       [100, 200, 3000, -1],
       [100, 200, 300, "All"]
     ],
+    columnDefs: [
+    { render: function ( data, type, row ) {
+     
+            return parseFloat(data).toFixed(2) ;
+             },
+        targets: [11] } ],
     rowCallback: function (row, data, index) {
       if (data[4] <= 10000) {
         $("td", row).addClass("new");
