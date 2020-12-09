@@ -84,3 +84,8 @@ label {
   cursor: pointer;
   background-color: #5cdb95;
 }
+.note {
+  font-size: 80%;
+  color: black;
+  text-decoration: underline;
+}
