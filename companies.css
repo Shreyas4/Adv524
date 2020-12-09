@@ -11,6 +11,7 @@ table {
   width: 100%;
   border: 1px solid #ddd;
   font-family: "Overlock";
+  word-wrap: break-word;
 }
 th,
 td {
