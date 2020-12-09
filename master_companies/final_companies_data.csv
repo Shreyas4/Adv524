@@ -1,104 +1,104 @@
 name,industry,type,founded,num_employees,revenue,operating_income,net_income,students_careers_url,pg_rank,website,hq_location
 "Google, LLC","Software,Distributed Systems,Social media,Networking,Artificial Intelligence,Electronics",Public,2008,114096,-1.0,-1,-1,https://careers.google.com/students/,10.0,google.com,Googleplex 1600 Amphitheatre Parkway
 Instagram,Other,Public,-1,-1,-1.0,-1,-1,https://www.instagram.com/about/jobs/,10.0,instagram.com,"Menlo Park, CA"
-Microsoft Corporation,"Software,Consulting,Distributed Systems,Networking,Multimedia,Electronics",Public,1975,0,143000000000.0,53000000000,44300000000,https://careers.microsoft.com/us/en/,8.52,microsoft.com,"Microsoft Redmond campus One Microsoft Way Redmond, Washington"
-International Business Machines Corporation,"Software,Distributed Systems,Artificial Intelligence,Electronics",Public,1911,352600,77140000000.0,13210000000,9430000000,https://www.ibm.com/us-en/employment/entrylevel/,8.11,ibm.com,
+Microsoft Corporation,"Software,Consulting,Distributed Systems,Networking,Multimedia,Electronics",Public,1975,0,143000000000.0,53000000000,44300000000,https://careers.microsoft.com/us/en/,8.52,microsoft.com,"Microsoft Redmond campus One Microsoft Way Redmond, WA"
+International Business Machines Corporation,"Software,Distributed Systems,Artificial Intelligence,Electronics",Public,1911,352600,77140000000.0,13210000000,9430000000,https://www.ibm.com/us-en/employment/entrylevel/,8.11,ibm.com,"Armonk, NY"
 Apple Inc.,"Software,Consulting,Distributed Systems,Artificial Intelligence,Electronics",Public,1976,137000,274515000000.0,66288000000,57411000000,https://www.apple.com/jobs/us/students.html,8.01,apple.com,Apple Park 1 Apple Park Way Cupertino California
-Mozilla Corporation,Software,Private,2005,0,450900000.0,-1,-1,https://careers.mozilla.org/,8.0,mozilla.org,
+Mozilla Corporation,Software,Private,2005,0,450900000.0,-1,-1,https://careers.mozilla.org/,8.0,mozilla.org,"Mountain View, California"
 Adobe Inc.,Software,Public,1982,22635,11170000000.0,3270000000,2950000000,https://www.adobe.com/careers.html,7.88,adobe.com,Adobe World Headquarters
-"Zoom Video Communications, Inc.",Other,Public,-1,2532,622000000.0,-1,21000000,https://zoom.us/about,7.52,zoom.us,
-"salesforce.com, inc.","Software,Distributed Systems",Public,-1,49000,17100000000.0,297000000,126000000,https://www.salesforce.com/company/careers/university-recruiting/,7.49,salesforce.com,
-Tripadvisor Inc.,Travel,Private,-1,4194,1560000000.0,-1,126000000,https://careers.tripadvisor.com/,7.46,tripadvisor.com,
+"Zoom Video Communications, Inc.",Other,Public,-1,2532,622000000.0,-1,21000000,https://zoom.us/about,7.52,zoom.us,"San Jose , CA"
+"salesforce.com, inc.","Software,Distributed Systems",Public,-1,49000,17100000000.0,297000000,126000000,https://www.salesforce.com/company/careers/university-recruiting/,7.49,salesforce.com,"San Francisco, CA"
+Tripadvisor Inc.,Travel,Private,-1,4194,1560000000.0,-1,126000000,https://careers.tripadvisor.com/,7.46,tripadvisor.com,"Needham, MA"
 "Slack Technologies, Inc.","Networking,Multimedia",Public,-1,1664,401000000.0,-1,141000000,https://slack.com/careers,7.31,slack.com,"San Francisco, CA"
-Overcast Media Inc.,Other,Private,-1,-1,-1.0,-1,-1,https://overcast.fm/,7.3,overcast.fm,
-Automattic Inc.,Networking,Private,-1,1273,-1.0,-1,-1,https://automattic.com/work-with-us/,7.29,automattic.com,
+Overcast Media Inc.,Other,Private,-1,-1,-1.0,-1,-1,https://overcast.fm/,7.3,overcast.fm,"Dublin, Ireland"
+Automattic Inc.,Networking,Private,-1,1273,-1.0,-1,-1,https://automattic.com/work-with-us/,7.29,automattic.com,"San Francisco, CA"
 Oracle Corporation,"Software,Distributed Systems,Electronics",Public,-1,135000,39070000000.0,13890000000,-1,https://www.oracle.com/corporate/careers/,7.28,oracle.com,"Redwood City, CA"
-NewsBlur,Software,Private,-1,-1,-1.0,-1,-1,https://newsblur.com/,7.27,newsblur.com,
-"HubSpot, Inc.",Software,Public,-1,3387,674900000.0,40100000,63830000,https://www.hubspot.com/careers/students,7.25,hubspot.com,
-Pluralsight,Software,Public,-1,1700,-1.0,-1,-1,https://www.pluralsight.com/careers,7.22,pluralsight.com,
+NewsBlur,Software,Private,-1,-1,-1.0,-1,-1,https://newsblur.com/,7.27,newsblur.com,"New York City and San Francisco, United States"
+"HubSpot, Inc.",Software,Public,-1,3387,674900000.0,40100000,63830000,https://www.hubspot.com/careers/students,7.25,hubspot.com,"Cambridge, MA"
+Pluralsight,Software,Public,-1,1700,-1.0,-1,-1,https://www.pluralsight.com/careers,7.22,pluralsight.com,"Draper, UT"
 "Netflix, Inc.","Software,Multimedia",Public,-1,8600,20156000000.0,2604000000,1866000000,https://jobs.netflix.com/,7.14,netflix.com,"Los Gatos, CA"
 WhatsApp,Other,Public,-1,-1,-1.0,-1,-1,https://www.facebook.com/careers/areas-of-work/whatsapp/,7.08,whatsapp.com,"Menlo Park, CA"
-SuccessFactors Inc.,Software,Private,-1,1447,-1.0,-1,-1,https://www.sap.com/about/careers.html,6.87,sap.com,
-Intel Corporation,Electronics,Public,1968,110800,71900000000.0,22000000000,-1,https://jobs.intel.com/,6.83,intel.com,
-"Dell Software, Inc.",Other,Public,-1,-1,-1.0,-1,-1,https://jobs.dell.com/students,6.81,dell.com,
+SuccessFactors Inc.,Software,Private,-1,1447,-1.0,-1,-1,https://www.sap.com/about/careers.html,6.87,sap.com,"Walldorf, Germany"
+Intel Corporation,Electronics,Public,1968,110800,71900000000.0,22000000000,-1,https://jobs.intel.com/,6.83,intel.com,"Santa Clara, CA"
+"Dell Software, Inc.",Other,Public,-1,-1,-1.0,-1,-1,https://jobs.dell.com/students,6.81,dell.com,"Round Rock, TX"
 "JotForm, Inc.",Software,Private,2006,250,-1.0,-1,-1,https://www.jotform.com/form-templates/gnhs-work-study,6.77,jotform.com,"San Francisco, California"
-Oculus,Other,Public,-1,-1,-1.0,-1,-1,https://www.oculus.com/careers/,6.76,oculus.com,
+Oculus,Other,Public,-1,-1,-1.0,-1,-1,https://www.oculus.com/careers/,6.76,oculus.com,"Menlo Park, CA"
 VMware Inc.,Software,Public,1998,31000,8970000000.0,2050000000,2420000000,https://careers.vmware.com/,6.75,vmware.com,"Palo Alto, California, United States"
-McAfee Corp.,Software,Public,-1,6768,2600000000.0,-1,-1,https://careers.mcafee.com/,6.74,mcafee.com,
-HP Inc.,"Software,Electronics",Public,2015,56000,58330000000.0,3800000000,3150000000,https://jobs.hp.com/en-us/Students-Graduates,6.71,hp.com,
-Zendesk,Other,Public,-1,3570,816000000.0,-1,-1,https://jobs.zendesk.com/us/en,6.71,zendesk.com,
-"Tableau Software, Inc.",Software,Private,-1,4181,1200000000.0,-1,-1,https://www.tableau.com/about/careers,6.64,tableau.com,
-"Autodesk, Inc.",Software,Public,-1,10300,3270000000.0,343000000,214500000,https://www.autodesk.com/careers,6.6,autodesk.com,
-Cvent,"Software,Artificial Intelligence",Private,-1,3600,-1.0,-1,-1,https://www.cvent.com/en/careers,6.59,cvent.com,
-Check Point Software Technologies Ltd.,"Software,Consulting,Electronics,Security",Public,-1,5200,1995000000.0,882000000,826000000,https://careers.checkpoint.com/index.php?m=careers&a=jobs&country_code=BE,6.59,checkpoint.com,
-Cisco Webex,"Software,Networking,Multimedia",Public,-1,10000,380000000.0,-1,-1,https://www.cisco.com/c/en/us/about/careers/working-at-cisco/students-and-new-graduate-programs.html,6.58,webex.com,
-SendGrid,Software,Private,-1,-1,111900000.0,-1,-1,https://sendgrid.com/careers/interns-new-grads/,6.55,sendgrid.com,
-"Dynatrace, Inc.","Software,Consulting,Data Analytics",Public,2005,2200,-1.0,-1,-1,https://www.dynatrace.com/company/careers/,6.54,dynatrace.com,
-"New Relic, Inc.",Other,Public,-1,-1,599500000.0,-1,-1,https://newrelic.com/about/careers,6.54,newrelic.com,
-"Red Hat, Inc.",Software,Private,1993,13400,3400000000.0,512000000,434000000,https://www.redhat.com/en/jobs,6.52,redhat.com,
-Wrike,Other,Private,-1,-1,-1.0,-1,-1,https://www.wrike.com/careers/,6.52,wrike.com,
-Cloudinary,Software,Private,-1,200,-1.0,-1,-1,https://cloudinary.com/jobs,6.51,cloudinary.com,
+McAfee Corp.,Software,Public,-1,6768,2600000000.0,-1,-1,https://careers.mcafee.com/,6.74,mcafee.com,"San Jose, CA"
+HP Inc.,"Software,Electronics",Public,2015,56000,58330000000.0,3800000000,3150000000,https://jobs.hp.com/en-us/Students-Graduates,6.71,hp.com,"Palo Alto, CA"
+Zendesk,Other,Public,-1,3570,816000000.0,-1,-1,https://jobs.zendesk.com/us/en,6.71,zendesk.com,"San Francisco, CA"
+"Tableau Software, Inc.",Software,Private,-1,4181,1200000000.0,-1,-1,https://www.tableau.com/about/careers,6.64,tableau.com,"Seattle, WA"
+"Autodesk, Inc.",Software,Public,-1,10300,3270000000.0,343000000,214500000,https://www.autodesk.com/careers,6.6,autodesk.com,"San Rafael, CA"
+Cvent,"Software,Artificial Intelligence",Private,-1,3600,-1.0,-1,-1,https://www.cvent.com/en/careers,6.59,cvent.com,"McLean, VA"
+Check Point Software Technologies Ltd.,"Software,Consulting,Electronics,Security",Public,-1,5200,1995000000.0,882000000,826000000,https://careers.checkpoint.com/index.php?m=careers&a=jobs&country_code=BE,6.59,checkpoint.com,"San Carlos, CA"
+Cisco Webex,"Software,Networking,Multimedia",Public,-1,10000,380000000.0,-1,-1,https://www.cisco.com/c/en/us/about/careers/working-at-cisco/students-and-new-graduate-programs.html,6.58,webex.com,"San Jose, CA"
+SendGrid,Software,Private,-1,-1,111900000.0,-1,-1,https://sendgrid.com/careers/interns-new-grads/,6.55,sendgrid.com,"Denver, CO"
+"Dynatrace, Inc.","Software,Consulting,Data Analytics",Public,2005,2200,-1.0,-1,-1,https://www.dynatrace.com/company/careers/,6.54,dynatrace.com,"Waltham, MA"
+"New Relic, Inc.",Other,Public,-1,-1,599500000.0,-1,-1,https://newrelic.com/about/careers,6.54,newrelic.com,"San Francisco, CA"
+"Red Hat, Inc.",Software,Private,1993,13400,3400000000.0,512000000,434000000,https://www.redhat.com/en/jobs,6.52,redhat.com,"Raleigh, NC"
+Wrike,Other,Private,-1,-1,-1.0,-1,-1,https://www.wrike.com/careers/,6.52,wrike.com,"San Jose, CA"
+Cloudinary,Software,Private,-1,200,-1.0,-1,-1,https://cloudinary.com/jobs,6.51,cloudinary.com,"Santa Clara, CA"
 Siemens PLM Software,Software,Private,-1,7600,-1.0,-1,-1,https://jobs.siemens.com/disw/jobs,6.51,siemens.com,
-"DocuSign, Inc.",Other,Public,-1,3909,974000000.0,-1,-1,https://www.docusign.com/company/careers,6.51,docusign.com,
+"DocuSign, Inc.",Other,Public,-1,3909,974000000.0,-1,-1,https://www.docusign.com/company/careers,6.51,docusign.com,"San Francisco, CA"
 SAS Institute Inc.,Software,Private,-1,13939,3100000000.0,-1,-1,https://www.sas.com/en_us/careers.html,6.5,sas.com,
 Sony Corporation of America,Multimedia,Public,1960,114400,-1.0,-1,-1,https://www.sonyjobs.com/internships.html,6.49,sony.com,Madison Avenue
-GE Automation & Controls,Automobiles,Public,-1,-1,-1.0,-1,-1,https://jobs.gecareers.com/global/en,6.48,ge.com,
-Janrain,Other,Private,-1,120,14300000.0,-1,-1,https://www.akamai.com/us/en/about/careers/,6.47,akamai.com,
-JW Player,Other,Private,2005,-1,-1.0,-1,-1,https://www.jwplayer.com/careers/,6.47,jwplayer.com,
-Splunk Inc.,Other,Public,-1,0,2360000000.0,287140000,336000000,https://www.splunk.com/en_us/careers/university-recruiting.html,6.47,splunk.com,
-"Ripple Labs, Inc.",Software,Private,-1,548,-1.0,-1,-1,https://ripple.com/company/careers/all-jobs/,6.46,ripple.com,
-Pipedrive,Software,Private,-1,600,-1.0,-1,-1,https://www.pipedrive.com/en/jobs,6.45,pipedrive.com,
-Nuance Communications,Software,Private,-1,8200,1949000000.0,139000000,13000000,https://www.nuance.com/about-us/careers.html,6.45,nuance.com,
-Zend Technologies Ltd.,Software,Private,-1,-1,-1.0,-1,-1,https://www.perforce.com/careers,6.45,zend.com,
-Venmo,Other,Private,-1,-1,-1.0,-1,-1,https://venmo.com/about/jobs/,6.45,venmo.com,
+GE Automation & Controls,Automobiles,Public,-1,-1,-1.0,-1,-1,https://jobs.gecareers.com/global/en,6.48,ge.com,"Boston, MA"
+Janrain,Other,Private,-1,120,14300000.0,-1,-1,https://www.akamai.com/us/en/about/careers/,6.47,akamai.com,"Cambridge, MA"
+JW Player,Other,Private,2005,-1,-1.0,-1,-1,https://www.jwplayer.com/careers/,6.47,jwplayer.com,New York
+Splunk Inc.,Other,Public,-1,0,2360000000.0,287140000,336000000,https://www.splunk.com/en_us/careers/university-recruiting.html,6.47,splunk.com,"San Francisco, CA"
+"Ripple Labs, Inc.",Software,Private,-1,548,-1.0,-1,-1,https://ripple.com/company/careers/all-jobs/,6.46,ripple.com,"San Francisco, CA"
+Pipedrive,Software,Private,-1,600,-1.0,-1,-1,https://www.pipedrive.com/en/jobs,6.45,pipedrive.com,New York
+Nuance Communications,Software,Private,-1,8200,1949000000.0,139000000,13000000,https://www.nuance.com/about-us/careers.html,6.45,nuance.com,"Burlington, MA"
+Zend Technologies Ltd.,Software,Private,-1,-1,-1.0,-1,-1,https://www.perforce.com/careers,6.45,zend.com,"Cupertino, CA"
+Venmo,Other,Private,-1,-1,-1.0,-1,-1,https://venmo.com/about/jobs/,6.45,venmo.com,New York
 Telerik,Software,Private,2002,-1,-1.0,-1,-1,https://www.telerik.com/campaigns/devcraft/student-license,6.43,telerik.com,
-Qualtrics International Inc.,Other,Private,-1,3000,-1.0,-1,-1,https://www.qualtrics.com/careers/,6.41,qualtrics.com,
-Malwarebytes Inc.,"Software,Consulting,Security",Private,2008,800,-1.0,-1,-1,https://jobs.malwarebytes.com/,6.4,malwarebytes.com,
+Qualtrics International Inc.,Other,Private,-1,3000,-1.0,-1,-1,https://www.qualtrics.com/careers/,6.41,qualtrics.com,"Provo, UT"
+Malwarebytes Inc.,"Software,Consulting,Security",Private,2008,800,-1.0,-1,-1,https://jobs.malwarebytes.com/,6.4,malwarebytes.com,"Santa Clara, CA"
 Seagate Technology PLC,"Software,Database",Public,-1,41000,10358000000.0,1054000000,1092000000,https://www.seagate.com/jobs/university-programs/,6.4,seagate.com,"Cupertino, California Dublin Ireland"
-Pantheon,Software,Private,-1,100,-1.0,-1,-1,https://pantheon.io/careers,6.38,pantheon.io,
-"Citrix Systems, Inc.","Software,Distributed Systems",Public,-1,8200,3010000000.0,629450000,575670000,https://jobs.citrix.com/,6.38,citrix.com,
-Smartsheet Inc.,Other,Public,2006,1588,-1.0,-1,-1,https://www.smartsheet.com/careers,6.38,smartsheet.com,
-"Clover Network, Inc.",Other,Private,2012,200,-1.0,-1,-1,https://careers.clover.com/,6.35,clover.com,
-Punchbowl.com,"Software,Consulting,Networking",Private,-1,-1,-1.0,-1,-1,https://www.punchbowlboyshighschoolcareers.com/,6.35,punchbowl.com,
-"The MathWorks, Inc.",Software,Private,-1,5000,1050000000.0,-1,-1,https://www.mathworks.com/company/jobs/students.html,6.35,mathworks.com,
-"G2 Crowd, Inc.","Software,Networking",Private,-1,360,-1.0,-1,-1,https://culture.g2.com/careers,6.35,g2.com,
-Data Domain Corporation,Other,Private,-1,-1,-1.0,-1,-1,https://jobs.dell.com/students,6.35,emc.com,
+Pantheon,Software,Private,-1,100,-1.0,-1,-1,https://pantheon.io/careers,6.38,pantheon.io,"San Francisco, CA"
+"Citrix Systems, Inc.","Software,Distributed Systems",Public,-1,8200,3010000000.0,629450000,575670000,https://jobs.citrix.com/,6.38,citrix.com,"Fort Lauderdale, FL"
+Smartsheet Inc.,Other,Public,2006,1588,-1.0,-1,-1,https://www.smartsheet.com/careers,6.38,smartsheet.com,"Bellevue, WA"
+"Clover Network, Inc.",Other,Private,2012,200,-1.0,-1,-1,https://careers.clover.com/,6.35,clover.com,"Sunnyvale, CA"
+Punchbowl.com,"Software,Consulting,Networking",Private,-1,-1,-1.0,-1,-1,https://www.punchbowlboyshighschoolcareers.com/,6.35,punchbowl.com,"Framingham, Massachusetts"
+"The MathWorks, Inc.",Software,Private,-1,5000,1050000000.0,-1,-1,https://www.mathworks.com/company/jobs/students.html,6.35,mathworks.com,"Natick, MA"
+"G2 Crowd, Inc.","Software,Networking",Private,-1,360,-1.0,-1,-1,https://culture.g2.com/careers,6.35,g2.com,"Chicago, Illinois"
+Data Domain Corporation,Other,Private,-1,-1,-1.0,-1,-1,https://jobs.dell.com/students,6.35,emc.com,"Hopkinton, MA"
 Panic Inc.,"Software,Multimedia",Private,-1,-1,-1.0,-1,-1,https://panic.com/jobs/,6.33,panic.com,
-"Brightcove, Inc.","Networking,Multimedia",Public,-1,-1,-1.0,-1,-1,https://www.brightcove.com/en/company/careers,6.33,brightcove.com,
-"LivePerson, Inc.",Networking,Private,-1,1341,291600000.0,-1,-1,https://www.liveperson.com/company/careers/,6.33,liveperson.com,
-Calm (company),Other,Private,2012,0,-1.0,-1,-1,https://boards.greenhouse.io/calm,6.32,calm.com,
-Magento,Other,Private,-1,-1,-1.0,-1,-1,https://www.adobe.com/careers.html,6.32,magento.com,
-"Wolfram Research, Inc.",Software,Private,-1,700,-1.0,-1,-1,https://www.wolfram.com/company/careers/,6.31,wolfram.com,
-Mindbody Inc.,Software,Private,2001,1350,139000000.0,21300000,-1,https://company.mindbodyonline.com/careers,6.28,mindbodyonline.com,
-Brainshark,Other,Private,-1,-1,-1.0,-1,-1,https://www.brainshark.com/company/careers,6.25,brainshark.com,
-"Juniper Networks, Inc.","Networking,Electronics",Public,-1,9400,4410000000.0,848000000,-1,https://careers.juniper.net/,6.24,juniper.net,
-Kagoor Networks,"Software,Consulting,Electronics,Security",Private,-1,-1,-1.0,-1,-1,https://www.db.com/careers/en/grad/index.html,6.24,juniper.net,
-CA Wily Technology,Other,Private,-1,-1,-1.0,-1,-1,https://www.broadcom.com/company/careers,6.24,https://www.broadcom.com/products/software/aiops/application-performance-management,
-"Medallia, Inc.",Other,Public,-1,1500,-1.0,-1,-1,https://www.medallia.com/careers/,6.22,medallia.com,
-"OverDrive, Inc.","Software,Consulting",Private,-1,-1,-1.0,-1,-1,https://company.overdrive.com/careers/,6.21,overdrive.com,
-"Docker, Inc.",Software,Private,-1,-1,-1.0,-1,-1,https://www.docker.com/careers,6.21,docker.com,
-Synopsys,"Software,Consulting,Security",Public,-1,400,-1.0,-1,-1,https://www.synopsys.com/company/synopsys-careers.html,6.2,synopsys.com,
+"Brightcove, Inc.","Networking,Multimedia",Public,-1,-1,-1.0,-1,-1,https://www.brightcove.com/en/company/careers,6.33,brightcove.com,"Boston, MA"
+"LivePerson, Inc.",Networking,Private,-1,1341,291600000.0,-1,-1,https://www.liveperson.com/company/careers/,6.33,liveperson.com,"New York, NY"
+Calm (company),Other,Private,2012,0,-1.0,-1,-1,https://boards.greenhouse.io/calm,6.32,calm.com,"San Francisco, CA"
+Magento,Other,Private,-1,-1,-1.0,-1,-1,https://www.adobe.com/careers.html,6.32,magento.com,"San Jose, CA"
+"Wolfram Research, Inc.",Software,Private,-1,700,-1.0,-1,-1,https://www.wolfram.com/company/careers/,6.31,wolfram.com,"Champaign, IL"
+Mindbody Inc.,Software,Private,2001,1350,139000000.0,21300000,-1,https://company.mindbodyonline.com/careers,6.28,mindbodyonline.com,"San Luis Obispo, CA"
+Brainshark,Other,Private,-1,-1,-1.0,-1,-1,https://www.brainshark.com/company/careers,6.25,brainshark.com,"Waltham, MA"
+"Juniper Networks, Inc.","Networking,Electronics",Public,-1,9400,4410000000.0,848000000,-1,https://careers.juniper.net/,6.24,juniper.net,"Sunnyvale, CA"
+Kagoor Networks,"Software,Consulting,Electronics,Security",Private,-1,-1,-1.0,-1,-1,https://www.db.com/careers/en/grad/index.html,6.24,juniper.net,"Sunnyvale, CA"
+CA Wily Technology,Other,Private,-1,-1,-1.0,-1,-1,https://www.broadcom.com/company/careers,6.24,https://www.broadcom.com/products/software/aiops/application-performance-management,"San Jose, CA"
+"Medallia, Inc.",Other,Public,-1,1500,-1.0,-1,-1,https://www.medallia.com/careers/,6.22,medallia.com,"San Francisco, CA"
+"OverDrive, Inc.","Software,Consulting",Private,-1,-1,-1.0,-1,-1,https://company.overdrive.com/careers/,6.21,overdrive.com,"Cleveland, OH"
+"Docker, Inc.",Software,Private,-1,-1,-1.0,-1,-1,https://www.docker.com/careers,6.21,docker.com,"Palo Alto, CA"
+Synopsys,"Software,Consulting,Security",Public,-1,400,-1.0,-1,-1,https://www.synopsys.com/company/synopsys-careers.html,6.2,synopsys.com,"Mountain View, CA"
 Dassault Systems,"Software,Aviation,Automobiles",Private,-1,700,155000000.0,-1,-1,https://careers.3ds.com/,6.2,3ds.com,
-Remember The Milk Inc.,Other,Private,-1,-1,-1.0,-1,-1,https://www.rememberthemilk.com/about/jobs.rtm,6.2,rememberthemilk.com,
-"ThoughtWorks, Inc.",Software,Private,-1,7000,-1.0,-1,-1,https://www.thoughtworks.com/careers/graduates,6.19,thoughtworks.com,
-Expensify,Software,Private,-1,-1,-1.0,-1,-1,https://we.are.expensify.com/,6.19,expensify.com,
-"eFileCabinet, Inc.",Software,Private,-1,-1,-1.0,-1,-1,https://www.efilecabinet.com/careers/,6.19,efilecabinet.com,
-Intuit Inc.,Software,Public,-1,9400,6784000000.0,1854000000,1557000000,https://www.intuit.com/careers/programs/students-and-grads/,6.18,intuit.com,
+Remember The Milk Inc.,Other,Private,-1,-1,-1.0,-1,-1,https://www.rememberthemilk.com/about/jobs.rtm,6.2,rememberthemilk.com,"San Francisco, CA
+"ThoughtWorks, Inc.",Software,Private,-1,7000,-1.0,-1,-1,https://www.thoughtworks.com/careers/graduates,6.19,thoughtworks.com,"Chicago, IL"
+Expensify,Software,Private,-1,-1,-1.0,-1,-1,https://we.are.expensify.com/,6.19,expensify.com,"San Francisco, CA"
+"eFileCabinet, Inc.",Software,Private,-1,-1,-1.0,-1,-1,https://www.efilecabinet.com/careers/,6.19,efilecabinet.com,"Lehi, Utah"
+Intuit Inc.,Software,Public,-1,9400,6784000000.0,1854000000,1557000000,https://www.intuit.com/careers/programs/students-and-grads/,6.18,intuit.com,"Mountain View, CA"
 "Bentley Systems, Inc.",Software,Public,-1,3800,700000000.0,-1,-1,https://www.bentley.com/en/about-us/careers,6.18,bentley.com,
-"Instructure, Inc.",Software,Private,-1,1291,209500000.0,-1,-1,https://www.instructure.com/about/careers,6.17,instructure.com,
+"Instructure, Inc.",Software,Private,-1,1291,209500000.0,-1,-1,https://www.instructure.com/about/careers,6.17,instructure.com,"Salt Lake City, UT"
 Micro Focus Enterprise Security,"Software,Consulting,Security",Private,-1,-1,-1.0,-1,-1,https://jobs.microfocus.com/,6.15,microfocus.com,
-"Fastly, Inc.",Networking,Private,-1,700,-1.0,-1,-1,https://www.fastly.com/about/careers,6.15,fastly.com,
-TIBCO Software Inc.,Software,Private,-1,4200,1000000000.0,-1,-1,https://www.tibco.com/careers/university-program,6.14,tibco.com,
-"Fortinet, Inc.","Software,Consulting,Networking,Security",Public,-1,6015,2160000000.0,109804000,31399000,https://www.fortinet.com/corporate/careers,6.14,fortinet.com,
-RSA Security LLC,"Consulting,Networking,Security",Private,-1,2700,-1.0,-1,-1,https://jobs.rsa.com/students,6.14,rsa.com,
-"Marketo, Inc.",Software,Private,-1,-1,-1.0,-1,-1,https://www.marketo.com/education/,6.14,marketo.com,
-"Gigya, Inc.",Consulting,Private,-1,280,-1.0,-1,-1,https://www.sap.com/about/careers.html,6.14,gigya.com,
-Looker,Software,Private,-1,500,-1.0,-1,-1,https://looker.com/blog/interns-of-looker,6.14,looker.com,
-Doximity Inc.,Networking,Private,-1,-1,-1.0,-1,-1,https://workat.doximity.com/positions/,6.13,doximity.com,
+"Fastly, Inc.",Networking,Private,-1,700,-1.0,-1,-1,https://www.fastly.com/about/careers,6.15,fastly.com,"San Francisco, CA"
+TIBCO Software Inc.,Software,Private,-1,4200,1000000000.0,-1,-1,https://www.tibco.com/careers/university-program,6.14,tibco.com,"Palo Alto, CA"
+"Fortinet, Inc.","Software,Consulting,Networking,Security",Public,-1,6015,2160000000.0,109804000,31399000,https://www.fortinet.com/corporate/careers,6.14,fortinet.com,"Sunnyvale, CA"
+RSA Security LLC,"Consulting,Networking,Security",Private,-1,2700,-1.0,-1,-1,https://jobs.rsa.com/students,6.14,rsa.com,"Bedford, MA"
+"Marketo, Inc.",Software,Private,-1,-1,-1.0,-1,-1,https://www.marketo.com/education/,6.14,marketo.com,"San Mateo, CA"
+"Gigya, Inc.",Consulting,Private,-1,280,-1.0,-1,-1,https://www.sap.com/about/careers.html,6.14,gigya.com,"Palo Alto, CA"
+Looker,Software,Private,-1,500,-1.0,-1,-1,https://looker.com/blog/interns-of-looker,6.14,looker.com,"Santa Cruz, CA"
+Doximity Inc.,Networking,Private,-1,-1,-1.0,-1,-1,https://workat.doximity.com/positions/,6.13,doximity.com,"San Francisco, CA"
 Blockstream,Software,Private,-1,50,-1.0,-1,-1,https://blockstream.com/careers/,6.12,blockstream.com,
-Zoom Information Inc.,Software,Public,2007,1200,350000000.0,-1,-1,https://www.zoominfo.com/about/careers,6.11,zoominfo.com,
-"RealNetworks, Inc.",Software,Public,-1,1060,-1.0,-1,-1,https://www.realnetworks.com/careers,6.11,realnetworks.com,
-Snagajob,Networking,Private,-1,-1,-1.0,-1,-1,https://www.snagajob.com/student-jobs/,6.1,snagajob.com,
+Zoom Information Inc.,Software,Public,2007,1200,350000000.0,-1,-1,https://www.zoominfo.com/about/careers,6.11,zoominfo.com,"Waltham, MA"
+"RealNetworks, Inc.",Software,Public,-1,1060,-1.0,-1,-1,https://www.realnetworks.com/careers,6.11,realnetworks.com,"Seattle, WA"
+Snagajob,Networking,Private,-1,-1,-1.0,-1,-1,https://www.snagajob.com/student-jobs/,6.1,snagajob.com,"Glen Allen, VA"
 "RetailMeNot, Inc.",Networking,Private,-1,500,249100000.0,-1,-1,https://www.retailmenot.com/corp/careers-engineering/,6.1,retailmenot.com,
 Rosetta Stone Inc.,Software,Public,-1,1375,264600000.0,18400000,16100000,https://www.rosettastone.com/careers/,6.09,rosettastone.com,
 Progress Software,Software,Public,-1,1500,397600000.0,-1,-1,https://www.progress.com/company/careers,6.09,progress.com,
