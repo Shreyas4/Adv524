@@ -304,7 +304,7 @@ var filtersConfig = {
   mark_active_columns: true,
   highlight_keywords: true,
   no_results_message: true,
-  columns_exact_match: [true, false, true, true, true, true, true, true,true,true,true],	
+  columns_exact_match: [true, false, false, true, true, true, true, true,true,true,true],	
   ignore_diacritics: true,	
   watermark: [	
     "plain Query",	
