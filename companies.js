@@ -235,7 +235,7 @@ function filterindustry(colindex, elestring) {
   var query = "";	
   if (colindex === 1 || colindex === 2) {	
     for (i = 0; i < spanList.length; i++) {	
-      if (spanList[i].children[0].children[0].checked == true)	
+      if (spanList[i].nodeName != 'DIV' && spanList[i].children[0].children[0].checked == true)	
         values.push(spanList[i].children[0].textContent);	
     }	
     for (i = 0; i < values.length; i++) {	
