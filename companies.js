@@ -19,7 +19,7 @@ function myfilters(ele, bele) {
     (input1 > 0 ? input1 : -1) +
     " && <=" +
     (input2 > 0 ? input2 : 100000);
-  alert(query);
+  
 
   // Set the column's filter value
   //tf.init();
@@ -38,7 +38,7 @@ function myfilter(ele, bele) {
     (input1 > 0 ? input1 : -1) +
     " && <=" +
     (input2 > 0 ? input2 : 100000);
-  alert(query);
+  
 
   // Set the column's filter value
   //tf.init();
@@ -58,7 +58,6 @@ function filters(ele, bele) {
     (input1 > 0 ? input1 : -1) +
     " && <=" +
     (input2 > 0 ? input2 : 100000);
-  alert(query);
 
   // Set the column's filter value
   //tf.init();
@@ -78,7 +77,6 @@ function my(ele, bele) {
     (input1 > 0 ? input1 : -1) +
     " && <=" +
     (input2 > 0 ? input2 : 100000);
-  alert(query);
 
   // Set the column's filter value
   //tf.init();
@@ -98,7 +96,6 @@ function myfilters1(ele, bele) {
     (input1 > 0 ? input1 : -1) +
     " && <=" +
     (input2 > 0 ? input2 : 100000);
-  alert(query);
 
   // Set the column's filter value
   //tf.init();
@@ -118,7 +115,6 @@ function myfilters(ele, bele) {
     (input1 > 0 ? input1 : -1) +
     " && <=" +
     (input2 > 0 ? input2 : 100000);
-  alert(query);
 
   // Set the column's filter value
   //tf.init();
@@ -137,7 +133,6 @@ function MinMax(colIndex, minElementString, maxElementString) {
     (minValue.value.length > 0 ? minValue.value : -1) +	
     " && <=" +	
     (maxValue.value.length > 0 ? maxValue.value : 100000);	
-  alert(query);	
   // Set the column's filter value	
   //tf.init();	
   tf.setFilterValue(colIndex, query);	
@@ -154,7 +149,6 @@ function filterMin() {
     (minValue.value.length > 0 ? minValue.value : -1) +
     " && <=" +
     (maxValue.value.length > 0 ? maxValue.value : 100000);
-  alert(query);
 
   // Set the column's filter value
   //tf.init();
@@ -174,7 +168,6 @@ function filterMax() {
     (minValue.value.length > 0 ? minValue.value : -1) +
     " && <=" +
     (maxValue.value.length > 0 ? maxValue.value : 100000);
-  alert(query);
 
   // Set the column's filter value
   //tf.init();
@@ -194,7 +187,6 @@ function filter() {
     (minValue.value.length > 0 ? minValue.value : -1) +
     " && <=" +
     (maxValue.value.length > 0 ? maxValue.value : 100000);
-  alert(query);
 
   // Set the column's filter value
   //tf.init();
@@ -214,7 +206,6 @@ function MinMax() {
     (minValue.value.length > 0 ? minValue.value : -1) +
     " && <=" +
     (maxValue.value.length > 0 ? maxValue.value : 100000);
-  alert(query);
 
   // Set the column's filter value
   //tf.init();
@@ -226,9 +217,7 @@ function MinMax() {
 }
 
 function filterindustry(colindex, elestring) {	
-  alert(elestring);	
   var listOfElements = document.getElementById(elestring);	
-  alert(elestring);	
   var spanList = listOfElements.children;	
   var i = 0;	
   var values = [];	
@@ -242,7 +231,6 @@ function filterindustry(colindex, elestring) {
       if (i == 0) query = values[i];	
       else query = query + " || " + values[i];	
     }	
-    alert(query);	
     tf.setFilterValue(colindex, query);	
     tf.filter();	
   } else if (colindex == 3) {	
