@@ -1,15 +1,6 @@
 var set4 = new Set();
 var set5 = new Set();
 
-function openNav() {
-  document.getElementById("mySidebar").style.width = "250px";
-  document.getElementById("main").style.marginLeft = "250px";
-}
-
-function closeNav() {
-  document.getElementById("mySidebar").style.width = "0";
-  document.getElementById("main").style.marginLeft = "0";
-}
 function myfilters(ele, bele) {
   var input1 = ele;
   var input2 = bele;
@@ -19,37 +10,16 @@ function myfilters(ele, bele) {
     (input1 > 0 ? input1 : -1) +
     " && <=" +
     (input2 > 0 ? input2 : 100000);
-  
 
   // Set the column's filter value
   //tf.init();
-  tf.setFilterValue("8", query);
+  tf.setFilterValue("7", query);
 
   tf.filter();
   //evt.preventDefault();
 }
 
 function myfilter(ele, bele) {
-  var input1 = ele;
-  var input2 = bele;
-
-  var query =
-    ">=" +
-    (input1 > 0 ? input1 : -1) +
-    " && <=" +
-    (input2 > 0 ? input2 : 100000);
-  
-
-  // Set the column's filter value
-  //tf.init();
-  tf.setFilterValue("4", query);
-
-  tf.filter();
-
-  //evt.preventDefault();
-}
-
-function filters(ele, bele) {
   var input1 = ele;
   var input2 = bele;
 
@@ -68,7 +38,7 @@ function filters(ele, bele) {
   //evt.preventDefault();
 }
 
-function my(ele, bele) {
+function filters(ele, bele) {
   var input1 = ele;
   var input2 = bele;
 
@@ -87,7 +57,7 @@ function my(ele, bele) {
   //evt.preventDefault();
 }
 
-function myfilters1(ele, bele) {
+function my(ele, bele) {
   var input1 = ele;
   var input2 = bele;
 
@@ -106,38 +76,19 @@ function myfilters1(ele, bele) {
   //evt.preventDefault();
 }
 
-function myfilters(ele, bele) {
-  var input1 = ele;
-  var input2 = bele;
-
+function MinMax(colIndex, minElementString, maxElementString) {
+  var minValue = document.getElementById(minElementString);
+  var maxValue = document.getElementById(maxElementString);
   var query =
     ">=" +
-    (input1 > 0 ? input1 : -1) +
+    (minValue.value.length > 0 ? minValue.value : -1) +
     " && <=" +
-    (input2 > 0 ? input2 : 100000);
-
+    (maxValue.value.length > 0 ? maxValue.value : 100000);
   // Set the column's filter value
   //tf.init();
-  tf.setFilterValue("8", query);
-
+  tf.setFilterValue(colIndex, query);
   tf.filter();
-
   //evt.preventDefault();
-}
-
-function MinMax(colIndex, minElementString, maxElementString) {	
-  var minValue = document.getElementById(minElementString);	
-  var maxValue = document.getElementById(maxElementString);	
-  var query =	
-    ">=" +	
-    (minValue.value.length > 0 ? minValue.value : -1) +	
-    " && <=" +	
-    (maxValue.value.length > 0 ? maxValue.value : 100000);	
-  // Set the column's filter value	
-  //tf.init();	
-  tf.setFilterValue(colIndex, query);	
-  tf.filter();	
-  //evt.preventDefault();	
 }
 
 function filterMin() {
@@ -152,7 +103,7 @@ function filterMin() {
 
   // Set the column's filter value
   //tf.init();
-  tf.setFilterValue("4", query);
+  tf.setFilterValue("5", query);
 
   tf.filter();
 
@@ -197,45 +148,29 @@ function filter() {
   //evt.preventDefault();
 }
 
-function MinMax() {
-  var minValue = document.getElementById("myInput10");
-  var maxValue = document.getElementById("myInput11");
-
-  var query =
-    ">=" +
-    (minValue.value.length > 0 ? minValue.value : -1) +
-    " && <=" +
-    (maxValue.value.length > 0 ? maxValue.value : 100000);
-
-  // Set the column's filter value
-  //tf.init();
-  tf.setFilterValue("7", query);
-
-  tf.filter();
-
-  //evt.preventDefault();
-}
-
-function filterindustry(colindex, elestring) {	
-  var listOfElements = document.getElementById(elestring);	
-  var spanList = listOfElements.children;	
-  var i = 0;	
-  var values = [];	
-  var query = "";	
-  if (colindex === 1 || colindex === 2) {	
-    for (i = 0; i < spanList.length; i++) {	
-      if (spanList[i].nodeName != 'DIV' && spanList[i].children[0].children[0].checked == true)	
-        values.push(spanList[i].children[0].textContent);	
-    }	
-    for (i = 0; i < values.length; i++) {	
-      if (i == 0) query = values[i];	
-      else query = query + " || " + values[i];	
-    }	
-    tf.setFilterValue(colindex, query);	
-    tf.filter();	
-  } else if (colindex == 3) {	
-    MinMax(colindex, "myInputMinYear", "myInputMaxYear");	
-  }	
+function filterindustry(colindex, elestring) {
+  var listOfElements = document.getElementById(elestring);
+  var spanList = listOfElements.children;
+  var i = 0;
+  var values = [];
+  var query = "";
+  if (colindex === 2 || colindex === 3) {
+    for (i = 0; i < spanList.length; i++) {
+      if (
+        spanList[i].nodeName != "DIV" &&
+        spanList[i].children[0].children[0].checked == true
+      )
+        values.push(spanList[i].children[0].textContent);
+    }
+    for (i = 0; i < values.length; i++) {
+      if (i == 0) query = values[i];
+      else query = query + " || " + values[i];
+    }
+    tf.setFilterValue(colindex, query);
+    tf.filter();
+  } else if (colindex == 4) {
+    MinMax(colindex, "myInputMinYear", "myInputMaxYear");
+  }
 }
 function myfunction() {
   var input, filter, table, tr, td, i, txtValue;
@@ -267,19 +202,13 @@ $(document).ready(function () {
       [100, 200, 3000, -1],
       [100, 200, 300, "All"]
     ],
-    columnDefs: [
-    { render: function ( data, type, row ) {
-     
-            return parseFloat(data).toFixed(2) ;
-             },
-        targets: [11] } ],
     rowCallback: function (row, data, index) {
-      if (data[4] <= 10000) {
-        $("td", row).addClass("new");
-      } else if (data[4] > 10000 && data[4] <= 50000) {
-        $("td", row).addClass("nice");
-      } else if (data[4] > 50000) {
+      if (data[0] > 0 && data[0] <= 100) {
         $("td", row).addClass("blah");
+      } else if (data[0] > 100 && data[0] <= 500) {
+        $("td", row).addClass("nice");
+      } else if (data[0] > 500) {
+        $("td", row).addClass("new");
       }
     }
   });
@@ -298,51 +227,72 @@ var filtersConfig = {
   },
   alternate_rows: true,
   rows_counter: true,
-  btn_reset: true,
   loader: true,
   status_bar: true,
   mark_active_columns: true,
   highlight_keywords: true,
   no_results_message: true,
-  columns_exact_match: [true, false, false, true, true, true, true, true,true,true,true],	
-  ignore_diacritics: true,	
-  watermark: [	
-    "plain Query",	
-    "plain Query",	
-    "plain Query",
-    "Time",
+  columns_exact_match: [
+    true,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  ignore_diacritics: true,
+  btn_reset: {
+    text: "Clear"
+  },
+  watermark: [
+    "Rank",
+    "Name",
+    "Industry",
+    "Type",
+    "Founded",
     "Emplyoees",
     "Revenue",
-    "Operating Income",
-    "Net Income",
-    "Stock Price",
-    "blah",
-    "Page Rank"
+    "Profit",
+    "URL",
+    "Location"
   ],
-
-  col_0: "none",
-  col_9: "none",
-  col_10: "select",
+  col_0: "select",
+  col_1: "none",
+  col_8: "none",
+  col_9: "select",
   col_types: [
+    "number",
     "string",
     "string",
     "list",
-    "float",
+    "number",
+    "number",
+    "number",
     "number",
     "string",
-    "number"
+    "string"
   ],
-
+  custom_options: {
+    cols: [0],
+    texts: [["1-100", "101 - 500", "500+"]],
+    values: [[">=0 && <=100", ">100 && <=500", ">500"]],
+    sorts: [false]
+  },
   col_widths: [
-    "100px",
-    "200px",
-    "100px",
+    "50px",
+    "180px",
+    "180px",
+    "70px",
+    "70px",
     "80px",
-    "80px",
-    "100px",
-    "100px",
-    "100px",
-    "100px",
+    "90px",
+    "90px",
+    "150px",
     "200px",
     "100px",
     "100px",

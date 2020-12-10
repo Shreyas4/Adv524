@@ -5,19 +5,44 @@ h1 {
   color: white;
   font-size: 60px;
 }
-table {
+p {
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  font-size: 60px;
+}
+table td,
+th {
+  margin-left: auto;
+  margin-right: auto;
   border-collapse: collapse;
   border-spacing: 0;
   width: 100%;
   border: 1px solid #ddd;
   font-family: "Overlock";
+  font-size: "10";
   word-wrap: break-word;
 }
 th,
 td {
-  text-align: left;
   padding: 16px;
 }
+
+tr td:nth-child(2),
+tr td:nth-child(3),
+tr td:nth-child(9) {
+  text-align: left;
+}
+
+tr td:nth-child(1),
+tr td:nth-child(4),
+tr td:nth-child(5),
+tr td:nth-child(6),
+tr td:nth-child(7),
+tr td:nth-child(8) {
+  text-align: center;
+}
+
 tr:nth-child(even) {
   background-color: #f2f2f2;
 }
@@ -47,21 +72,17 @@ td.noob {
   display: flex;
   justify-content: right;
 }
-span {
-  text-align: left;
-}
 label {
   display: block;
 }
 .sidebar {
   height: 100%;
-  width: 50%;
+  width: 230px;
   position: fixed;
   top: 0;
   left: 0;
   background-color: #5cdb95;
   overflow-x: hidden;
-  transition: 0.5s;
   display: block;
 }
 
@@ -72,18 +93,21 @@ label {
   transition: 0.5s;
   cursor: pointer;
 }
-
 .sidebar .closebtn {
   position: absolute;
   top: 0;
   right: 40px;
   font-size: 36px;
 }
-
-.openbtn {
-  font-size: 24px;
-  cursor: pointer;
-  background-color: #5cdb95;
+#main {
+  margin-left: 230px;
+}
+iframe {
+  width: 100px;
+  height: 50px;
+  margin: 0 auto;
+  background-color: #777;
+  display: block;
 }
 .note {
   font-size: 80%;
