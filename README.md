@@ -15,7 +15,7 @@ The users can choose to filter and sort these companies based on the following a
 9. Student career Link
 10. Website - the website of the company
 
-#Folder structure
+# Folder structure
 1. Master company list
    - contains the list of companies with their stock symbols 
    - final_companies_data.csv is the content that is displayed in the website as a table.
@@ -24,5 +24,5 @@ The users can choose to filter and sort these companies based on the following a
 4. Website_front_end - contains individual css,html,js files and the index.txt contains the link to codepen
 
 
-#Page rank Computation
+# Page rank Computation
 
