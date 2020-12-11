@@ -221,7 +221,7 @@ var filtersConfig = {
     filters: true,
     page_number: true,
     page_length: true,
-    sort: true,
+    sort: false,
     columns_visibility: true,
     filters_visibility: true
   },
@@ -232,7 +232,7 @@ var filtersConfig = {
   mark_active_columns: true,
   highlight_keywords: true,
   no_results_message: true,
-  columns_exact_match: [
+ columns_exact_match: [
     true,
     false,
     false,
@@ -242,8 +242,7 @@ var filtersConfig = {
     true,
     true,
     true,
-    true,
-    true
+    false
   ],
   ignore_diacritics: true,
   btn_reset: {
@@ -264,7 +263,6 @@ var filtersConfig = {
   col_0: "select",
   col_1: "none",
   col_8: "none",
-  col_9: "select",
   col_types: [
     "number",
     "string",
