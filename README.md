@@ -5,7 +5,7 @@ The data is integrated after scraping from wikipedia, Ytickr, google search apis
 The users can choose to filter and sort these companies based on the following attributes. 
 
 1. Rank - ranked according to parameters Page_rank,revenue, employee count and profit. Formula is detailed in the upcoming sections.
-2. Name - Name of the company from
+2. Name - Name of the company
 3. Industry - Classified as technology/ business domains.
 4. Type(public/private)- type of the company if it is registered in the stock market
 5. Founded year - The year when company was founded
