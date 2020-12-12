@@ -232,7 +232,7 @@ var filtersConfig = {
   mark_active_columns: true,
   highlight_keywords: true,
   no_results_message: true,
- columns_exact_match: [
+  columns_exact_match: [
     true,
     false,
     false,

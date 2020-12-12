@@ -1,4 +1,4 @@
-Rank,name,industry,type,founded,num_employees,Revenue(in millions),Profit(in millions),students_careers_url,website,hq_location
+Rank,Name,Industry,Type,Founded,Employees,Revenue(in millions),Profit(in millions),Jobs Pagw,website,Location
 1,"Google, LLC","Software,Distributed Systems,Social media,Networking,Artificial Intelligence,Electronics",Public,2008,"114,000","66,000.0","16,500.0",https://careers.google.com/students/,google.com,Googleplex 1600 Amphitheatre Parkway
 2,Instagram,Other,Public,2010,450,"18,200.0","14,000.0",https://www.instagram.com/about/jobs/,instagram.com,"Menlo Park, CA"
 3,Microsoft Corporation,"Software,Consulting,Distributed Systems,Networking,Multimedia,Electronics",Public,1975,"156,400","143,000.0","53,000.0",https://careers.microsoft.com/us/en/,microsoft.com,"Microsoft Redmond campus One Microsoft Way Redmond, WA"
