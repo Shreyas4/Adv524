@@ -1,0 +1,900 @@
+name,industry,type,founded,num_employees,Revenue(in millions),Profit(in millions),students_careers_url,hq_location,website,score
+"Google, LLC","Software,Distributed Systems,Social media,Networking,Artificial Intelligence,Electronics",Public,2008,114000,66000,"16,500.00",https://careers.google.com/students/,Googleplex 1600 Amphitheatre Parkway,google.com,41.408962
+Instagram,Other,Public,2010,450,18200,"14,000.00",https://www.instagram.com/about/jobs/,"Menlo Park, CA",instagram.com,40.124893
+Microsoft Corporation,"Software,Consulting,Distributed Systems,Networking,Multimedia,Electronics",Public,1975,156400,143000,"53,000.00",https://careers.microsoft.com/us/en/,"Microsoft Redmond campus One Microsoft Way Redmond, WA",microsoft.com,36.36190584
+International Business Machines Corporation,"Software,Distributed Systems,Artificial Intelligence,Electronics",Public,1911,352600,77100,"13,200.00",https://www.ibm.com/us-en/employment/entrylevel/,"Armonk, NY",ibm.com,35.95286031
+Apple Inc.,"Software,Consulting,Distributed Systems,Artificial Intelligence,Electronics",Public,1976,137000,275000,"66,300.00",https://www.apple.com/jobs/us/students.html,Apple Park 1 Apple Park Way Cupertino California,apple.com,35.03489507
+Mozilla Corporation,Software,Private,2005,1000,451000,1.9,https://careers.mozilla.org/,"Mountain View, California",mozilla.org,35.00850822
+Adobe Inc.,Software,Public,1982,22630,11200,"3,270.00",https://www.adobe.com/careers.html,Adobe World Headquarters,adobe.com,31.78704223
+Oracle Corporation,"Software,Distributed Systems,Electronics",Public,1977,135000,39100,"13,900.00",https://www.oracle.com/corporate/careers/,"Redwood City, CA",oracle.com,30.52869902
+"Zoom Video Communications, Inc.",Other,Public,2011,2530,62200,54.6,https://zoom.us/about,"San Jose , CA",zoom.us,30.51527304
+"salesforce.com, inc.","Software,Distributed Systems",Public,1999,49000,17100,297,https://www.salesforce.com/company/careers/university-recruiting/,"San Francisco, CA",salesforce.com,30.49065023
+Tripadvisor Inc.,Travel,Private,2000,4100,15600,126,https://careers.tripadvisor.com/,"Needham, MA",tripadvisor.com,29.97865312
+"Slack Technologies, Inc.","Networking,Multimedia",Public,2009,1660,40100,600,https://slack.com/careers,"San Francisco, CA",slack.com,29.52086423
+Overcast Media Inc.,Other,Private,2005,70,1000,0.2,https://overcast.fm/,"Dublin, Ireland",overcast.fm,29.20724746
+"Dell Software, Inc.",Other,Public,1984,157000,92500,"2,620.00",https://jobs.dell.com/students,"Round Rock, TX",dell.com,29.1910906
+Automattic Inc.,Networking,Private,2005,1270,299,155,https://automattic.com/work-with-us/,"San Francisco, CA",automattic.com,29.17279436
+NewsBlur,Software,Private,2009,50,0.2,-,https://newsblur.com/,"New York City and San Francisco, United States",newsblur.com,29.08042674
+"HubSpot, Inc.",Software,Public,2006,3390,675,57.9,https://www.hubspot.com/careers/students,"Cambridge, MA",hubspot.com,29.0333329
+Pluralsight,Software,Public,2004,1700,316,9.6,https://www.pluralsight.com/careers,"Draper, UT",pluralsight.com,28.89656598
+"Netflix, Inc.","Software,Multimedia",Public,1997,8600,20200,"2,600.00",https://jobs.netflix.com/,"Los Gatos, CA",netflix.com,28.7675388
+WhatsApp,Other,Public,2009,55,5000,"4,000.00",https://www.facebook.com/careers/areas-of-work/whatsapp/,"Menlo Park, CA",whatsapp.com,28.35372738
+Intel Corporation,Electronics,Public,1968,110800,719,22,https://jobs.intel.com/,"Santa Clara, CA",intel.com,28.26749399
+HP Inc.,"Software,Electronics",Public,2015,56000,58750,"3,800.00",https://jobs.hp.com/en-us/Students-Graduates,"Palo Alto, CA",hp.com,27.7072588
+SuccessFactors Inc.,Software,Private,2001,1450,501,201,https://www.sap.com/about/careers.html,"Walldorf, Germany",sap.com,27.49566952
+VMware Inc.,Software,Public,1998,31000,8970,"2,050.00",https://careers.vmware.com/,"Palo Alto, California, United States",vmware.com,27.32342237
+"JotForm, Inc.",Software,Private,2006,250,54,-,https://www.jotform.com/form-templates/gnhs-work-study,"San Francisco, California",jotform.com,27.08248626
+Oculus,Other,Public,2012,330,100,1.2,https://www.oculus.com/careers/,"Menlo Park, CA",oculus.com,27.0434729
+McAfee Corp.,Software,Public,1987,6770,2600,128,https://careers.mcafee.com/,"San Jose, CA",mcafee.com,27.03489558
+Sony Corporation of America,Multimedia,Public,1960,114400,1300,800,https://www.sonyjobs.com/internships.html,Madison Avenue,sony.com,26.94198835
+Zendesk,Other,Public,2007,3570,816,3.5,https://jobs.zendesk.com/us/en,"San Francisco, CA",zendesk.com,26.8758023
+"Tableau Software, Inc.",Software,Private,2003,4180,1200,841,https://www.tableau.com/about/careers,"Seattle, WA",tableau.com,26.60354664
+"Autodesk, Inc.",Software,Public,1982,10300,3270,343,https://www.autodesk.com/careers,"San Rafael, CA",autodesk.com,26.50938638
+Check Point Software Technologies Ltd.,"Software,Consulting,Electronics,Security",Public,1993,5200,2000,882,https://careers.checkpoint.com/index.php?m=careers&a=jobs&country_code=BE,"San Carlos, CA",checkpoint.com,26.41754654
+Cisco Webex,"Software,Networking,Multimedia",Public,1995,10000,380,"3,200.00",https://www.cisco.com/c/en/us/about/careers/working-at-cisco/students-and-new-graduate-programs.html,"San Jose, CA",webex.com,26.40760996
+Cvent,"Software,Artificial Intelligence",Private,1999,3600,396,4.3,https://www.cvent.com/en/careers,"McLean, VA",cvent.com,26.39326375
+"Red Hat, Inc.",Software,Private,1993,13400,3400,512,https://www.redhat.com/en/jobs,"Raleigh, NC",redhat.com,26.21662662
+SendGrid,Software,Private,2009,500,112,2.8,https://sendgrid.com/careers/interns-new-grads/,"Denver, CO",sendgrid.com,26.20499912
+"Dynatrace, Inc.","Software,Consulting,Data Analytics",Public,2005,2200,487,53.3,https://www.dynatrace.com/company/careers/,"Waltham, MA",dynatrace.com,26.18195756
+"New Relic, Inc.",Other,Public,2008,1280,600,25,https://newrelic.com/about/careers,"San Francisco, CA",newrelic.com,26.17488166
+SAS Institute Inc.,Software,Private,1976,13940,3300,"3,200.00",https://www.sas.com/en_us/careers.html,,sas.com,26.14055587
+Siemens PLM Software,Software,Private,1997,7600,86.9,51.3,https://jobs.siemens.com/disw/jobs,,siemens.com,26.10524056
+Wrike,Other,Private,2003,700,288,-,https://www.wrike.com/careers/,"San Jose, CA",wrike.com,26.0878715
+"DocuSign, Inc.",Other,Public,2003,3910,974,55.5,https://www.docusign.com/company/careers,"San Francisco, CA",docusign.com,26.07974609
+Dell EMC,"Software,Database",Public,1979,165000,90600,-,https://jobs.dell.com/students,"Hopkinton, MA",dellemc.com,26.04651782
+Cloudinary,Software,Private,2011,200,60,1,https://cloudinary.com/jobs,"Santa Clara, CA",cloudinary.com,26.04210076
+Seagate Technology PLC,"Software,Database",Public,1979,41000,10400,"1,050.00",https://www.seagate.com/jobs/university-programs/,"Cupertino, California Dublin Ireland",seagate.com,26.01801681
+Splunk Inc.,Other,Public,2003,5000,2360,287,https://www.splunk.com/en_us/careers/university-recruiting.html,"San Francisco, CA",splunk.com,25.93823957
+GE Automation & Controls,Automobiles,Public,1987,650,210,-,https://jobs.gecareers.com/global/en,"Boston, MA",ge.com,25.92692724
+JW Player,Other,Private,2005,200,499,-,https://www.jwplayer.com/careers/,New York,jwplayer.com,25.88502094
+Nuance Communications,Software,Private,1992,8200,1950,139,https://www.nuance.com/about-us/careers.html,"Burlington, MA",nuance.com,25.88273862
+Janrain,Other,Private,2005,120,14.3,-,https://www.akamai.com/us/en/about/careers/,"Cambridge, MA",akamai.com,25.88111611
+"Ripple Labs, Inc.",Software,Private,2012,550,12.7,12.7,https://ripple.com/company/careers/all-jobs/,"San Francisco, CA",ripple.com,25.844764
+Pipedrive,Software,Private,2010,600,90,-,https://www.pipedrive.com/en/jobs,New York,pipedrive.com,25.8057036
+Venmo,Other,Private,2009,200,300,163,https://venmo.com/about/jobs/,New York,venmo.com,25.80369721
+Zend Technologies Ltd.,Software,Private,1999,360,5.6,-,https://www.perforce.com/careers,"Cupertino, CA",zend.com,25.80310021
+Telerik,Software,Private,2002,600,1.5,-,https://www.telerik.com/campaigns/devcraft/student-license,,telerik.com,25.72511491
+Qualtrics International Inc.,Other,Private,2001,3000,423,-,https://www.qualtrics.com/careers/,"Provo, UT",qualtrics.com,25.66833842
+"Citrix Systems, Inc.","Software,Distributed Systems",Public,1998,8200,3010,629,https://jobs.citrix.com/,"Fort Lauderdale, FL",citrix.com,25.60978961
+Malwarebytes Inc.,"Software,Consulting,Security",Private,2008,800,130,-,https://jobs.malwarebytes.com/,"Santa Clara, CA",malwarebytes.com,25.60767132
+Smartsheet Inc.,Other,Public,2006,1590,176,-,https://www.smartsheet.com/careers,"Bellevue, WA",smartsheet.com,25.53469881
+Pantheon,Software,Private,2010,100,3.6,-,https://pantheon.io/careers,"San Francisco, CA",pantheon.io,25.52087477
+"The MathWorks, Inc.",Software,Private,1984,5000,1050,900,https://www.mathworks.com/company/jobs/students.html,"Natick, MA",mathworks.com,25.4495256
+Data Domain Corporation,Other,Private,2001,777,79.8,-,https://jobs.dell.com/students,"Hopkinton, MA",emc.com,25.40714171
+"G2 Crowd, Inc.","Software,Networking",Private,2012,360,26.7,26.7,https://culture.g2.com/careers,"Chicago, Illinois",g2.com,25.40324057
+"Clover Network, Inc.",Other,Private,2012,200,91,14.6,https://careers.clover.com/,"Sunnyvale, CA",clover.com,25.40230697
+Punchbowl.com,"Software,Consulting,Networking",Private,2006,30,201,79.4,https://www.punchbowlboyshighschoolcareers.com/,"Framingham, Massachusetts",punchbowl.com,25.40159228
+"LivePerson, Inc.",Networking,Private,1995,1340,292,353,https://www.liveperson.com/company/careers/,"New York, NY",liveperson.com,25.33334337
+"Brightcove, Inc.","Networking,Multimedia",Public,2004,610,185,109,https://www.brightcove.com/en/company/careers,"Boston, MA",brightcove.com,25.32642062
+Panic Inc.,"Software,Multimedia",Private,1997,25,21.4,-,https://panic.com/jobs/,,panic.com,25.32035506
+Magento,Other,Private,2008,810,1680,826,https://www.adobe.com/careers.html,"San Jose, CA",magento.com,25.29806683
+Calm (company),Other,Private,2012,50,170,-,https://boards.greenhouse.io/calm,"San Francisco, CA",calm.com,25.28155623
+"Wolfram Research, Inc.",Software,Private,1987,700,85.3,-,https://www.wolfram.com/company/careers/,"Champaign, IL",wolfram.com,25.24652316
+Mindbody Inc.,Software,Private,2001,1350,139,21.3,https://company.mindbodyonline.com/careers,"San Luis Obispo, CA",mindbodyonline.com,25.13241072
+"Juniper Networks, Inc.","Networking,Electronics",Public,1996,9400,4410,848,https://careers.juniper.net/,"Sunnyvale, CA",juniper.net,25.06931212
+Brainshark,Other,Private,1999,250,65,20.9,https://www.brainshark.com/company/careers,"Waltham, MA",brainshark.com,25.00255943
+"Medallia, Inc.",Other,Public,2001,1500,402,-,https://www.medallia.com/careers/,"San Francisco, CA",medallia.com,24.89543639
+"Docker, Inc.",Software,Private,2008,500,273,92,https://www.docker.com/careers,"Palo Alto, CA",docker.com,24.84607008
+Intuit Inc.,Software,Public,1983,9400,6780,"1,850.00",https://www.intuit.com/careers/programs/students-and-grads/,"Mountain View, CA",intuit.com,24.84507709
+"OverDrive, Inc.","Software,Consulting",Private,1986,330,32.5,32.5,https://company.overdrive.com/careers/,"Cleveland, OH",overdrive.com,24.8430239
+Synopsys,"Software,Consulting,Security",Public,1986,400,3360,433,https://www.synopsys.com/company/synopsys-careers.html,"Mountain View, CA",synopsys.com,24.82575362
+"ThoughtWorks, Inc.",Software,Private,1993,7000,500,100,https://www.thoughtworks.com/careers/graduates,"Chicago, IL",thoughtworks.com,24.82288351
+Dassault Systems,"Software,Aviation,Automobiles",Private,1981,700,155,-,https://careers.3ds.com/,,3ds.com,24.8069868
+Remember The Milk Inc.,Other,Private,2005,10,135,-,https://www.rememberthemilk.com/about/jobs.rtm,"San Francisco, CA",rememberthemilk.com,24.80098309
+Expensify,Software,Private,2008,130,100,50,https://we.are.expensify.com/,"San Francisco, CA",expensify.com,24.76177126
+"eFileCabinet, Inc.",Software,Private,2001,104,30.6,11.5,https://www.efilecabinet.com/careers/,"Lehi, Utah",efilecabinet.com,24.7610884
+"Bentley Systems, Inc.",Software,Public,1984,3800,700,-,https://www.bentley.com/en/about-us/careers,,bentley.com,24.75698757
+Micro Focus Enterprise Security,"Software,Consulting,Security",Private,1976,12000,3350,"5,160.00",https://jobs.microfocus.com/,,microfocus.com,24.72438251
+"Instructure, Inc.",Software,Private,2008,1291,210,72.4,https://www.instructure.com/about/careers,"Salt Lake City, UT",instructure.com,24.69238101
+"Fortinet, Inc.","Software,Consulting,Networking,Security",Public,2000,6015,2160,110,https://www.fortinet.com/corporate/careers,"Sunnyvale, CA",fortinet.com,24.62554504
+"Fastly, Inc.",Networking,Private,2011,700,200,64,https://www.fastly.com/about/careers,"San Francisco, CA",fastly.com,24.60728613
+TIBCO Software Inc.,Software,Private,1997,4200,1,68.8,https://www.tibco.com/careers/university-program,"Palo Alto, CA",tibco.com,24.5957412
+RSA Security LLC,"Consulting,Networking,Security",Private,1982,2700,226,147,https://jobs.rsa.com/students,"Bedford, MA",rsa.com,24.58447553
+"Marketo, Inc.",Software,Private,2006,1300,321,1,https://www.marketo.com/education/,"San Mateo, CA",marketo.com,24.57319595
+Looker,Software,Private,2012,500,140,28,https://looker.com/blog/interns-of-looker,"Santa Cruz, CA",looker.com,24.56518538
+"Gigya, Inc.",Consulting,Private,2006,280,32.6,10.5,https://www.sap.com/about/careers.html,"Palo Alto, CA",gigya.com,24.56259915
+Doximity Inc.,Networking,Private,2010,475,709,500,https://workat.doximity.com/positions/,"San Francisco, CA",doximity.com,24.52875759
+"Fidelity National Information Services, Inc.",Other,Public,1968,55000,12200,-,https://www.fisglobal.com/en/careers,"Jacksonville, FL",fisglobal.com,24.50910535
+Blockstream,Software,Private,2014,50,68.6,850,https://blockstream.com/careers/,,blockstream.com,24.48088173
+Zoom Information Inc.,Software,Public,2007,1200,350,23.4,https://www.zoominfo.com/about/careers,"Waltham, MA",zoominfo.com,24.45253803
+"RealNetworks, Inc.",Software,Public,1994,1060,172,21.7,https://www.realnetworks.com/careers,"Seattle, WA",realnetworks.com,24.45016284
+"RetailMeNot, Inc.",Networking,Private,2006,500,249,-,https://www.retailmenot.com/corp/careers-engineering/,"Austin, TX",retailmenot.com,24.40591043
+Snagajob,Networking,Private,2000,300,75,-,https://www.snagajob.com/student-jobs/,"Glen Allen, VA",snagajob.com,24.40305136
+"NCR Netkey, Inc",Software,Public,1983,36000,-,-,https://www.ncr.com/careers,"East Haven, Conn",ncr.com,24.38629609
+Progress Software,Software,Public,1981,1500,398,-,https://www.progress.com/company/careers,"Bedford, MA",progress.com,24.37540979
+Rosetta Stone Inc.,Software,Public,1992,1375,265,18.4,https://www.rosettastone.com/careers/,"Arlington County, VA",rosettastone.com,24.37346156
+Webroot Inc.,Software,Private,1997,600,215,-,https://www.webroot.com/us/en/about/careers,"Broomfield, CO",webroot.com,24.32653509
+Inkling,Software,Private,2009,124,11.6,-,https://www.inkling.com/careers/,"San Francisco, CA",inkling.com,24.32113218
+MarkLogic Corporation,Software,Private,2001,500,100,-,https://www.marklogic.com/company/careers/,"San Carlos, CA",marklogic.com,24.2849193
+OpenText Exstream,Other,Private,1998,12200,2900,-,https://www.e-xstream.com/about-us/about-e-xstream/careers,"Lexington, Kentucky",opentext.com,24.28309081
+The Omni Group,Software,Private,1989,101,0.2,-,https://www.omnigroup.com/jobs/,"Seattle, WA",omnigroup.com,24.28086066
+Zello Inc,Other,Private,2011,40,10,-,https://zello.com/careers/,"Austin, TX",zello.com,24.28040685
+"Cloudera, Inc.",Software,Public,2008,3000,794,-,https://www.cloudera.com/careers/teams/university-recruiting.html,"Palo Alto, CA",cloudera.com,24.27080627
+MongoDB Inc.,Software,Public,2007,2000,422,-,https://www.mongodb.com/careers,"New York City, New York United States",mongodb.com,24.25982354
+Imperva Inc.,"Consulting,Security",Private,2002,1000,91.1,-,https://www.imperva.com/company/careers/,"Redwood Shores, CA",imperva.com,24.24911421
+SugarCRM,Software,Private,2004,450,96,-,https://www.sugarcrm.com/careers/,"Cupertino, CA",sugarcrm.com,24.24446728
+"Jobvite, Inc.",Software,Private,2006,450,22.2,-,https://jobs.jobvite.com/logitech/,Indianapolis United States,jobvite.com,24.24397637
+"PreSonus Audio Electronics, Inc.","Software,Multimedia",Private,1995,330,115,-,https://www.presonus.com/about/careers,"Baton Rouge, LA",presonus.com,24.24357268
+SugarSync,Other,Private,2004,160,12100,-,https://www.sugarsync.com/company/careers.html,"San Mateo, CA",sugarsync.com,24.24184912
+Piazza (web service),Other,Private,2009,30,71.5,-,https://recruiting.piazza.com/,"Palo Alto, CA",piazza.com,24.24073086
+Internet Systems Consortium,Other,Private,1994,35,1.9,-,https://www.isc.org/careers/,,isc.org,24.20031043
+Fair Isaac Corporation,Software,Public,1956,3360,932,177,https://www.fico.com/en/careers,"San Jose, CA",fico.com,24.19478719
+OpenText GXS,E-Commerce,Private,-,3000,480,-,https://careers.opentext.com/,,opentext.com,24.18871758
+"Pivotal Software, Inc.",Software,Private,2013,2970,509,-,https://careers.vmware.com/main/jobs,"San Francisco, CA",pivotal.io,24.18865524
+"Okta, Inc.",Software,Public,2009,2379,586,-,https://www.okta.com/company/careers/,"San Francisco, CA",okta.com,24.18413907
+Daegis Inc.,Software,Private,1980,140,31,170,https://www.opentext.com/products-and-solutions/products/opentext-product-offerings-catalog/rebranded-products/daegis,"Roseville, CA",opentext.com,24.16139736
+"Domo, Inc.",Software,Public,2010,825,142,-,https://www.domo.com/company/careers,"American Fork, UT",domo.com,24.12796385
+"Datadog, Inc.",Consulting,Public,2010,1200,368,-,https://www.datadoghq.com/careers/,"New York City, NY",datadoghq.com,24.09265776
+"PagerDuty, Inc.","Software,Consulting",Public,2009,525,84,-,https://www.pagerduty.com/careers/,"San Francisco, California",pagerduty.com,24.08502558
+Ontraport,Software,Private,2006,100,10,-,https://ontraport.com/careers/jobs/internships,"Santa Barbara, CA",ontraport.com,24.08091734
+CodeWeavers,Software,Private,1996,30,16.1,-,https://www.codeweavers.com/about/jobs,"Saint Paul, MN",codeweavers.com,24.08036234
+"Zuora, Inc.",Software,Public,2007,1250,276,-,https://www.zuora.com/about/careers/,"Redwood City, CA",zuora.com,24.0524712
+Genesys,Other,Private,1990,5940,2,-,https://www.genesys.com/company/careers,"Daly City, CA",genesys.com,24.05055216
+"Vuze, Inc.",Multimedia,Private,2006,190,6.2,-,https://www.vuze.com/corp/jobs.php,"San Mateo, CA",vuze.com,24.0416578
+Glitch,Software,Private,2000,30,175,-,https://glitch.com/about,New York,glitch.com,24.04141933
+"LEAD Technologies, inc.",Software,Private,1990,80,50,-,https://www.leadtools.com/corporate/careers,,leadtools.com,24.04101325
+Palantir Technologies Inc.,Software,Public,2003,2500,739,-,https://www.palantir.com/students/,"Denver, CO",palantir.com,24.0261863
+Kaltura,"Networking,Multimedia",Private,2006,450,100,-,https://corp.kaltura.com/company/careers/,"New York, NY",kaltura.com,24.00449389
+Ping Identity,"Software,Consulting",Public,2002,970,140,-,https://www.pingidentity.com/en/company/careers.html,"Denver, CO",pingidentity.com,23.96918424
+Cerner Corporation,"Software,Consulting,Pharmaceuticals",Public,1979,27400,5700,763,https://careers.cerner.com/students-graduates,"North Kansas City, MO",cerner.com,23.9510411
+SolarWinds Inc.,Software,Public,1999,2500,939,-,https://www.solarwinds.jobs/,"Austin, TX",solarwinds.com,23.94751668
+"Zscaler, Inc.","Software,Consulting,Networking,Security",Public,2008,1480,431,-,https://www.zscaler.com/careers,"San Jose, CA",zscaler.com,23.93545913
+SeeClickFix,"Software,Consulting",Private,2008,20,75,-,https://seeclickfix.com/pages/jobs.html,"New Haven, CT",seeclickfix.com,23.92066906
+Veeam Software Group GmbH,Software,Private,2006,4300,1,-,https://careers.veeam.com/?ad=menu-company,,veeam.com,23.91659202
+Harman Connected Services,Networking,Private,2001,30000,290,-,https://jobs.harman.com/,"Stamford, CT",harman.com,23.89717579
+"Workday, Inc.","Software,Distributed Systems",Public,2005,3700,3630,146,https://www.workday.com/en-us/company/careers/university-recruiting.html,"Pleasanton, CA",workday.com,23.89562677
+"NewTek, Inc.",Software,Private,1985,310,52,-,https://www.newtek.com/,"San Antonio, TX",newtek.com,23.80298345
+OneLogin,Distributed Systems,Private,2009,260,50.2,-,https://www.onelogin.com/company/careers,"San Francisco, CA",onelogin.com,23.80254606
+MicroStrategy Incorporated,Software,Public,1989,2400,486,-,https://www.microstrategy.com/en/careers,"1850 Towers Crescent Plaza Tysons Corner, VA",microstrategy.com,23.78365256
+Insight Enterprises,Other,Public,1988,11000,6700,-,https://www.insight.com/en_US/careers.html,"Tempe, AZ",insight.com,23.7781581
+"MuleSoft, LLC.",Software,Private,2006,1190,296,79.8,https://www.mulesoft.com/careers,"San Francisco, CA",mulesoft.com,23.77209375
+LiquidPlanner,Other,Private,2006,65,8,-,https://www.liquidplanner.com/blog/category/careers/,"Seattle, WA",liquidplanner.com,23.76060625
+Informatica,Software,Private,1993,4800,1050,-,https://informatica.gr8people.com/,"Redwood City, CA",informatica.com,23.72782396
+SunGard Data Systems,"Software,Consulting",Private,1983,13000,4990,-,https://jobs.sungardas.com/,"Wayne, PA",sungard.com,23.70379982
+EPAM Systems,Software,Public,1993,36700,2290,-,https://www.epam.com/careers,"Newtown, PA",epam.com,23.68748466
+RhythmOne plc,Networking,Public,2004,525,145,-,https://www.rhythmone.com/careers/,"San Francisco, CA",rhythmone.com,23.68543134
+"RiskIQ, Inc.",Other,Private,2009,212,30.7,-,https://www.riskiq.com/company/careers/,"San Francisco, CA",riskiq.com,23.68200796
+Caspio,Software,Private,2000,150,10,-,https://www.caspio.com/careers/,"Santa Clara, CA",caspio.com,23.68134275
+"BMC Software, Inc.",Software,Private,1980,6000,2,-,https://www.bmc.com/careers/careers.html,"Houston, TX",bmc.com,23.65106265
+Infor,Software,Private,2002,17000,2800,-,https://www.infor.com/about/careers,"New York, NY",infor.com,23.6432651
+"Ceridian HCM, Inc.",Software,Public,1992,5200,824,72.3,https://www.ceridian.com/careers,"Minneapolis, MN",ceridian.com,23.60972392
+"Greenhouse Software, Inc.",Other,Private,2012,500,50,-,https://www.greenhouse.io/careers,New York City,greenhouse.io,23.60458671
+"Sawtooth Software, Inc.",Software,Private,1983,37,137,-,https://sawtoothsoftware.com/careers,"Provo, UT",sawtoothsoftware.com,23.60122611
+Corona Labs,Other,Private,2007,50,3,-,https://coronalabs.com/jobs/,"San Francisco, CA",coronalabs.com,23.60044537
+"Qualys, Inc.","Consulting,Networking,Security",Public,1999,1265,322,-,https://www.qualys.com/careers/,"Foster City, CA",qualys.com,23.57290481
+"iCIMS, Inc.",Software,Private,2000,1000,300,-,https://careers.icims.com/,"Holmdel, NJ",icims.com,23.57050379
+"Carbon Black, Inc.","Consulting,Security",Private,2002,1000,60.9,-,https://lifeatcb.carbonblack.com/,"Waltham, MA",carbonblack.com,23.56891332
+"Perforce Software, Inc.","Software,Consulting",Private,1995,250,23,-,https://www.perforce.com/careers,"Minneapolis, MN",perforce.com,23.52228005
+IZotope,"Software,Electronics",Private,2001,170,7.5,-,https://www.izotope.com/en/company/education/partners.html,"Cambridge, MA",izotope.com,23.52149629
+"Veracode, Inc.",Software,Private,2006,750,58.5,-,https://www.veracode.com/about/careers,"Burlington, MA",veracode.com,23.4867703
+Coda,Other,Private,2014,600,25,-,https://boards.greenhouse.io/coda,"San Francisco, CA",coda.io,23.48527123
+"Recorded Future, Inc.","Consulting,Security",Private,2009,450,100,-,https://www.recordedfuture.com/careers/,"Somerville, MA",recordedfuture.com,23.48449389
+"Cadence Design Systems, Inc.",Software,Public,1988,8100,2340,-,https://www.cadence.com/en_US/home/company/careers.html,"San Jose, CA",cadence.com,23.48448203
+"Tripwire, Inc.",Other,Private,1997,400,86.2,-,https://www.tripwire.com/company/careers,"Portland, OR",tripwire.com,23.48397668
+"Ipswitch, Inc.","Consulting,Networking,Security",Private,1991,300,75,-,https://www.ipswitch.com/,"Burlington, MA",ipswitch.com,23.48305136
+NortonLifeLock Inc.,"Software,Consulting,Security",Public,1982,3670,2490,621,https://www.nortonlifelock.com/us/en/careers/,"Tempe, AZ",nortonlifelock.com,23.44778838
+"SmartBear Software, Inc.",Software,Private,2009,650,51.1,-,https://smartbear.com/company/careers/,,smartbear.com,23.44587026
+Sauce Labs,Software,Private,2008,330,30,-,https://saucelabs.com/company/careers,"San Francisco, CA",saucelabs.com,23.44300727
+"Universal Audio, Inc.",Other,Private,1999,200,24.7,-,https://www.uaudio.com/careers/,"Scotts Valley, CA",uaudio.com,23.44186595
+"Daz Productions, Inc",Other,Private,2000,40,2270,-,https://www.linkedin.com/company/daz-productions,"Salt Lake City, UT",daz3d.com,23.41544011
+"Databricks, Inc.",Software,Private,2013,1440,200,-,https://databricks.com/company/careers,"San Francisco, CA",databricks.com,23.41358222
+Kofax Inc.,Software,Private,1985,1380,100,-,https://www.kofax.com/About/our-company/careers,"Irvine, CA",kofax.com,23.41240654
+"Hortonworks, Inc.",Software,Private,2011,1110,1,-,https://www.cloudera.com/careers/teams/university-recruiting.html,"Santa Clara,CA",hortonworks.com,23.40945078
+"GrabCAD, Inc.",Other,Public,2009,80,865,-,https://resources.grabcad.com/jobs/,"Cambridge, MA",grabcad.com,23.40643454
+"LogMeIn, Inc.",Software,Private,2003,3970,1260,-,https://www.logmeininc.com/careers,"Boston, MA",logmeininc.com,23.40215903
+Brandfolder,"Software,Consulting",Private,2012,50,24,-,https://jobs.brandfolder.com/,"Denver, CO",brandfolder.com,23.40058506
+"NETSCOUT Systems, Inc.",Other,Public,1984,3000,1160,62.1,https://www.netscout.com/company/be-a-guardian,"Westford, MA",netscout.com,23.39324086
+Sumo Logic,"Software,Consulting,Security",Public,2010,800,155,-,https://www.sumologic.com/company/careers/,"Redwood City, CA",sumologic.com,23.36783762
+Caliper Corporation,Software,Private,1983,150,19.2,-,https://www.caliper.com/jobs.htm,"Princeton, NJ",caliper.com,23.36140395
+NationBuilder,Software,Private,2009,100,14.8,-,https://nationbuilder.com/careers,Los Angeles,nationbuilder.com,23.36094927
+Shopkick,Other,Private,2009,160,2500,-,https://www.shopkick.com/careers,"Redwood City, CA",shopkick.com,23.33799103
+"Tyler Technologies, Inc.",Software,Public,1966,5370,1090,156,https://www.tylertech.com/careers,"Plano, TX",tylertech.com,23.33293972
+Code42,Software,Private,2001,500,100,-,https://www.code42.com/careers/,"Minneapolis, MN",code42.com,23.3249193
+Boris FX,"Software,Multimedia",Private,1995,145,9,-,https://borisfx.com/company/careers/,"Boston, MA",borisfx.com,23.32129356
+"PKWARE, Inc",Software,Private,1986,100,14.1,-,https://www.pkware.com/careers,"Milwaukee, WI",pkware.com,23.32094461
+Hubstaff,Other,Private,2012,60,3800,-,https://hubstaff.com/jobs,"Indianapolis, IN",hubstaff.com,23.30578766
+Forcepoint LLC,"Consulting,Security",Private,1994,2300,658,-,https://www.forcepoint.com/company/careers,"Austin, TX",forcepoint.com,23.30394586
+Jive,Other,Private,2001,660,196,-,https://www.jivesoftware.com/company/,"Palo Alto, CA",jivesoftware.com,23.2869192
+Telenav,Other,Public,1999,580,240,,https://careers.telenav.com/,"Santa Clara, CA",telenav.com,23.28653122
+ITA Software LLC,"Software,Travel",Private,1996,450,38,-,https://www.zippia.com/ita-software-careers-513200/,"Cambridge, MA",itasoftware.com,23.28408147
+PARC,Other,Private,1970,200,16.9,-,https://www.parc.com/blog/a-bright-future-ahead-for-2018-parc-interns/,"Palo Alto, CA",parc.com,23.28181406
+Wanderu,"Software,Travel",Private,2011,45,200,-,https://www.wanderu.com/blog/wanderu-careers/,"Boston, MA",wanderu.com,23.28171325
+EON Reality,"Consulting,Artificial Intelligence",Private,1999,50,28.1,-,https://eonreality.com/tag/student-recruitment/,"Irvine, CA",eonreality.com,23.28061233
+Procore Technologies,Software,Private,2003,1600,289,-,https://www.procore.com/jobs,"Carpinteria, CA",procore.com,23.25553555
+Universal Robots,Automobiles,Private,2005,680,248,-,https://www.universal-robots.com/career/,,universal-robots.com,23.24743526
+Workfront,Other,Private,2001,670,230,-,https://careers.workfront.com/,"Lehi, UT",workfront.com,23.24723044
+"MapR Technologies, Inc.",Software,Private,2009,456,400,-,https://mapr.agency/careers/,"Houston, TX",mapr.com,23.2465405
+Intego,"Software,Consulting,Security",Private,1997,256,38.3,-,https://www.intego.com/company/careers,"Seattle, WA",intego.com,23.24243287
+Epic Systems Corporation,"Software,Consulting,Pharmaceuticals",Private,1979,10000,2900,-,https://careers.epic.com/,"Verona, WI",epic.com,23.22437271
+Wind River Systems Inc.,Other,Private,1981,1800,360,-,https://windriver.com/careers/,"Alameda, CA",windriver.com,23.21770948
+Salesforce Marketing Cloud,Automobiles,Public,2000,1800,292,-,https://www.salesforce.com/company/careers/,"San Francisco, CA",marketingcloud.com,23.21725715
+Pegasystems Inc.,Software,Public,1983,5000,892,-,https://www.pega.com/about/careers,"Cambridge, MA",pega.com,23.2084746
+Roxio,Software,Private,2001,500,9,-,https://www.roxio.com/en/pages/coupons/,"Santa Clara, CA",roxio.com,23.20431398
+Sony Creative Software Inc.,Software,Private,2003,200,8,-,https://www.sonyjobs.com/internships.html,,sonycreativesoftware.com,23.20175486
+UiPath Inc.,"Artificial Intelligence,Automobiles",Private,2005,2800,400,-,https://www.uipath.com/company/careers,"New York, NY",uipath.com,23.18648378
+Namely,Other,Private,2012,500,40,-,https://www.namely.com/careers/,"New York, NY",namely.com,23.16452019
+"Motus, LLC",Other,Private,2004,200,78.1,-,https://www.motus.com/careers/,"Boston, MA",motus.com,23.16222116
+"NGP VAN, Inc.","Software,Consulting,Database,Networking",Private,2001,190,28.9,-,https://www.ngpvan.com/careers,"Washington, D.C.",ngpvan.com,23.1618088
+Blue Marble Geographics,Software,Private,2004,22,19.2,-,https://www.bluemarblegeo.com/about-us/careers.php,"Indianapolis, IN",bluemarblegeo.com,23.1603149
+"Bullhorn, Inc.",Consulting,Private,1999,950,220,-,https://www.bullhorn.com/careers/,"Boston, MA",bullhorn.com,23.12954623
+TubeMogul Inc.,Social media,Private,2007,577,181,-,https://angel.co/company/tubemogul/jobs,"Emeryville, CA",tubemogul.com,23.12611324
+Verint Systems Inc.,"Software,Consulting,Data Analytics,Multimedia",Public,1994,3900,1140,-,https://www.verint.com/careers/,"Huntington, NY",verint.com,23.12076522
+"PlanGrid, Inc.",Other,Private,2012,450,70,-,https://jobs.lever.co/plangrid/,"San Francisco, CA",plangrid.com,23.08429433
+PandaDoc,Software,Private,2013,225,18.5,-,https://www.pandadoc.com/careers/,"San Francisco, CA",pandadoc.com,23.08203741
+TechChange,Other,Private,2010,50,-,-,https://www.techchange.org/careers/communications-and-marketing-fellow/,"Washington, DC",techchange.org,23.08042541
+Kronos Incorporated,Other,Private,1977,6000,1430,-,https://www.kronos.com/about-us/careers,"Lowell, MA",kronos.com,23.06056154
+Slice,Other,Private,2010,496,134,-,https://slicelife.com/pages/careers,,slicelife.com,23.04511143
+ZeroFOX,"Consulting,Security",Private,2013,150,49.6,-,https://www.zerofox.com/careers/,"Baltimore, MD",zerofox.com,23.04160617
+Socialtext,Other,Private,2002,50,9,-,https://www.mckinsey.com/careers/students,"Palo Alto, CA",socialtext.com,23.04048528
+MartianCraft,Software,Private,2010,50,4,-,https://martiancraft.com/careers.html,"Fairfax, Virginia",martiancraft.com,23.04045202
+GotoBus,"Software,Travel",Private,2002,25,18.2,-,https://www.gotobus.com/aboutus/employment/,"Cambridge, MA",gotobus.com,23.04033377
+Ivanti,"Software,Consulting,Security",Private,1985,1700,500,-,https://www.ivanti.com/company/careers,"South Jordan, UT",ivanti.com,23.01778992
+CivicPlus,"Software,Networking",Private,1998,500,45,-,https://www.civicplus.com/careers,"Manhattan, KS",civicplus.com,23.00455345
+Loggly,Software,Private,2009,50,324,-,https://www.loggly.com/about/careers/,"San Francisco, CA",loggly.com,23.00258062
+UserVoice,Software,Private,2008,30,116,,https://uservoice.com/about/#join-us,"San Francisco, CA",uservoice.com,23.00102687
+Conversocial,Software,Private,2009,70,10,-,https://www.conversocial.com/about/careers,"New York City, NY",conversocial.com,23.00066209
+"Oceanhouse Media, Inc.",Software,Private,2009,10,4400,-,http://www.oceanhousemedia.com/about/,"Westerly, Rhode Island",oceanhousemedia.com,22.98935337
+"Talkdesk, Inc.",Software,Private,2011,930,39,-,https://www.talkdesk.com/careers/,"San Francisco, CA",talkdesk.com,22.96817207
+Letgo,Software,Private,2015,250,38.4,-,https://we.letgo.com/careers,"New York, NY",letgo.com,22.96238249
+PGP Corporation,Software,Private,2002,225,50,-,https://www.pgcareers.com/,"Menlo Park, CA",pgp.com,22.96224694
+Help Scout,Software,Private,2011,100,15.1,-,https://www.helpscout.com/company/careers/,"Boston, MA",helpscout.com,22.96095127
+"OSIsoft, LLC",Software,Private,1980,1300,330,-,https://www.osisoft.com/about-osisoft/careers/,"San Leandro, CA",osisoft.com,22.93325581
+ChannelAdvisor,E-Commerce,Public,2001,640,130,-,https://www.channeladvisor.com/careers/,,channeladvisor.com,22.92631001
+"Swappa, LLC",E-Commerce,Private,2010,40,895,-,https://swappa.com/blog/swappa-is-hiring-moderators-q3/,"Kansas City, Missouri",swappa.com,22.92629377
+Fishbowl Inventory,Software,Private,2001,150,12,-,https://www.fishbowlinventory.com/about/careers/,"Alexandria, VA",fishbowlinventory.com,22.92135606
+Swiftype,"Software,Consulting",Private,2012,40,1,-,https://swiftype.com/jobs,"San Francisco, CA",swiftype.com,22.92034698
+Coupa Software Inc.,"Software,Networking",Private,2006,2000,390,-,https://www.coupa.com/careers/,"San Mateo, CA",coupa.com,22.89961068
+QIAGEN Silicon Valley,Software,Private,2003,1000,1530,-,https://corporate.qiagen.com/careers/,"Redwood City, California",qiagen.com,22.89868561
+"Coursera, Inc.",Other,Private,2012,1790,140,-,https://about.coursera.org/careers/,"Mountain View, CA",about.coursera.org,22.89616099
+"ThoughtSpot, Inc.",Data Analytics,Private,2012,580,100,-,https://www.thoughtspot.com/careers,"Sunnyvale, CA",thoughtspot.com,22.88559996
+MindTouch Responsive,Other,Private,2005,200,10,-,https://mindtouch.com/about/careers,"San Diego, CA",mindtouch.com,22.88176816
+EnterpriseDB Corporation,"Software,Database",Private,2004,50,21.5,-,https://www.enterprisedb.com/,"Bedford, MA",enterprisedb.com,22.88056843
+Sorenson Media,Software,Private,1995,40,11.3,-,https://www.sorensonimpact.com/job-opportunities,,sorensonmedia.com,22.8804155
+Stackify,Software,Private,2012,40,2200,-,https://stackify.com/careers/,"Leawood, Kansas, United States",stackify.com,22.85497448
+Dynamic Yield,"Software,Networking",Private,2011,250,500,-,https://www.dynamicyield.com/careers/,New York City,dynamicyield.com,22.845453
+Videology,"Software,Social media",Private,2007,300,300,-,https://videologygroup.com/,New York City,videologygroup.com,22.84454803
+Hiveage,Other,Private,2014,50,440,-,https://www.hiveage.com/careers/,"Boston, MA",hiveage.com,22.84335224
+Mixamo Inc.,Multimedia,Private,2008,20,291,-,https://www.mixamo.com/,"San Francisco, CA",mixamo.com,22.84210586
+Networked Insights,Data Analytics,Private,2006,150,2,-,https://networkedinsights.com/careers/,,networkedinsights.com,22.84128954
+DotNetNuke,Other,Private,2006,10,105,-,https://www.dnnsoftware.com/about/careers,"Austin, TX",dnnsoftware.com,22.84078353
+Wikispaces,Other,Private,2005,10,-,-,https://nraas.wikispaces.com/Careers,"San Francisco, CA",wikispaces.com,22.84008508
+Zeta Interactive Corp.,Consulting,Private,2007,1300,400,-,https://zetaglobal.com/about/#careers,"New York, NY",zetaglobal.com,22.81372145
+"Entrust, Inc.","Consulting,Networking",Private,1994,350,800,-,https://www.entrust.com/careers,"Addison, TX",entrust.com,22.80829939
+Dreambox Learning,Software,Private,2006,275,46,-,https://www.dreambox.com/careers,"Bellevue, WA",dreambox.com,22.80264575
+InMarket,Software,Private,2010,100,100,-,https://inmarket.com/careers/,"Los Angeles, CA",inmarket.com,22.80151601
+"DataViz, Inc.",Software,Private,1984,50,5,-,dataviz.com,"Milford, CT",dataviz.com,22.80045867
+Conductor,Consulting,Private,2006,450,34,-,https://www.conductor.com/careers/,,conductor.com,22.76405487
+Naviance,Software,Private,2002,150,137,-,https://www.naviance.com/,"Arlington, Virginia",naviance.com,22.76218754
+Quest Software Inc,Software,Private,1987,2750,500,-,https://www.quest.com/company/careers.aspx,"Aliso Viejo, CA",quest.com,22.74672356
+"MRI Software, LLC","Software,Distributed Systems",Private,1971,2000,300,-,https://www.mrisoftware.com/about/careers/,"Solon, OH",mrisoftware.com,22.73901201
+Citrix Online,Software,Private,1997,8200,3010,629,https://www.citrix.com/careers/university-recruiting/,"Santa Barbara, California Santa Barbara California",citrixonline.com,22.72978961
+Concentric Sky,Other,Private,2005,90,4,-,https://www.concentricsky.com/team/careers,"Eugene, OR",concentricsky.com,22.72079235
+IdeaScale,Software,Private,2009,50,10.4,-,https://ideascale.com/ideascale-careers/,"Berkeley, CA",ideascale.com,22.72049459
+"Bluebeam, Inc.",Software,Private,2002,500,40.4,-,https://www.bluebeam.com/communities/education/,"Pasadena, CA",bluebeam.com,22.68452285
+"Knewton, Inc.",Software,Private,2008,150,381,-,https://www.knewton.com/,"New York, NY",knewton.com,22.6838106
+Digital Guardian,"Consulting,Security",Private,2003,375,74.7,-,https://digitalguardian.com/about/careers,"Waltham, MA",digitalguardian.com,22.68368748
+"Glooko, Inc",Software,Private,2011,170,24.2,-,https://www.glooko.com/careers/,"Mountain View, CA",glooko.com,22.68160737
+Enthought,Software,Private,2001,80,39.3,-,https://www.enthought.com/careers/,"Austin, TX",enthought.com,22.68094208
+"Mariner Software, Inc.",Software,Private,1990,50,7,-,https://marinersoftware.com/,"Minneapolis, MN",marinersoftware.com,22.68047197
+"ServiceNow, Inc.",Software,Public,2003,11000,3460,-,https://www.servicenow.com/careers.html,"Santa Clara, California",servicenow.com,22.67660599
+Rocket Software Inc.,Software,Private,1990,1400,450,-,https://www.rocketsoftware.com/rocket-jobs,"Waltham, MA",rocketsoftware.com,22.65490486
+Hitachi Data Systems,"Software,Consulting,Database,Electronics",Private,1989,6300,88.4,-,https://www.hitachivantara.com/en-us/company/careers.html,,hitachivantara.com,22.65418984
+"Nanex, LLC",Software,Private,2000,8,1600,-,http://www.nanex.net/careers.html," Winnetka, IL",nanex.net,22.65064302
+Quark,Software,Private,1981,250,100,-,https://www.quark.com/about/careers/,"Denver, CO",quark.com,22.64279224
+Zimperium,"Software,Consulting,Security",Private,2010,180,36.1,-,https://www.zimperium.com/company#jobs,"Dallas, TX",zimperium.com,22.64177161
+Pertino,Software,Private,2011,100,20,-,https://cradlepoint.com/about-us/careers/,"Los Gatos, CA",cradlepoint.com,22.64098386
+Vocus,Software,Private,2008,1200,187,-,https://www.vocus.com.au/careers,,vocus.com,22.61145377
+WSO2,Other,Private,2005,600,109,-,https://wso2.com/careers/,"Mountain View, CA",wso2.com,22.60582999
+SirsiDynix,Software,Private,1979,350,125,-,https://www.sirsidynix.com/careers/,"Lehi, UT",sirsidynix.com,22.60380936
+Scality,"Software,Consulting,Database",Private,2009,210,61,-,https://www.scality.com/careers/,"San Francisco, CA",scality.com,22.60219249
+mLab,"Software,Distributed Systems,Database",Private,2011,36,118,64.9,https://mlab.com/,"San Francisco, CA",mlab.com,22.60109122
+"Figure 53, LLC","Software,Multimedia",Private,2006,37600,92.7,-,https://figure53.com/,"Baltimore, Maryland",figure53.com,22.60052588
+Web.com,Other,Private,1999,3500,1210,-,https://www.web.com/about-us/careers,,web.com,22.59782757
+Veritas Technologies LLC,Other,Private,1993,7000,2600,-,https://www.veritas.com/company/careers,"Santa Clara, CA",veritas.com,22.59685247
+MobileIron,"Consulting,Security",Public,2007,960,205,-,https://www.mobileiron.com/en/company/careers,"Mountain View, CA",mobileiron.com,22.56953153
+"QuickBase, Inc.","Software,Consulting",Private,1999,315,125,-,https://www.quickbase.com/about-us/careers,"Cambridge, MA",quickbase.com,22.56351158
+Parasoft,Software,Private,1987,250,60.4,-,https://www.parasoft.com/company/careers/,"Monrovia, CA",parasoft.com,22.56252883
+"Monetate, Inc.","Software,Consulting,Networking",Private,2008,220,2,-,https://monetate.com/about/careers/,"New York City, NY",monetate.com,22.56188511
+"Anthem, Inc.",Pharmaceuticals,Public,2004,70600,104,"5,990.00",https://anthemcareers.ttcportals.com/,"Indianapolis, IN",antheminc.com,22.56137245
+Cambridge Semantics,Software,Private,2007,100,13.8,-,https://www.cambridgesemantics.com/about-us/careers/,"Boston, MA",cambridgesemantics.com,22.56094262
+"Quest Visual, Inc.",Software,Private,2009,4,13.4,-,https://www.quest.com/company/careers.aspx,"San Francisco, CA",questvisual.com,22.56008914
+GoodData,Software,Private,2007,290,200,-,https://www.gooddata.com/company/careers,"San Francisco, CA",gooddata.com,22.52379776
+Clarifai,Software,Private,2013,90,41.3,-,https://www.clarifai.com/careers,"New York, NY",clarifai.com,22.52104046
+EVRYTHNG,Other,Private,2011,80,47.3,-,https://apply.workable.com/evrythng/,"New York City, London and San Francisco",evrythng.com,22.52099529
+"SumTotal Systems, Inc.",Software,Public,1985,950,161,-,https://www.sumtotalsystems.com/,"Gainesville, FL",sumtotalsystems.com,22.48915377
+"IceWarp, Inc.","Software,Consulting,Networking,Security",Private,1998,180,9,-,https://www.icewarp.com/segments/education/,"Springfield, VA",icewarp.com,22.48159135
+NetDocuments,Software,Private,1999,160,31.8,-,https://www.netdocuments.com/,"Orem, UT",netdocuments.com,22.48157285
+"Emplify, Inc.",Software,Private,2011,50,68.6,-,https://amplify.com/careers/,"Fishers, Indiana",emplify.com,22.48088173
+ZipBooks,Other,Private,2015,40,78.6,-,https://zipbooks.com/careers/,"Lehi, UT",zipbooks.com,22.48086317
+RightSignature,Other,Private,2009,100,1,-,https://jobs.citrix.com/,"Santa Barbara, CA",rightsignature.com,22.48085747
+"Magoosh, Inc.",Networking,Private,2009,50,10,-,https://magoosh.com/careers/,"Berkeley, CA",magoosh.com,22.48049193
+Thryv,Software,Public,2013,2400,240,-,https://corporate.thryv.com/careers/,North Carolina,thryv.com,22.46201619
+BroadSoft Inc.,"Software,Networking",Private,1998,1600,341,15.5,https://www.cisco.com/c/en/us/about/careers.html,"Gaithersburg, MD",broadsoft.com,22.45588145
+RallyPoint,Networking,Private,2012,150,1700,-,https://www.rallypoint.com/topics/jobs,"Boston, MA",rallypoint.com,22.45258444
+Borland Software Corporation,Software,Private,1983,1100,172,-,https://jobs.microfocus.com/,"Austin, TX",borland.com,22.45050317
+Vertica,Database,Private,2005,275,550,-,https://www.vertica.com/about/careers/,"Cambridge, MA",vertica.com,22.4459983
+"Prolexic Technologies, now part of Akamai","Software,Consulting",Private,2003,7650,2890,478,https://www.akamai.com/us/en/about/careers/,Florida,prolexic.com,22.44431187
+Inedo,"Software,Consulting",Private,2007,320,3,-,https://inedo.com/company/career-culture,"Upper Berea, OH",inedo.com,22.44274259
+BetterCloud,"Software,Networking",Private,2011,280,50,-,https://www.bettercloud.com/careers/,"New York, NY",bettercloud.com,22.4427149
+"Dejal Systems, LLC",Software,Private,1991,250,1,-,https://www.dea.gov/student-entry-level-careers,"Portland, OR",dejal.com,22.44213371
+Ready4,Other,Private,2013,60,9,-,https://www.ready4.com/careers,"Boston, MA",ready4.com,22.44057036
+Publicis Sapient,Other,Public,1990,20000,1310,125,https://careers.publicissapient.com/students,"Boston, MA",publicissapient.com,22.41887846
+Skyward,Software,Private,1980,200,126,-,https://www.skyward.com/working-for-skyward,"Stevens Point, WI",skyward.com,22.40253978
+Lucidworks Inc.,"Software,Consulting,Networking",Private,2007,200,96.7,-,https://lucidworks.com/careers/opportunities/,"San Francisco, CA",lucidworks.com,22.40234488
+"Rediker Software, Inc.",Other,Private,1980,100,18,-,https://www.rediker.com/about-us/careers,"Hampden, MA",rediker.com,22.40097056
+"Jack Henry & Associates, Inc.",Other,Public,1976,6500,1540,392,https://careers.jackhenry.com/,"Monett, MO",jackhenry.com,22.38554736
+"Support.com, Inc.","Software,Networking",Public,1997,1200,60.1,-,https://corporate.support.com/careers/,"Sunnyvale, CA",support.com,22.37060965
+Univa Grid Engine Software,Other,Private,2000,5000,10,-,https://www.univa.com/about/careers.php,"Troy, MI",univa.com,22.36260764
+Condusiv Technologies,Software,Private,1981,250,32.2,-,https://condusiv.com/about/careers/,"Austin, TX",condusiv.com,22.36234125
+Widen,Other,Private,1948,150,21.6,-,https://www.widen.com/careers,"Madison, United States of America",widen.com,22.36141991
+SCVNGR,Other,Private,2008,60,27.4,-,https://careers.grubhub.com/,"Cambridge, MA",scvngr.com,22.36069276
+"SocialFlow, Inc.",Networking,Private,2009,50,35,-,https://www.socialflow.com/company/,"New York, NY",socialflow.com,22.36065823
+SAP Ariba,"Software,Networking",Private,1996,3640,335,-,https://www.ariba.com/about/sap-ariba-careers,"Palo Alto, CA",ariba.com,22.35319832
+"Pingboard, Inc.",Software,Private,2013,11,3200,-,https://pingboard.com/careers,"Austin, TX",pingboard.com,22.34137962
+TheBrain Technologies,Software,Private,1998,450,1,-,https://www.thebrain.com/careers,,thebrain.com,22.32383535
+"Booker Software, Inc.",Other,Private,2007,270,56,-,https://www.booker.com/careers/listing/qa,"New York City, NY",booker.com,22.32266973
+"Cockroach Labs, Inc.",Software,Private,2015,150,27,-,https://www.cockroachlabs.com/careers/,New York City,cockroachlabs.com,22.32145583
+"Telligent, A Verint Company","Software,Networking",Private,2004,100,31,-,https://www.telligent.com/about/join-us/,"Dallas, TX",telligent.com,22.32105703
+InterSystems,Software,Private,1978,1800,720,-,https://www.intersystems.com/who-we-are/careers/,"Cambridge, MA",intersystems.com,22.30010416
+Radius,Software,Private,2009,400,173,-,https://www.kabbage.com/company/careers/,"Waltham, MA",radius.com,22.28455407
+Iteris Inc.,Other,Public,2004,360,114,-,https://www.iteris.com/careers,"Santa Ana, CA",iteris.com,22.28382128
+Claris International Inc.,Software,Private,1998,300,13,-,https://www.claris.com/company/,"Santa Clara, CA",claris.com,22.28263894
+GoGuardian,Software,Private,2014,230,33.5,-,https://www.goguardian.com/careers/,,goguardian.com,22.28217973
+SA International,Software,Private,1978,3500,106,142,https://www.thinksai.com/careers,,thinksai.com,22.27048389
+InterCall,"Software,Networking",Private,1991,4000,2690,-,http://www.intercallapac.com/about-us/careers-test.php,"Chicago, IL",intercall.com,22.25192647
+"Kerio Technologies, Inc.","Software,Consulting,Networking,Security",Private,1997,200,1270,-,http://www.kerio.com/company/careers,"San Jose, CA",kerio.com,22.25014954
+CoverMyMeds,Pharmaceuticals,Private,2008,1000,208,-,https://experience.covermymeds.com/,"Columbus, OH",covermymeds.com,22.24989182
+Fetch Softworks,Software,Private,1989,100,571,-,https://fetchsoftworks.com/,"Etna, New Hampshire",fetchsoftworks.com,22.24464905
+"Infogix, Inc.","Software,Consulting",Private,1982,455,64.6,-,https://www.infogix.com/careers/,"Naperville, IL",infogix.com,22.24430095
+Atlas Games,Other,Private,1990,270,9,-,https://atlas-games.com/jobs,"Saint Paul, MN",atlas-games.com,22.24235709
+RapidSOS,Software,Private,2012,120,44.1,-,https://rapidsos.com/careers/,"New York, NY",rapidsos.com,22.24131434
+FellowshipOne,Software,Private,2003,100,11,-,https://www.fellowshipone.com/careers/,,fellowshipone.com,22.24092399
+"Enigma Technologies, Inc.","Software,Networking",Private,2011,75,30,-,https://enigma.com/careers/openings,"New York, NY",enigma.com,22.24083767
+NextGen Healthcare,"Consulting,Pharmaceuticals",Public,1976,2900,536,-,https://recruiting.adp.com/srccar/public/RTI.home?c=2176107&d=ExternalCareerSite,"Irvine, CA",nextgen.com,22.22823926
+StarWind Software Inc.,Software,Private,2003,230,38.6,-,https://www.starwindsoftware.com/careers,"Middleton, MA",starwindsoftware.com,22.20221365
+ObjectSecurity,"Consulting,Security",Private,2000,500,32,-,https://objectsecurity.com/careers/,"San Diego, CA",objectsecurity.com,22.16446697
+HelloWallet,"Software,Finance",Private,2009,60,162,-,https://www.key.com/to/obi+careers,"Washington, DC",hellowallet.com,22.1615881
+"Evergage, Inc.","Software,Consulting,Networking",Private,2010,90,19,-,https://www.salesforce.com/company/careers/?d=70130000000i80S,"Somerville, MA",evergage.com,22.16089213
+Tech Data Corporation,"Software,Consulting,E-Commerce,Electronics",Private,1974,14000,36.8,410,https://www.techdata.com/careers.html,"Clearwater, FL",techdata.com,22.15935993
+"MedAssets, Inc","Software,Pharmaceuticals",Public,1999,3400,450,-,https://www.nthrive.com/careers/,"Alpharetta, GA",nthrive.com,22.15192131
+"FiscalNote, Inc.",Software,Private,2013,475,20,-,https://careers.fiscalnote.com/positions/,"Washington, D.C",fiscalnote.com,22.12417444
+"Guidance Software, Inc.",Consulting,Private,1997,371,91.9,-,https://www.careerbliss.com/guidance-software/,"Pasadena, CA",guidancesoftware.com,22.12376786
+"Miva, Inc.",Software,Private,1996,120,21.6,-,https://www.miva.com/company/careers,"San Diego, CA",miva.com,22.12116467
+TippingPoint,"Networking,Electronics",Private,2005,700,44.3,-,https://tippingpoint.org/jobs,"San Francisco, CA",tippingpoint.org,22.08625044
+Green Hills Software Inc.,Software,Private,1982,300,1,-,https://www.ghs.com/jobs_usa.html,"Santa Barbara, CA",ghs.com,22.08255912
+Magaya Corporation,"Software,Travel",Private,2001,120,17.4,-,https://www.magaya.com/careers/,"Miami, Florida",magaya.com,22.08113673
+The Echo Nest Ltd.,Multimedia,Private,2005,65,25.6,-,https://angel.co/company/echonest,"Somerville, MA",echonest.com,22.08072332
+DataArt Solutions Inc,Other,Private,1997,3000,140,-,https://www.dataart.com/about-dataart/careers,"New York, NY",dataart.com,22.06645594
+"Guidewire Software, Inc.",Software,Public,2001,2500,742,-,https://careers.guidewire.com/students-graduates,"San Mateo, CA",guidewire.com,22.06620626
+"Lionbridge Technologies, Inc.",Software,Private,1996,6000,705,-,https://www.lionbridge.com/join-our-team/,"Waltham, MA",lionbridge.com,22.05573893
+"Ultimate Software Group, Inc.","Software,Consulting",Private,1990,5150,940,-,http://m.ultimatesoftware.com/careers-at-ultimate,"Weston, FL",ultimatesoftware.com,22.05007013
+Good Technology,Software,Private,1996,150,212,-,https://www.blackberry.com/us/en/company/careers,"Sunnyvale, California",good.com,22.04268643
+ShopKeep,Other,Private,2008,200,50,-,https://www.shopkeep.com/careers,"New York, NY",shopkeep.com,22.04203424
+"WANdisco, plc.","Software,Distributed Systems,Data Analytics",Public,2005,180,16,-,https://wandisco.com/company/careers,"San Ramon, CA",wandisco.com,22.04163791
+NuSphere,Other,Private,2001,130,24,-,http://www.nusphere.com/about/careers.htm,"Reno, Nevada",nusphere.com,22.04126571
+"Clarizen, Inc.",Software,Private,2006,60,35.4,-,https://www.clarizen.com/about/careers/,"San Mateo, CA",clarizen.com,22.04074597
+Upland Software,Other,Public,-,-,-,-,https://uplandsoftware.com/about-upland/careers/,,uplandsoftware.com,22.04
+Enterasys Networks,"Software,Networking",Private,1983,2750,12.9,-,https://www.extremenetworks.com/company/careers/,"San Jose, CA",enterasys.com,22.02348343
+Fungible Inc.,Software,Private,2015,200,10.2,-,https://www.fungible.com/careers/,"Santa Clara, CA",fungible.com,22.00176949
+Platfora,Data Analytics,Private,2011,125,17,-,https://angel.co/company/platfora,"San Mateo, CA",platfora.com,22.00117661
+OpenEye Scientific Software,"Software,Pharmaceuticals",Private,1997,100,10.4,,https://www.eyesopen.com/careers,"Santa Fe, NM",eyesopen.com,22.00092
+High Fidelity,Other,Private,2013,40,47.9,-,https://jobs.lever.co/highfidelity,"San Francisco, CA",highfidelity.com,22.00065895
+"Cyfe, Inc.",Software,Private,2012,20,2,-,https://angel.co/company/cyfe/jobs,"Los Angeles, CA",cyfe.com,22.00018347
+"Integrated Computer Solutions, Inc.",Software,Private,1987,100,9970,-,https://icsinc.com/careers/,"Waltham, MA",ics.com,21.98717011
+Veeva Systems Inc.,Software,Public,2007,2400,378,-,https://www.veeva.com/meet-veeva/careers/,"Pleasanton, CA",veeva.com,21.98293415
+Humanyze,"Software,Networking,Electronics",Private,2010,60,8800,-,https://www.humanyze.com/careers/,"Boston, MA",humanyze.com,21.97904708
+FinancialForce,Software,Private,2009,750,140,-,https://www.financialforce.com/about/careers/,"San Francisco, CA",financialforce.com,21.96731243
+CloudHealth by VMware,Software,Private,2012,280,500,-,https://www.cloudhealthtech.com/careers,"Boston, MA",cloudhealthtech.com,21.96570825
+"Twocanoes Software, LLC",Software,Private,2012,5,391,-,https://twocanoes.com/jobs/,"Naperville, IL",twocanoes.com,21.96260089
+"Optoro, Inc.","Software,Travel",Private,2004,240,50,-,https://www.optoro.com/careers/,"Washington, DC",optoro.com,21.96237457
+SalesforceIQ,Other,Public,2011,130,69,-,https://www.salesforce.com/company/careers/,"San Francisco, CA",salesforceiq.com,21.96156505
+Moovweb,Distributed Systems,Private,2009,90,12.9,-,https://www.moovweb.com/jobs,"San Francisco, CA",moovweb.com,21.96085155
+DeLorme,Software,Private,1976,75,18.2,-,https://careers-us.garmin.com/us/en/,"Yarmouth, ME",delorme.com,21.96075918
+"Portalarium, Inc.","Networking,Multimedia",Private,2009,30,5,-,https://www.builtinaustin.com/company/portalarium/jobs,"Austin, TX",portalarium.com,21.96028851
+DreamFactory Software,Software,Private,1998,4000,10,-,https://www.dreamfactory.com/company/careers/,"Las Vegas, NV",dreamfactory.com,21.95409942
+Learning Tree International,Other,Private,1974,660,64.3,-,https://www.learningtree.com/careers/,"Herndon VA, USA",learningtree.com,21.92604314
+Kareo,Other,Private,2004,620,50,-,https://www.kareo.com/careers,"Irvine, CA",kareo.com,21.92560769
+"Moxie Software, Inc.",Software,Private,2006,220,222,-,https://moxiesoftware.recruitee.com/,"Mountain View, California",moxiesoft.com,21.92334853
+"Electric Cloud, Inc.",Software,Private,2002,100,145,-,http://electric-cloud.com/company/careers/?p=job%2FoNpV2fwT,"Sunnyvale, CA",electric-cloud.com,21.92181535
+"SocialChorus, Inc.",Software,Private,2008,150,30,-,https://socialchorus.com/company/careers/,"San Francisco, CA",socialchorus.com,21.92147579
+Engagio Inc.,Software,Private,2015,60,7,-,https://www.engagio.com/careers/,"San Mateo, CA",engagio.com,21.92055706
+Predixion Software,"Software,Data Analytics",Private,2009,50,10,-,https://greenwavesystems.com/about/careers,"Irvine, CA",greenwavesystems.com,21.92049193
+Workiva Inc.,"Software,Distributed Systems",Public,2008,1420,298,-,https://www.workiva.com/careers,"Ames, IA",workiva.com,21.89406394
+Blackline,Software,Public,2001,1055,289,-,https://www.blackline.com/careers/,"Los Angeles, CA",blackline.com,21.89089857
+StrongLoop,Other,Private,2012,500,8,-,https://www.linkedin.com/company/strongloop-inc-,,strongloop.com,21.88430733
+Netwrix,"Software,Consulting",Private,2006,360,51.8,-,https://www.netwrix.com/careers.html,"Irvine, CA",netwrix.com,21.88340753
+WibiData,Software,Private,2010,250,5,-,https://wibidata.recruiterbox.com/,"San Francisco, CA",wibidata.com,21.88216032
+"XebiaLabs, Inc.",Software,Private,2008,150,100,-,https://www.linkedin.com/company/xebialabs,"Burlington, MA",xebialabs.com,21.88194142
+SoGoSurvey,Networking,Private,2013,90,164,-,https://www.sogosurvey.com/career-opportunities/,"Herndon, VA",sogosurvey.com,21.88185665
+Gupshup,Software,Private,2004,140,50,-,https://www.gupshupnyc.com/jobs/,"San Francisco, CA",gupshup.io,21.88152375
+FastSpring,Other,Private,2005,100,95,-,https://fastspring.com/company/careers/,"Santa Barbara, CA",fastspring.com,21.88148275
+"Terracotta, Inc.",Software,Private,2003,100,57,-,https://www.terracottagroup.com/careers/,,terracotta.org,21.88122998
+"Lynx Software Technologies, Inc",Software,Private,1988,110,15.1,,https://www.lynx.com/careers,"San Jose, CA",lynx.com,21.88103635
+"Nuesoft Technologies, Inc.","Consulting,Pharmaceuticals",Private,1993,60,23,-,https://www.nuemd.com/,"Atlanta, GA",nuemd.com,21.88066349
+JanusVR,Other,Private,2015,100,1580,-,https://www.mckinsey.com/careers/students,,janusvr.com,21.8513608
+Varonis Systems,Software,Public,2005,1000,217,-,https://info.varonis.com/careers?p=jobs&error=301&nl=1,,varonis.com,21.84995168
+Nodejitsu,Other,Private,2010,250,192,-,https://lensa.com/nodejitsu/jobs/c/90a66401744bf3756b646ba30abf2518cf6e8659,,nodejitsu.com,21.84340422
+Cleo,Software,Private,1976,300,40,,https://hicleo.com/careers/,"Rockford, IL",cleo.com,21.84281854
+Trumpia,Software,Private,2006,80,125,-,https://www.trumpia.com/about-us/our-company,,trumpia.com,21.84151214
+NuoDB,"Software,Database",Private,2008,85,6,-,https://nuodb.com/about/careers,,nuodb.com,21.84076311
+"GenArts, Inc.",Software,Private,1996,50,-,-,https://borisfx.com/company/careers/,"Cambridge, MA",genarts.com,21.84042541
+Oracle Bronto,Social media,Public,2002,400,80,-,https://bronto.com/,"Redwood City, CA",bronto.com,21.80393544
+rewardStyle,"Software,Networking",Private,2011,250,4,-,https://about.rewardstyle.com/careers,Dallas Texas,rewardstyle.com,21.80215366
+"Fixstars Solutions, Inc.",Software,Private,2008,180,46,-,https://angel.co/company/fixstars-solutions/jobs,,fixstars.com,21.80183747
+Bromium,Software,Private,2010,120,120,-,https://www.bromium.com/careers/,"Cupertino, CA",bromium.com,21.80181921
+Epicor,Software,Private,1972,4100,900,-,https://jobs.epicor.com/,,epicor.com,21.80087042
+Forward Networks,Other,Private,2013,40,29.5,-,https://forwardnetworks.com/about/careers/,"Palo Alto, CA",forwardnetworks.com,21.80053656
+Datalight,Software,Private,1983,30,-,-,https://www.indeed.com/cmp/Datalight,"Espoo, Finland",datalight.com,21.80025525
+Spatial Corp.,Software,Private,1986,75,7830,-,https://www.spatial.com/company/careers,"New York, NY",spatial.com,21.77272237
+"Comverse Technology, Inc.",Software,Private,-,4500,1590,-,https://www.zippia.com/comverse-careers-995903/,,mavenir.com,21.76886351
+Masergy Communications,Software,Private,2000,700,300,-,https://www.masergy.com/careers,"Plano, TX",masergy.com,21.76795132
+Tricentis,"Software,Consulting",Private,2007,750,100,-,https://www.tricentis.com/company/careers/,,tricentis.com,21.76704636
+Dialogic,Networking,Private,1983,550,63,-,https://www.dialogic.com/careers,"Milpitas, CA",dialogic.com,21.76509859
+Versant Object Database,Other,Private,1988,500,25.3,-,https://versanthealth.com/careers/,"Linthicum, MD",versant.com,21.7644224
+Revolution Analytics,Software,Private,2007,340,11,-,https://jobs.revolution.com/,"Mountain View, CA",revolutionanalytics.com,21.76296597
+Insilico Medicine,"Software,Pharmaceuticals",Private,2014,70,10.9,-,https://insilico.com/career,,insilicomedicine.com,21.76066808
+EnterpriseAlumni Inc.,Software,Private,2016,40,6,-,https://enterprisealumni.com/careers/,"Los Angeles, CA",enterprisealumni.com,21.76038024
+"Diffeo, Inc.",Software,Private,2012,25,-,-,https://angel.co/company/diffeo/jobs,"Cambridge, MA",diffeo.com,21.76021271
+Mavenir,"Software,Networking",Private,2017,3300,108,-,https://mavenir.com/about/,"Richardson, TX",mavenir.com,21.74879554
+"CyberArk Software, Inc.",Software,Public,1999,1380,343,90,https://careers.cyberark.com/,"Newton, MA",cyberark.com,21.73402295
+Intetics,"Software,Consulting",Private,1995,700,14.4,-,https://intetics.com/careers,"Naples, FL",intetics.com,21.72605154
+Sonic Foundry Inc.,"Software,Consulting",Private,1991,250,5600,-,https://sonicfoundry.com/careers/,"Madison, WI",sonicfoundry.com,21.71937761
+Railinc Corporation,Software,Private,1998,2500,12,-,http://public.railinc.com/careers/university-recruiting,"Cary, NC",railinc.com,21.70135038
+Convoy,Software,Private,2015,1000,500,,https://convoy.com/convoy-careers/,"Seattle, WA",convoy.com,21.69183417
+"HelpSystems, LLC",Other,Private,1982,950,250,-,https://www.helpsystems.com/about/careers,"Minneapolis, MN",helpsystems.com,21.68974578
+MontaVista Software.,"Software,Networking",Private,1999,250,276,,https://mvhs.fuhsd.org/guidance-student-support/college-career-planning/college-career-center,"San Jose, CA",mvista.com,21.68396298
+"Rogue Wave Software, Inc.",Other,Private,1989,400,79.5,-,https://www.roguewave.com/products-services/student-request-form,"Louisville, CO",roguewave.com,21.68393211
+Broadleaf Commerce,E-Commerce,Private,2008,450,7,-,https://www.broadleafcommerce.com/careers,"Dallas, Texas",broadleafcommerce.com,21.68387526
+Precise Software Solutions,Software,Private,1990,420,26,,https://www.precise-soft.com/careers,"Houston, TX",precise.com,21.6837464
+"Xinuos, Inc.",Software,Private,2011,200,150,-,https://www.xinuos.com/careers-overview/,"Berkeley, CA",xinuos.com,21.68269943
+TeamQuest Corporation,"Software,Consulting",Private,1991,200,18,-,https://www.team-quest.org/jobs,"Eden Prairie, MN",helpsystems.com,21.68182138
+RainStor,"Software,Consulting",Private,2003,200,12,-,https://www.mckinsey.com/careers/students,"San Francisco, CA",rainstor.com,21.68178147
+Handmark,Other,Private,2000,100,11,-,https://www.lockheedmartinjobs.com/college-students,"Kansas City, MO",handmark.com,21.68092399
+QC Ware,Other,Private,2014,30,3,,https://qcware.com/qc-ware-job-opening-quantum-algorithms-intern/,"San Francisco, CA",qcware.com,21.6802752
+QAD Inc.,Software,Public,1979,1950,333,-,https://www.qad.com/about/careers,"Santa Barbara, CA",qad.com,21.65880612
+Daintree Networks,Networking,Private,2003,10,7780,-,https://www.gecurrent.com/careers,"Los Altos, CA",daintree.net,21.65183675
+CallMiner,Software,Private,2002,250,52,-,https://careers.callminer.com/,"Fort Myers, FL",callminer.com,21.64247295
+CTERA,"Distributed Systems,Database,Networking",Private,2008,160,23,-,https://www.ctera.com/company/careers/,"New York, NY",ctera.com,21.64151431
+Pervasive Software Inc.,Software,Private,1994,10,47.2,-,"https://www.glassdoor.com/Job/pervasive-software-jobs-SRCH_KE0,18.htm","Redwood City, CA",pervasive.com,21.64039905
+"Collaborative Drug Discovery, Inc.",Other,Private,2004,30,11,-,https://www.collaborativedrug.com/about/careers/,"Burlingame, CA",collaborativedrug.com,21.64032842
+Windward Studios,Software,Private,1996,30,6,-,https://www.windwardstudios.com/company/careers,"Boulder, CO",windwardstudios.com,21.64029516
+Walker Digital LLC,Other,Private,1994,10,13,-,walkerdigital.com,"Stamford, CT",walkerdigital.com,21.64017156
+Kamakura Corporation,Software,Private,1990,25,3490,-,http://www.kamakuraco.com/company/careers.aspx,,kamakuraco.com,21.62342778
+Digital River,E-Commerce,Private,1994,1239,371,-,https://www.digitalriver.com/careers/,"Minnetonka, MN",digitalriver.com,21.61300954
+Dimensional Insight,Other,Private,1989,110,1300,-,https://www.dimins.com/business-intelligence-jobs/,"Burlington, MA",dimins.com,21.60958335
+WebAssist.com Corporation,Software,Private,1999,20,391,-,https://www.linkedin.com/company/webassist,"San Diego, CA",webassist.com,21.60277105
+Inbenta,"Software,Consulting,Networking,Artificial Intelligence",Private,2005,165,14.2,,https://www.inbenta.com/en/about-us/careers/,,inbenta.com,21.60149831
+Quid Inc.,Other,Private,2010,125,24.3,-,https://quid.com/careers-2/,"San Francisco, CA",quid.com,21.60122517
+"Integration Point, Inc.",Other,Private,2002,100,19.4,-,https://www.thomsonreuters.com/en/careers.html,"Charlotte, NC",integrationpoint.com,21.60097987
+RenderX,Software,Private,1999,100,17,-,http://www.renderx.com/,"Palo Alto, CA",renderx.com,21.6009639
+Timesys Corporation,Software,Private,1996,50,29.5,-,https://www.timesys.com/about-us/careers/,"Pittsburgh, PA",timesys.com,21.60062164
+RadView Software,Software,Public,1993,15,7,-,https://www.radview.com/company/careers/,,radview.com,21.60017419
+Intergraph Corporation,Software,Private,1969,4000,808,-,https://hexagonppm.com/about/careers,"Madison, AL",hexagonppm.com,21.59940762
+Information Builders (ibi),Software,Private,1975,1400,315,-,https://www.ibi.com/careers/,"New York, NY",ibi.com,21.57400686
+Reaction Design,Other,Private,1997,50,1200,-,https://www.ansys.com/about-ansys/careers,"San Diego, CA",reactiondesign.com,21.56840767
+Zylog Systems Limited,Consulting,Public,1995,697,102,313,https://www.zsl.org/about-us/jobs,,zsl.com,21.56660872
+"Mediapolis, Inc.","Software,Networking",Private,1995,10,774,-,mediapolis.com,"New York City, NY",mediapolis.com,21.56523364
+Tufin,"Consulting,Networking,Security",Public,2005,400,38,-,https://www.tufin.com/careers,"Boston, MA",tufin.com,21.56365606
+"Dimdim, Inc.",Software,Private,2006,200,9,-,https://www.salesforce.com/company/careers/?d=70130000000i80S,"Boston, MA",dimdim.com,21.56176151
+Vicarious,Artificial Intelligence,Private,2010,120,17.8,-,https://www.vicarious.com/careers/,"San Francisco, CA",vicarious.com,21.56113939
+"CloudSight, Inc.","Software,Networking",Private,2012,50,2,-,https://angel.co/company/cloudsightai/jobs,"Los Angeles, CA",cloudsight.ai,21.56043872
+Lavastorm,"Software,Networking,Data Analytics",Private,1993,20,35,-,https://www.infogix.com/careers/,"Boston, MA",lavastorm.com,21.56040298
+Pristine.io,Multimedia,Private,2013,20,17.5,-,https://www.builtinaustin.com/company/pristineio,"Austin, TX",pristine.io,21.56028657
+SelfCAD,Other,Private,2015,20,3,-,https://www.selfcad.com/,"Greater New York Area, NY",selfcad.com,21.56019012
+Witlingo Inc.,Other,Private,2016,10,1,-,https://www.witlingo.com/about/,"Washington, DC",witlingo.com,21.56009173
+UNICOM Global,"Software,Consulting",Private,1981,1000,508,-,https://www.unicomglobal.com/opportunities/,"Mission Hills, CA",unicomglobal.com,21.53188738
+Telogis,Software,Private,2001,500,100,-,https://www.verizon.com/about/careers/college-students,"Aliso Viejo, CA",telogis.com,21.5249193
+Numerix LLC,Software,Private,1996,300,67.3,-,https://www.numerix.com/careers,"New York, NY",numerix.com,21.52300014
+Blitz,Software,Private,2006,200,11,-,https://blitz.com/,,blitz.io,21.52177482
+Imply,Software,Private,2015,150,20.2,-,https://imply.io/careers,"Burlingame, CA",imply.io,21.5214106
+BenchPrep,Other,Private,2009,140,22.3,-,https://benchprep.com/,"Chicago, IL",benchprep.com,21.52133949
+"Open iT, Inc.",Software,Private,1999,132,21,-,https://openit.com/about-us/careers/,,openit.com,21.52126278
+Casebook PBC,"Software,Consulting,Distributed Systems",Public,2017,100,7,-,https://www.casebook.net/jobs/,"New York, NY",casebook.net,21.52089739
+"Sealevel Systems, Inc.","Software,Electronics",Private,1986,60,15,-,https://www.sealevel.com/company/careers/,"Liberty, South Carolina",sealevel.com,21.52061027
+Talygen Inc.,"Software,Consulting,Networking",Private,2009,50,7,-,https://talygen.com/,"Palo Alto, CA",talygen.com,21.52047197
+"IntervalZero, Inc.",Software,Private,2008,50,6,-,https://www.intervalzero.com/company/careers/,"Waltham, MA",intervalzero.com,21.52046532
+"Objective Interface Systems, Inc.","Software,Electronics",Private,1989,40,8,-,http://www.ois.com/About-Us/careers.html,"Herndon, VA",ois.com,21.52039354
+Rocketium Technologies Pvt. Ltd.,"Consulting,Multimedia",Private,2015,25,6,-,https://angel.co/company/rocketium/jobs,,rocketium.com,21.52025262
+Keap,E-Commerce,Private,2001,650,100,-,https://keap.com/about/careers,,keap.com,21.48619553
+Netcracker Technology,"Software,Consulting",Private,1993,-,-,-,https://www.netcracker.com/careers/,,netcracker.com,21.48
+Yap Inc.,Networking,Private,-,-,-,-,http://yapinc.org/jobs,,yapinc.org,21.48
+Pyze,Software,Private,2013,-,-,-,https://www.pyze.com/careers/,"Redwood City, California",pyze.com,21.44
+PROS,Software,Public,-,-,-,-,https://pros.com/about-pros/careers/students-opportunities/,,pros.com,21.44
+ImageSource Inc.,Other,Private,-,-,-,-,https://imagesourceinc.com/career/,,imagesourceinc.com,21.44
+Kurzweil Education (formerly Kurzweil Educational Systems),Software,Private,-,-,-,-,https://www.kurzweiledu.com/about-kurzweil/careers.html,,kurzweiledu.com,21.44
+Globalscape,"Consulting,Networking,Security",Public,-,-,-,-,https://www.globalscape.com/careers,,globalscape.com,21.4
+SQLstream,Other,Private,-,-,-,-,https://sqlstream.com/company/careers/,,sqlstream.com,21.4
+Buildium,Other,Private,-,-,-,-,https://www.buildium.com/careers/,,buildium.com,21.4
+"Zumobi, Inc",Social media,Private,-,-,-,-,https://www.builtinseattle.com/company/zumobi/jobs,,zumobi.com,21.4
+"Venafi, Inc","Software,Consulting,Networking,Security",Private,-,-,-,-,https://www.venafi.com/careers,,venafi.com,21.4
+Planview,Software,Private,-,900,-,-,https://www.planview.com/company/careers/,,planview.com,21.3676574
+Voxeet,Software,Private,-,-,-,-,https://angel.co/company/voxeet/jobs,,voxeet.com,21.36
+Sarnoff Corporation,"Software,Consulting,Electronics",Private,-,-,-,-,https://www.indeed.com/cmp/Sarnoff-Corporation,,sarnoff.com,21.36
+OpenGov,Other,Private,-,250,-,-,https://www.opm.gov/policy-data-oversight/hiring-information/students-recent-graduates/,,opengov.com,21.32212706
+Kulabyte Corporation,"Software,Multimedia",Private,-,-,-,-,https://www.haivision.com/about/careers/,,haivision.com,21.32
+eVoice,Other,Private,-,-,-,-,https://www.indeed.com/q-Automated-Voice-jobs.html,,evoice.com,21.32
+"SS&C Technologies, Inc.",Software,Public,-,22600,6360,-,https://www.ssctech.com/about-us/careers/recent-graduates,,ssctech.com,21.31459186
+"SAP Fieldglass, Inc.",Software,Private,-,1000,-,-,https://www.fieldglass.com/company/careers,,fieldglass.com,21.28850822
+"Smith Micro Software, Inc",Software,Public,-,160,26.3,-,https://www.smithmicro.com/careers/,,smithmicro.com,21.28153626
+Bloomfire,Software,Private,2010,-,-,-,https://bloomfire.com/,"Austin, Texas",bloomfire.com,21.28
+Revionics,Other,Private,-,0,-,-,https://revionics.com/careers/,,revionics.com,21.28
+SignalFx,Other,Private,2013,200,-,-,https://www.indeed.com/q-Signalfx-jobs.html,,signalfx.com,21.24170164
+FloQast,Software,Private,2013,150,-,-,https://floqast.com/company/careers/,"Los Angeles, California Los Angeles California United States U.S.",floqast.com,21.24127623
+Sansar,Other,Private,-,-,-,-,https://www.sansar.com/,,sansar.com,21.24
+TrackingPoint,Software,Private,-,-,-,-,https://www.tracking-point.com/careers/,,tracking-point.com,21.24
+Invite Media,Social media,Private,-,-,-,-,http://www.invitemedia.com/careers/open_positions.html,,invitemedia.com,21.24
+FalconStor Software,Software,Public,-,-,-,-,https://www.falconstor.com/careers/,,falconstor.com,21.24
+NetMotion Software,Software,Private,-,130,-,-,https://www.netmotionsoftware.com/culture-values-careers,,netmotionsoftware.com,21.20110607
+Modernizing Medicine,Software,Private,2010,-,-,-,https://www.modmed.com/company/careers/,,modmed.com,21.2
+"ClickSoftware, A Salesforce Company",Software,Public,-,700,126,-,https://www.salesforce.com/company/careers/,,clicksoftware.com,21.16679389
+Callidus Software Inc.,Software,Private,-,1,253,-,https://www.sap.com/about/careers.html,,calliduscloud.com,21.16168293
+Digital Reasoning,Other,Private,-,-,-,-,https://digitalreasoning.com/careers/,,digitalreasoning.com,21.16
+Devicescape,Software,Private,-,-,-,-,http://www.devicescape.com/open-positions/,,devicescape.com,21.12
+Cherwell Software,Software,Private,-,-,-,-,https://www.cherwell.com/about/careers/,,cherwell.com,21.12
+Infinidat,Database,Private,-,-,-,-,https://hiring.infinidat.com/,,infinidat.com,21.12
+"DeepScale, Inc.",Other,Private,-,-,-,-,http://deepscale.ai/careers/,,deepscale.ai,21.12
+"Envivio, Inc.","Software,Multimedia",Public,-,500,50.6,-,https://www.indeed.com/cmp/Envivio,,envivio.com,21.0845907
+"ecoATM, LLC",Other,Private,2008,300,26.1,-,https://www.ecoatm.com/pages/careers,,ecoatm.com,21.08272608
+Lightspeed Systems,Other,Private,-,-,-,-,https://www.lightspeedsystems.com/company/careers/,,lightspeedsystems.com,21.08
+Dealpath,"Software,Real Estate",Private,2014,-,-,-,https://www.dealpath.com/careers/,"San Francisco, CA",dealpath.com,21.08
+Traction Software,Software,Private,-,-,-,-,http://tractionsoftware.com/contact,,tractionsoftware.com,21.08
+"Plex Systems, Inc.",Software,Private,1995,-,-,-,https://www.plex.tv/about/careers/,,plex.com,21.08
+"GrammaTech, Inc.","Software,Consulting",Private,-,-,-,-,https://www.grammatech.com/careers,,grammatech.com,21.08
+Zadara Storage,Database,Private,-,-,-,-,https://www.zadara.com/about/careers/,,zadara.com,21.08
+Hoopla Software,Software,Private,2010,35,-,-,https://www.hoopla.net/careers/,,hoopla.net,21.04029779
+LunarG,Software,Private,2009,-,-,-,https://www.lunarg.com/about/careers/,Colorado United States,lunarg.com,21.04
+Koombea,Software,Private,-,-,-,-,https://www.koombea.com/careers/,,koombea.com,21.04
+"Matroid, Inc.",Software,Private,-,-,-,-,https://angel.co/company/matroid,,matroid.com,21.04
+"No Magic, Inc.",Software,Private,1995,-,-,-,https://www.nomagic.com/component/k2/itemlist/category/4-internship-program,,nomagic.com,21.04
+MiMedia,Other,Private,-,-,-,-,https://angel.co/company/mimedia/jobs,,mimedia.com,21.04
+"Hyland Software, Inc.",Software,Private,-,3500,-,-,https://www.hyland.com/en/careers,,hyland.com,21.02977879
+Perceptive Software,Other,Private,-,900,-,-,https://www.hyland.com/en/careers,,hyland.com,21.0076574
+Xactly Corporation,Software,Private,-,500,-,-,https://www.xactlycorp.com/company/careers,,xactlycorp.com,21.00425411
+Strata,Social media,Public,-,240,-,-,https://www.stratadecision.com/careers/,,stratadecision.com,21.00204197
+Red Touch Media,Other,Private,-,60,-,-,https://www.redtouchmedia.com/about/jobs/,,redtouchmedia.com,21.00051049
+Mindgrub Technologies,Other,Private,2002,-,-,-,https://www.mindgrub.com/careers,,mindgrub.com,21
+"Logi Analytics, Inc",Data Analytics,Private,-,-,-,-,https://www.logianalytics.com/company/careers/,,logianalytics.com,21
+PrepMe LLC,Networking,Private,-,-,-,-,https://www.linkedin.com/company/prepme,,prepme.com,21
+Blackboard,Software,Private,-,3000,700,-,https://careers.blackboard.com/,,careers.blackboard.com,20.99018099
+Serena Software Inc.,"Software,Consulting",Private,-,400,219,-,https://www.ziprecruiter.com/Jobs/Serena-Software,,serena.com,20.96486005
+Turbonomic,"Software,Consulting,Artificial Intelligence",Private,-,553,-,-,https://www.turbonomic.com/company/careers/,,turbonomic.com,20.96470505
+"Skytap, Inc.",Other,Private,-,100,-,-,https://www.skytap.com/careers/,,skytap.com,20.96085082
+GridPoint,Other,Private,-,-,-,-,https://www.gridpoint.com/careers/,,gridpoint.com,20.96
+SourceClear,Other,Private,2013,-,-,-,"https://www.glassdoor.com/Overview/Working-at-SourceClear-EI_IE887705.11,22.htm",,srcclr.com,20.96
+"ZeroC, Inc.",Software,Private,2002,-,-,-,https://zeroc.com/jobs,,zeroc.com,20.96
+Eze Castle Integration,Consulting,Private,-,700,-,-,https://www.eci.com/about-us/careers/,,eci.com,20.92595576
+"QxBranch, Inc.",Software,Private,-,15,-,-,https://careers.smartrecruiters.com/QxBranch,,qxbranch.com,20.92012762
+"CloudEndure, Inc.","Software,Consulting,Distributed Systems",Private,-,-,-,-,https://www.cloudendure.com/,,cloudendure.com,20.92
+"Medidata Solutions, Inc.",Software,Private,-,1998,636,-,https://www.medidata.com/en/careers/,,medidata.com,20.90123003
+Virtusa Corporation,"Software,Consulting",Public,-,20000,1020,-,https://mycareer.virtusa.com/jobs/,,virtusa.com,20.89694941
+"Sage Intacct, Inc",Software,Private,-,-,-,-,https://jobs.jobvite.com/sage-intacct,,sageintacct.com,20.88
+jKool,Consulting,Private,2014,-,-,-,https://www.linkedin.com/company/jkool,,jkoolcloud.com,20.88
+Kinoma,Software,Private,-,15,-,-,"https://www.glassdoor.com/Jobs/Kinoma-US-Jobs-EI_IE24365.0,6_IL.7,9_IN1.htm",,kinoma.com,20.84012762
+Jadu,Software,Private,-,-,-,-,https://www.jadu.net/careers,,jadu.net,20.84
+Precisely,Other,Private,-,2000,-,-,https://www.precisely.com/careers-and-culture,,precisely.com,20.81701645
+"Mitchell International, Inc.",Software,Private,-,1700,-,-,https://www.mitchell.com/careers,,mitchell.com,20.81446398
+Smarsh,Software,Private,2001,620,111,-,https://www.smarsh.com/careers/,,smarsh.com,20.76601346
+Opendatasoft,Data Analytics,Private,2011,50,-,-,"https://www.glassdoor.com/Overview/Working-at-Opendatasoft-EI_IE2127697.11,23.htm","Boston, MA and Paris, France",opendatasoft.com,20.76042541
+Kenandy Inc.,Distributed Systems,Private,2010,-,-,-,https://www.kenandy.com/careers/,,kenandy.com,20.76
+"SALVAGEDATA Recovery, Inc.",Consulting,Private,2003,-,-,-,"https://www.glassdoor.com/Overview/Working-at-SalvageData-EI_IE963554.11,22.htm",,salvagedata.com,20.76
+"Deacom, Inc.",Other,Private,-,165,-,-,https://deacom.com/careers,,deacom.com,20.72140386
+"Leadspace, Inc.",Software,Private,-,-,-,-,https://www.leadspace.com/careers/,,leadspace.com,20.72
+"Dieselpoint, Inc.","Software,Consulting",Private,-,-,-,-,http://dieselpoint.com/careers/index.html,,dieselpoint.com,20.72
+Search Technologies Corp.,"Software,Consulting",Private,-,-,-,-,https://careers.smartrecruiters.com/SearchTechnologies,,searchtechnologies.com,20.72
+"KANA Software, Inc.",Software,Private,-,350,100,-,https://www.zippia.com/kana-software-careers-28371/,,kana.com,20.68364307
+"SilkRoad Technology, Inc.",Software,Private,-,300,-,-,https://silkroadtechnology.com/careers/,,silkroad.com,20.68255247
+"DaySmart Software, Inc.",Software,Private,-,61,-,-,http://careers.daysmart.com/,,daysmart.com,20.680519
+"Semantria, Inc.",Software,Private,-,-,-,-,https://www.lexalytics.com/students-trial-signup,,lexalytics.com,20.68
+Seven Network,Other,Private,-,-,-,-,https://www.seven.com/careers.php,,seven.com,20.68
+ShipWorks,E-Commerce,Private,-,-,-,-,https://www.shipworks.com/blog/we-are-hiring-st-louis-software-company/,,shipworks.com,20.64
+Instabase,Software,Private,-,-,-,-,https://about.instabase.com/careers/,,instabase.com,20.64
+"Redcort Software, Inc.",Software,Private,-,-,-,-,https://www.redcort.com/careers,,redcort.com,20.64
+"Levi, Ray & Shoup, Inc.",Software,Private,-,630,-,-,https://jobs.lrs.com/,,lrs.com,20.60536018
+Skyhook,Other,Private,-,75,-,-,https://www.skyhook.com/careers,,skyhook.com,20.60063812
+Vesess,"Software,Networking",Private,2004,-,-,-,https://www.vesess.com/careers/,,vesess.com,20.6
+Meta SaaS,Software,Private,-,-,-,-,https://angel.co/company/metasaas/jobs?src=rec,,metasaas.com,20.6
+IGG Software Inc.,Software,Private,-,9,-,-,https://www.iggsoftware.com/about.php,,iggsoftware.com,20.6
+Raindance Communications,"Software,Networking",Private,-,-,-,-,https://www.raindance.org/london/our-fabulous-interns/,,raindance.com,20.6
+GroupLogic,Software,Private,-,40,-,-,https://angel.co/company/grouplogic,,grouplogic.com,20.56034033
+Visio Corporation,Software,Private,1989,-,-,-,https://careers.vizio.com/,,visio.com,20.56
+"Impetus Technologies, Inc.",Software,Private,1991,1600,60,-,https://www.impetus.com/careers,,impetus.com,20.53401227
+Daily Journal Corporation,Software,Public,1986,250,48.7,-,https://dailyjournal.com/job_listings,Los Angeles California,dailyjournal.com,20.522451
+Looksery,Software,Private,-,45,-,-,https://www.linkedin.com/company/looksery,,looksery.com,20.52038287
+TownNews.com,Networking,Private,1989,-,-,-,http://www.townnews365.com/about/careers/article_42f270fc-78d0-11e5-b3d4-6b11917f1948.html?mode=jqm,,townnews365.com,20.52
+ZL Technologies,Software,Private,-,-,-,-,https://www.zlti.com/careers/,,zlti.com,20.52
+MadCap Software,Software,Private,-,-,-,-,https://www.madcapsoftware.com/company/careers/,,madcapsoftware.com,20.52
+Mi9 Retail,Software,Private,-,-,-,-,https://mi9retail.com/about-us/careers/,,mi9retail.com,20.52
+TopTenWholesale,Other,Private,-,-,-,-,https://www.toptenwholesale.com/about.html,,toptenwholesale.com,20.52
+Kinetica,Other,Private,-,-,-,-,https://www.kinetica.com/careers/,,kinetica.com,20.52
+Network Automation,Other,Private,-,-,-,-,https://www.networktocode.com/careers/,,networkautomation.com,20.52
+dtSearch Corp.,Software,Private,-,-,-,-,https://www.dtsearch.com/CS_recruit.html,,dtsearch.com,20.52
+nCino,"Software,Finance",Public,-,935,-,-,https://www.ncino.com/culture-careers/job-openings,,ncino.com,20.48795519
+Zango,Other,Private,-,100,-,-,https://www.indeed.com/cmp/Zango,,zango.com,20.48085082
+"Encore Software, LLC",Software,Private,-,-,-,-,https://encore.org/,,encore.com,20.48
+MulticoreWare Inc.,Software,Private,-,250,-,-,https://multicorewareinc.com/jobs/,,multicorewareinc.com,20.44212706
+"Velocify, Inc.",Software,Private,-,150,-,-,https://www.indeed.com/cmp/Velocify,,velocify.com,20.44127623
+Revolution Prep,Networking,Private,-,-,-,-,https://www.revolutionprep.com/,,revolutionprep.com,20.44
+Red Bend Software,"Software,Consulting,Networking",Private,-,-,-,-,https://angel.co/company/red-bend-software,,redbend.com,20.44
+Netsmart Technologies,"Software,Consulting,Pharmaceuticals",Private,-,2100,355,-,https://www.ntst.com/About-Us/Careers,,ntst.com,20.42022869
+Smartface Inc.,Software,Private,-,20,-,-,https://smartface.io/careers/smartface-young-talent-program/,,smartface.io,20.40017016
+"Raxco Software, Inc.",Software,Private,1978,-,-,-,https://www.raxco.com/careers,,raxco.com,20.4
+Solid Documents Limited,Software,Private,-,-,-,-,https://www.linkedin.com/company/solid-documents-limited,,soliddocuments.com,20.4
+Honeywell Intelligrated,Travel,Public,-,-,-,-,https://careers.honeywell.com/us/en/campaign-sps-us-intelligrated-install,,intelligrated.com,20.4
+"Cincom Systems, Inc.","Software,Consulting",Private,-,-,-,-,https://www.cincom.com/us/company/careers,,cincom.com,20.4
+Catalant,Software,Private,-,-,-,-,https://gocatalant.com/careers/,,gocatalant.com,20.4
+Tomofun,Other,Private,-,-,-,-,https://www.linkedin.com/company/tomofun,,furbo.com,20.36
+Divide (previously Enterproid),Consulting,Private,-,-,-,-,https://www.indeed.com/q-Divide-jobs.html,,divide.com,20.36
+Ciright Systems,"Software,Consulting,Distributed Systems",Private,-,-,-,-,https://careers.smartrecruiters.com/Ciright,,ciright.com,20.36
+Cloudwords,Software,Private,2010,-,-,-,https://www.cloudwords.com/blog/cloudwords-university-enroll-now,"San Francisco, California",cloudwords.com,20.36
+Xangati,"Software,Artificial Intelligence",Private,-,-,-,-,https://www.indeed.com/cmp/Xangati,,xangati.com,20.32
+New Atlanta Communications,Software,Private,1998,-,-,-,https://www.newatlanta.com/corporate/careers.jsp,,newatlanta.com,20.32
+NetSol Technologies,Software,Public,1997,-,-,-,https://www.netsoltech.com/,"Calabasas, California United States",netsoltech.com,20.32
+"CrowdOptic, Inc.","Software,Electronics",Private,-,-,-,-,https://www.crowdoptic.com/jobs,,crowdoptic.com,20.28
+ByWater Solutions LLC,Software,Private,-,-,-,-,http://bywatersolutions.com/about-us,,bywatersolutions.com,20.28
+Iretron,Other,Private,-,0,-,-,https://iretron.com/pages/jobs,,iretron.com,20.28
+Exela Technologies,"Software,Consulting",Public,-,22000,-,-,https://www.exelatech.com/careers,,exelatech.com,20.26718094
+Mitchell 1,Automobiles,Private,-,-,-,-,https://mitchell1.com/jobs/,,mitchell1.com,20.24
+US Fleet Tracking,Other,Private,-,-,-,-,https://www.usfleettracking.com/,,usfleettracking.com,20.24
+"Veriato, Inc.",Software,Private,-,-,-,-,https://www.veriato.com/company/careers,,veriato.com,20.24
+Sopheon,Software,Public,-,-,-,-,https://www.sopheon.com/careers/,,sopheon.com,20.24
+CYBRA Corporation,Software,Public,-,-,-,-,https://cybra.com/careers/,,cybra.com,20.24
+NovaStor,Software,Private,1987,-,-,-,https://www.novastor.com/company/careers,Agoura Hills,novastor.com,20.24
+TransLattice,Database,Private,-,20,-,-,https://lensa.com/translattice/jobs/c/650cd55e43368f35f29a52de50eb14f127a509cd,,translattice.com,20.20017016
+LabWare,Software,Private,-,-,-,-,https://www.labware.com/en/p/About-Us/Careers,,labware.com,20.2
+Zugara,Software,Private,-,-,-,-,https://www.linkedin.com/company/zugara,,zugara.com,20.2
+KeyedIn Solutions,Software,Private,-,-,-,-,https://www.keyedin.com/company/careers/,,keyedin.com,20.2
+Virsto,Software,Private,-,-,-,-,https://angel.co/company/virsto-software/jobs,,virsto.com,20.2
+"Bright Machines, Inc.",Software,Private,-,500,-,-,https://www.brightmachines.com/join-the-team/,,brightmachines.com,20.16425411
+Sitrion,Other,Private,-,85,-,-,https://www.sitrion.com/about/careers,,sitrion.com,20.1607232
+"Guidance Solutions, Inc.","Software,Consulting,Networking",Private,-,-,-,-,https://www.guidance.com/careers,,guidance.com,20.16
+Radiant Logic,Software,Private,-,-,-,-,https://www.radiantlogic.com/about/careers/,,radiantlogic.com,20.16
+Eggplant,Other,Private,-,-,-,-,https://www.eggplantsoftware.com/join-us,,eggplantsoftware.com,20.16
+"RSi, Retail Solutions Inc",Software,Private,-,400,-,-,https://www.retailsolutions.com/company/careers/,,retailsolutions.com,20.12340329
+"XIM, Inc.","Consulting,Networking",Private,-,300,-,-,https://www.ximxim.com/careers/,,ximxim.com,20.12255247
+Knoa Software,"Software,Consulting",Private,-,-,-,-,https://www.knoa.com/careers/,,knoa.com,20.12
+'''Unica Corporation''',Other,Private,-,-,-,-,http://www.unicagroup.com/Careers.html,,unica.com,20.12
+SplendidCRM,Software,Private,2005,0,-,-,https://www.splendidcrm.com/OpenSource/DownloadCommunityEdition.aspx,,splendidcrm.com,20.12
+"Catalyst Repository Systems, Inc.","Software,Security",Private,-,170,-,-,https://www.linkedin.com/company/catalyst-repository-systems,,catalystsecure.com,20.0814464
+"TokenEx, LLC","Consulting,Security",Private,2010,30,-,-,https://www.tokenex.com/our-story,,tokenex.com,20.08025525
+PSSC Labs,"Software,Consulting,Electronics",Private,-,-,-,-,https://pssclabs.com/,,pssclabs.com,20.08
+"Qarbon.com, Inc.",Software,Private,-,-,-,-,http://www.qarbon.com/jobs/,,qarbon.com,20.08
+ZeroTurnaround AS,Software,Private,-,-,-,-,https://www.jrebel.com/,,jrebel.com,20.08
+Velaro,Other,Private,-,-,-,-,https://velaro.com/careers/,,velaro.com,20.04
+GoldenSource Corporation,Other,Private,-,350,-,-,https://www.thegoldensource.com/company/careers/,,thegoldensource.com,20.00297788
+Enli Health Intelligence,Software,Private,-,125,25,-,https://www.enli.net/,,enli.net,20.00122983
+SLI Systems,Software,Private,-,-,-,-,https://www.sli-systems.com/about/careers,,sli-systems.com,20
+Inxight Software,Software,Private,-,100,14.6,-,https://www.glassdoor.com/Jobs/Inxight-Jobs-E15376.htm,,inxight.com,19.96094794
+Serious Magic Inc.,Software,Private,-,-,-,-,https://www.adobe.com/careers/university.html,,seriousmagic.com,19.96
+InterVideo,Software,Private,1998,800,-,-,https://www.glassdoor.com/Jobs/Secretary-InterVideo-Technology-Jobs-E789434.htm,,intervideo.com,19.92680658
+Versive,Machine Learning,Private,-,50,-,-,https://www.esentire.com/company/careers,,versive.com,19.92042541
+HyperACCESS,Other,Private,-,-,-,-,https://www.hilgraeve.com/hyperaccess/,,hilgraeve.com,19.92
+"Medical Information Technology, Inc.",Pharmaceuticals,Private,-,-,494,-,https://ehr.meditech.com/careers/college-to-career,,meditech.com,19.88328603
+Vistagy,Software,Private,-,-,-,-,"https://www.glassdoor.com/Overview/Working-at-Vistagy-EI_IE260036.11,18.htm",,vistagy.com,19.88
+July Systems,Software,Private,2001,-,-,-,https://www.linkedin.com/company/july-systems,,julysystems.com,19.88
+"Lockpath, Inc","Consulting,Security",Private,-,-,-,-,https://www.lockpath.com/careers/,,lockpath.com,19.88
+Sonic Reality,Software,Private,-,-,-,-,https://careers.sonicdrivein.com/us/en,,sonicreality.com,19.84
+Vlingo,Software,Private,-,-,-,-,"https://www.glassdoor.com/Overview/Working-at-Vlingo-EI_IE308097.11,17.htm",,vlingo.io,19.84
+Range Networks,Networking,Private,-,30,-,-,https://rangenetworks.com/,,rangenetworks.com,19.80025525
+PrivateCore,Other,Private,-,-,-,-,https://privatecore.com/,,privatecore.com,19.8
+LiveText Inc.,Software,Private,-,-,-,-,https://www.livetext.com/,,livetext.com,19.8
+InetSoft Technology Corporation,Other,Private,1996,-,-,-,https://www.inetsoft.com/company/careers/,,inetsoft.com,19.8
+"BlueTalon, Inc.","Consulting,Security",Private,-,1,-,-,https://www.linkedin.com/company/bluetalon,,bluetalon.com,19.76
+"Venda, Inc.",Other,Private,-,-,-,-,https://www.indeed.com/cmp/Venda,,venda.com,19.76
+IntelliScanner Corporation,Software,Private,-,-,-,-,https://www.intelliware.com/current-opportunities/,,intelliscanner.com,19.72
+Coherent Solutions,"Software,Consulting,Networking",Private,-,800,-,-,https://www.coherent-solutions.com/about-us/career-opportunities/,,coherentsolutions.com,19.68680658
+Chrome River,Software,Private,-,350,-,-,https://www.chromeriver.com/careers,,chromeriver.com,19.68297788
+Vitech Corporation,Software,Private,1992,20,-,-,https://www.vitechcorp.com/?page_id=32280,"Blacksburg, Virginia",vitechcorp.com,19.68017016
+Music Wizard Group,Software,Private,-,-,-,-,https://pianowizardacademy.com/,,pianowizardacademy.com,19.68
+flok,Other,Private,-,-,-,-,http://flok.com/,,flok.com,19.68
+The Reynolds and Reynolds Company,Other,Private,1866,-,-,-,https://www.reyrey.com/company/careers/students-and-graduates,,reyrey.com,19.68
+Covisint,"Software,Consulting",Private,-,180,-,-,https://www.indeed.com/q-Covisint-jobs.html,,covisint.com,19.64153148
+"Symphonic Source, Inc.",Software,Private,-,-,-,-,https://www.symphonicsource.com/employment/,,symphonicsource.com,19.64
+IQMS,Software,Private,1989,312,53.5,-,https://www.iqms.com/company/careers/software-dev-intern,,iqms.com,19.60301044
+PathGuide Technologies,Other,Private,-,-,-,-,https://pathguide.com/company/careers-at-pathguide/,,pathguide.com,19.6
+VIA3 Corporation,"Software,Networking",Private,-,-,-,-,https://www.linkedin.com/company/via3-corporation,,via3.com,19.6
+"Daon, Inc.",Software,Private,-,-,-,-,https://www.daon.com/company/careers,,daon.com,19.6
+Datalogic S.p.A.,Other,Private,-,0,-,-,https://www.datalogic.com/eng/company/careers-ca-26.html,,datalogic.com,19.6
+Numecent,Other,Private,-,-,-,-,https://www.numecent.com/,,numecent.com,19.6
+VirtualLogix Inc.,Other,Private,-,-,-,-,"https://www.glassdoor.com/Overview/Working-at-VirtualLogix-EI_IE38834.11,23.htm",,virtuallogix.com,19.6
+HCL BigFix,"Consulting,Security",Private,-,250,-,-,https://www.naukri.com/hcl-bigfix-jobs,,bigfix.com,19.56212706
+"Egenera, Inc.","Software,Distributed Systems,Automobiles",Private,2000,110,-,-,https://www.egenera.com/,"Boxborough, Massachusetts",egenera.com,19.5609359
+"IRI, The CoSort Company",Software,Private,-,-,-,-,https://www.iriworldwide.com/en-us/company/careers,,iri.com,19.56
+Secure64 Software,Other,Private,-,0,-,-,https://secure64.com/company/careers/,,secure64.com,19.56
+"Model N, Inc.",Other,Public,-,800,154,-,https://www.modeln.com/company/careers/,,modeln.com,19.52783097
+"hCentive, Inc.",Software,Private,-,500,-,-,https://www.zippia.com/hcentive-careers-1398267/,,hcentive.com,19.52425411
+Docudesk Corporation,Software,Private,-,-,-,-,https://careers.microsoft.com/us/en/,,docudesk.com,19.52
+"Pano Logic, Inc.",Software,Private,2006,50,-,-,https://www.indeed.com/cmp/Pano-Logic,,panologic.com,19.48042541
+Limnu,Other,Private,-,-,-,-,https://limnu.com/,,limnu.com,19.48
+Maponics,Other,Private,-,-,-,-,https://www.glassdoor.com/Salary/Maponics-Salaries-E482663.htm,,maponics.com,19.48
+Q-Sensei Corp.,"Software,Consulting",Private,-,-,-,-,https://www.qsensei.com/,,qsensei.com,19.48
+Thunderstone Software LLC,"Software,Consulting",Private,-,-,-,-,https://www.thunderstone.com/about-us/career-opportunities/,,thunderstone.com,19.44
+Cepstral LLC,Other,Private,-,-,-,-,https://www.cepstral.com/en/jobs,,cepstral.com,19.44
+CD-adapco,Software,Private,-,900,-,-,http://mdx2.plm.automation.siemens.com/careers,,cd-adapco.com,19.4076574
+Verivo Software Inc.,"Software,Consulting",Private,-,100,-,-,https://www.zippia.com/verivo-software-careers-1411055/,"Waltham, Massachusetts",verivo.com,19.40085082
+"NextPage, Inc.","Software,Consulting",Private,-,-,-,-,https://careers.gonextpage.com/,,nextpage.com,19.4
+"Sensage, Inc.","Consulting,Security",Private,-,-,-,-,https://www.zippia.com/sensage-careers-1095421/,,sensage.com,19.4
+"ITKO (Interactive TKO, Inc.)","Software,Artificial Intelligence",Private,-,-,-,-,https://www.glassdoor.com/Jobs/iTKO-Jobs-E334110.htm,,itko.com,19.4
+Jungo Connectivity Ltd.,Automobiles,Private,-,-,-,-,https://www.jungo.com/st/jc/jobs/,,jungo.com,19.4
+Kiswe,Multimedia,Private,-,-,-,-,https://www.kiswe.com/pages/careers,,kiswe.com,19.36
+USA Technologies Inc.,Software,Public,-,-,-,-,https://www.usatech.com/careers/,,usatech.com,19.36
+Tom Sawyer Software,Software,Private,-,-,-,-,https://www.tomsawyer.com/careers/,,tomsawyer.com,19.36
+"Opengear, Inc.","Software,Networking",Private,-,-,-,-,https://opengear.com/about-us/careers/,,opengear.com,19.36
+"Zywave, Inc.",Software,Private,-,-,-,-,http://www.zywave.com/careers/,,zywave.com,19.32
+KXEN,Other,Private,-,-,-,-,https://www.glassdoor.com/Jobs/KXEN-Jobs-E38839.htm,,kxen.com,19.32
+"Luminex Software, Inc.","Consulting,Database",Private,-,-,-,-,https://www.luminexcorp.com/open-positions/,,luminex.com,19.28
+"Retina-X Studios, LLC.",Software,Private,-,-,-,-,http://www.retinax.com/,,retinax.com,19.28
+Seer Systems,Software,Private,1979,-,-,-,https://seersystems.com/,,seersystems.com,19.28
+"TAL Technologies, Inc.","Software,Consulting",Private,1985,-,-,-,https://www.tal-com.com/careers-page,,taltech.com,19.28
+Knowland,"Software,Networking",Private,-,-,-,-,https://www.knowland.com/careers/,,knowland.com,19.28
+CipherGraph Networks Inc.,Software,Private,-,-,-,-,https://angel.co/company/ciphergraph-networks,,ciphergraph.com,19.24
+"Food Service Solutions, Inc.",Software,Private,-,-,-,-,https://jobs.vancopayments.com/,,foodserve.com,19.24
+Kineto Wireless,"Software,Networking,Electronics",Private,-,-,-,-,https://www.indeed.com/cmp/Kineto-Wireless,,kineto.com,19.24
+Connectbeam,Software,Private,-,-,-,-,https://angel.co/company/connectbeam,,connectbeam.com,19.24
+Yalochat,Artificial Intelligence,Private,-,-,-,-,https://angel.co/company/yalo/jobs,,yalochat.com,19.24
+FatKat,Other,Private,-,-,-,-,https://www.fatkatspizzeria.com/careers,,fatkat.com,19.24
+TriTech Software Systems,Software,Private,-,550,-,-,https://www.tritechsoft.com/TriTech_Careers.asp,,tritech.com,19.16467952
+"Context Labs, BV","Software,Consulting",Private,-,-,-,-,https://www.contextlabs.com/careers,,contextlabs.com,19.16
+Nexidia,"Software,Consulting,Data Analytics,Multimedia",Private,-,-,-,-,https://www.nice.com/careers/,,nexidia.com,19.16
+"Express Metrix, LLC","Software,Consulting",Private,-,-,-,-,https://www.cherwell.com/about/careers/,,expressmetrix.com,19.16
+Mathsoft,Other,Private,-,-,-,-,https://angel.co/company/mathsoft-engineering-education,,mathsoft.com,19.16
+Open Environment Corporation (OEC),"Software,Consulting",Private,-,-,-,-,https://oeconnection.com/careers,,oeconnection.com,19.12
+Mformation Software Technologies LLC.,Networking,Private,-,-,-,-,https://www.glassdoor.com/Jobs/mFormation-Technologies-Jobs-E214035.htm,,mformation.com,19.12
+ZyLAB,Software,Private,-,140,-,-,https://www.zylab.com/en/company/working-at-zylab,,zylab.com,19.08119115
+DynamicOps,Distributed Systems,Private,-,-,-,-,https://www.indeed.com/cmp/Dynamicops,,dynamicops.com,19.08
+Palamida,Other,Private,-,-,-,-,"https://www.glassdoor.com/Jobs/Palamida-US-Jobs-EI_IE261065.0,8_IL.9,11_IN1.htm",,palamida.com,19.04
+Sunquest Information Systems Inc.,"Software,Pharmaceuticals",Private,-,-,-,-,https://www.sunquestinfo.com/careers/,,sunquestinfo.com,19.04
+Plateau Systems,Other,Private,-,350,-,-,https://www.indeed.com/q-Plateau-System-jobs.html,,plateau.com,19.00297788
+P-Cube Ltd.,"Software,Networking",Private,-,-,-,-,"https://www.glassdoor.com/Overview/Working-at-P-Cube-EI_IE2359019.11,17.htm",,p-cube.com,19
+Wrightsoft Corp.,Other,Private,-,-,-,-,https://www.wrightsoft.com/About_Us/Careers,,wrightsoft.com,19
+"Willdan Group, Inc.",Other,Public,-,0,272,12.8,http://willdan.com/join-us.aspx,,willdan.com,18.96180931
+BigMachines,Other,Private,-,-,32.1,-,https://www.indeed.com/q-Bigmachines-jobs.html,,bigmachines.com,18.96021353
+RepliWeb Inc.,Software,Private,-,-,-,-,https://www.linkedin.com/company/repliweb,,repliweb.com,18.96
+Knight Security Systems,"Consulting,Security",Private,-,-,-,-,https://knightsecurity.com/company/careers,,knightsecurity.com,18.96
+"Solidcore Systems, Inc.",Software,Private,-,100,-,-,https://www.solidcore.co/job-openings,,solidcore.com,18.92085082
+The Bomb Factory,Other,Private,-,-,-,-,https://www.thebombfactory.com/connect/employment,,thebombfactory.com,18.92
+Veveo,Other,Private,-,-,-,-,https://www.glassdoor.com/Jobs/Veveo-Jobs-E260367.htm,,veveo.net,18.92
+CollaborateMD,Software,Private,1999,-,-,-,https://www.collaboratemd.com/about-us/careers/,,collaboratemd.com,18.92
+"MetaMatrix, Inc.",Software,Private,-,97,-,-,https://metametricsinc.com/about-us/careers/,,metamatrix.com,18.8808253
+'''JouleX''',Other,Private,-,25,-,-,https://angel.co/company/joulex,,joulex.net,18.88021271
+Virtutech Inc.,Software,Private,-,0,-,-,https://www.builtinsf.com/company/virtutech/jobs,,virtutech.com,18.88
+The DiSTI Corporation,Other,Private,-,-,-,-,https://disti.com/about-us/careers/,,disti.com,18.88
+CNC Software/Mastercam,Other,Private,-,-,-,-,https://www.mastercam.com/company/careers/,,mastercam.com,18.88
+TOA Technologies,Software,Private,-,550,41,-,https://ca.linkedin.com/company/toa-technologies,,toatech.com,18.84495225
+Trilogy,Other,Private,-,-,-,-,https://www.zippia.com/trilogy-careers-42330/,,trilogy.com,18.84
+World Software Corporation,"Software,Consulting",Private,-,-,-,-,https://www.indeed.com/q-Worldox-jobs.html,,worldox.com,18.84
+"Code Dx, Inc.",Software,Private,2015,-,-,-,https://codedx.com/about-us/careers-code-dx/,,codedx.com,18.84
+Eclipsys Corporation,"Software,Consulting,Pharmaceuticals",Public,-,2800,519,12,https://www.indeed.com/cmp/Eclipsys,,eclipsys.com,18.82727536
+"GSE Systems, Inc.",Software,Public,-,450,-,-,https://www.gses.com/contact-us/gse-careers/,,gses.com,18.8038287
+Quantum3D,Software,Private,-,90,-,-,https://quantum3d.com/careers/,,quantum3d.com,18.80076574
+Intentional Software,Software,Private,2002,50,-,-,https://www.intentionalcareershr.com/,,intentional.com,18.80042541
+WorkingPoint,"Software,Networking",Private,-,10,-,-,https://www.workingpoint.com/about/careers,,workingpoint.com,18.80008508
+"Flow Science, Inc.",Software,Private,-,-,-,-,https://flowscience.com/careers/,,flow3d.com,18.8
+Goverlan Reach Remote Support Software,Other,Private,-,-,-,-,https://www.goverlan.com/jobs,,goverlan.com,18.8
+ProofPilot,"Software,Social media,Pharmaceuticals",Private,-,-,-,-,https://angel.co/company/proofpilot/jobs,,proofpilot.com,18.8
+Recondo Technology,Software,Private,-,135,-,-,https://www.indeed.com/cmp/Recondo-Technology,,recondotech.com,18.76114861
+"Imaging Business Machines, LLC",Software,Private,-,-,-,-,https://www.ibml.com/about-us/careers/,,ibml.com,18.76
+DreamHammer,Software,Private,2011,-,-,-,https://www.dreamhammer.com/contact/,,dreamhammer.com,18.72
+"MindFire, Inc",Software,Private,-,-,-,-,https://www.mindfireinc.com/company/careers,,mindfireinc.com,18.72
+CenterSpace Software LLC.,Other,Private,-,-,-,-,http://www.centerspace.net/,,centerspace.net,18.72
+"Hottrix, LLC",Software,Private,-,-,-,-,http://hottrix.com/,,hottrix.com,18.72
+"Elanex, Inc.",Other,Private,2002,-,-,-,https://www.strakertranslations.com/company/career/,,elanex.com,18.68
+Digital Fuel,Software,Private,-,-,-,-,digitalfuel.com,,digitalfuel.com,18.68
+Tek-Tools Software,"Software,Consulting",Private,-,-,-,-,https://www.teksystems.com/en/careers/internal-careers/students-recent-graduates,,tek-tools.com,18.68
+"McLane Advanced Technologies, LLC","Software,Consulting",Private,-,-,-,-,https://mclaneat.com/careers/,,mclaneat.com,18.68
+Numara Software,Software,Private,-,200,-,-,https://www.bmc.com/careers/careers.html,,numarasoftware.com,18.64170164
+Marathon Technologies,Software,Private,-,-,-,-,https://www.marathonpetroleum.com/Jobs/,,marathontechnologies.com,18.64
+SIOS Technology Corp.,Other,Private,1999,-,-,-,https://us.sios.com/about/careers/,,sios.com,18.64
+"SpeechFX, Inc.",Other,Private,-,-,-,-,http://speechfxinc.com/,,speechfxinc.com,18.64
+StepStone Group,"Consulting,Finance",Private,-,300,-,-,https://www.stepstoneglobal.com/who-we-are/careers/,,stepstoneglobal.com,18.60255247
+Democrasoft,Other,Public,-,-,-,-,http://www.democrasoft.com/,,democrasoft.com,18.6
+"TeleType Co, Inc.",Software,Private,-,-,-,-,"https://www.glassdoor.com/Overview/Working-at-TeleType-Co-EI_IE395970.11,22.htm",,teletype.com,18.6
+Digital Assembly,Software,Private,-,-,-,-,https://www.werecoverdata.com/,,digital-assembly.com,18.6
+Ntractive,Software,Private,-,-,-,-,https://www.grocrm.com/,,ntractive.com,18.6
+"Merrick Systems, Inc.",Software,Private,-,50,-,-,https://www.merrick.com/careers/,,merricksystems.com,18.56042541
+Eagle Investment Systems,Software,Private,-,1000,-,-,https://www.eagleinvsys.com/mellon.cfm,,eagleinvsys.com,18.52850822
+Cambium Learning Group,Other,Private,-,-,-,-,https://www.cambiumlearning.com/careers/,,cambiumlearning.com,18.52
+"Software Shelf International, Inc.",Software,Private,-,15,-,-,http://www.softwareshelf.com/,,softwareshelf.com,18.48012762
+Spectrum Software,Software,Private,-,-,-,-,https://spectrum-eng.com/careers/,,spectrum-soft.com,18.48
+Meridian Systems,Software,Private,-,-,-,-,https://www.indeed.com/cmp/Meridian-Systems,,meridiansystems.com,18.48
+Replay Solutions,Software,Private,-,35,-,-,"https://www.glassdoor.com/Overview/Working-at-Replay-Solutions-EI_IE268629.11,27.htm",,replaysolutions.com,18.44029779
+FinalCode,Software,Private,2014,-,-,-,https://www.linkedin.com/company/finalcode,,finalcode.com,18.44
+Consona Corporation,Software,Private,-,700,-,-,https://www.aptean.com/our-company/careers/,,consona.com,18.40595576
+PacketVideo Corporation,Other,Private,-,-,-,-,http://www.pv.com/,,pv.com,18.4
+FlexSim,Other,Private,-,-,-,-,https://www.flexsim.com/students/,,flexsim.com,18.4
+Micromuse Inc.,Software,Private,-,-,-,-,https://profounder.com/,,micromuse.com,18.4
+Meridian Knowledge Solutions,Software,Private,-,200,-,-,https://www.meridianks.com/careers/,,meridianks.com,18.32170164
+omNovia Technologies,Software,Private,-,-,-,-,http://www.webinato.com/,,omnovia.com,18.32
+Versata,Software,Private,-,-,-,-,http://versata.com/,,versata.com,18.32
+"SourceHOV, Inc.","Software,Consulting",Private,-,16000,-,-,https://www.exelatech.com/careers,,sourcehov.com,18.29613159
+"RW3 Technologies, Inc.",Software,Private,1992,45,-,-,https://www.rw3.com/contact-rw3/,,rw3.com,18.24038287
+"Stat-Ease, Inc.",Software,Private,-,14,-,-,https://www.statease.com/about-us/employment/,,statease.com,18.20011912
+Ultimate Kronos Group,"Consulting,Distributed Systems",Private,2020,12000,-,-,https://www.ukg.com/careers,,ukg.com,18.1820987
+Telmar Group Inc.,Other,Private,-,-,-,-,https://telmar.com/careers/,,telmar.com,18
+"Write Brothers, Inc.","Software,Multimedia",Private,-,-,-,-,https://www.write-bros.com/contact.html,,write-bros.com,18
+"John Galt Solutions, Inc.",Software,Private,-,0,-,-,https://johngalt.com/careers/,,johngalt.com,17.96
+Datacap Inc. - An IBM Company,Software,Private,-,55,-,-,https://www.indeed.com/q-IBM-Datacap-jobs.html,,datacap.com,17.92046795
+Code Rebel Corporation,Software,Public,-,-,-,-,https://www.nuords.com/about/contact/,,coderebel.com,17.92
+Causata,"Software,Automobiles",Private,2009,-,-,-,https://causata.com/,,causata.com,17.92
+"DDC-I, Inc.","Software,Consulting",Private,1985,-,-,-,https://ddcinstitute.com/hire-our-students/,,ddci.com,17.88
+SignalDemand,Other,Private,-,-,-,-,http://www.signaldemand.com/,,signaldemand.com,17.84
+ITerating,Software,Private,-,-,-,-,https://dan.com/buy-domain/iterating.com?redirected=true&tld=com,,iterating.com,17.84
+PoliticIt,Networking,Private,-,50,-,-,http://www.politicit.com/tag/jobs/,,politicit.com,17.80042541
+Teradata Corporation,Other,Public,-,8540,2160,43,https://careers.teradata.com/,,careers.teradata.com,17.76702831
+Solido Design Automation Inc.,Software,Private,-,-,-,-,https://angel.co/company/solido-design-automation/jobs,,solidodesign.com,17.72
+Dorado Software,Other,Private,1998,-,-,-,http://doradosoftware.com/About/Careers.htm,,doradosoftware.com,17.72
+nettime solutions,Software,Private,-,-,-,-,https://www.nettimesolutions.com/,,nettimesolutions.com,17.64
+"Callware Technologies, Inc.","Software,Networking",Private,-,-,-,-,https://www.callware.com/388/about-us/career-opportunities/,,callware.com,17.6
+Snapforce CRM,Software,Private,-,-,-,-,https://www.snapforce.com/,,snapforce.com,17.6
+ProductCenter,Other,Private,-,-,-,-,https://essigplm.com/about-us/careers/,,essigplm.com,17.6
+"Design Science, Inc.",Software,Private,1991,200,5,-,https://dscience.com/contact/careers/,"Long Beach, CA",dscience.com,17.5217349
+PlateSmart,Consulting,Private,2004,40,-,-,https://www.platesmart.com/platesmart-careers-in-alpr/,,platesmart.com,17.48034033
+"Engineered Software, Inc.","Software,Consulting",Private,-,-,-,-,https://pipe-flo.com/contact/,,eng-software.com,17.36
+"Digital Keystone, Inc.","Software,Multimedia",Private,-,-,-,-,https://www.digitalkeystone.com/,,digitalkeystone.com,17.28
+Language Computer Corporation,Software,Private,-,12,-,-,http://www.languagecomputer.com/careers.html,,languagecomputer.com,17.2401021
+ExploreLearning,Other,Private,-,0,-,-,https://blog.explorelearning.com/jobs/,,blog.explorelearning.com,17.24
+Conservis Corporation,Other,Private,-,-,-,-,https://conservis.ag/farm-management-software-company/careers/,,conserviscorp.com,17.24
+Cupcake Digital Inc.,Other,Private,-,50,-,-,https://www.cupcakedigital.com/contact/,,cupcakedigital.com,17.20042541
+DAT/EM Systems International,Other,Private,1985,-,-,-,https://www.datem.com/,,datem.com,17.2
+BlueSpace Federal,Software,Private,2006,-,-,-,http://www.bluespacetech.com/student_job.php,"Austin, Texas",bluespace.com,17.16
+"Red Cedar Technology, Inc.",Software,Private,-,-,-,-,"https://www.glassdoor.com/Overview/Working-at-Red-Cedar-Technology-EI_IE278968.11,31.htm",,redcedartech.com,17.12
+Encompass Technologies,Other,Private,-,-,-,-,https://www.encompass8.com/careers,,encompass8.com,17.12
+"Financial Navigator, Inc",Software,Private,-,0,-,-,"https://www.glassdoor.com/Job/financial-navigator-jobs-SRCH_KO0,19.htm",,finnav.com,17.08
+"Veramark Technologies, Inc.",Software,Public,-,0,13.2,561,https://www.indeed.com/cmp/Veramark-Technologies,,veramark.com,17.0400878
+"Best Way Technologies, Inc.",Software,Private,-,-,-,-,https://www.glassdoor.com/Jobs/Bestway-Group-Jobs-E29820.htm,,bestwaytech.com,17.04
+Persystent Suite,Software,Private,-,-,-,-,https://utopicsoftware.com/about-utopic/,,utopicsoftware.com,17.04
+Phase2 International,Software,Private,-,-,-,-,https://www.phase2technology.com/careers,,phase2.com,16.96
+Circle Commerce,Software,Private,-,-,-,-,https://circlecommerce.com/,,circlecommerce.com,16.92
+TenAsys Corporation,Software,Private,2000,-,-,-,https://www.tenasys.com/contact_us/,,tenasys.com,16.92
+CERTPOINT Systems Inc.,Software,Private,-,-,-,-,https://www.infor.com/about,,certpointsystems.com,16.92
+Virsa Systems,Software,Private,-,-,-,-,http://virsa.com/,,virsa.com,16.92
+Transzap.,"Software,Networking",Private,-,-,-,-,https://www.oildex.com/about/#about-careers,,transzap.com,16.88
+Precision Manuals Development Group,Software,Private,-,8,-,-,https://pmdg.com/,,pmdg.com,16.72
+"Semantic AI, Inc.",Software,Private,-,0,-,-,https://www.semantic-ai.com/careers,,semantic-ai.com,16.68
+PeerStream,Software,Public,-,-,-,-,https://www.paltalk.com/careers,,peerstream.com,16.68
+"Seismic Micro-Technology, Inc.",Software,Private,-,-,-,-,https://seismic.com/company/careers/,,seismicmicro.com,16.52
+Octagon Systems,"Software,Electronics",Private,1981,-,-,-,https://www.octagoncareers.com/student,,octagonsystems.com,16.52
+Vermont Information Processing,Software,Private,-,200,-,-,https://public.vtinfo.com/life-vip-careers/,,vtinfo.com,16.48170164
+Enertia Software,Software,Private,-,-,-,-,https://www.enertia-software.com/careers,"Midland, Texas",enertia-software.com,16.36
+"I/Gear, Inc.",Other,Private,-,-,-,-,https://www.igearonline.com/about,,igearonline.com,16.36
+PumpLinx,Other,Private,-,-,-,-,https://www.simerics.com/pumplinx/,,simerics.com,16.32
+BlueLink,Other,Private,2016,-,-,-,https://bluelink.org/about/,,bluelink.org,16.24
+Campus Consortium,Other,Private,-,50,-,-,https://www.campusconsortium.org/,,campusconsortium.org,16.20042541
+"UNICOM Government, Inc.(formerly GTSI Corp.)",Other,Private,-,-,-,-,https://www.unicomgov.com/about/,,unicomgov.com,16.2
+OSI,"Software,Networking",Private,-,-,-,-,https://www.indeed.com/q-Objective-Systems-Integrators-jobs.html,,osi.com,16.16
+Raz-Lee Security,Software,Private,-,-,-,-,https://www.razlee.com/company/careers/,,razlee.com,16.16
+"NewBlue, Inc.",Software,Private,-,-,-,-,https://newbluefx.com/discounts/,,newblueinc.com,16.08
+Firehole Composites,Consulting,Private,-,-,-,-,https://en.wikipedia.org/wiki/Firehole_Composites,,firehole.com,16
+Magic Bytes LLC,"Software,Multimedia",Private,2017,-,-,-,https://magicbytes.com/developer,,magicbytes.com,15.92
+"Quantapoint, Inc.",Software,Private,-,70,-,-,https://www.questintegrity.com/careers,,quantapoint.com,15.88059558
+Contact Telecom,"Consulting,Networking",Private,-,-,-,-,http://contacttelecom.com/,"Manchester, New Hampshire Manchester New Hampshire NH",contacttelecom.com,15.76
+"BlueWare, Inc.",Pharmaceuticals,Private,-,0,-,-,https://bluware.com/careers/,,bluewaregroup.com,15.76
+"ProfitKey International, Inc.",Software,Private,-,-,-,-,https://www.profitkey.com/,,profitkey.com,15.68
+Tactician Corporation,Software,Private,1988,-,-,-,http://www.tactician.com/,"Andover, Massachusetts",tactician.com,15.64
+IntelliTrack,Software,Private,1989,-,-,-,https://intellitrack.com/about/,,intellitrack.com,15.52
+"RazorThreat, Inc.","Consulting,Networking,Security",Private,-,-,-,-,http://www.razorthreat.com/contact.html,,razorthreat.com,15.52
+Qterics,Consulting,Private,2003,-,-,-,http://qterics.com/about-company/,,qterics.com,15.44
+NeuroDimension,Other,Private,1991,-,-,-,http://neurodimension.com/,,neurodimension.com,15.32
+"Inner Four, Inc.",Software,Private,-,-,-,-,https://careers.insidehighered.com/,,innerfour.com,15.28
+ClassRanked.com,"Software,Consulting",Private,-,-,-,-,https://classranked.com/AboutUs,,classranked.com,15.28
+Bristol Technology Inc.,Other,Private,-,-,-,-,https://bristol.cttech.org/,,bristol.cttech.org,15.12
+"Commvault Systems, Inc.","Software,Consulting",Public,1996,2300,711,-,https://careers.commvault.com/,,careers.commvault.com,15.06429841
+MassTransit Enterprise,Other,Private,-,-,-,-,https://jobs.masstransitmag.com/,,jobs.masstransitmag.com,15
+Mathematica (company),Other,Private,-,0,-,-,https://careers.mathematica.org/,,careers.mathematica.org,14.96
+"Patton Design, Inc.",Other,Private,1983,-,-,-,https://www.patton.com/company/careers/,"Irvine, California",pattondesign.com,14.84
+"GovBizConnect, Inc.",Software,Private,2015,-,-,-,http://govbizconnect.com/,,govbizconnect.com,14.8
+RxAll Inc.,Software,Private,2016,-,-,-,https://www.rexall.ca/careers,United States,rxalldelivered.com,14.76
+"Datatel, Inc.",Software,Private,2012,530,138,-,https://data-telinc.net/careers/,Virginia,data-telinc.net,14.32542732
+UST Global,Other,Private,-,26000,-,-,https://ust.com/usa_careers,,ust.com,14.14121384
+Sonic Solutions,Software,Public,1987,700,110,-,http://www.sonicsolutionsusa.com/contact.html,"Novato, CA",sonicsolutionsusa.com,14.04668746
+"Steel Connect, Inc.",Other,Public,-,1360,819,-,https://www.steelcentertech.com/,"Waltham, Massachusetts",steelconnectinc.com,13.89701908
+Mi-Case,Software,Private,2006,-,-,-,https://www.mi-case.com/about,United Kingdom United States,mi-case.com,13.84
+"Brandlive, Inc.",Software,Private,-,-,-,-,https://www.brandlive.com/jobs,,brandlive.com,13.8
+"SofTech, Inc.",Software,Private,-,-,-,-,http://softech-inc.net/contact_us.php,,softech-inc.net,11.92
+Snappy Gifts,"Software,Networking",Private,2015,-,-,-,https://www.meetsnappy.com/careers,New York City,snappygifts.com,11.8
+"Figaro Systems, Inc.",Other,Private,-,-,-,-,"https://ph.indeed.com/Figaro-Coffee-Systems,-Inc.-jobs",,figarosystems.com,11.64
+"Proofpoint Systems, Inc.",Distributed Systems,Private,-,-,-,-,https://www.proofpoint.com/us/company/careers,,proofpoint.net,10.92
+"DrugLogic, Inc.",Software,Private,-,-,-,-,http://www.druglogic.com/,,druglogic.com,10.56
+"United First Financial, LLC",Other,Private,-,-,-,-,https://mma5.unitedfirstfinancial.com/,,mma5.unitedfirstfinancial.com,9.72
+CA Wily Technology,Other,Private,1998,500,37.6,37.5,https://www.broadcom.com/company/careers,"San Jose, CA",https://www.broadcom.com/products/software/aiops/application-performance-management,0.004504223
+"Netcordia, Inc.",Networking,Private,-,60,-,-,https://www.infoblox.com/company/careers/,,https://www.infoblox.com/,0.000510493
+Tacit Software,Software,Private,-,30,-,-,https://tacitcorporation.com/careers/,,https://tacitcorporation.com/,0.000255247
