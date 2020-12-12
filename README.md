@@ -28,5 +28,7 @@ The users can choose to filter and sort these companies based on the following a
 4. website-content - contains individual css,html,js files and the index.txt contains the link to codepen
 
 
-# Page rank Computation
+# Rank Computation
 
+The effective rank is computed based on this formula: page_rank*4 + 3*(num_employees/max(num_employees)) + 3*(revenue/max(revenue))
+where page_rank is the rank obtained from openpagerank website
