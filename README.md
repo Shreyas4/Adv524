@@ -1,5 +1,5 @@
 # Adv524
-![] images/website.png
+![]website.png
 
 This project aims at providing a job board for students at SUNY,Stony Brook(typically for the software department) projecting top 500 companies with their attributes .
 The data is integrated after scraping from wikipedia, Ytickr, google search apis.
