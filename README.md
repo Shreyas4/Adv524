@@ -19,10 +19,11 @@ The users can choose to filter and sort these companies based on the following a
 1. master_companies list
    - contains the list of companies with their stock symbols 
    - final_df.csv is the content that is displayed in the website as a table.
-2. Bot_framework_docs - contains the bot adaptor and luis AI engine to build a bot and integrate with the iframe in the front end
-3. stock_data - contains stock computation scripts and stock price output files. Symbols contain the company-to-stocksymbol map for querying in ytixkr
+2. bot-framework-srccode - contains the bot adaptor and luis AI engine to build a bot and integrate with the iframe in the front end
+3. stock_data - contains stock computation (stock_symbol_parser.ipynb) script and stock (stock_prices.txt) output files. 
+   symbols.csv contains the company-to-stock symbol map for querying in ytixkr
 3. Scripts - contains scripts to access data from wikipedia, stock .
-   - Comments are included in the Jupyter notebooks to understand the functions of the scripts better
+           - Comments are included in the Jupyter notebooks to understand the functions of the scripts better
 4. website-content - contains individual css,html,js files and the index.txt contains the link to codepen
 
 
