@@ -17,7 +17,7 @@ The users can choose to filter and sort these companies based on the following a
 10. Website - the website of the company
 
 # Folder structure
-1. master_companies list
+1. master_companies
    - contains the list of companies with their stock symbols 
    - final_df.csv is the content that is displayed in the website as a table.
 2. bot-framework-srccode - contains the bot adaptor and luis AI engine to build a bot and integrate with the iframe in the front end
@@ -25,7 +25,7 @@ The users can choose to filter and sort these companies based on the following a
    symbols.csv contains the company-to-stock symbol map for querying in ytixkr
 3. Scripts - contains scripts to access data from wikipedia, stock .
           Comments are included in the Jupyter notebooks to understand the functions of the scripts better
-4. website-content - contains individual css,html,js files and the index.txt contains the link to codepen
+4. website-content - contains individual css,html,js files and the index.txt contains the link to codepen. The table content is obtained from master_companies/final_companies_data.csv
 
 
 # Rank Computation
